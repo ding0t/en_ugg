@@ -260,7 +260,7 @@ paradigm_verbs_indicative_thematic
         <td class="tg-f8tv">3 person</td>
         <td class="tg-0pky">ἔλυον</td>
         <td class="tg-0pky">ἐγέννων</td>
-        <td class="tg-0pky">ἐποίυν</td>
+        <td class="tg-0pky">ἐποίουν</td>
         <td class="tg-0pky">ἐπλήρουν</td>
         <td class="tg-0pky">ἐλύοντο</td>
         <td class="tg-0pky">ἐγεννῶντο</td>
@@ -311,21 +311,21 @@ paradigm_verbs_indicative_thematic
       </tr>
       <tr>
         <td class="tg-0pky">1 person</td>
-        <td class="tg-0pky">λὐσω</td>
+        <td class="tg-0pky">λύσω</td>
         <td class="tg-0pky">κρινῶ</td>
         <td class="tg-0pky">λύσομαι</td>
         <td class="tg-0pky">κρινοῦμαι</td>
       </tr>
       <tr>
         <td class="tg-0pky">2 person</td>
-        <td class="tg-0pky">λὐσεις</td>
+        <td class="tg-0pky">λύσεις</td>
         <td class="tg-0pky">κρινεῖς</td>
         <td class="tg-0pky">λύσῃ</td>
         <td class="tg-0pky">κρινῇ</td>
       </tr>
       <tr>
         <td class="tg-0pky">3 person</td>
-        <td class="tg-0pky">λὐσει</td>
+        <td class="tg-0pky">λύσει</td>
         <td class="tg-0pky">κρινεῖ</td>
         <td class="tg-0pky">λύσεται</td>
         <td class="tg-0pky">κρινεῖται</td>
@@ -339,21 +339,21 @@ paradigm_verbs_indicative_thematic
       </tr>
       <tr>
         <td class="tg-0pky">1 person</td>
-        <td class="tg-0pky">λὐσομεν</td>
+        <td class="tg-0pky">λύσομεν</td>
         <td class="tg-0pky">κρινοῦμεν</td>
         <td class="tg-0pky">λυσόμεθα</td>
         <td class="tg-0pky">κρινούμεθα</td>
       </tr>
       <tr>
         <td class="tg-0pky">2 person</td>
-        <td class="tg-0pky">λὐσετε</td>
+        <td class="tg-0pky">λύσετε</td>
         <td class="tg-0pky">κρινεῖτε</td>
-        <td class="tg-0pky">λύσεσθα</td>
+        <td class="tg-0pky">λύσεσθε</td>
         <td class="tg-0pky">κρινεῖσθε</td>
       </tr>
       <tr>
         <td class="tg-0pky">3 person</td>
-        <td class="tg-0pky">λὐσουσι(ν)</td>
+        <td class="tg-0pky">λύσουσι(ν)</td>
         <td class="tg-0pky">κρίνουσι(ν)</td>
         <td class="tg-0pky">λύσονται</td>
         <td class="tg-0pky">κρινοῦνται</td>
