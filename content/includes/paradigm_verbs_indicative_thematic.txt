@@ -1,7 +1,8 @@
 paradigm_verbs_indicative_thematic
 
+
 **Table V-IT-1a**   Indicative Thematic Present Tense verbs
-~~~~~~~~~~~~~~~~~
+#################
 
 [Note] - The middle and passive voices are presented together because they are identical in form.  The reader (or translator) will have to make their decision as to the intended voice based on context.
 
@@ -274,7 +275,7 @@ paradigm_verbs_indicative_thematic
 
 
 **Table V-IT-2**  Indicative Thematic Verbs built on Future tense Stem
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+######################################################################
 
 [Note]  The passive voice is omitted in this table because it is based upon the Aorist Passive Stem.
 
@@ -366,7 +367,7 @@ paradigm_verbs_indicative_thematic
     
     
 **Table V-IT-3** Indicative Verbs built on the Aorist Active Stem
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#################################################################
     
 [Note]  The passive voice is omitted from this table because it is built on the Aorist Passive Stem.
     
@@ -468,8 +469,9 @@ paradigm_verbs_indicative_thematic
     </table></br>
     
   **Table V-IT-4**  Indicative Verbs built on the Perfect and Perfect Middle/Passive Stem
+  #######################################################################################
   
- .. Raw:: HTML
+.. Raw:: html
  
      <style type="text/css">
     .tg  {border-collapse:collapse;border-spacing:0;}
