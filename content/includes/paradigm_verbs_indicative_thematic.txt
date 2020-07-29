@@ -468,10 +468,11 @@ paradigm_verbs_indicative_thematic
     </tbody>
     </table></br>
     
-  **Table V-IT-4**  Indicative Verbs built on the Perfect and Perfect Middle/Passive Stem
-  ^^^^^^^^^^^^^^^^^
-  
-.. Raw:: html
+  **Table V-IT-4** - Indicative Verbs built on the Perfect and Perfect Middle/Passive Stem
+  ####
+
+
+.. raw:: html
  
        <style type="text/css">
     .tg  {border-collapse:collapse;border-spacing:0;}
