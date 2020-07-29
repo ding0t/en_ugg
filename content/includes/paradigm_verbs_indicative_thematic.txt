@@ -1,6 +1,7 @@
 paradigm_verbs_indicative_thematic
 
 **Table V-IT-1a**   Indicative Thematic Present Tense verbs
+~~~~~~~~~~~~~~~~~
 
 [Note] - The middle and passive voices are presented together because they are identical in form.  The reader (or translator) will have to make their decision as to the intended voice based on context.
 
@@ -273,6 +274,8 @@ paradigm_verbs_indicative_thematic
 
 
 **Table V-IT-2**  Indicative Thematic Verbs built on Future tense Stem
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 [Note]  The passive voice is omitted in this table because it is based upon the Aorist Passive Stem.
 
 .. raw:: html
@@ -363,6 +366,7 @@ paradigm_verbs_indicative_thematic
     
     
 **Table V-IT-3** Indicative Verbs built on the Aorist Active Stem
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     
 [Note]  The passive voice is omitted from this table because it is built on the Aorist Passive Stem.
     
@@ -462,4 +466,91 @@ paradigm_verbs_indicative_thematic
       </tr>
     </tbody>
     </table></br>
+    
+  **Table V-IT-4**  Indicative Verbs built on the Perfect and Perfect Middle/Passive Stem
+  
+ .. Raw:: HTML
+ 
+     <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-hafo" colspan="4">Verbs with a theme vowel <br>Based on the Perfect and Perfect Middle/Passive Tense Stem<br>Table V-IT-          4</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-0pky"></td>
+        <td class="tg-c3ow" colspan="2">Perfect Active</td>
+        <td class="tg-c3ow">Perfect Middle/Passive</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky"></td>
+        <td class="tg-0pky">1st Perfect Active</td>
+        <td class="tg-c3ow">2nd Perfect Active</td>
+        <td class="tg-0pky"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Singular&nbsp;&nbsp;</td>
+        <td class="tg-0pky"></td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">1 person</td>
+        <td class="tg-0pky">λέλυκα</td>
+        <td class="tg-0pky">γέγραφα</td>
+        <td class="tg-0pky">λέλυμαι</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">2 person</td>
+        <td class="tg-0pky">λέλυκας</td>
+        <td class="tg-0pky">γέγραφας</td>
+        <td class="tg-0pky">λέλυσαι</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">3 person</td>
+        <td class="tg-0pky">λέλυκε(ν)</td>
+        <td class="tg-0pky">γέγραφε(ν)</td>
+        <td class="tg-0pky">λέλυται</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Plural</td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">1 person</td>
+        <td class="tg-0pky">λελύκαμεν</td>
+        <td class="tg-0pky">γεγράφαμεν</td>
+        <td class="tg-0pky">λελύμεθα</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">2 person</td>
+        <td class="tg-0pky">λελύκατε</td>
+        <td class="tg-0pky">γεγράφατε</td>
+        <td class="tg-0pky">λέλυσθε</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">3 person</td>
+        <td class="tg-0pky">λελύκασι(ν)</td>
+        <td class="tg-0pky">γεγράφασι(ν)</td>
+        <td class="tg-0pky">λέλυνται</td>
+      </tr>
+    </tbody>
+    </table></br>
+    
+    
     
