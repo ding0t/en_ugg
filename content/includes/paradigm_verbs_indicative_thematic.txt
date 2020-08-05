@@ -617,7 +617,7 @@ paradigm_verbs_indicative_thematic
         <td class="tg-0pky">ἒκρινα</td>
         <td class="tg-0pky">ἒλαβον</td>
         <td class="tg-0pky">ἐλυσάμην</td>
-        <td class="tg-0pky">ἒλαβομην</td>
+        <td class="tg-0pky">ἐλαβόμην</td>
         <td class="tg-0pky">ἐλύθην</td>
         <td class="tg-0pky">ἐχάρην</td>
         <td class="tg-0pky">λυθήσομαι</td>
