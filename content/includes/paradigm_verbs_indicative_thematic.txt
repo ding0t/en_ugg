@@ -554,5 +554,146 @@ paradigm_verbs_indicative_thematic
     </tbody>
     </table></br>
     
+**Table V-IT-5**  Indicative Verbs built on the Aorist Passive Stem
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-lecp{background-color:#c0c0c0;border-color:#000000;color:#efefef;text-align:left;vertical-align:top}
+    .tg .tg-x62f{background-color:#c0c0c0;border-color:#000000;color:#efefef;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-hafo" colspan="10">Verbs with a theme vowel <br>Based on the Aorist tense stem<br>Table V-IT-5</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-0pky"></td>
+        <td class="tg-c3ow" colspan="3">Aorist Active</td>
+        <td class="tg-c3ow" colspan="2">Aorist<br>Middle</td>
+        <td class="tg-0pky" colspan="2">Aorist<br>Passive</td>
+        <td class="tg-0pky" colspan="2">Future<br>Passive</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky"></td>
+        <td class="tg-c3ow">1st <br>Aorist</td>
+        <td class="tg-c3ow">Liquid<br>Aorist</td>
+        <td class="tg-c3ow">2nd<br>Aorist</td>
+        <td class="tg-c3ow">1st<br>Aorist</td>
+        <td class="tg-c3ow">2nd<br>Aorist</td>
+        <td class="tg-c3ow">1st<br>Aorist</td>
+        <td class="tg-c3ow">2nd<br>Aorist</td>
+        <td class="tg-c3ow">1st<br>Future</td>
+        <td class="tg-c3ow">2nd<br>Future</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Singular&nbsp;&nbsp;</td>
+        <td class="tg-lecp"></td>
+        <td class="tg-lecp"></td>
+        <td class="tg-x62f"></td>
+        <td class="tg-x62f"></td>
+        <td class="tg-lecp"></td>
+        <td class="tg-lecp"></td>
+        <td class="tg-lecp"></td>
+        <td class="tg-lecp"></td>
+        <td class="tg-lecp"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">1 person</td>
+        <td class="tg-0pky">ἒλυσα</td>
+        <td class="tg-0pky">ἒκρινα</td>
+        <td class="tg-0pky">ἒλαβον</td>
+        <td class="tg-0pky">ἐλυσάμην</td>
+        <td class="tg-0pky">ἒλαβομην</td>
+        <td class="tg-0pky">ἐλύθην</td>
+        <td class="tg-0pky">ἐχάρην</td>
+        <td class="tg-0pky">λυθήσομαι</td>
+        <td class="tg-0pky">χαρήσομαι</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">2 person</td>
+        <td class="tg-0pky">ἒλυσας</td>
+        <td class="tg-0pky">ἒκρινας</td>
+        <td class="tg-0pky">ἒλαβες</td>
+        <td class="tg-0pky">ἐλύσω</td>
+        <td class="tg-0pky">ἐλάβου</td>
+        <td class="tg-0pky">ἐλύθεις</td>
+        <td class="tg-0pky">ἐχάρης</td>
+        <td class="tg-0pky">λυθήσῃ</td>
+        <td class="tg-0pky">χαρήσῃ</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">3 person</td>
+        <td class="tg-0pky">ἒλυσε (ν)</td>
+        <td class="tg-0pky">ἒκρινε (ν)</td>
+        <td class="tg-0pky">ἒλαβε (ν)</td>
+        <td class="tg-0pky">ἐλύσατο</td>
+        <td class="tg-0pky">ἐλάβετο</td>
+        <td class="tg-0pky">ἐλύθη</td>
+        <td class="tg-0pky">ἐχάρη</td>
+        <td class="tg-0pky">λυθήσεται</td>
+        <td class="tg-0pky">χαρήσεται</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Plural</td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">1 person</td>
+        <td class="tg-0pky">ἐλύσαμεν</td>
+        <td class="tg-0pky">ἐκρίναμεν</td>
+        <td class="tg-0pky">ἐλάβομεν</td>
+        <td class="tg-0pky">ἐλυσάμεθα</td>
+        <td class="tg-0pky">ἐλαβόμεθα</td>
+        <td class="tg-0pky">ἐλύθημεν</td>
+        <td class="tg-0pky">ἐχάρημεν</td>
+        <td class="tg-0pky">λυθησόμεθα</td>
+        <td class="tg-0pky">χαρησόμεθα</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">2 person</td>
+        <td class="tg-0pky">ἐλύσατε</td>
+        <td class="tg-0pky">ἐκρίνατε</td>
+        <td class="tg-0pky">ἐλάβετε</td>
+        <td class="tg-0pky">ἐλύσασθε</td>
+        <td class="tg-0pky">ἐλάβεσθε</td>
+        <td class="tg-0pky">ἐλύθητε</td>
+        <td class="tg-0pky">ἐχάρητε</td>
+        <td class="tg-0pky">λυθήσεσθε</td>
+        <td class="tg-0pky">χαρήσεσθε</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">3 person</td>
+        <td class="tg-0pky">ἒλυσαν</td>
+        <td class="tg-0pky">ἒκριναν</td>
+        <td class="tg-0pky">ἒλαβον</td>
+        <td class="tg-0pky">ἐλύσαντο</td>
+        <td class="tg-0pky">ἐλάβοντο</td>
+        <td class="tg-0pky">ἐλύθησαν</td>
+        <td class="tg-0pky">ἐχάρησαν</td>
+        <td class="tg-0pky">λυθήσονται</td>
+        <td class="tg-0pky">χαρήσονται</td>
+      </tr>
+    </tbody>
+    </table></br>
+    
     
     
