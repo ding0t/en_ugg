@@ -576,7 +576,7 @@ paradigm_verbs_indicative_thematic
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-hafo" colspan="10">Verbs with a theme vowel <br>Based on the Aorist tense stem<br>Table V-IT-5</th>
+        <th class="tg-hafo" colspan="10">Verbs with a theme vowel <br>Based on the Aorist Passive tense stem<br>Table V-IT-5</th>
       </tr>
     </thead>
     <tbody>
@@ -630,7 +630,7 @@ paradigm_verbs_indicative_thematic
         <td class="tg-0pky">ἒλαβες</td>
         <td class="tg-0pky">ἐλύσω</td>
         <td class="tg-0pky">ἐλάβου</td>
-        <td class="tg-0pky">ἐλύθεις</td>
+        <td class="tg-0pky">ἐλύθης</td>
         <td class="tg-0pky">ἐχάρης</td>
         <td class="tg-0pky">λυθήσῃ</td>
         <td class="tg-0pky">χαρήσῃ</td>
