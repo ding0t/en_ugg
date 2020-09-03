@@ -613,9 +613,9 @@ paradigm_verbs_indicative_thematic
       </tr>
       <tr>
         <td class="tg-f8tv">1 person</td>
-        <td class="tg-0pky">ἒλυσα</td>
-        <td class="tg-0pky">ἒκρινα</td>
-        <td class="tg-0pky">ἒλαβον</td>
+        <td class="tg-0pky">ἔλυσα</td>
+        <td class="tg-0pky">ἔκρινα</td>
+        <td class="tg-0pky">ἔλαβον</td>
         <td class="tg-0pky">ἐλυσάμην</td>
         <td class="tg-0pky">ἐλαβόμην</td>
         <td class="tg-0pky">ἐλύθην</td>
@@ -625,9 +625,9 @@ paradigm_verbs_indicative_thematic
       </tr>
       <tr>
         <td class="tg-f8tv">2 person</td>
-        <td class="tg-0pky">ἒλυσας</td>
-        <td class="tg-0pky">ἒκρινας</td>
-        <td class="tg-0pky">ἒλαβες</td>
+        <td class="tg-0pky">ἔλυσας</td>
+        <td class="tg-0pky">ἔκρινας</td>
+        <td class="tg-0pky">ἔλαβες</td>
         <td class="tg-0pky">ἐλύσω</td>
         <td class="tg-0pky">ἐλάβου</td>
         <td class="tg-0pky">ἐλύθης</td>
@@ -637,9 +637,9 @@ paradigm_verbs_indicative_thematic
       </tr>
       <tr>
         <td class="tg-f8tv">3 person</td>
-        <td class="tg-0pky">ἒλυσε (ν)</td>
-        <td class="tg-0pky">ἒκρινε (ν)</td>
-        <td class="tg-0pky">ἒλαβε (ν)</td>
+        <td class="tg-0pky">ἔλυσε (ν)</td>
+        <td class="tg-0pky">ἔκρινε (ν)</td>
+        <td class="tg-0pky">ἔλαβε (ν)</td>
         <td class="tg-0pky">ἐλύσατο</td>
         <td class="tg-0pky">ἐλάβετο</td>
         <td class="tg-0pky">ἐλύθη</td>
@@ -685,9 +685,9 @@ paradigm_verbs_indicative_thematic
       </tr>
       <tr>
         <td class="tg-f8tv">3 person</td>
-        <td class="tg-0pky">ἒλυσαν</td>
-        <td class="tg-0pky">ἒκριναν</td>
-        <td class="tg-0pky">ἒλαβον</td>
+        <td class="tg-0pky">ἔλυσαν</td>
+        <td class="tg-0pky">ἔκριναν</td>
+        <td class="tg-0pky">ἔλαβον</td>
         <td class="tg-0pky">ἐλύσαντο</td>
         <td class="tg-0pky">ἐλάβοντο</td>
         <td class="tg-0pky">ἐλύθησαν</td>
