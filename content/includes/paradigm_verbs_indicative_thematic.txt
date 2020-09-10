@@ -2,7 +2,7 @@ paradigm_verbs_indicative_thematic
 
 
 **Table V-IT-1a**   Present Active Tense verbs
-
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 [Note]  Thematic verbs are verbs that use a "theme" vowel (or "connecting vowel") between the verbal stem and the personal ending in the present indicative.  The theme vowel is always an omicron (ο) or an epsilon (ε).
 [See `Verbal_Parts <https://ugg.readthedocs.io/en/latest/verb.html#parts>`_ ]
@@ -103,13 +103,114 @@ paradigm_verbs_indicative_thematic
     </tbody>
     </table></br>  
 
+**Table V-IT-1b Present Middle/Passive Verbs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+[Note] - The middle and passive voices are presented together because they are identical in form.  The reader (or translator) will have to make their decision as to the intended voice based on context.
+
+[Note]  Thematic verbs are verbs that use a "theme" vowel (or "connecting vowel") between the verbal stem and the personal ending in the present indicative.  The theme vowel is always an omicron (ο) or an epsilon (ε).
+[See `Verbal_Parts <https://ugg.readthedocs.io/en/latest/verb.html#parts>`_ ]
+
+..raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-lecp{background-color:#c0c0c0;border-color:#000000;color:#efefef;text-align:left;vertical-align:top}
+    .tg .tg-x62f{background-color:#c0c0c0;border-color:#000000;color:#efefef;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-hafo" colspan="5">Present Active Verbs with a theme vowel<br>(Based on Present Tense Stem)<br>Table     V-IT-1a</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-0pky"></td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow" colspan="3">Contract<br>Verbs</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky"></td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow">-αω</td>
+        <td class="tg-c3ow">-εω</td>
+        <td class="tg-c3ow">-οω</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Singular&nbsp;&nbsp;</td>
+        <td class="tg-lecp"></td>
+        <td class="tg-lecp"></td>
+        <td class="tg-x62f"></td>
+        <td class="tg-x62f"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">1 person</td>
+        <td class="tg-0pky">λύω</td>
+        <td class="tg-0pky">γεννῶ</td>
+        <td class="tg-0pky">ποιῶ</td>
+        <td class="tg-0pky">πληρῶ</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">2 person</td>
+        <td class="tg-0pky">λύεις</td>
+        <td class="tg-0pky">γεννᾷς</td>
+        <td class="tg-0pky">ποιεῖς</td>
+        <td class="tg-0pky">πληροῖς</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">3 person</td>
+        <td class="tg-0pky">λύει</td>
+        <td class="tg-0pky">γεννᾷ</td>
+        <td class="tg-0pky">ποιεῖ</td>
+        <td class="tg-0pky">πληροῖ</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Plural</td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">1 person</td>
+        <td class="tg-0pky">λύομεν</td>
+        <td class="tg-0pky">γεννῶμεν</td>
+        <td class="tg-0pky">ποιοῦμεν</td>
+        <td class="tg-0pky">πληροῦμεν</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">2 person</td>
+        <td class="tg-0pky">λύετε</td>
+        <td class="tg-0pky">γεννᾶτε</td>
+        <td class="tg-0pky">ποιεῖτε</td>
+        <td class="tg-0pky">πληροῦτε</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">3 person</td>
+        <td class="tg-0pky">λύουσι(ν)</td>
+        <td class="tg-0pky">γεννῶσι(ν)</td>
+        <td class="tg-0pky">ποιοῦσι(ν)</td>
+        <td class="tg-0pky">πληροῦσι(ν)</td>
+      </tr>
+    </tbody>
+    </table></br>
 
 
 
 
 
 
-
+.. raw:: html
 
     <style type="text/css">
     .tg  {border-collapse:collapse;border-spacing:0;}
