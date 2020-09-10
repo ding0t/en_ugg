@@ -103,7 +103,7 @@ paradigm_verbs_indicative_thematic
     </tbody>
     </table></br>  
 
-**Table V-IT-1b Present Middle/Passive Verbs
+**Table V-IT-1b** Present Middle/Passive Verbs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 [Note] - The middle and passive voices are presented together because they are identical in form.  The reader (or translator) will have to make their decision as to the intended voice based on context.
@@ -111,7 +111,7 @@ paradigm_verbs_indicative_thematic
 [Note]  Thematic verbs are verbs that use a "theme" vowel (or "connecting vowel") between the verbal stem and the personal ending in the present indicative.  The theme vowel is always an omicron (ο) or an epsilon (ε).
 [See `Verbal_Parts <https://ugg.readthedocs.io/en/latest/verb.html#parts>`_ ]
 
-..raw:: html
+.. raw:: html
 
     <style type="text/css">
     .tg  {border-collapse:collapse;border-spacing:0;}
