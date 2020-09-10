@@ -307,10 +307,13 @@ paradigm_verbs_indicative_thematic
 
 
 
+**Table V-IT-1d**  Imperfect Middle/Passive Verbs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+[Note] - The middle and passive voices are presented together because they are identical in form.  The reader (or translator) will have to make their decision as to the intended voice based on context.
 
-
-
+[Note]  Thematic verbs are verbs that use a "theme" vowel (or "connecting vowel") between the verbal stem and the personal ending in the present indicative.  The theme vowel is always an omicron (ο) or an epsilon (ε).
+[See `Verbal_Parts <https://ugg.readthedocs.io/en/latest/verb.html#parts>`_ ]
 
 
 .. raw:: html
@@ -326,43 +329,37 @@ paradigm_verbs_indicative_thematic
     .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
     .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
     .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-lecp{background-color:#c0c0c0;border-color:#000000;color:#efefef;text-align:left;vertical-align:top}
+    .tg .tg-x62f{background-color:#c0c0c0;border-color:#000000;color:#efefef;text-align:center;vertical-align:top}
     </style>
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-hafo" colspan="9">Verbs with a theme vowel (Imperfect)<br>Based on the Present Tense Stem<br>Table V-IT-1b</th>
+        <th class="tg-hafo" colspan="5">Imperfect Middle/Passive Verbs with a theme vowel<br>(Based on Present Tense Stem)    <br>Table V-IT-1d</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td class="tg-0pky"></td>
-        <td class="tg-c3ow" colspan="4">Imperfect Active</td>
-        <td class="tg-c3ow" colspan="4">Imperfect Middle/Passive</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow" colspan="3">Contract<br>Verbs</td>
       </tr>
       <tr>
         <td class="tg-0pky"></td>
-        <td class="tg-0pky"></td>
-        <td class="tg-c3ow" colspan="3">Contract</td>
-        <td class="tg-0pky"></td>
-        <td class="tg-c3ow" colspan="3">Contract</td>
-      </tr>
-      <tr>
-        <td class="tg-f8tv">Singular&nbsp;&nbsp;</td>
-        <td class="tg-0pky"></td>
-        <td class="tg-c3ow">-αω</td>
-        <td class="tg-c3ow">-εω</td>
-        <td class="tg-c3ow">-οω</td>
         <td class="tg-c3ow"></td>
         <td class="tg-c3ow">-αω</td>
         <td class="tg-c3ow">-εω</td>
         <td class="tg-c3ow">-οω</td>
       </tr>
       <tr>
+        <td class="tg-f8tv">Singular&nbsp;&nbsp;</td>
+        <td class="tg-lecp"></td>
+        <td class="tg-lecp"></td>
+        <td class="tg-x62f"></td>
+        <td class="tg-x62f"></td>
+      </tr>
+      <tr>
         <td class="tg-f8tv">1 person</td>
-        <td class="tg-0pky">ἔλυον</td>
-        <td class="tg-0pky">ἐγέννων</td>
-        <td class="tg-0pky">ἐποίουν</td>
-        <td class="tg-0pky">ἐπλήρουν</td>
         <td class="tg-0pky">ἐλυόμην</td>
         <td class="tg-0pky">ἐγεννώμην</td>
         <td class="tg-0pky">ἐποιοῦμην</td>
@@ -370,10 +367,6 @@ paradigm_verbs_indicative_thematic
       </tr>
       <tr>
         <td class="tg-f8tv">2 person</td>
-        <td class="tg-0pky">ἔλυες</td>
-        <td class="tg-0pky">ἐγέννας</td>
-        <td class="tg-0pky">ἐποίεις</td>
-        <td class="tg-0pky">ἐπλήρους</td>
         <td class="tg-0pky">ἐλύου</td>
         <td class="tg-0pky">ἐγεννῶ</td>
         <td class="tg-0pky">ἐποιοῦ</td>
@@ -381,10 +374,6 @@ paradigm_verbs_indicative_thematic
       </tr>
       <tr>
         <td class="tg-f8tv">3 person</td>
-        <td class="tg-0pky">ἔλυε(ν)</td>
-        <td class="tg-0pky">ἐγέννα</td>
-        <td class="tg-0pky">ἐποίει</td>
-        <td class="tg-0pky">ἐπλήρου</td>
         <td class="tg-0pky">ἐλύετο</td>
         <td class="tg-0pky">ἐγεννᾶτο</td>
         <td class="tg-0pky">ἐποιεῖτο</td>
@@ -396,17 +385,9 @@ paradigm_verbs_indicative_thematic
         <td class="tg-llyw"></td>
         <td class="tg-llyw"></td>
         <td class="tg-llyw"></td>
-        <td class="tg-llyw"></td>
-        <td class="tg-llyw"></td>
-        <td class="tg-llyw"></td>
-        <td class="tg-llyw"></td>
       </tr>
       <tr>
         <td class="tg-f8tv">1 person</td>
-        <td class="tg-0pky">ἐλύομεν</td>
-        <td class="tg-0pky">ἐγεννῶμεν</td>
-        <td class="tg-0pky">ἐποιοῦμεν</td>
-        <td class="tg-0pky">ἐπληροῦμεν</td>
         <td class="tg-0pky">ἐλυόμεθα</td>
         <td class="tg-0pky">ἐγεννώμεθα</td>
         <td class="tg-0pky">ἐποιούμεθα</td>
@@ -414,10 +395,6 @@ paradigm_verbs_indicative_thematic
       </tr>
       <tr>
         <td class="tg-f8tv">2 person</td>
-        <td class="tg-0pky">ἐλύετε</td>
-        <td class="tg-0pky">ἐγεννᾶτε</td>
-        <td class="tg-0pky">ἐποιεῖτε</td>
-        <td class="tg-0pky">ἐπληροῦτε</td>
         <td class="tg-0pky">ἐλύεσθε</td>
         <td class="tg-0pky">ἐγεννᾶσθε</td>
         <td class="tg-0pky">ἐποιεῖσθε</td>
@@ -425,10 +402,6 @@ paradigm_verbs_indicative_thematic
       </tr>
       <tr>
         <td class="tg-f8tv">3 person</td>
-        <td class="tg-0pky">ἔλυον</td>
-        <td class="tg-0pky">ἐγέννων</td>
-        <td class="tg-0pky">ἐποίουν</td>
-        <td class="tg-0pky">ἐπλήρουν</td>
         <td class="tg-0pky">ἐλύοντο</td>
         <td class="tg-0pky">ἐγεννῶντο</td>
         <td class="tg-0pky">ἐποιοῦντο</td>
@@ -436,6 +409,7 @@ paradigm_verbs_indicative_thematic
       </tr>
     </tbody>
     </table></br>
+
 
 
 
