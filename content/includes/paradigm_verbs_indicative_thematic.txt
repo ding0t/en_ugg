@@ -130,7 +130,7 @@ paradigm_verbs_indicative_thematic
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-hafo" colspan="5">Present Active Verbs with a theme vowel<br>(Based on Present Tense Stem)<br>Table     V-IT-1a</th>
+        <th class="tg-hafo" colspan="5">Present Middle/Passive Verbs with a theme vowel<br>(Based on Present Tense Stem)    <br>Table V-IT-1b</th>
       </tr>
     </thead>
     <tbody>
@@ -155,24 +155,24 @@ paradigm_verbs_indicative_thematic
       </tr>
       <tr>
         <td class="tg-f8tv">1 person</td>
-        <td class="tg-0pky">λύω</td>
-        <td class="tg-0pky">γεννῶ</td>
-        <td class="tg-0pky">ποιῶ</td>
-        <td class="tg-0pky">πληρῶ</td>
+        <td class="tg-0pky">λύομαι</td>
+        <td class="tg-0pky">γεννῶμαι</td>
+        <td class="tg-0pky">ποιοῦμαι</td>
+        <td class="tg-0pky">πληροῦμαι</td>
       </tr>
       <tr>
         <td class="tg-f8tv">2 person</td>
-        <td class="tg-0pky">λύεις</td>
-        <td class="tg-0pky">γεννᾷς</td>
-        <td class="tg-0pky">ποιεῖς</td>
-        <td class="tg-0pky">πληροῖς</td>
+        <td class="tg-0pky">λύῃ</td>
+        <td class="tg-0pky">γεννᾷ</td>
+        <td class="tg-0pky">ποιῇ</td>
+        <td class="tg-0pky">πληροῖ</td>
       </tr>
       <tr>
         <td class="tg-f8tv">3 person</td>
-        <td class="tg-0pky">λύει</td>
-        <td class="tg-0pky">γεννᾷ</td>
-        <td class="tg-0pky">ποιεῖ</td>
-        <td class="tg-0pky">πληροῖ</td>
+        <td class="tg-0pky">λύεται</td>
+        <td class="tg-0pky">γεννᾶται</td>
+        <td class="tg-0pky">ποιεῖται</td>
+        <td class="tg-0pky">πληροῦται</td>
       </tr>
       <tr>
         <td class="tg-f8tv">Plural</td>
@@ -183,28 +183,27 @@ paradigm_verbs_indicative_thematic
       </tr>
       <tr>
         <td class="tg-f8tv">1 person</td>
-        <td class="tg-0pky">λύομεν</td>
-        <td class="tg-0pky">γεννῶμεν</td>
-        <td class="tg-0pky">ποιοῦμεν</td>
-        <td class="tg-0pky">πληροῦμεν</td>
+        <td class="tg-0pky">λυόμεθα</td>
+        <td class="tg-0pky">γεννώμεθα</td>
+        <td class="tg-0pky">ποιούμεθα</td>
+        <td class="tg-0pky">πληρούμεθα</td>
       </tr>
       <tr>
         <td class="tg-f8tv">2 person</td>
-        <td class="tg-0pky">λύετε</td>
-        <td class="tg-0pky">γεννᾶτε</td>
-        <td class="tg-0pky">ποιεῖτε</td>
-        <td class="tg-0pky">πληροῦτε</td>
+        <td class="tg-0pky">λύεσθε</td>
+        <td class="tg-0pky">γεννᾶσθε</td>
+        <td class="tg-0pky">ποιεῖσθε</td>
+        <td class="tg-0pky">πληροῦσθε</td>
       </tr>
       <tr>
         <td class="tg-f8tv">3 person</td>
-        <td class="tg-0pky">λύουσι(ν)</td>
-        <td class="tg-0pky">γεννῶσι(ν)</td>
-        <td class="tg-0pky">ποιοῦσι(ν)</td>
-        <td class="tg-0pky">πληροῦσι(ν)</td>
+        <td class="tg-0pky">λύονται</td>
+        <td class="tg-0pky">γεννῶνται</td>
+        <td class="tg-0pky">ποιοῦνται</td>
+        <td class="tg-0pky">πληροῦνται</td>
       </tr>
     </tbody>
     </table></br>
-
 
 
 
