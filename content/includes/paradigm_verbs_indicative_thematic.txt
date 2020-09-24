@@ -693,7 +693,7 @@ paradigm_verbs_indicative_thematic
     </tbody>
     </table></br>
     
-**Table V-IT-5α*  Indicative Verbs built on the Aorist Active Stem
+**Table V-IT-5α**  Indicative Verbs built on the Aorist Active Stem
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
@@ -717,7 +717,7 @@ paradigm_verbs_indicative_thematic
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-hafo" colspan="6"><span style="font-weight:bold">Indicative Verbs with a Theme Vowel</span><br>Based     on the Aorist Passive Tense Stem<br>Table V-IT-5a</th>
+        <th class="tg-hafo" colspan="6"><span style="font-weight:bold">Indicative Verbs with a Theme Vowel</span><br>Based  on the Aorist Active Tense Stem<br>Table V-IT-5a</th>
       </tr>
     </thead>
     <tbody>
@@ -802,6 +802,104 @@ paradigm_verbs_indicative_thematic
     </table></br>
 
 
+**Table V-IT-5b**  Aorist Passive and Future Passive Verbs built on the Aorist Passive Tense stem
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+..raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-lecp{background-color:#c0c0c0;border-color:#000000;color:#efefef;text-align:left;vertical-align:top}
+    .tg .tg-x62f{background-color:#c0c0c0;border-color:#000000;color:#efefef;text-align:center;vertical-align:top}
+    .tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-hafo" colspan="5"><span style="font-weight:bold">Verbs with a Theme Vowel</span><br>Based on the     Aorist Passive Tense Stem<br>Table V-IT-5b</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-0pky"></td>
+        <td class="tg-c3ow" colspan="2">Aorist Passive</td>
+        <td class="tg-c3ow" colspan="2">Future Passive</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky"></td>
+        <td class="tg-c3ow">1st Aorist</td>
+        <td class="tg-c3ow">2nd Aorist</td>
+        <td class="tg-c3ow">1st Future</td>
+        <td class="tg-0lax">2nd Future</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Singular&nbsp;&nbsp;</td>
+        <td class="tg-lecp"></td>
+        <td class="tg-x62f"></td>
+        <td class="tg-x62f"></td>
+        <td class="tg-y6fn"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">1 person</td>
+        <td class="tg-0pky">ἐλύθην</td>
+        <td class="tg-0pky">ἐχάρην</td>
+        <td class="tg-0pky">λυθήσομαι</td>
+        <td class="tg-0lax">χαρήσομαι</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">2 person</td>
+        <td class="tg-0pky">ἐλύθης</td>
+        <td class="tg-0pky">ἐχάρης</td>
+        <td class="tg-0pky">λυθήσῃ</td>
+        <td class="tg-0lax">χαρήσῃ</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">3 person</td>
+        <td class="tg-0pky">ἐλύθη</td>
+        <td class="tg-0pky">ἐχάρη</td>
+        <td class="tg-0pky">λυθήσεται</td>
+        <td class="tg-0lax">χαρήσεται</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Plural</td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-y6fn"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">1 person</td>
+        <td class="tg-0pky">ἐλύθημεν</td>
+        <td class="tg-0pky">ἐχάρημεν</td>
+        <td class="tg-0pky">λυθησόμεθα</td>
+        <td class="tg-0lax">χαρησόμεθα</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">2 person</td>
+        <td class="tg-0pky">ἐλύθητε</td>
+        <td class="tg-0pky">ἐχάρητε</td>
+        <td class="tg-0pky">λυθήσεσθε</td>
+        <td class="tg-0lax">χαρήσεσθε</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">3 person</td>
+        <td class="tg-0pky">ἐλύθησαν</td>
+        <td class="tg-0pky">ἐχάρησαν</td>
+        <td class="tg-0pky">λυθήσονται</td>
+        <td class="tg-0lax">χαρήσονται</td>
+      </tr>
+    </tbody>
+    </table></br>
 
 
 
