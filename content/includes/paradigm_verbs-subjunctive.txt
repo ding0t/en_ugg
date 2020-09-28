@@ -1,4 +1,4 @@
-paradigm_subjunctive
+paradigm_verbs-subjunctive.txt
 
 **Table V-ST-1a** Subjunctive Active Verbs (uncontracted)
 
