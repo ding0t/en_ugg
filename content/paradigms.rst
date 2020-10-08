@@ -1229,7 +1229,7 @@ Verbs Indicative Athematic
 Verbs Subjunctive
 -----------------
 
-.. include:: includes/paradigm_verbs_subjunctive.txt
+.. include:: includes/paradigm_verbs-subjunctive.txt
 
 Verbs Imperative
 ----------------
