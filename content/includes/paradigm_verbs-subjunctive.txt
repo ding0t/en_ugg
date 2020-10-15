@@ -165,14 +165,14 @@ paradigm_verbs-subjunctive.txt
     </tbody>
     </table></br>
 
-    NOTE:  Both 1st and 2nd aorist verbs use the same declension pattern with one exception.  The second aorist declension
-    is based on the 2nd aorist stem and does not use the sigma tense formative for the aorist middle voice or the theta
-    tense formative for the aorist passive voice.
+NOTE:  Both 1st and 2nd aorist verbs use the same declension pattern with one exception.  The second aorist declension
+is based on the 2nd aorist stem and does not use the sigma tense formative for the aorist middle voice or the theta
+tense formative for the aorist passive voice.
 
 
-    We have not included a declension for the *perfect subjunctive* because it only occurs 10 times in the New Testament
-    and they are all forms of οἶδα (to know) (εἰδω,εἰδῇς, εἰδῶμεν, and εἰδῆτε) ( First and second person singular 
-    perfect active subjuncitve; and first and second person plural perfect active subjunctive).
+We have not included a declension for the *perfect subjunctive* because it only occurs 10 times in the New Testament
+and they are all forms of οἶδα (to know) (εἰδω,εἰδῇς, εἰδῶμεν, and εἰδῆτε) ( First and second person singular 
+perfect active subjuncitve; and first and second person plural perfect active subjunctive).
 
 
 **Table V-ST-2a**  Thematic Contracted Present Active Subjunctive
