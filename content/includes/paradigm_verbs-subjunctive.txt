@@ -80,6 +80,6 @@ paradigm_verbs-subjunctive.txt
         <td class="tg-0pky">λελύκωσι (ν)</td>
       </tr>
     </tbody>
-    </table>(/br>
+    </table></br>
     
-    )
+    
