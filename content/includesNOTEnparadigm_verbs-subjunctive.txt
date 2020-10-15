@@ -170,7 +170,7 @@ is based on the 2nd aorist stem and does not use the sigma tense formative for t
 tense formative for the aorist passive voice.
 
 
-We have not included a declension for the *perfect subjunctive* because it only occurs 10 times in the New Testament
+NOTE:  We have not included a declension for the *perfect subjunctive* because it only occurs 10 times in the New Testament
 and they are all forms of οἶδα (to know) (εἰδω,εἰδῇς, εἰδῶμεν, and εἰδῆτε) ( First and second person singular 
 perfect active subjuncitve; and first and second person plural perfect active subjunctive).
 
