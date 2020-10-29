@@ -288,7 +288,7 @@ perfect active subjuncitve; and first and second person plural perfect active su
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-hafo" colspan="4"><span style="font-weight:bold">Verbs - Subjunctive  </span><br>Thematic     Contracted<br>Table V-ST- 2b</th>
+        <th class="tg-hafo" colspan="4"><span style="font-weight:bold">Verbs - Subjunctive  </span><br><span     style="font-weight:bold">Thematic Contracted</span><br><span style="font-weight:bold">Table V-ST- 2b</span></th>
       </tr>
     </thead>
     <tbody>
