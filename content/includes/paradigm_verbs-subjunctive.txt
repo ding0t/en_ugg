@@ -354,3 +354,100 @@ perfect active subjuncitve; and first and second person plural perfect active su
     </table></br>
 
     
+**Table V-ST-3**  Aorist Subjuctive Contracted Verbs
+
+  * Table V_ST-3a Aorist Active Subjunctive Contracted Verbs
+  ** Table V-ST-3b  Aorist Middle Subjunctive Contracted Verbs
+  *** Table V-ST-3c Aorist Passive Subjunctive Contracted Verbs
+
+
+**Table V-ST-3a**  Aorist Active Subjunctive Contracted Verbs
+
+[NOTE]:  Note that in each case the contract vowel has been lengthed followed by the tense formative.
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-f7v4{background-color:#c0c0c0;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-lecp{background-color:#c0c0c0;border-color:#000000;color:#efefef;text-align:left;vertical-align:top}
+    .tg .tg-x62f{background-color:#c0c0c0;border-color:#000000;color:#efefef;text-align:center;vertical-align:top}
+    .tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-hafo" colspan="4"><span style="font-weight:bold">Verbs - Subjunctive  </span><br><span     style="font-weight:bold">Thematic Contracted</span><br><span style="font-weight:bold">Table V-ST- 3a</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-0pky"></td>
+        <td class="tg-7btt" colspan="3">Aorist Active</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky"></td>
+        <td class="tg-7btt">-αω</td>
+        <td class="tg-7btt">-εω</td>
+        <td class="tg-7btt">-οω</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Singular&nbsp;&nbsp;</td>
+        <td class="tg-lecp"></td>
+        <td class="tg-x62f"></td>
+        <td class="tg-f7v4"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">1 person</td>
+        <td class="tg-73oq">ἀγαπήσω</td>
+        <td class="tg-73oq">ποιήσω</td>
+        <td class="tg-73oq">πληρώσω</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">2 person</td>
+        <td class="tg-73oq">ἀγαπήσῃς</td>
+        <td class="tg-73oq">ποιήσῃς</td>
+        <td class="tg-73oq">πληρώσῃς</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">3 person</td>
+        <td class="tg-73oq">ἀγαπήσῃ</td>
+        <td class="tg-73oq">ποιήσῃ</td>
+        <td class="tg-73oq">πληρώσῃ</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Plural</td>
+        <td class="tg-f7v4"></td>
+        <td class="tg-f7v4"></td>
+        <td class="tg-f7v4"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">1 person</td>
+        <td class="tg-73oq">ἀγαπήσωμεν</td>
+        <td class="tg-73oq">ποιήσωμεν</td>
+        <td class="tg-73oq">πληρώσωμεν</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">2 person</td>
+        <td class="tg-73oq">ἀγαπήσητε</td>
+        <td class="tg-73oq">ποιήσητε</td>
+        <td class="tg-73oq">πληρώσητε</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">3 person</td>
+        <td class="tg-73oq">ἀγαπήσωσι(ν)</td>
+        <td class="tg-73oq">ποιήσωσι(ν)</td>
+        <td class="tg-73oq">πληρώσωσι(ν)</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+    
