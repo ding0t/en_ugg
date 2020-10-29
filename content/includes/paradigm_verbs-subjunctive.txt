@@ -266,3 +266,91 @@ perfect active subjuncitve; and first and second person plural perfect active su
     </tbody>
     </table></br>
 
+
+**Table V-ST-2b** Thematic Contracted Present Middle/Passive Subjunctive Verbs
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-lecp{background-color:#c0c0c0;border-color:#000000;color:#efefef;text-align:left;vertical-align:top}
+    .tg .tg-x62f{background-color:#c0c0c0;border-color:#000000;color:#efefef;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-hafo" colspan="4"><span style="font-weight:bold">Verbs - Subjunctive  </span><br>Thematic     Contracted<br>Table V-ST- 2b</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-0pky"></td>
+        <td class="tg-7btt" colspan="3">Present  Middle/Passive</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky"></td>
+        <td class="tg-7btt">-αω</td>
+        <td class="tg-7btt">-εω</td>
+        <td class="tg-7btt">-οω</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Singular&nbsp;&nbsp;</td>
+        <td class="tg-lecp"></td>
+        <td class="tg-x62f"></td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">1 person</td>
+        <td class="tg-0pky">γεννῶμαι</td>
+        <td class="tg-0pky">ποιῶμαι</td>
+        <td class="tg-0pky">δηλῶμαι</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">2 person</td>
+        <td class="tg-0pky">γεννᾷ</td>
+        <td class="tg-0pky">ποιῇ</td>
+        <td class="tg-0pky">δηλοῖ</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">3 person</td>
+        <td class="tg-0pky">γεννᾶται</td>
+        <td class="tg-0pky">ποιῆται</td>
+        <td class="tg-0pky">δηλῶται</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Plural</td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">1 person</td>
+        <td class="tg-0pky">γεννώμεθα</td>
+        <td class="tg-0pky">ποιώμεθα</td>
+        <td class="tg-0pky">δηλώμεθα</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">2 person</td>
+        <td class="tg-0pky">γεννᾶσθε</td>
+        <td class="tg-0pky">ποιῆσθε</td>
+        <td class="tg-0pky">δηλῶσθε</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">3 person</td>
+        <td class="tg-0pky">γεννῶνται)</td>
+        <td class="tg-0pky">ποιῶνται</td>
+        <td class="tg-0pky">δηλῶνται</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+    
