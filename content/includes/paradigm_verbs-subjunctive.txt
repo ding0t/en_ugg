@@ -346,7 +346,7 @@ perfect active subjuncitve; and first and second person plural perfect active su
       </tr>
       <tr>
         <td class="tg-f8tv">3 person</td>
-        <td class="tg-0pky">γεννῶνται)</td>
+        <td class="tg-0pky">γεννῶνται</td>
         <td class="tg-0pky">ποιῶνται</td>
         <td class="tg-0pky">δηλῶνται</td>
       </tr>
