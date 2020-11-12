@@ -275,7 +275,7 @@ Tables V-ST-2  Thematic Contracted Vowels - Present tense
 
 
 Table V-ST-2b Thematic Contracted Present Middle/Passive Subjunctive Verbs
-~~~~~~~~~~~~~`~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
 
