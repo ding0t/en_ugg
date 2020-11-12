@@ -85,8 +85,8 @@ paradigm_verbs-subjunctive.txt
     </table></br>
     
     
-**Table V-ST-1b** Subjunctive Middle/Passive uncontracted Verbs
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Table V-ST-1b Subjunctive Middle/Passive uncontracted Verbs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
 
@@ -177,8 +177,8 @@ NOTE: We have not included a declension for the perfect subjunctive because it o
 and they are all forms of οἶδα (to know) (εἰδω,εἰδῇς, εἰδῶμεν, and εἰδῆτε) ( First and second person singular
 perfect active subjuncitve; and first and second person plural perfect active subjunctive).
 
-** Tables V-ST-2**  Thematic Contracted Vowels - Present tense
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Tables V-ST-2  Thematic Contracted Vowels - Present tense
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
   * Table V-ST-2a Thematic Contracted Present Active Subjunctive verbs
   * Table V-ST-2b Thematic Contracted Present Middle/Passive Verbs
@@ -274,8 +274,8 @@ perfect active subjuncitve; and first and second person plural perfect active su
     </table></br>
 
 
-**Table V-ST-2b** Thematic Contracted Present Middle/Passive Subjunctive Verbs
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Table V-ST-2b Thematic Contracted Present Middle/Passive Subjunctive Verbs
+~~~~~~~~~~~~~`~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
 
@@ -463,7 +463,7 @@ perfect active subjuncitve; and first and second person plural perfect active su
 **Table V-ST-3b** - Aorist Middle Subjunctive Contract Verbs
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. raw: html
+.. raw:: html
 
     <style type="text/css">
     .tg  {border-collapse:collapse;border-spacing:0;}
