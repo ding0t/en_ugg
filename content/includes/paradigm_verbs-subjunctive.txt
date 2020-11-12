@@ -177,11 +177,11 @@ NOTE: We have not included a declension for the perfect subjunctive because it o
 and they are all forms of οἶδα (to know) (εἰδω,εἰδῇς, εἰδῶμεν, and εἰδῆτε) ( First and second person singular
 perfect active subjuncitve; and first and second person plural perfect active subjunctive).
 
-** Tables V-ST-2  Thematic Contracted Vowels - Present tense
+** Tables V-ST-2**  Thematic Contracted Vowels - Present tense
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-  *Table V-ST-2a Thematic Contracted Present Active Subjunctive verbs
-  *Table V-ST-2b Thematic Contracted Present Middle/Passive Verbs
+  * Table V-ST-2a Thematic Contracted Present Active Subjunctive verbs
+  * Table V-ST-2b Thematic Contracted Present Middle/Passive Verbs
 
 
 **Table V-ST-2a** Thematic Contracted Present Active Subjunctive
@@ -460,7 +460,92 @@ perfect active subjuncitve; and first and second person plural perfect active su
     </tbody>
     </table></br>
 
-**Aorist Middle Subjunctive Contract Verbs
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Table V-ST-3b** - Aorist Middle Subjunctive Contract Verbs
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Under construction
+.. raw: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-f7v4{background-color:#c0c0c0;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-lecp{background-color:#c0c0c0;border-color:#000000;color:#efefef;text-align:left;vertical-align:top}
+    .tg .tg-x62f{background-color:#c0c0c0;border-color:#000000;color:#efefef;text-align:center;vertical-align:top}
+    .tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-hafo" colspan="4"><span style="font-weight:bold">Verbs - Subjunctive  </span><br><span     style="font-weight:bold">Thematic Contracted</span><br><span style="font-weight:bold">Table V-ST- 3b</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-0pky"></td>
+        <td class="tg-7btt" colspan="3">Aorist Middle</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky"></td>
+        <td class="tg-7btt">-αω</td>
+        <td class="tg-7btt">-εω</td>
+        <td class="tg-7btt">-οω</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Singular&nbsp;&nbsp;</td>
+        <td class="tg-lecp"></td>
+        <td class="tg-x62f"></td>
+        <td class="tg-f7v4"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">1 person</td>
+        <td class="tg-73oq">χρήσωμαι</td>
+        <td class="tg-73oq">αἰτήσωμαι</td>
+        <td class="tg-73oq">λυτρώσωμαι</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">2 person</td>
+        <td class="tg-73oq">χρήσῃ</td>
+        <td class="tg-73oq">αἰτήσῃ</td>
+        <td class="tg-73oq">λυτρώσῃ</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">3 person</td>
+        <td class="tg-73oq">χρήσηται</td>
+        <td class="tg-73oq">αἰτήσηται</td>
+        <td class="tg-73oq">λυτρώσηται</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Plural</td>
+        <td class="tg-f7v4"></td>
+        <td class="tg-f7v4"></td>
+        <td class="tg-f7v4"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">1 person</td>
+        <td class="tg-73oq">χρησώμεθα</td>
+        <td class="tg-73oq">αἰτησώμεθα</td>
+        <td class="tg-73oq">λυτρωσώμεθα</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">2 person</td>
+        <td class="tg-73oq">χρήσησθε</td>
+        <td class="tg-73oq">αἰτήσησθε</td>
+        <td class="tg-73oq">λυτρώσησθε</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">3 person</td>
+        <td class="tg-73oq">χρήσωνται</td>
+        <td class="tg-73oq">αἰτήσωνται</td>
+        <td class="tg-73oq">λυτρώσωνται</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+    
