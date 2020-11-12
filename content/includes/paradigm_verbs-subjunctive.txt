@@ -177,8 +177,15 @@ NOTE: We have not included a declension for the perfect subjunctive because it o
 and they are all forms of οἶδα (to know) (εἰδω,εἰδῇς, εἰδῶμεν, and εἰδῆτε) ( First and second person singular
 perfect active subjuncitve; and first and second person plural perfect active subjunctive).
 
+** Tables V-ST-2  Thematic Contracted Vowels - Present tense
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+  *Table V-ST-2a Thematic Contracted Present Active Subjunctive verbs
+  *Table V-ST-2b Thematic Contracted Present Middle/Passive Verbs
+
+
 **Table V-ST-2a** Thematic Contracted Present Active Subjunctive
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
 
@@ -268,7 +275,7 @@ perfect active subjuncitve; and first and second person plural perfect active su
 
 
 **Table V-ST-2b** Thematic Contracted Present Middle/Passive Subjunctive Verbs
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
 
@@ -453,4 +460,7 @@ perfect active subjuncitve; and first and second person plural perfect active su
     </tbody>
     </table></br>
 
-    
+**Aorist Middle Subjunctive Contract Verbs
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Under construction
