@@ -268,6 +268,7 @@ perfect active subjuncitve; and first and second person plural perfect active su
 
 
 **Table V-ST-2b** Thematic Contracted Present Middle/Passive Subjunctive Verbs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
 
@@ -355,6 +356,7 @@ perfect active subjuncitve; and first and second person plural perfect active su
 
     
 **Table V-ST-3**  Aorist Subjuctive Contracted Verbs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
   * Table V_ST-3a Aorist Active Subjunctive Contracted Verbs
   * Table V-ST-3b  Aorist Middle Subjunctive Contracted Verbs
@@ -362,6 +364,7 @@ perfect active subjuncitve; and first and second person plural perfect active su
 
 
 **Table V-ST-3a**  Aorist Active Subjunctive Contracted Verbs
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 [NOTE]:  Note that in each case the contract vowel has been lengthed followed by the tense formative.
 
