@@ -2,9 +2,7 @@ paradigm_imperative
 
 **Table V-MT-1a** Imperative Verbs (Thematic Uncontracted)
 
-  * [Note] The second person plural present active imperative is identical in
-form to the second person plural present active indicative.
-
+  * [Note] The second person plural present active imperative is identical in  form to the second person plural present active indicative.
   * [Note]  There is no augment for the aorist tense in the imperative mood.
 
 .. raw:: html
