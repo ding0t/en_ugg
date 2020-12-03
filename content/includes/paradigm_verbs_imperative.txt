@@ -189,3 +189,106 @@ paradigm_imperative
       </tr>
     </tbody>
     </table></br>
+
+**Table V-MT-2a** Middle/Passive uncontracted verbs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-ycr8{background-color:#ffffff;text-align:left;vertical-align:top}
+    .tg .tg-f7v4{background-color:#c0c0c0;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-lecp{background-color:#c0c0c0;border-color:#000000;color:#efefef;text-align:left;vertical-align:top}
+    .tg .tg-x62f{background-color:#c0c0c0;border-color:#000000;color:#efefef;text-align:center;vertical-align:top}
+    .tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
+    .tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-hafo" colspan="5"><span style="font-weight:bold">Verbs - Imperative  </span><br><span     style="font-weight:bold">Thematic Contracted</span><br><span style="font-weight:bold">Table V-MT- 2a</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-0pky"></td>
+        <td class="tg-7btt" colspan="4">Middle/Passive</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky"></td>
+        <td class="tg-7btt">present</td>
+        <td class="tg-7btt">1 aorist</td>
+        <td class="tg-7btt">2 aorist</td>
+        <td class="tg-0lax"><span style="font-weight:bold">Perfect</span></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Singular&nbsp;&nbsp;</td>
+        <td class="tg-lecp"></td>
+        <td class="tg-x62f"></td>
+        <td class="tg-f7v4"></td>
+        <td class="tg-y6fn"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">1 person</td>
+        <td class="tg-iks7"></td>
+        <td class="tg-iks7"></td>
+        <td class="tg-iks7"></td>
+        <td class="tg-ycr8"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">2 person</td>
+        <td class="tg-73oq">λύου</td>
+        <td class="tg-73oq">λῦσαι</td>
+        <td class="tg-73oq">γενοῦ</td>
+        <td class="tg-0lax">λέλυσο</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">3 person</td>
+        <td class="tg-73oq">λυέσθω</td>
+        <td class="tg-73oq">λυσάσθω</td>
+        <td class="tg-73oq">γενέσθω</td>
+        <td class="tg-0lax">λελύσθω</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Plural</td>
+        <td class="tg-f7v4"></td>
+        <td class="tg-f7v4"></td>
+        <td class="tg-f7v4"></td>
+        <td class="tg-y6fn"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">1 person</td>
+        <td class="tg-73oq"></td>
+        <td class="tg-73oq"></td>
+        <td class="tg-73oq"></td>
+        <td class="tg-0lax"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">2 person</td>
+        <td class="tg-73oq">λύεσθε</td>
+        <td class="tg-73oq">λύσασθε</td>
+        <td class="tg-73oq">γένεσθε</td>
+        <td class="tg-0lax">λέλυσθε</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">3 person</td>
+        <td class="tg-73oq">λυέσθωσαν</td>
+        <td class="tg-73oq">λυσάσθωσαν</td>
+        <td class="tg-73oq">γενέσθωσαν</td>
+        <td class="tg-0lax">λελύσθωσαν</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+    
