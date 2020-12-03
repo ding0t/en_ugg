@@ -1,6 +1,7 @@
 paradigm_imperative
 
-**Table V-MT-1a** Imperative Verbs (Thematic Uncontracted)
+**Table V-MT-1a** Active Imperative Verbs (Thematic Uncontracted)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
   * [Note] The second person plural present active imperative is identical in  form to the second person plural present active indicative.
   * [Note]  There is no augment for the aorist tense in the imperative mood.
@@ -32,7 +33,7 @@ paradigm_imperative
     <tbody>
       <tr>
         <td class="tg-0pky"></td>
-        <td class="tg-7btt" colspan="4">Present Active</td>
+        <td class="tg-7btt" colspan="4">Active</td>
       </tr>
       <tr>
         <td class="tg-0pky"></td>
@@ -100,3 +101,91 @@ paradigm_imperative
     </tbody>
     </table></br>
 
+
+**Table V-MT-1b** Active Imperative Verbs (Thematic contracted)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-f7v4{background-color:#c0c0c0;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-lecp{background-color:#c0c0c0;border-color:#000000;color:#efefef;text-align:left;vertical-align:top}
+    .tg .tg-x62f{background-color:#c0c0c0;border-color:#000000;color:#efefef;text-align:center;vertical-align:top}
+    .tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-hafo" colspan="4"><span style="font-weight:bold">Verbs - Imperative  </span><br><span     style="font-weight:bold">Thematic Contracted</span><br><span style="font-weight:bold">Table V-MT- 1b</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-0pky"></td>
+        <td class="tg-7btt" colspan="3">Present</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky"></td>
+        <td class="tg-7btt">-αω</td>
+        <td class="tg-7btt">-εω</td>
+        <td class="tg-7btt">-οω</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Singular&nbsp;&nbsp;</td>
+        <td class="tg-lecp"></td>
+        <td class="tg-x62f"></td>
+        <td class="tg-f7v4"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">1 person</td>
+        <td class="tg-73oq"></td>
+        <td class="tg-73oq"></td>
+        <td class="tg-73oq"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">2 person</td>
+        <td class="tg-73oq">γέννα</td>
+        <td class="tg-73oq">ποίει</td>
+        <td class="tg-73oq">πλήρου</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">3 person</td>
+        <td class="tg-73oq">γεννάτω</td>
+        <td class="tg-73oq">ποιείτω</td>
+        <td class="tg-73oq">πληρούτω</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Plural</td>
+        <td class="tg-f7v4"></td>
+        <td class="tg-f7v4"></td>
+        <td class="tg-f7v4"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">1 person</td>
+        <td class="tg-73oq"></td>
+        <td class="tg-73oq"></td>
+        <td class="tg-73oq"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">2 person</td>
+        <td class="tg-73oq">γεννᾶτε</td>
+        <td class="tg-73oq">ποιεῖτε</td>
+        <td class="tg-73oq">πληροῦτε</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">3 person</td>
+        <td class="tg-73oq">γεννάτωσαν</td>
+        <td class="tg-73oq">ποιείτωσαν</td>
+        <td class="tg-73oq">πληρούτωσαν</td>
+      </tr>
+    </tbody>
+    </table></br>
