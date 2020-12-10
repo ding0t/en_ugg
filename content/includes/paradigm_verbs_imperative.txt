@@ -217,7 +217,7 @@ paradigm_imperative
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-hafo" colspan="5"><span style="font-weight:bold">Verbs - Imperative  </span><br><span     style="font-weight:bold">Thematic Contracted</span><br><span style="font-weight:bold">Table V-MT- 2a</span></th>
+        <th class="tg-hafo" colspan="5"><span style="font-weight:bold">Verbs - Imperative  </span><br><span     style="font-weight:bold">Thematic Uncontracted</span><br><span style="font-weight:bold">Table V-MT- 2a</span></th>
       </tr>
     </thead>
     <tbody>
