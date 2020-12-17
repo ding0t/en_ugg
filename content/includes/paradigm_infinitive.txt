@@ -1,1 +1,63 @@
 paradigm_infinitive
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-4erg{border-color:inherit;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-c6of{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-hafo" colspan="6"><span style="font-weight:bold">Verbs - infinitive</span><br><span     style="font-weight:bold">Thematic </span><br><span style="font-weight:bold">Table V-NT-1 </span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-0pky"></td>
+        <td class="tg-7btt">Present</td>
+        <td class="tg-0lax"><span style="font-weight:bold">Future</span></td>
+        <td class="tg-7btt">First <br>Aorist</td>
+        <td class="tg-7btt">Second<br>Aorist</td>
+        <td class="tg-fymr">Perfect</td>
+      </tr>
+      <tr>
+        <td class="tg-4erg">Active</td>
+        <td class="tg-0pky">λύειν</td>
+        <td class="tg-0lax">λύσειν</td>
+        <td class="tg-c3ow">λῦσαι</td>
+        <td class="tg-0pky">βαλεῖν</td>
+        <td class="tg-0pky">λελυκέναι</td>
+      </tr>
+      <tr>
+        <td class="tg-fymr"><span style="font-style:italic">Middle</span></td>
+        <td class="tg-0pky">λύεσθαι</td>
+        <td class="tg-0lax">λύσεσθαι</td>
+        <td class="tg-c3ow">λύσασθαι</td>
+        <td class="tg-c3ow">βαλέσθαι</td>
+        <td class="tg-c3ow">λέλυσθαι</td>
+      </tr>
+      <tr>
+        <td class="tg-4erg">Passive</td>
+        <td class="tg-c6of">λύεσθαι</td>
+        <td class="tg-0lax">λύσεσθαι</td>
+        <td class="tg-0lax">λυθῆναι</td>
+        <td class="tg-baqh">βληθῆναι </td>
+        <td class="tg-0lax">λέλυσθάι</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+    
