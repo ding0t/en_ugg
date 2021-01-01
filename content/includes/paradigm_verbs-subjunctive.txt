@@ -181,14 +181,14 @@ NOTE: We have not included a declension for the perfect subjunctive because it o
 and they are all forms of οἶδα (to know) (εἰδω,εἰδῇς, εἰδῶμεν, and εἰδῆτε) ( First and second person singular
 perfect active subjuncitve; and first and second person plural perfect active subjunctive).
 
-Tables V-ST-2  Thematic Contracted Vowels - Present tense
+Tables V-ST-2  Subjunctive Thematic Contracted Vowels - Present tense
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-  * Table V-ST-2a Thematic Contracted Present Active Subjunctive verbs
-  * Table V-ST-2b Thematic Contracted Present Middle/Passive Verbs
+  * Table V-ST-2a Subjunctive Thematic Contracted Present Active verbs
+  * Table V-ST-2b Subjunctive Thematic Contracted Present Middle/Passive Verbs
 
 
-**Table V-ST-2a** Thematic Contracted Present Active Subjunctive
+**Table V-ST-2a** Subjunctive Thematic Contracted Present Active verbs
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 [based on the verb *γεννἀω* - I beget/give birth to/produce; *ποιέω* - I do/make; *πληρόω* - I fill/fulfill/complete]
@@ -280,7 +280,7 @@ Tables V-ST-2  Thematic Contracted Vowels - Present tense
     </table></br>
 
 
-Table V-ST-2b Thematic Contracted Present Middle/Passive Subjunctive Verbs
+Table V-ST-2b Subjunctive Thematic Contracted Present Middle/Passive Verbs
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 [based on the verb *γεννἀω* - I beget/give birth to/produce; *ποιέω* - I do/make; *δηλόω* - I reveal/make known]
