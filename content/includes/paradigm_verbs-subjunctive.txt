@@ -4,6 +4,8 @@ paradigm_verbs-subjunctive.txt
 **Table V-ST-1a** Subjunctive Active Verbs (uncontracted)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+[based on the verb *λύω* - I loose/untie/destroy]
+
 .. raw:: html
 
     <style type="text/css">
@@ -87,6 +89,8 @@ paradigm_verbs-subjunctive.txt
     
 Table V-ST-1b Subjunctive Middle/Passive uncontracted Verbs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+[based on the verb *λύω* - I loose/untie/destroy]
 
 .. raw:: html
 
@@ -187,6 +191,8 @@ Tables V-ST-2  Thematic Contracted Vowels - Present tense
 **Table V-ST-2a** Thematic Contracted Present Active Subjunctive
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+[based on the verb *γεννἀω* - I beget/give birth to/produce; *ποιέω* - I do/make; *πληρόω* - I fill/fulfill/complete]
+
 .. raw:: html
 
     <style type="text/css">
@@ -276,6 +282,8 @@ Tables V-ST-2  Thematic Contracted Vowels - Present tense
 
 Table V-ST-2b Thematic Contracted Present Middle/Passive Subjunctive Verbs
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[based on the verb *γεννἀω* - I beget/give birth to/produce; *ποιέω* - I do/make; *δηλόω* - I reveal/make known]
 
 .. raw:: html
 
@@ -375,6 +383,8 @@ Table V-ST-2b Thematic Contracted Present Middle/Passive Subjunctive Verbs
 
 [NOTE]:  Note that in each case the contract vowel has been lengthed followed by the tense formative.
 
+[based on the verb *ἀγαπάω* - I love/cherish; *ποιέω* - I do/make; *πληρόω* - I fill/fulfill/complete]
+
 .. raw:: html
 
     <style type="text/css">
@@ -462,6 +472,8 @@ Table V-ST-2b Thematic Contracted Present Middle/Passive Subjunctive Verbs
 
 **Table V-ST-3b** - Aorist Middle Subjunctive Contract Verbs
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[Based on the verb *χρἀομαι* - Ι use/make use of/lend; *αἰτέω* - I ask/request; *λυτρόω* - I release/redeem]
 
 .. raw:: html
 
@@ -552,6 +564,8 @@ Table V-ST-2b Thematic Contracted Present Middle/Passive Subjunctive Verbs
     
 **Table V-ST-3c** - Aorist Passive Subjunctive Contract Verbs
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[Based on the verb *πλανάω* - I lead astray/wander; *φοβέω* - I am afraid; *πληρόω* - I fill/fulfill/complete]
 
 .. raw:: html
 
