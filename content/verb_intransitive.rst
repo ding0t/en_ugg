@@ -14,10 +14,10 @@ Most verbs in the passive tense will be intransitive.
 
 .. raw:: html
 
-  Matthew 2:4,,,,
-  ποῦ,...,ὁ,χριστὸς,**γεννᾶται**     Matthew 2:4 
-  pou,...,ho,christos,**gennatai**
-  where,[is}],the,christ,**to be born**  
+    Matthew 2:4,,,,
+    ποῦ,...,ὁ,χριστὸς,**γεννᾶται**     Matthew 2:4 
+    pou,...,ho,christos,**gennatai**
+    where,[is}],the,christ,**to be born**  
 
 
 *Where is the Christ* **to be born**?
@@ -41,10 +41,10 @@ Intransitive verbs may appear in the active, middle, or passive voice. Although 
 
 .. raw:: html 
 
-Mk 5:36,,,,
-...,μὴ,**φοβοῦ**,μόνον,**πίστευε**.
-...mē,**phobou**,monon,**pisteue**.
-[Do],not,**you fear**,only,**you believe**
+    Mk 5:36,,,,
+    ...,μὴ,**φοβοῦ**,μόνον,**πίστευε**.
+    ...mē,**phobou**,monon,**pisteue**.
+    [Do],not,**you fear**,only,**you believe**
 
 
 *Do not* **fear**, *only* **believe!**
@@ -58,10 +58,10 @@ The following is an example where πίστευω is transitive.
 
 .. raw:: html
 
-1 Corinthians 13:7,,,,
-ἡ,ἀγάπη,πάντα,**πιστεύει**
-hē,agapē,panta,**pisteuei**
-the,love,all (things),**it believes**
+    1 Corinthians 13:7,,,,
+    ἡ,ἀγάπη,πάντα,**πιστεύει**
+    hē,agapē,panta,**pisteuei**
+    the,love,all (things),**it believes**
 
 *Love* **believes** *all things.*
 
@@ -69,10 +69,10 @@ The following is an example of a passive verb (πείθομαι) that is transit
 
 .. raw:: html
 
-  ,Acts 26:26,,
-  τι,τούτων,οὐ,**πείθομαι**
-  ti,toutōn,ou,**peithomai**
-  that, any  of these things,not,**I persuaded/convinced**
+    ,Acts 26:26,,
+    τι,τούτων,οὐ,**πείθομαι**
+    ti,toutōn,ou,**peithomai**
+    that, any  of these things,not,**I persuaded/convinced**
 
 I cannot believe that any of these things
 or stated positively   [for I am persuaded]
