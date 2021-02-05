@@ -29,7 +29,8 @@ Article
 -------
 
 
-Verbs may be classified as :ref:`Transitive<verb_transitive>` , **Transitive**, **Intransitive**, or :ref:`Equative<verb_equative>` .
+Verbs may be classified as :ref:`Transitive<verb_transitive>` , **Intransitive**, or :ref:`Linking<verb_linking>` .  
+Linking verbs may also be reffered to as *equative* verbs.
 
 Transitive verbs require an object for the action of the verb. The object may be stated or implied.  The action of the verb
  is carried over into (or onto) an object of the verb.  Therefore, transitive verbs will always have an object for the verb.  
