@@ -12,7 +12,7 @@ Intransitive verbs are verbs that do not take a direct object.
 Most verbs in the passive tense will be intransitive. 
 (There are a few exceptions). [ example: I **stand**.  “*Stand” is intransitive.]
 
-.. csv-table::  Table - Intran1
+.. csv-table::  Table - Intran 1
   :header-rows: 1
 
   Matthew 2:4
@@ -41,7 +41,7 @@ Intransitive verbs may appear in the active, middle, or passive voice. Although 
 intransitive, there are a few instances where a verb in the passive voice is transitive.
 
 
-.. csv-table:: Table - Int2
+.. csv-table:: Table - Intran 2
   :header-rows: 1
 
   Mk 5:36
@@ -59,23 +59,25 @@ Generally passive verbs are intransitive, but this is not always the case.
 
 The following is an example where πίστευω is transitive.
 
-.. raw:: html
+.. csv-table:: Table Intran 3
+  :header-rows: 1
 
-    1 Corinthians 13:7,,,,
-    ἡ,ἀγάπη,πάντα,**πιστεύει**
-    hē,agapē,panta,**pisteuei**
-    the,love,all (things),**it believes**
+  1 Corinthians 13:7
+  ἡ,ἀγάπη,πάντα,**πιστεύει**
+  hē,agapē,panta,**pisteuei**
+  the,love,all (things),**it believes**
 
 *Love* **believes** *all things.*
 
 The following is an example of a passive verb (πείθομαι) that is transitive.
 
-.. raw:: html
+.. csv-table:: Intran4
+  :header-rows: 1
 
-    ,Acts 26:26,,
-    τι,τούτων,οὐ,**πείθομαι**
-    ti,toutōn,ou,**peithomai**
-    that, any  of these things,not,**I persuaded/convinced**
+  Acts 26:26
+  τι,τούτων,οὐ,**πείθομαι**
+  ti,toutōn,ou,**peithomai**
+  that, any  of these things,not,**I persuaded/convinced**
 
 I cannot believe that any of these things
 or stated positively   [for I am persuaded]
