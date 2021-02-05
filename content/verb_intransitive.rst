@@ -5,7 +5,7 @@
 Verb intransitive
 =================
 
-Glossary                    [ D R A F T    -   UNDER CONSTRUCTION]
+Glossary             
 --------
 
 Intransitive verbs are verbs that do not take a direct object.
