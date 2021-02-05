@@ -71,7 +71,7 @@ The following is an example where πίστευω is transitive.
 
 The following is an example of a passive verb (πείθομαι) that is transitive.
 
-.. csv-table:: Intran4
+.. csv-table:: Intran 4
   :header-rows: 1
 
   Acts 26:26
