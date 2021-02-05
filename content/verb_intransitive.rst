@@ -5,20 +5,20 @@
 Verb intransitive
 =================
 
-Glossary
+Glossary                    [ D R A F T    -   UNDER CONSTRUCTION]
 --------
 
 Intransitive verbs are verbs that do not take a direct object.
 Most verbs in the passive tense will be intransitive. 
 (There are a few exceptions). [ example: I **stand**.  “*Stand” is intransitive.]
 
-.. csv-table:: intran1
+.. csv-table::  Table - Intran1
   :header-rows: 1
 
   Matthew 2:4
   ποῦ,...,ὁ,χριστὸς,**γεννᾶται** 
   pou,...,ho,christos,**gennatai**
-  where,[is}],the,christ,**to be born**  
+  where,[is],the,christ,**to be born**  
 
 
 *Where is the Christ* **to be born**?
@@ -29,7 +29,7 @@ Article
 -------
 
 
-Verbs may be classified as :ref:`Transitive<verb_transitive>` ,**Transitive**, **Intransitive**, or :ref:`Equative<verb_equative>`.
+Verbs may be classified as :ref:`Transitive<verb_transitive>` , **Transitive**, **Intransitive**, or :ref:`Equative<verb_equative>` .
 
 Transitive verbs require an object for the action of the verb. The object may be stated or implied.  The action of the verb
  is carried over into (or onto) an object of the verb.  Therefore, transitive verbs will always have an object for the verb.  
