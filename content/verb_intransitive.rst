@@ -42,11 +42,11 @@ intransitive, there are a few instances where a verb in the passive voice is tra
 
 
 .. csv-table:: Table - Int2
-  :header-rows:1
+  :header-rows: 1
 
   Mk 5:36
   ...,μὴ,**φοβοῦ**,μόνον,**πίστευε**.
-  ...mē,**phobou**,monon,**pisteue**.
+  ...,mē,**phobou**,monon,**pisteue**.
   [Do],not,**you fear**,only,**you believe**
 
 
