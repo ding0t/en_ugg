@@ -12,12 +12,13 @@ Intransitive verbs are verbs that do not take a direct object.
 Most verbs in the passive tense will be intransitive. 
 (There are a few exceptions). [ example: I **stand**.  “*Stand” is intransitive.]
 
-.. raw:: html
+.. csv-table:: intran1
+  :header-rows: 1
 
-    Matthew 2:4,,,,
-    ποῦ,...,ὁ,χριστὸς,**γεννᾶται**     Matthew 2:4 
-    pou,...,ho,christos,**gennatai**
-    where,[is}],the,christ,**to be born**  
+  Matthew 2:4
+  ποῦ,...,ὁ,χριστὸς,**γεννᾶται** 
+  pou,...,ho,christos,**gennatai**
+  where,[is}],the,christ,**to be born**  
 
 
 *Where is the Christ* **to be born**?
