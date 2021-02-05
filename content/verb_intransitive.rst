@@ -38,15 +38,16 @@ Transitive verbs require an object for the action of the verb. The object may be
 *Intransitive verbs* do not take an object.  
 The verbal idea of the verb determines if a verb is transitive or intransitive.
 Intransitive verbs may appear in the active, middle, or passive voice. Although most verbs in the passive voice are
- intransitive, there are a few instances where a verb in the passive voice is transitive.
+intransitive, there are a few instances where a verb in the passive voice is transitive.
 
 
-.. raw:: html 
+.. csv-table:: Table - Int2
+  :header-rows:1
 
-    Mk 5:36,,,,
-    ...,μὴ,**φοβοῦ**,μόνον,**πίστευε**.
-    ...mē,**phobou**,monon,**pisteue**.
-    [Do],not,**you fear**,only,**you believe**
+  Mk 5:36
+  ...,μὴ,**φοβοῦ**,μόνον,**πίστευε**.
+  ...mē,**phobou**,monon,**pisteue**.
+  [Do],not,**you fear**,only,**you believe**
 
 
 *Do not* **fear**, *only* **believe!**
