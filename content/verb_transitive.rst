@@ -17,11 +17,11 @@ ate the bread*).
   Matthew 12:4
   τοὺς,ἄρτους,τῆς,Προθέσεως,**ἔφαγεν**
   tous,artous,tēs,Protheseōs,**ephagen**
-  the,bread,of the,of the setting forth/consecrated,**they ate**
+  the,bread,of the,of the setting forth/presentation,**they ate**
 
-… *they* **ate**  *the consecrated bread*
+… *they* **ate**  *the bread of the presence*
 
-Note:  In this example **ἔφαγεν** is the transitive verb and  *ἄρτους* is the direct object.
+Note:  In this example **ἔφαγεν** (they ate) is the transitive verb and  *ἄρτους* (bread) is the direct object.
 
 
 
@@ -33,15 +33,14 @@ Article
 Verbs may be classified as **Transitive**, :ref:`Intransitive<verb_intransitive>`, or :ref:`Linking<verb_linking>` . 
  Linking verbs may also be referred to as *equative verbs*.
 
-Transitive verbs require a object for the action of the verb. The object may be stated or implied.  
+Transitive verbs require an object for the action of the verb. The object may be stated or implied.  
 The action of the verb is carried over into (or onto) an object of the verb.  Therefore, transitive verbs
 will always have an object for the verb.  
 
 Intransitive verbs do not take an object.  
 The verbal idea of the verb determines if a verb is transitive or intransitive.
-Intransitive verbs may appear in the active, middle, or passive voice. Although most verbs
- in the passive voice are intransitive, there are a few instances where a verb in the passive voice is transitive.
- See :ref:`Intransitive<verb_intransitive>` 
+Intransitive verbs may appear in the active, middle, or passive voice. Although most verbs in the passive voice are intransitive, there are a few instances where a verb in the passive voice is transitive.
+See :ref:`Intransitive<verb_intransitive>` verb.
 
 
 Some verbs can be transitive in one sentence and intransitive in another sentence.   
