@@ -2,7 +2,7 @@
 
 .. _verb_transitive:
 
-Verb transitive                     [  D   R   A   F   T  -     Under Construction]
+Verb transitive        
 ===============
 
 Glossary
@@ -31,7 +31,7 @@ Article
 -------
 
 Verbs may be classified as **Transitive**, :ref:`Intransitive<verb_intransitive>`, or :ref:`Linking<verb_linking>` . 
- Linking verbs may also be referred to as *equative verbs*.
+Linking verbs may also be referred to as *equative verbs*.
 
 Transitive verbs require an object for the action of the verb. The object may be stated or implied.  
 The action of the verb is carried over into (or onto) an object of the verb.  Therefore, transitive verbs
@@ -69,5 +69,5 @@ Some verbs can be transitive in one sentence and intransitive in another sentenc
   kai,**ephagon**,pantes,kai,echortasthēsan
   and,**they ate**,all,and,they were satisfied
 
-*They all* **ate** *and were satisfied.*
+*and they all* **ate** *and were satisfied.*
 
