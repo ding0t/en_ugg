@@ -5,7 +5,7 @@
 Verb transitive        
 ===============
 
-Glossary                          [D R A F T - U N D E R C O N S T R U C T I O N]
+Glossary     
 --------
 
 A **verb** which can take a direct object is **transitive** (e.g. *He
