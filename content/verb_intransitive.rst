@@ -82,4 +82,4 @@ The following is an example of a passive verb (πείθομαι) that is transit
 
 I cannot believe that any of these things  ... *have escaped him*
 
-or stated positively   [for I am persuaded/convinced] that none of these things *have escaped him*
+or stated positively   [for **I am persuaded/convinced**] that none of these things *have escaped him*
