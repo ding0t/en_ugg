@@ -5,13 +5,13 @@
 Verb transitive        
 ===============
 
-Glossary
+Glossary                          [D R A F T - U N D E R C O N S T R U C T I O N]
 --------
 
 A **verb** which can take a direct object is **transitive** (e.g. *He
 ate the bread*).
 
-.. csv-table:: Table Tran 1
+.. csv-table::Table Tran 1
   :Header-rows: 1
 
   Matthew 12:4
