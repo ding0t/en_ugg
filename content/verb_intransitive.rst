@@ -15,7 +15,7 @@ Most verbs in the passive tense will be intransitive.
 .. csv-table:: Table - Intran 1
   :header-rows: 1
 
-  Table - Intran 1   Matthew 2:4
+  Matthew 2:4
   ποῦ,...,ὁ,χριστὸς,**γεννᾶται** 
   pou,...,ho,christos,**gennatai**
   where,[is],the,christ,**to be born**  
