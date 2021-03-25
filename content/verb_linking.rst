@@ -5,7 +5,7 @@
 Verb linking
 ============
 
-Glossary            [U N D E R   C O N S T R U C T I O N] ver 1.45
+Glossary            [U N D E R   C O N S T R U C T I O N] 
 --------
 
 Linking verbs "*link"* the subject of the sentence by showing a
@@ -110,13 +110,15 @@ The following are two examples of εἰμί as an intransitive verb.
 *before Abraham was*, **I AM.**
 
 The following is an example of the participle eimi being used as a linking verb.
-Mk 2:26
-
-Table VL-6
-
-ἔδωκεν καὶ τοῖς σὺν αὐτῷ οὖσιν
-edōken kai tois syn autō ousin
-he gave  also  to (those) with him  being
 
 
+.. csv-table:: Table VL-6
+  :header-rows: 1
+
+  Mk 2:26
+  ἔδωκεν,καὶ,τοῖς,σὺν,αὐτῷ,**οὖσιν**
+  edōken,kai,tois,syn,autō,**ousin**
+  he gave,also,to (those),with,him,**being**
+
+*he even gave (some) to* **those who were** *with him*
 
