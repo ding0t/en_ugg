@@ -5,7 +5,7 @@
 Verb linking
 ============
 
-Glossary            [U N D E R   C O N S T R U C T I O N] 1.37
+Glossary            [U N D E R   C O N S T R U C T I O N] ver 1.45
 --------
 
 Linking verbs "*link"* the subject of the sentence by showing a
@@ -88,6 +88,7 @@ It cannot be a linking verb because there is no separate noun for it to link.   
 
 
 The following are two examples of εἰμί as an intransitive verb.
+
 .. csv-table::   VL-4  εἰμί as an intransitive verb
   :header-rows: 1
 
@@ -106,7 +107,7 @@ The following are two examples of εἰμί as an intransitive verb.
   prin,Abraam,genesthai,egō,**eimi.**
   Before,Abraham,was,I,**I am.**
 
-*before Abraham was*, I AM.
+*before Abraham was*, **I AM.**
 
 The following is an example of the participle eimi being used as a linking verb.
 Mk 2:26
