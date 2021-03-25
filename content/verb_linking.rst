@@ -30,22 +30,22 @@ Article
 
 Verbs may be classified as Transitive, Intransitive, or  Linking.  
 
-Linking verbs “link” the subject of the sentence by describing a relationship between the subject and another
-noun, pronoun, or adjective.  It is called a “linking verb” because it joins the subject of the sentence with
+**Linking verbs* *“link”* the subject of the sentence by describing a relationship between the subject and another
+noun, pronoun, or adjective.  It is called a **“linking verb”** because it joins the subject of the sentence with
 a noun, pronoun, or adjective that tells something about the subject.  
 
-Transitive verbs require an object for the action of the verb. The object may be stated or implied.
+**Transitive verbs** require an object for the action of the verb. The object may be stated or implied.
 The action of the verb is carried over into (or onto) an object of the verb.  Therefore, transitive verbs
 will always have an object for the verb.  [ see :ref:`Transitive<verb_transitive>` ]
 
-Intransitive verbs do not take an object.  The verbal idea of the verb determines if a verb is transitive
-or intransitive.  [See :ref:`Intransitive<verb_intransitive>verb_linking]
+**Intransitive verbs** do not take an object.  The verbal idea of the verb determines if a verb is transitive
+or intransitive.  [See :ref:`Intransitive<verb_intransitive>` ]
 
 
-Because a participle is a verbal adjective and can function as an adjective or as a noun. It can also be
+Because a **participle** is a *verbal adjective*, it can function as an adjective or as a noun. It can also be
 joined with a linking verb.  ( See Table  VL-3 below)
 
-The verb “to be”, εἰμί  is the most frequently used linking verb.   
+The verb *εἰμί* (to be)  is the most frequently used linking verb.   
 
 There are 2,597 linking verbs in the New Testament.  
   *	2,129 of the occurrences are with the verb  εἰμί
@@ -61,10 +61,10 @@ The following is an example of εἰμί (to be) used as a linking verb.
 .. csv-table:: Table VL-2
   :header-rows: 1
 
-Table VL-2  John 6:35
-εἶπεν,αὐτοῖς,ὁ,Ἰησοῦς,ἐγώ,εἰμι,ὁ,ἄρτος,τῆς,ζωῆς
-eipen,autois,ho,Iēsous,egō,eimi,ho,artos,tēs,zōēs
-he said,to them,the,Jesus,I,I am,the,bread,of,life
+  Table VL-2  John 6:35
+  εἶπεν,αὐτοῖς,ὁ,Ἰησοῦς,ἐγώ,εἰμι,ὁ,ἄρτος,τῆς,ζωῆς
+  eipen,autois,ho,Iēsous,egō,eimi,ho,artos,tēs,zōēs
+  he said,to them,the,Jesus,I,I am,the,bread,of,life
 
 *Jesus said to them,* “**I am** *the bread of life*
 
