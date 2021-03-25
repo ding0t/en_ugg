@@ -5,7 +5,7 @@
 Verb linking
 ============
 
-Glossary            [U N D E R   C O N S T R U C T I O N]
+Glossary            [U N D E R   C O N S T R U C T I O N] 1.37
 --------
 
 Linking verbs "*link"* the subject of the sentence by showing a
@@ -30,7 +30,7 @@ Article
 
 Verbs may be classified as Transitive, Intransitive, or  Linking.  
 
-**Linking verbs* *“link”* the subject of the sentence by describing a relationship between the subject and another
+**Linking verbs** *“link”* the subject of the sentence by describing a relationship between the subject and another
 noun, pronoun, or adjective.  It is called a **“linking verb”** because it joins the subject of the sentence with
 a noun, pronoun, or adjective that tells something about the subject.  
 
@@ -61,49 +61,57 @@ The following is an example of εἰμί (to be) used as a linking verb.
 .. csv-table:: Table VL-2
   :header-rows: 1
 
-  Table VL-2  John 6:35
-  εἶπεν,αὐτοῖς,ὁ,Ἰησοῦς,ἐγώ,εἰμι,ὁ,ἄρτος,τῆς,ζωῆς
-  eipen,autois,ho,Iēsous,egō,eimi,ho,artos,tēs,zōēs
-  he said,to them,the,Jesus,I,I am,the,bread,of,life
+  John 6:35
+  εἶπεν,αὐτοῖς,ὁ,Ἰησοῦς,ἐγώ,**εἰμι**,ὁ,ἄρτος,τῆς,ζωῆς
+  eipen,autois,ho,Iēsous,egō,**eimi**,ho,artos,tēs,zōēs
+  he said,to them,the,Jesus,I,**I am**,the,bread,of,life
 
 *Jesus said to them,* “**I am** *the bread of life*
 
 
-The following is an example of εἰμί (to be) used as a transitive verb with a participle phrase “teaching them” as the object of the subject of the sentence.   This is also an example of how a verb may function one way in the Greek language and a different way in a different language.   
+The following is an example of εἰμί (to be) used as a transitive verb with a participle phrase “teaching them” 
+as the object of the subject of the sentence.   This is also an example of how a verb may function one way in the
+Greek language and a different way in a different language.   
 
-In this instance ἦν ( the imperfect active indicative 3rd person singular of εἰμί) serves as a transitive verb.   It cannot be a linking verb because there is no separate noun for it to link.   The participle ἔχων is the object of the verb. However, in the English translation.  The pronoun “He” is a separate word.   The sentence then becomes “because he was one who has many possessions.”  The verb “is” in the English translation now becomes a linking verb linking the pronoun “he” to the participle phrase “one who had many possessions.” 
+In this instance ἦν (the imperfect active indicative 3rd person singular of εἰμί) serves as a transitive verb.
+It cannot be a linking verb because there is no separate noun for it to link.   The participle ἔχων is the object of the verb. However, in the English translation.  The pronoun “He” is a separate word.   The sentence then becomes “because he was one who has many possessions.”  The verb “is” in the English translation now becomes a linking verb linking the pronoun “he” to the participle phrase “one who had many possessions.” 
 
-Table VL-3
-Mk 10.22   
-ἦν γὰρ ἔχων κτήματα πολλά
-ēn gar echōn ktēmata polla
-he was for  one who has  possessions many
+.. csv-table:: Table VL-3
+  :Header-rows: 1 
 
-because he was one who had many possessions.
+  Mk 10.22   
+  **ἦν**,γὰρ,ἔχων,κτήματα,πολλά
+  **ēn**,gar,echōn,ktēmata,polla
+  **he was**,for,one who has,possessions,many
+
+*because* **he was** *one who had many possessions.*
 
 
-Table VL-4
 The following are two examples of εἰμί as an intransitive verb.
+.. csv-table::   VL-4  εἰμί as an intransitive verb
+  :header-rows: 1
 
-Jn 1:9      eimi as an intransitive verb.
+  Jn 1:9
+  ἦν,τὸ,φῶς,τὸ,ἀληθινὸν
+  ēn,to,phōs,to,alēthinon
+  there was,the,light,the,true
 
-ἦν τὸ φῶς τὸ ἀληθινὸν
-ēn to phōs to alēthinon
-there was the light the true
+*There* **was** *the true light*
 
-There was the true light
+.. csv-table:: Table VL-5  εἰμί as an intransitive verb
+  :header-rows: 1
 
-Jn 8:58
-πρὶν Ἀβραὰμ γενέσθαι, ἐγὼ εἰμί.
-prin Abraam genesthai, egō eimi.
-Before Sbraham was born, I  I am
+  Jn 8:58
+  πρὶν,Ἀβραὰμ,γενέσθαι,ἐγὼ,**εἰμί.**
+  prin,Abraam,genesthai,egō,**eimi.**
+  Before,Abraham,was,I,**I am.**
 
-
+*before Abraham was*, I AM.
 
 The following is an example of the participle eimi being used as a linking verb.
 Mk 2:26
 
-Table VL-5
+Table VL-6
 
 ἔδωκεν καὶ τοῖς σὺν αὐτῷ οὖσιν
 edōken kai tois syn autō ousin
