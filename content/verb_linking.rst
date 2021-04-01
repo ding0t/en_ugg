@@ -9,7 +9,7 @@ Glossary
 
 --------
 
-Linking verbs "*link"* the subject of the sentence by showing a
+Linking verbs *"link"* the subject of the sentence by showing a
 relationship with another noun, pronoun, or adjective. Most verbs show
 action. Linking verbs show relationship. [Example: David **is** King
 of Israel. The linking verb **"is"** shows a relationship between **David**
@@ -71,7 +71,7 @@ The following is an example of εἰμί (to be) used as a linking verb.
 *Jesus said to them,* “**I am** *the bread of life*
 
 
-The following is an example of εἰμί (to be) used as a transitive verb with a participle phrase ἔχων“one having” 
+The following is an example of εἰμί (to be) used as a transitive verb with a participle phrase ἔχων “one having” 
 as the object of the subject of the sentence.   This is also an example of how a verb may function one way in the
 Greek language and a different way in a different language.   
 
@@ -111,7 +111,7 @@ The following are two examples of εἰμί as an intransitive verb.
 
 *before Abraham was*, **I AM.**
 
-The following is an example of the participle form of εἰμί (οὖσιν) being used as a linking verb.
+The following is an example of a participle form of εἰμί (οὖσιν) being used as a linking verb.
 
 
 .. csv-table:: Table VL-6
