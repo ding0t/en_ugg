@@ -5,7 +5,8 @@
 Verb linking
 ============
 
-Glossary            [U N D E R   C O N S T R U C T I O N] 
+Glossary    
+
 --------
 
 Linking verbs "*link"* the subject of the sentence by showing a
@@ -56,6 +57,7 @@ There are 2,597 linking verbs in the New Testament.
   *	And the remaining 60 occurrences are with 18 different verbs.
 
 The reader should keep in mind; A verb may be transitive, intransitive or linking depending on its function in the sentence.  For example εἰμί occurs 2,458 times in the New Testament, but only 2,129 times does εἰμί  function as a linking verb.  εἰμί occurs as an intransitive verb or as a transitive verb the other 329 times. 
+
 The following is an example of εἰμί (to be) used as a linking verb.
 
 .. csv-table:: Table VL-2
@@ -69,7 +71,7 @@ The following is an example of εἰμί (to be) used as a linking verb.
 *Jesus said to them,* “**I am** *the bread of life*
 
 
-The following is an example of εἰμί (to be) used as a transitive verb with a participle phrase “teaching them” 
+The following is an example of εἰμί (to be) used as a transitive verb with a participle phrase ἔχων“one having” 
 as the object of the subject of the sentence.   This is also an example of how a verb may function one way in the
 Greek language and a different way in a different language.   
 
@@ -109,7 +111,7 @@ The following are two examples of εἰμί as an intransitive verb.
 
 *before Abraham was*, **I AM.**
 
-The following is an example of the participle eimi being used as a linking verb.
+The following is an example of the participle form of εἰμί (οὖσιν) being used as a linking verb.
 
 
 .. csv-table:: Table VL-6
