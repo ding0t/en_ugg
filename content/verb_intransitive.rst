@@ -9,16 +9,16 @@ Glossary
 --------
 
 Intransitive verbs are verbs that do not take a direct object.
-Most verbs in the passive tense will be intransitive. 
-(There are a few exceptions). [ example: I **stand**.  “*Stand” is intransitive.]
+(There are a few exceptions). [ example: I **stand**.  “*Stand*” is an intransitive verb in the sentence:  "I stand."]
+Most verbs in the passive tense will be intransitive, but there are a few exceptions. 
 
 .. csv-table:: Table - Intran 1
   :header-rows: 1
 
   Matthew 2:4
   ποῦ,...,ὁ,χριστὸς,**γεννᾶται** 
-  pou,...,ho,christos,**gennatai**
-  where,[is],the,christ,**to be born**  
+  pou,...,ho,Christos,**gennatai**
+  where,[is],the,Christ,**to be born**  
 
 
 *Where is the Christ* **to be born**?
@@ -33,10 +33,10 @@ Verbs may be classified as :ref:`Transitive<verb_transitive>` , **Intransitive**
 Linking verbs may also be referred to as *equative* verbs.
 
 Transitive verbs require an object for the action of the verb. The object may be stated or implied.  The action of the verb
- is carried over into (or onto) an object of the verb.  Therefore, transitive verbs will always have an object for the verb.  
+is carried over into (or onto) an object of the verb.  Therefore, transitive verbs will always have an object for the verb.  
 
 *Intransitive verbs* do not take an object.  
-The verbal idea of the verb determines if a verb is transitive or intransitive.
+The verbal idea of the verb determines if a verb is *transitive* or *intransitive.*
 Intransitive verbs may appear in the active, middle, or passive voice. Although most verbs in the passive voice are
 intransitive, there are a few instances where a verb in the passive voice is transitive.
 
@@ -58,21 +58,22 @@ Some verbs can be transitive in one sentence and intransitive in another sentenc
 πίστευω is a verb which was intransitive in the preceding example, but is transitive in the following example.   
 Generally passive verbs are intransitive, but this is not always the case.
 
-The following is an example where πίστευω is transitive.
+The following is an example where πίστευω is transitive.  The sentence starts in verse 4 and ends with verse 7. 
+The table below omits most of the sentence in order to place the subject and verb together.
 
-.. csv-table:: Table Intran 3
+.. csv-table:: Table - Intran 3
   :header-rows: 1
 
-  1 Corinthians 13:7
-  ἡ,ἀγάπη,πάντα,**πιστεύει**
-  hē,agapē,panta,**pisteuei**
-  the,love,all (things),**it believes**
+  1 Corinthians 13:4,7
+  ἡ,ἀγάπη,...,πάντα,**πιστεύει**
+  hē,agapē,...,panta,**pisteuei**
+  the,love,...,all (things),**it believes**
 
-*Love* **believes** *all things.*
+*Love* ... **believes** *all things.*
 
 The following is an example of a passive verb (πείθομαι) that is transitive.
 
-.. csv-table:: Intran 4
+.. csv-table:: Table - Intran 4
   :header-rows: 1
 
   Acts 26:26
@@ -82,4 +83,4 @@ The following is an example of a passive verb (πείθομαι) that is transit
 
 I cannot believe that any of these things  ... *have escaped him*
 
-or stated positively   [for **I am persuaded/convinced**] that none of these things *have escaped him*
+or stated positively   "for **I am persuaded/convinced** that none of these things *have escaped him*"
