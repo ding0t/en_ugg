@@ -9,7 +9,7 @@ Glossary
 --------
 
 Intransitive verbs are verbs that do not take a direct object.
-(There are a few exceptions). [ example: I **stand**.  “*Stand*” is an intransitive verb in the sentence:  "I stand."]
+[ example: I **stand**.  “*Stand*” is an intransitive verb in the sentence:  "I stand."]
 
 Most verbs in the passive tense will be intransitive, but there are a few exceptions. 
 
@@ -53,7 +53,7 @@ intransitive, there are a few instances where a verb in the passive voice is tra
 
 *Do not* **fear**, *only* **believe!**
 
-[Note:  in this sentence both *φοβοῦ* and *πίστευε* are intransitive verbs.
+[Note:  in this sentence both *φοβοῦ* and *πίστευε* are intransitive verbs.]
 
 Some verbs can be transitive in one sentence and intransitive in another sentence.   
 πίστευω is a verb which was intransitive in the preceding example, but is transitive in the following example.   
