@@ -1,5 +1,11 @@
 :github_url: https://git.door43.org/unfoldingWord/en_ugg/src/branch/master/content/index.rst
 
+.. image:: https://cdn.door43.org/assets/uw-icons/logo-ugg-256.png
+   :height: 100px
+   :width: 100px
+   :alt: unfoldingWord® Greek Grammar Logo
+   :align: center
+
 unfoldingWord Greek Grammar
 ============================
 
