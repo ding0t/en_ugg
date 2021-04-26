@@ -17,7 +17,7 @@ Most verbs in the passive tense will be intransitive, but there are a few except
   :header-rows: 1
 
   Matthew 2:4
-  ποῦ,...,ὁ,χριστὸς,**γεννᾶται** 
+  ποῦ,...,ὁ,Χριστὸς,**γεννᾶται** 
   pou,...,ho,Christos,**gennatai**
   where,[is],the,Christ,**to be born**  
 
