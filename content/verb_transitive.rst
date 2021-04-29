@@ -78,7 +78,7 @@ Some verbs can be transitive in one sentence and intransitive in another sentenc
 
 
 Tables 4a and 4b Case of Direct object may vary
-##
+_______________________________________________
 
 The following two tables (4a and 4b) are an example of a sentence with three different transitive verbs.  
 ἀκούω takes its object in the Genitive case.  γινώσκω takes its object in the accusative case. 
