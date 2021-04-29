@@ -77,17 +77,20 @@ Some verbs can be transitive in one sentence and intransitive in another sentenc
 *and they all* **ate** *and were satisfied.*
 
 
+Tables 4a and 4b Case of Direct object may vary
+##
+
 The following two tables (4a and 4b) are an example of a sentence with three different transitive verbs.  
 ἀκούω takes its object in the Genitive case.  γινώσκω takes its object in the accusative case. 
 ἀκολουθἐω takes its object in the dative case.
 
 .. csv-table::  Table 4a
-:Header-rows: 1
+  :Header-rows: 1
 
-John 10:27a
-τὰ,πρόβατα,τὰ,ἐμὰ,τῆς,**φωνῆς**,μου,*ἀκούουσιν*
-ta,probata,ta,ema,tēs,**phōnēs**,mou,*akouousin*
-the,sheep,the,my,the,**voice**,my,*they hear*
+  John 10:27a
+  τὰ,πρόβατα,τὰ,ἐμὰ,τῆς,**φωνῆς**,μου,*ἀκούουσιν*
+  ta,probata,ta,ema,tēs,**phōnēs**,mou,*akouousin*
+  the,sheep,the,my,the,**voice**,my,*they hear*
 
 My sheep *hear* my **voice**;
 
