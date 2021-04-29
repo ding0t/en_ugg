@@ -81,7 +81,7 @@ The following two tables (4a and 4b) are an example of a sentence with three dif
 ἀκούω takes its object in the Genitive case.  γινώσκω takes its object in the accusative case. 
 ἀκολουθἐω takes its object in the dative case.
 
-..csv-table::  Table 4a
+.. csv-table::  Table 4a
 :Header-rows: 1
 
 John 10:27a
@@ -93,7 +93,7 @@ My sheep *hear* my **voice**;
 
 
 
-..csv-table::  Table 4b
+.. csv-table::  Table 4b
   :Header-rows: 1
 
   John 10:27b
