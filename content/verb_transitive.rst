@@ -33,9 +33,13 @@ Article
 Verbs may be classified as **Transitive**, :ref:`Intransitive<verb_intransitive>`, or :ref:`Linking<verb_linking>` . 
 Linking verbs may also be referred to as *equative verbs*.
 
-Transitive verbs require an object for the action of the verb. The object may be stated or implied.  
-The action of the verb is carried over into (or onto) an object of the verb.  Therefore, transitive verbs
-will always have an object for the verb.  
+Transitive verbs require an object for the action of the verb. Therefore, transitive verbs
+will always have an object for the verb.  The object may be stated or implied. The action of the verb is carried 
+over into (or onto) an object of the verb. The direct object is a noun (or noun phrase) that receives the action of the 
+transitive verb (participle, or infinitive).  Most verbs take their direct object in the acusative case, but some 
+verbs take their dirct object in the genetive or dative case. 
+[See `Dative_Direct_object<https://ugg.readthedocs.io/en/latest/case_dative.html#id3>` or 
+`Genitive_Subject-Object<https://ugg.readthedocs.io/en/latest/case_genitive.html#id3>` and tables Tran 4a and 4b below.]
 
 Intransitive verbs do not take an object.  
 The verbal idea of the verb determines if a verb is transitive or intransitive.
@@ -71,3 +75,29 @@ Some verbs can be transitive in one sentence and intransitive in another sentenc
 
 *and they all* **ate** *and were satisfied.*
 
+
+The following two tables (4a and 4b) are an example of a sentence with three different transitive verbs.  
+ἀκούω takes its object in the Genitive case.  γινώσκω takes its object in the accusative case. 
+ἀκολουθἐω takes its object in the dative case.
+
+..csv-table::  Table 4a
+:Header-rows: 1
+
+John 10:27a
+τὰ,πρόβατα,τὰ,ἐμὰ,τῆς,**φωνῆς**,μου,*ἀκούουσιν*
+ta,probata,ta,ema,tēs,**phōnēs**,mou,*akouousin*
+the,sheep,the,my,the,**voice**,my,*they hear*
+
+My sheep *hear* my **voice**;
+
+
+
+..csv-table::  Table 4b
+  :Header-rows: 1
+
+  John 10:27b
+  κἀγὼ,*γινώσκω*,**αὐτά**,καὶ,*ἀκολουθοῦσίν*,**μοι**
+  kagō,*ginōskō*,**auta**,kai,*akolouthousin*,**moi**
+  and I,*I Know*,**them**,and,*they follow*,**me**
+
+  and I *know* **them**, and they *follow* **me**.
