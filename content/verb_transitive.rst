@@ -36,10 +36,11 @@ Linking verbs may also be referred to as *equative verbs*.
 Transitive verbs require an object for the action of the verb. Therefore, transitive verbs
 will always have an object for the verb.  The object may be stated or implied. The action of the verb is carried 
 over into (or onto) an object of the verb. The direct object is a noun (or noun phrase) that receives the action of the 
-transitive verb (participle, or infinitive).  Most verbs take their direct object in the acusative case, but some 
-verbs take their dirct object in the genetive or dative case. 
-[See `Dative_Direct_object<https://ugg.readthedocs.io/en/latest/case_dative.html#id3>` or 
-`Genitive_Subject-Object<https://ugg.readthedocs.io/en/latest/case_genitive.html#id3>` and tables Tran 4a and 4b below.]
+transitive verb (participle, or infinitive).  
+
+Most verbs take their direct object in the acusative case, but some verbs take their dirct object in the genetive
+or dative case. [See `Dative_Direct_object <https://ugg.readthedocs.io/en/latest/case_dative.html#id3>` or 
+`Genitive_Subject-Object <https://ugg.readthedocs.io/en/latest/case_genitive.html#id3>` and tables Tran 4a and 4b below.]
 
 Intransitive verbs do not take an object.  
 The verbal idea of the verb determines if a verb is transitive or intransitive.
