@@ -39,8 +39,8 @@ over into (or onto) an object of the verb. The direct object is a noun (or noun 
 transitive verb (participle, or infinitive).  
 
 Most verbs take their direct object in the acusative case, but some verbs take their dirct object in the genetive
-or dative case. [See `Dative_Direct_object <https://ugg.readthedocs.io/en/latest/case_dative.html#id3>` or 
-`Genitive_Subject-Object <https://ugg.readthedocs.io/en/latest/case_genitive.html#id3>` and tables Tran 4a and 4b below.]
+or dative case. [See `Dative_Direct_object <https://ugg.readthedocs.io/en/latest/case_dative.html#id3>`_ or 
+`Genitive_Subject-Object <https://ugg.readthedocs.io/en/latest/case_genitive.html#id3>`_ and tables Tran 4a and 4b below.]
 
 Intransitive verbs do not take an object.  
 The verbal idea of the verb determines if a verb is transitive or intransitive.
