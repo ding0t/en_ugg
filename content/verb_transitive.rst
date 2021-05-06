@@ -36,7 +36,11 @@ Linking verbs may also be referred to as *equative verbs*.
 Transitive verbs require an object for the action of the verb. Therefore, transitive verbs
 will always have an object for the verb.  The object may be stated or implied. The action of the verb is carried 
 over into (or onto) an object of the verb. The direct object is a noun (or noun phrase) that receives the action of the 
-transitive verb (participle, or infinitive).  
+transitive verb.   
+
+  [Note]  Participles function as a verbal adjective and Infinitives function as a verbal noun.  Therefore participles and 
+  infinitives can act like a transitive verb and take a direct object because both participles and infinitives can function 
+  like a verb in a clause.  
 
 Most verbs take their direct object in the acusative case, but some verbs take their dirct object in the genetive
 or dative case. [See `Dative_Direct_object <https://ugg.readthedocs.io/en/latest/case_dative.html#id3>`_ or 
@@ -44,13 +48,15 @@ or dative case. [See `Dative_Direct_object <https://ugg.readthedocs.io/en/latest
 tables `Tables_4a_and_4b <https://ugg.readthedocs.io/en/latest/verb_transitive.html#tables-4a-and-4b-case-of-direct-object-may-vary>`_ below.]
 
 Intransitive verbs do not take an object.  
+
 The verbal idea of the verb determines if a verb is transitive or intransitive.
-Intransitive verbs may appear in the active, middle, or passive voice. Although most verbs in the passive voice are intransitive, there are a few instances where a verb in the passive voice is transitive.
+Intransitive verbs may appear in the active, middle, or passive voice. Although most verbs in the passive voice are 
+intransitive, there are a few instances where a verb in the passive voice is transitive.
 See :ref:`Intransitive<verb_intransitive>` verb.
 
 
 Some verbs can be transitive in one sentence and intransitive in another sentence.   
-ἐσθίω (2nd aorist ἔφαγον ) is a verb which can be both transitive or intransitive depending upon the context.
+ἐσθίω (2nd aorist of ἔφαγον ) is a verb which can be both transitive or intransitive depending upon the context.
 
 ἐσθέω is transitive in Matthew 12:4 
 
@@ -81,9 +87,11 @@ Some verbs can be transitive in one sentence and intransitive in another sentenc
 Tables 4a and 4b Case of Direct object may vary
 _______________________________________________
 
-The following two tables (4a and 4b) are an example of a sentence with three different transitive verbs.  
-ἀκούω takes its object in the Genitive case.  γινώσκω takes its object in the accusative case. 
-ἀκολουθἐω takes its object in the dative case.
+The following two tables (4a and 4b) are an example of a single sentence with three different transitive verbs.
+However, each verb takes its object in a different case.   
+  * ἀκούω (present active indicative third person plural *ἀκούουσιν*) takes its object in the Genitive case.  
+  * γινώσκω (present active indicative first person singular *γινώσκω*  ) takes its object in the accusative case. 
+  * ἀκολουθἐω (present active indicative third person plural *ἀκολουθοῦσίν*) takes its object in the dative case.
 
 .. csv-table::  Table 4a
   :Header-rows: 1
