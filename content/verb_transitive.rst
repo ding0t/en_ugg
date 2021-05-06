@@ -90,8 +90,8 @@ _______________________________________________
 The following two tables (4a and 4b) are an example of a single sentence with three different transitive verbs.
 However, each verb takes its object in a different case.   
   * ἀκούω (present active indicative third person plural *ἀκούουσιν*) takes its object in the Genitive case.  
-  * γινώσκω (present active indicative first person singular *γινώσκω*  ) takes its object in the accusative case. 
-  * ἀκολουθἐω (present active indicative third person plural *ἀκολουθοῦσίν*) takes its object in the dative case.
+  * γινώσκω (present active indicative first person singular *γινώσκω*  ) takes its object in the Accusative case. 
+  * ἀκολουθἐω (present active indicative third person plural *ἀκολουθοῦσίν*) takes its object in the Dative case.
 
 .. csv-table::  Table 4a
   :Header-rows: 1
