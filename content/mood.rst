@@ -2,7 +2,7 @@
 
 .. _mood:
 
-Mood      [ U N D E R    C O N S T R U C T I O N]  052521 1.02
+Mood      [ U N D E R    C O N S T R U C T I O N]  052521 1.15
 ====
 
 Glossary
@@ -22,11 +22,11 @@ Article       [U N D E R    C O N S T R U C T I O N]
 The mood of a verb represents its relation to reality as portrayed by the speaker.  
 An action (or an event) can be presented as being 1) real, or 2) potential.  
 
-  *	If the action is being portrayed as real (or actual), the indicative mood will be used. This 
+  *	If the action is being portrayed as real (or actual), the indicative mood will be used. This
     is the most frequent mood used in the New Testament and it occurs 15,643 times.
 
 
-    * This does not mean that the action portrayed is real.   The speaker could be lying. He 
+    * This does not mean that the action portrayed **is real**.   The speaker could be lying. He 
       could be telling a parable, a make-believe story, exaggerating, or just be wrong. In 
       all of these cases the statement is presented as being real. See table VM-2 below  
       or  `Indicative_Mood <https://ugg.readthedocs.io/en/latest/mood_indicative.html>`_
@@ -39,13 +39,11 @@ An action (or an event) can be presented as being 1) real, or 2) potential.
       as probable.  Verbs occur in the subjunctive mood 1,868 times.    
       See Table VM-3 below or `Subjunctive_Mood <https://ugg.readthedocs.io/en/latest/mood_subjunctive.html>`_
       
-
-
-  *	The optative mood is used to express something that is possible. It is therefore used 
-    to express a wish, something hoped for, or a prayer. (Although prayers may also be expressed
-     using the imperative mood)  The optative mood is the least used mood in the New Testament.  
-     Verbs occur in the optative mood only 70 times.  
-    See Table VM-4 below or  `Optative_Mood <https://ugg.readthedocs.io/en/latest/mood_optative.html>`_
+    *	The optative mood is used to express something that is possible. It is therefore used 
+      to express a wish, something hoped for, or a prayer. (Although prayers may also be expressed
+      using the imperative mood)  The optative mood is the least used mood in the New Testament.  
+      Verbs occur in the optative mood only 70 times.  
+      See Table VM-4 below or  `Optative_Mood <https://ugg.readthedocs.io/en/latest/mood_optative.html>`_
 
 
   * The imperative mood is used to express a command, but more generally when directing 
