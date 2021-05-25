@@ -2,7 +2,7 @@
 
 .. _mood:
 
-Mood      [ U N D E R    C O N S T R U C T I O N]  052521 3.50
+Mood      [ U N D E R    C O N S T R U C T I O N]  052521 34.37
 ====
 
 Glossary
@@ -38,10 +38,10 @@ An action (or an event) can be presented as being 1) real, or 2) potential.
       as probable.  Verbs occur in the subjunctive mood 1,868 times.    
       See Table VM-3 below or `Subjunctive_Mood <https://ugg.readthedocs.io/en/latest/mood_subjunctive.html>`_  
       
-    <br/>    
+        
 
 
-    *	The *optative mood* is used to express something that is possible. It is therefore used 
+    *	 The *optative mood* is used to express something that is possible. It is therefore used 
       to express a wish, something hoped for, or a prayer. (Prayers may also be expressed
       using the imperative mood.)  The optative mood is the least used mood in the New Testament.  
       Verbs occur in the optative mood only 70 times.  
