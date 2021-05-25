@@ -2,7 +2,7 @@
 
 .. _mood:
 
-Mood      [ U N D E R    C O N S T R U C T I O N]  052521 2.33
+Mood      [ U N D E R    C O N S T R U C T I O N]  052521 2.47
 ====
 
 Glossary
@@ -36,8 +36,7 @@ An action (or an event) can be presented as being 1) real, or 2) potential.
     * The *subjunctive mood* is used to portray a probable or desired action when the action 
       is viewed as being possible if certain conditions are met or if the action is viewed
       as probable.  Verbs occur in the subjunctive mood 1,868 times.    
-      See Table VM-3 below or `Subjunctive_Mood <https://ugg.readthedocs.io/en/latest/mood_subjunctive.html>`_    
-      </br>
+      See Table VM-3 below or `Subjunctive_Mood <https://ugg.readthedocs.io/en/latest/mood_subjunctive.html>`_      
 
 
     *	The *optative mood* is used to express something that is possible. It is therefore used 
@@ -109,12 +108,13 @@ _________________________________________
         <td class="tg-0lax">Speak!</td>
       </tr>
     </tbody>
-    </table></br>
+    </table></br></br>
 
 
 
 Examples of the four moods:
 ___________________________
+
 
 Indicative Example - Table VM-2
 ~~~~~~~~~~~~~~~~~~
@@ -145,7 +145,7 @@ Subjunctive Example - Table VM-3
 Optative Example - Table VM-4
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. csvtable:: Table VM-4   Optative mood 
+.. csv-table:: Table VM-4   Optative mood 
 
   Romans 3:4
   μὴ,**γένοιτο!**
