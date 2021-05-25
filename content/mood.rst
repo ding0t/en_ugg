@@ -2,7 +2,7 @@
 
 .. _mood:
 
-Mood      [ U N D E R    C O N S T R U C T I O N]
+Mood      [ U N D E R    C O N S T R U C T I O N]  052521 1.02
 ====
 
 Glossary
@@ -15,21 +15,21 @@ the verbal action in relation to reality. Greek has four
 The two remaining verb forms, the *infinitive* and the *participle*,
 technically do not have mood, but are often discussed in the same section as
 mood in Greek grammars and when parsing verbs.
-grammars.
 
 Article       [U N D E R    C O N S T R U C T I O N]
 -------
 
 The mood of a verb represents its relation to reality as portrayed by the speaker.  
-An action (or event) can be presented as being 1) real, or 2) potential.  
+An action (or an event) can be presented as being 1) real, or 2) potential.  
 
-  *	If the action is being portrayed as real (or actual), the indicative mood will be used. 
-  This is the most frequent mood used in the New Testament and it occurs 15,643 times.
+  *	If the action is being portrayed as real (or actual), the indicative mood will be used. This 
+  is the most frequent mood used in the New Testament and it occurs 15,643 times.
 
-    * This does not mean that the action portrayed is real.   The speaker could be lying. 
-    He could be telling a parable, a make-believe story, exaggerating, or just be wrong. 
-   In all of these cases the statement is presented as being real. See table VM-2 below  
-   or  `Indicative_Mood<https://ugg.readthedocs.io/en/latest/mood_indicative.html>`_
+
+    * This does not mean that the action portrayed is real.   The speaker could be lying. He 
+    could be telling a parable, a make-believe story, exaggerating, or just be wrong. In 
+    all of these cases the statement is presented as being real. See table VM-2 below  
+   or  `Indicative_Mood <https://ugg.readthedocs.io/en/latest/mood_indicative.html>`_
     
 
   * If an action is being portrayed as potential, the subjunctive, optative, or imperative mood will be used.  
@@ -37,14 +37,15 @@ An action (or event) can be presented as being 1) real, or 2) potential.
     * The subjunctive mood is used to portray a probable or desired action when the action 
       is viewed as being possible if certain conditions are met or if the action is viewed
       as probable.  Verbs occur in the subjunctive mood 1,868 times.    
-      See Table VM-3 below or `<Subjunctive_Mood<https://ugg.readthedocs.io/en/latest/mood_subjunctive.html>`_ 
+      See Table VM-3 below or `Subjunctive_Mood <https://ugg.readthedocs.io/en/latest/mood_subjunctive.html>`_
+      
 
 
   *	The optative mood is used to express something that is possible. It is therefore used 
     to express a wish, something hoped for, or a prayer. (Although prayers may also be expressed
      using the imperative mood)  The optative mood is the least used mood in the New Testament.  
      Verbs occur in the optative mood only 70 times.  
-    See Table VM-4 below or  `Optative_Mood<https://ugg.readthedocs.io/en/latest/mood_optative.html>`_
+    See Table VM-4 below or  `Optative_Mood <https://ugg.readthedocs.io/en/latest/mood_optative.html>`_
 
 
   * The imperative mood is used to express a command, but more generally when directing 
@@ -52,7 +53,7 @@ An action (or event) can be presented as being 1) real, or 2) potential.
     that action.   Prayers are often expressed in the imperative mood as are petitions 
     (or requests) to a superior when there is an expectation that the thing requested would 
     be something that the superior would grant.  Verbs occur in the imperative mood 1,877 times.  
-    See Table VM-5 below or https://ugg.readthedocs.io/en/latest/mood_imperative.html
+    See Table VM-5 below or `Imperative_Mood <https://ugg.readthedocs.io/en/latest/mood_imperative.html>`_
 
 
 The following chart should help to demonstrate these differences.
