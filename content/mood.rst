@@ -2,7 +2,7 @@
 
 .. _mood:
 
-Mood      [ U N D E R    C O N S T R U C T I O N]  052521 2.01
+Mood      [ U N D E R    C O N S T R U C T I O N]  052521 2.24
 ====
 
 Glossary
@@ -37,7 +37,8 @@ An action (or an event) can be presented as being 1) real, or 2) potential.
       is viewed as being possible if certain conditions are met or if the action is viewed
       as probable.  Verbs occur in the subjunctive mood 1,868 times.    
       See Table VM-3 below or `Subjunctive_Mood <https://ugg.readthedocs.io/en/latest/mood_subjunctive.html>`_    
-      
+      </UL>
+
 
     *	The *optative mood* is used to express something that is possible. It is therefore used 
       to express a wish, something hoped for, or a prayer. (Although prayers may also be expressed
@@ -115,43 +116,52 @@ _________________________________________
 Examples of the four moods:
 ___________________________
 
-Indicative Example
+Indicative Example - Table VM-2
+~~~~~~~~~~~~~~~~~~
 
-Table VM-2   Indicative mood
+.. cs-table:: Table VM-2   Indicative mood
 
-Mark 1:8
-ἐγὼ ἐβάπτισα ὑμᾶς ὕδατι
-egō ebaptisa hymas hydati
-I   I baptized             you     with water
+  Mark 1:8
+  ἐγὼ,**ἐβάπτισα**,ὑμᾶς,ὕδατι
+  egō,**ebaptisa**,hymas,hydati
+  I,**I baptized**,you,with water
 
-I baptized you with water
-
-
-Table VM-3   Subjunctive mood
-
-Mark 6:12
-καὶ ἐξελθόντες, ἐκήρυξαν ἵνα μετανοῶσιν
-kai exelthontes, ekēryxan hina metanoōsin
-and  having gone out  they proclaimed that   they should repent
-
-And having gone out, they proclaimed that people should repent.
+**I baptized** *you with water*
 
 
-Table VM-4   Optative mood 
+Subjunctive Example - Table VM-3
+~~~~~~~~~~~~~~~~~~~
 
-Romans 3:4
+.. cs-table:: Table VM-3   Subjunctive mood
 
-μὴ γένοιτο!
-mē genoito!
-Not  may it be
+  Mark 6:12
+  καὶ,ἐξελθόντες,ἐκήρυξαν,ἵνα,**μετανοῶσιν**
+  kai,exelthontes,ekēryxan,hina,**metanoōsin**
+  and,having gone out,they proclaimed,that,**they should repent**
 
-May it never be	 
+*And having gone out, they proclaimed that* **people should repent.**
 
-Table VM-5  Imperative mood
 
-Mark 16:15
-κηρύξατε τὸ εὐαγγέλιον πάσῃ τῇ κτίσει.
-kēryxate to euangelion pasē tē ktisei.
-You all preach the gospel to all the creation
+Optative Example - Table VM-4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-preach the gospel to the entire creation.
+.. cstable:: Table VM-4   Optative mood 
+
+  Romans 3:4
+  μὴ,**γένοιτο!**
+  mē,**genoito!**
+  Not,**may it be**
+
+**May it** *never* **be**	 
+
+Imperative Example - Table VM-5
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. cs-table:: Table VM-5  Imperative mood
+
+  Mark 16:15
+  **κηρύξατε**,τὸ,εὐαγγέλιον,πάσῃ,τῇ,κτίσει.
+  **kēryxate**,to,euangelion,pasē,tē,ktisei.
+  **You all preach**,the,gospel,to all,the creation
+
+**preach** *the gospel to the entire creation.*
