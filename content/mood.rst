@@ -24,12 +24,12 @@ The mood of a verb represents its relation to reality as portrayed by the speake
 An action (or event) can be presented as being 1) real, or 2) potential.  
 
   *	If the action is being portrayed as real (or actual), the indicative mood will be used. 
-    This is the most frequent mood used in the New Testament and it occurs 15,643 times.
+  This is the most frequent mood used in the New Testament and it occurs 15,643 times.
 
     * This does not mean that the action portrayed is real.   The speaker could be lying.
-     He could be telling a parable, a make-believe story, exaggerating, or just be wrong. 
-     In all of these cases the statement is presented as being real. 
-  See table VM-2 below  or   https://ugg.readthedocs.io/en/latest/mood_indicative.html
+  He could be telling a parable, a make-believe story, exaggerating, or just be wrong. 
+   In all of these cases the statement is presented as being real. 
+  See table VM-2 below  or   `https://ugg.readthedocs.io/en/latest/mood_indicative.html`_ 
 
   * If an action is being portrayed as potential, the subjunctive, optative, 
     or imperative mood will be used.  
@@ -37,7 +37,7 @@ An action (or event) can be presented as being 1) real, or 2) potential.
     * The subjunctive mood is used to portray a probable or desired action when the action 
       is viewed as being possible if certain conditions are met or if the action is viewed
       as probable.  Verbs occur in the subjunctive mood 1,868 times.    
-      See Table VM-3 below or https://ugg.readthedocs.io/en/latest/mood_subjunctive.html
+      See Table VM-3 below or `https://ugg.readthedocs.io/en/latest/mood_subjunctive.html`_ 
 
   *	The optative mood is used to express something that is possible. It is therefore used 
     to express a wish, something hoped for, or a prayer. (Although prayers may also be expressed
@@ -59,14 +59,57 @@ The following chart should help to demonstrate these differences.
 English Translation of Moods - Table VM-1
 _________________________________________
 
-.. CSV-Table:: Table VM-1  English Translation of Moods
-  :Header-rows: 1
+.. raw:: html
 
-  Table VM-1  English translation of moods
-  Moods,Indicative,Subjunctive,Optative,Imperative
-  Greek Example,λέγεις,λέγῃς,λέγοις,λέγε
-  Portrayal,Certain/actual/asserted,Probable/desired,Possible,intended
-  Translation,You speak/You are speaking,You might speak/you should be speaking,You may be speaking,Speak!
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-8zwo{font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-baqh" colspan="5"><span style="font-weight:bold">Table VM-1&nbsp;&nbsp;English Translation of Moods</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-1wig">Mood</td>
+        <td class="tg-1wig">Indicative</td>
+        <td class="tg-1wig">Subjunctive</td>
+        <td class="tg-1wig">Optative</td>
+        <td class="tg-1wig">Imperative</td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">Greek <br>Example</td>
+        <td class="tg-0lax">λέγεις</td>
+        <td class="tg-0lax">λέγῃς</td>
+        <td class="tg-0lax">λέγοις</td>
+        <td class="tg-0lax">λέγε</td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">Portrayal</td>
+        <td class="tg-0lax">Certain/Actual<br>Asserted</td>
+        <td class="tg-0lax">Probable/<br>desired</td>
+        <td class="tg-0lax">Possible</td>
+        <td class="tg-0lax">Intended</td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">Translation</td>
+        <td class="tg-0lax">You Speak/<br>You are speaking</td>
+        <td class="tg-0lax">You might<br>speak/<br>You should<br>be speaking</td>
+        <td class="tg-0lax">You may<br>be speaking</td>
+        <td class="tg-0lax">Speak!</td>
+      </tr>
+    </tbody>
+    </table>
+
 
 
 Examples of the four moods:
