@@ -2,7 +2,7 @@
 
 .. _mood:
 
-Mood      [ U N D E R    C O N S T R U C T I O N]  052521 1.55
+Mood      [ U N D E R    C O N S T R U C T I O N]  052521 2.01
 ====
 
 Glossary
@@ -36,8 +36,7 @@ An action (or an event) can be presented as being 1) real, or 2) potential.
     * The *subjunctive mood* is used to portray a probable or desired action when the action 
       is viewed as being possible if certain conditions are met or if the action is viewed
       as probable.  Verbs occur in the subjunctive mood 1,868 times.    
-      See Table VM-3 below or `Subjunctive_Mood <https://ugg.readthedocs.io/en/latest/mood_subjunctive.html>`_ 
-      
+      See Table VM-3 below or `Subjunctive_Mood <https://ugg.readthedocs.io/en/latest/mood_subjunctive.html>`_    
       
 
     *	The *optative mood* is used to express something that is possible. It is therefore used 
@@ -47,7 +46,7 @@ An action (or an event) can be presented as being 1) real, or 2) potential.
       See Table VM-4 below or  `Optative_Mood <https://ugg.readthedocs.io/en/latest/mood_optative.html>`_
 
 
-    * The *imperative mood* is used to express a command, but more generally when directing 
+    * The *imperative mood* is used to express a command, but more generally when directing
       someone to carry out an action which is dependent upon their choosing to carry out 
       that action.   Prayers are often expressed in the imperative mood as are petitions 
       (or requests) to a superior when there is an expectation that the thing requested would 
