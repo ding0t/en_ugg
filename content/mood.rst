@@ -2,7 +2,7 @@
 
 .. _mood:
 
-Mood      [ U N D E R    C O N S T R U C T I O N]  052521 1.45
+Mood      [ U N D E R    C O N S T R U C T I O N]  052521 1.55
 ====
 
 Glossary
@@ -31,28 +31,28 @@ An action (or an event) can be presented as being 1) real, or 2) potential.
       or  `Indicative_Mood <https://ugg.readthedocs.io/en/latest/mood_indicative.html>`_
     
 
-  * If an action is being portrayed as potential, the subjunctive, optative, or imperative mood will be used.  
+  * If an action is being portrayed as potential, the *subjunctive, optative*, or *imperative mood* will be used.  
 
-    * The subjunctive mood is used to portray a probable or desired action when the action 
+    * The *subjunctive mood* is used to portray a probable or desired action when the action 
       is viewed as being possible if certain conditions are met or if the action is viewed
       as probable.  Verbs occur in the subjunctive mood 1,868 times.    
       See Table VM-3 below or `Subjunctive_Mood <https://ugg.readthedocs.io/en/latest/mood_subjunctive.html>`_ 
       
       
 
-    *	The optative mood is used to express something that is possible. It is therefore used 
+    *	The *optative mood* is used to express something that is possible. It is therefore used 
       to express a wish, something hoped for, or a prayer. (Although prayers may also be expressed
       using the imperative mood)  The optative mood is the least used mood in the New Testament.  
       Verbs occur in the optative mood only 70 times.  
       See Table VM-4 below or  `Optative_Mood <https://ugg.readthedocs.io/en/latest/mood_optative.html>`_
 
 
-  * The imperative mood is used to express a command, but more generally when directing 
-    someone to carry out an action which is dependent upon their choosing to carry out 
-    that action.   Prayers are often expressed in the imperative mood as are petitions 
-    (or requests) to a superior when there is an expectation that the thing requested would 
-    be something that the superior would grant.  Verbs occur in the imperative mood 1,877 times.  
-    See Table VM-5 below or `Imperative_Mood <https://ugg.readthedocs.io/en/latest/mood_imperative.html>`_
+    * The *imperative mood* is used to express a command, but more generally when directing 
+      someone to carry out an action which is dependent upon their choosing to carry out 
+      that action.   Prayers are often expressed in the imperative mood as are petitions 
+      (or requests) to a superior when there is an expectation that the thing requested would 
+      be something that the superior would grant.  Verbs occur in the imperative mood 1,877 times.  
+      See Table VM-5 below or `Imperative_Mood <https://ugg.readthedocs.io/en/latest/mood_imperative.html>`_
 
 
 The following chart should help to demonstrate these differences.
