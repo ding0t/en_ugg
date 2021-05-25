@@ -2,7 +2,7 @@
 
 .. _mood:
 
-Mood      [ U N D E R    C O N S T R U C T I O N]  052521 1.28
+Mood      [ U N D E R    C O N S T R U C T I O N]  052521 1.35
 ====
 
 Glossary
@@ -22,8 +22,8 @@ Article       [U N D E R    C O N S T R U C T I O N]
 The mood of a verb represents its relation to reality as portrayed by the speaker.  
 An action (or an event) can be presented as being 1) real, or 2) potential.  
 
-  *	If the action is being portrayed as real (or actual), the indicative mood will be used. This 
-  is the most frequent mood used in the New Testament and it occurs 15,643 times.
+  *	If the action is being portrayed as real (or actual), the indicative mood will be used. This
+    is the most frequent mood used in the New Testament and it occurs 15,643 times.
 
 
     * This does not mean that the action portrayed **is real**.   The speaker could be lying. He 
@@ -37,8 +37,9 @@ An action (or an event) can be presented as being 1) real, or 2) potential.
     * The subjunctive mood is used to portray a probable or desired action when the action 
       is viewed as being possible if certain conditions are met or if the action is viewed
       as probable.  Verbs occur in the subjunctive mood 1,868 times.    
-      See Table VM-3 below or `Subjunctive_Mood <https://ugg.readthedocs.io/en/latest/mood_subjunctive.html>`_ </br>
-
+      See Table VM-3 below or `Subjunctive_Mood <https://ugg.readthedocs.io/en/latest/mood_subjunctive.html>`_ 
+      
+      </br>
 
     *	The optative mood is used to express something that is possible. It is therefore used 
       to express a wish, something hoped for, or a prayer. (Although prayers may also be expressed
