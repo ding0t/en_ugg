@@ -23,13 +23,13 @@ The mood of a verb represents its relation to reality as portrayed by the speake
 An action (or an event) can be presented as being 1) real, or 2) potential.  
 
   *	If the action is being portrayed as real (or actual), the indicative mood will be used. This 
-  is the most frequent mood used in the New Testament and it occurs 15,643 times.
+    is the most frequent mood used in the New Testament and it occurs 15,643 times.
 
 
     * This does not mean that the action portrayed is real.   The speaker could be lying. He 
-    could be telling a parable, a make-believe story, exaggerating, or just be wrong. In 
-    all of these cases the statement is presented as being real. See table VM-2 below  
-   or  `Indicative_Mood <https://ugg.readthedocs.io/en/latest/mood_indicative.html>`_
+      could be telling a parable, a make-believe story, exaggerating, or just be wrong. In 
+      all of these cases the statement is presented as being real. See table VM-2 below  
+      or  `Indicative_Mood <https://ugg.readthedocs.io/en/latest/mood_indicative.html>`_
     
 
   * If an action is being portrayed as potential, the subjunctive, optative, or imperative mood will be used.  
