@@ -39,7 +39,7 @@ An action (or an event) can be presented as being 1) real, or 2) potential.
       See Table VM-3 below or `Subjunctive_Mood <https://ugg.readthedocs.io/en/latest/mood_subjunctive.html>`_  
       
         
-
+    <br/>
 
     *	 The *optative mood* is used to express something that is possible. It is therefore used 
       to express a wish, something hoped for, or a prayer. (Prayers may also be expressed
