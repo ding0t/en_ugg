@@ -2,7 +2,7 @@
 
 .. _mood:
 
-Mood      [ U N D E R    C O N S T R U C T I O N]  052521 34.37
+Mood
 ====
 
 Glossary
@@ -16,7 +16,7 @@ The two remaining verb forms, the *infinitive* and the *participle*,
 technically do not have mood, but are often discussed in the same section as
 mood in Greek grammars and when parsing verbs.
 
-Article       [U N D E R    C O N S T R U C T I O N]
+Article
 -------
 
 The mood of a verb represents its relation to reality as portrayed by the speaker.  
@@ -33,24 +33,24 @@ An action (or an event) can be presented as being 1) real, or 2) potential.
 
   * If an action is being portrayed as potential, the *subjunctive, optative*, or *imperative mood* will be used.  
 
-    *  The *subjunctive mood* is used to portray a probable or desired action. It is used when the action 
-      is viewed as being possible if certain conditions are met. It may also be used if the action is viewed
-      as probable.  Verbs occur in the subjunctive mood 1,868 times.    
+    *  The *subjunctive mood* is used to portray a probable or desired action. Therefore it is used when the action
+      is viewed as being possible if certain conditions are met. It may also be used if the action is viewed as probable.
+      Verbs occur in the subjunctive mood 1,868 times.  
       See Table VM-3 below or `Subjunctive_Mood <https://ugg.readthedocs.io/en/latest/mood_subjunctive.html>`_  
      
      
-    *  The *optative mood* is used to express something that is possible. It is therefore used 
+    *  The *optative mood* is used to express something that is possible. Therefore, it is used 
       to express a wish, something hoped for, or a prayer. (Prayers may also be expressed
       using the imperative mood.)  The optative mood is the least used mood in the New Testament.  
       Verbs occur in the optative mood only 70 times.  
       See Table VM-4 below or  `Optative_Mood <https://ugg.readthedocs.io/en/latest/mood_optative.html>`_
 
 
-    *  The *imperative mood* is used to express a command.  In addition, the imperative mood is often used when directing
-      someone to carry out an action (if their carrying out that action is dependent upon an act of their will).
+    *  The *imperative mood* is used to express a command.  In addition, the imperative mood is often used when
+      directing someone to carry out an action (if their carrying out that action is dependent upon an act of their will).
       Prayers are often expressed in the imperative mood as are petitions. Requests to a superior are also expressed
-      in the imperative mood when there is an expectation that the thing requested would 
-      be something that the superior would grant.  Verbs occur in the imperative mood 1,877 times.  
+      in the imperative mood when there is an expectation that the thing requested would be something that the superior
+      would grant.  Verbs occur in the imperative mood 1,877 times.  
       See Table VM-5 below or `Imperative_Mood <https://ugg.readthedocs.io/en/latest/mood_imperative.html>`_
 
 
@@ -162,6 +162,6 @@ Imperative Example - Table VM-5
   Mark 16:15
   **κηρύξατε**,τὸ,εὐαγγέλιον,πάσῃ,τῇ,κτίσει.
   **kēryxate**,to,euangelion,pasē,tē,ktisei.
-  **You all preach**,the,gospel,to all,the creation
+  **You all preach**,the,gospel,to all,the,creation
 
 **preach** *the gospel to the entire creation.*
