@@ -33,10 +33,10 @@ An action (or an event) can be presented as being 1) real, or 2) potential.
 
   * If an action is being portrayed as potential, the *subjunctive, optative*, or *imperative mood* will be used.  
 
-    *  The *subjunctive mood* is used to portray a probable or desired action. Therefore it is used when the action
-    is viewed as being possible if certain conditions are met. It may also be used if the action is viewed as probable.
-     Verbs occur in the subjunctive mood 1,868 times.  
-     See Table VM-3 below or `Subjunctive_Mood <https://ugg.readthedocs.io/en/latest/mood_subjunctive.html>`_  
+    *  The *subjunctive mood* is used to portray a probable or desired action. Therefore it is used when the action 
+       is viewed as being possible if certain conditions are met. It may also be used if the action is viewed as probable.
+       Verbs occur in the subjunctive mood 1,868 times.  
+       See Table VM-3 below or `Subjunctive_Mood <https://ugg.readthedocs.io/en/latest/mood_subjunctive.html>`_  
      
      
     *  The *optative mood* is used to express something that is possible. Therefore, it is used 
