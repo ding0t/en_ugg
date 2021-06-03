@@ -36,7 +36,8 @@ An action (or an event) can be presented as being 1) real, or 2) potential.
     *  The *subjunctive mood* is used to portray a probable or desired action. Therefore it is used when the action 
        is viewed as being possible if certain conditions are met. It may also be used if the action is viewed as probable.
        Verbs occur in the subjunctive mood 1,868 times.  
-       See Table VM-3 below or `Subjunctive_Mood <https://ugg.readthedocs.io/en/latest/mood_subjunctive.html>`_  
+       See Table VM-3 below or `Subjunctive_Mood <https://ugg.readthedocs.io/en/latest/mood_subjunctive.html>`_
+
      
      
     *  The *optative mood* is used to express something that is possible. Therefore, it is used 
@@ -47,11 +48,11 @@ An action (or an event) can be presented as being 1) real, or 2) potential.
 
 
     *  The *imperative mood* is used to express a command.  In addition, the imperative mood is often used when
-      directing someone to carry out an action (if their carrying out that action is dependent upon an act of their will).
-      Prayers are often expressed in the imperative mood as are petitions. Requests to a superior are also expressed
-      in the imperative mood when there is an expectation that the thing requested would be something that the superior
-      would grant.  Verbs occur in the imperative mood 1,877 times.  
-      See Table VM-5 below or `Imperative_Mood <https://ugg.readthedocs.io/en/latest/mood_imperative.html>`_
+       directing someone to carry out an action (if their carrying out that action is dependent upon an act of their will).
+       Prayers are often expressed in the imperative mood as are petitions. Requests to a superior are also expressed
+       in the imperative mood when there is an expectation that the thing requested would be something that the superior
+       would grant.  Verbs occur in the imperative mood 1,877 times.  
+       See Table VM-5 below or `Imperative_Mood <https://ugg.readthedocs.io/en/latest/mood_imperative.html>`_
 
 
 The following chart should help to demonstrate these differences.
