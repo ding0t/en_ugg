@@ -55,10 +55,8 @@ An action (or an event) can be presented as being 1) real, or 2) potential.
 
            *  Prayers are often expressed in the imperative mood as are petitions. 
            *  Requests to a superior are also expressed in the imperative mood when there is an expectation that the thing requested would be something that the superior would grant.  
-           *  Verbs occur in the imperative mood 1,877 times.
-
-
-          See Table VM-5 below or `Imperative_Mood <https://ugg.readthedocs.io/en/latest/mood_imperative.html>`_
+           *  Verbs occur in the imperative mood 1,877 times. 
+           *  See Table VM-5 below or `Imperative_Mood <https://ugg.readthedocs.io/en/latest/mood_imperative.html>`_
 
 
 The following chart should help to demonstrate these differences.
