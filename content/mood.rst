@@ -8,8 +8,7 @@ Mood
 Glossary
 --------
 
-**Mood** is a feature of the verb which indicates the manner that the speaker portrays
-the verbal action in relation to reality. Greek has four
+**Mood** is a feature of the verb that indicates the manner in which the speaker is portraying the verbal action in relation to reality." Greek has four
 **moods**: *indicative*, *imperative*, *subjunctive*, and *optative*.
 
 The two remaining verb forms, the *infinitive* and the *participle*,
@@ -50,7 +49,8 @@ An action (or an event) can be presented as being 1) real, or 2) potential.
       *  See Table VM-4 below or  `Optative_Mood <https://ugg.readthedocs.io/en/latest/mood_optative.html>`_
     
     
-    *  The **imperative mood** is used to express a command.  
+    *  The **imperative mood** is used to express a command. 
+
          In addition, the imperative mood is often used when directing someone to carry out an action (if their carrying out that action is dependent upon an act of their will).
 
            *  Prayers are often expressed in the imperative mood as are petitions. 
@@ -101,7 +101,7 @@ _________________________________________
       <tr>
         <td class="tg-8zwo">Portrayal</td>
         <td class="tg-0lax">Certain/Actual<br>Asserted</td>
-        <td class="tg-0lax">Probable/<br>desired</td>
+        <td class="tg-0lax">Probable/<br>Desired</td>
         <td class="tg-0lax">Possible</td>
         <td class="tg-0lax">Intended</td>
       </tr>
