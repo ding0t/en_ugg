@@ -100,7 +100,7 @@ _________________________________________
       </tr>
       <tr>
         <td class="tg-8zwo">Portrayal</td>
-        <td class="tg-0lax">Certain/Actual<br>Asserted</td>
+        <td class="tg-0lax">Certain/Actual<br>or Asserted</td>
         <td class="tg-0lax">Probable/<br>Desired</td>
         <td class="tg-0lax">Possible</td>
         <td class="tg-0lax">Intended</td>
