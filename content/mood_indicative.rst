@@ -5,7 +5,7 @@
 Mood indicative
 ===============
 
-Glossary              [DRAFT  - UNDER CONSTRUCTION]
+Glossary              [DRAFT  - UNDER CONSTRUCTION] 11.18
 --------
 
 The **indicative mood** indicates that the speaker is portraying or speaking as
@@ -16,8 +16,7 @@ Example:
 **Table VM-1   Indicative example**
 
 .. csv-table:: VM-1 Indicative Example
-  :header-rows: 1
-
+  
   Matthew 3:11
   ἐγὼ,μὲν,ὑμᾶς,**βαπτίζω**,ἐν,ὕδατι,εἰς,μετάνοιαν
   egō,men,hymas,**baptizō**,en,hydati,eis, metanoian
@@ -35,7 +34,7 @@ a make-believe story, exaggerating, or just be wrong.  In all of these cases the
 
 The indicative mood may be used in:
 
-  #.	Declarative statements
+  #.	Declarative statements [See :ref:`Declarative<declarative-indicative>`]
   #.	Interrogative statements (or questions)
   #.	Conditional statements, or 
   #.	Imperatives
@@ -48,7 +47,7 @@ A declarative statement makes a statement or assertion.  This is the most common
 
 Example:
 Table VM-2  Declarative Indicative
-####
+##################################
 
 .. csv-table:: Table VM-2 Declarative Indicative
   :header-rows: 1
@@ -62,24 +61,33 @@ Table VM-2  Declarative Indicative
 
 
  Interrogative Indicative
+ ~~~~~~~~~~~~~~~~~~~~~~~~
 
-The indicative mood may be used in a question when it expects a declarative response. It assumes that there is a factual response to the question.
+The indicative mood may be used in a question when it expects a declarative response.
+It assumes that there is a factual response to the question.
 
 Example:
 
 Table VM-3   Interrogative Indicative
+#####################################
 
-John 1:38
-λέγει αὐτοῖς, "τί ζητεῖτε?"
-legei autois, "ti zēteite?"
-He said to them  what  do you seek
+.. csv-table:: Table VM-3 Interrogative Indicative
 
-What do you seek?”
+  John 1:38
+  **λέγει**,αὐτοῖς,"τί,ζητεῖτε?"
+  **legei**,autois,"ti,zēteite?"
+  **He says**,to them,what,do you seek
+
+**He said** to them, "What do you seek?”
 
 
 Conditional Statement- Indicative
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A verb in the indicative mood may be used in the first part of a conditional statement (known as the protasis or the “if clause”),   In this case the clause usually begins with ἐι (if).  Often it will contain the particle ἀν (a non-translatable particle which makes a statement conditional) in the apodosis (or the “then clause”).   It is appropriate for the indicative mood to be used in the protasis because it is being presented as reality (If this is so, then this.)
+A verb in the indicative mood may be used in the first part of a conditional statement (known as the protasis or the “if clause”),
+In this case the clause usually begins with ἐι (if).  Often it will contain the particle ἀν (a non-translatable particle
+which makes a statement conditional) in the apodosis (or the “then clause”).   It is appropriate for the indicative mood
+to be used in the protasis because it is being presented as reality (If this is so, then this.)
 
   Example
 John 5:46
