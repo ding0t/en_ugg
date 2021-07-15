@@ -46,6 +46,7 @@ Declarative indicative
 A declarative statement makes a statement or assertion.  This is the most common use of the indicative mood.
 
 Example:
+
 #### Table VM-2  Declarative Indicative
 
 .. csv-table:: Table VM-2 Declarative Indicative
