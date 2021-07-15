@@ -5,7 +5,7 @@
 Mood indicative
 ===============
 
-Glossary              [DRAFT  - UNDER CONSTRUCTION] 11.52
+Glossary              [DRAFT  - UNDER CONSTRUCTION] 12.06
 --------
 
 The **indicative mood** indicates that the speaker is portraying or speaking as
@@ -62,8 +62,8 @@ Table VM-2  Declarative Indicative
 *In the beginning* **was** *the Word*
 
 
- Interrogative Indicative
- ~~~~~~~~~~~~~~~~~~~~~~~~
+Interrogative Indicative
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 The indicative mood may be used in a question when it expects a declarative response.
 It assumes that there is a factual response to the question.
@@ -71,7 +71,7 @@ It assumes that there is a factual response to the question.
 Example:
 
 Table VM-3   Interrogative Indicative
-#####################################
+####
 
 .. csv-table:: Table VM-3 Interrogative Indicative
 
@@ -86,18 +86,27 @@ Table VM-3   Interrogative Indicative
 Conditional Statement- Indicative
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A verb in the indicative mood may be used in the first part of a conditional statement (known as the protasis or the “if clause”),
-In this case the clause usually begins with ἐι (if).  Often it will contain the particle ἀν (a non-translatable particle
-which makes a statement conditional) in the apodosis (or the “then clause”).   It is appropriate for the indicative mood
-to be used in the protasis because it is being presented as reality (If this is so, then this.)
+A verb in the indicative mood may be used in the first part of a conditional statement
+(known as the protasis or the “if clause”). In this case the clause usually begins with ἐι (if).
+Often it will contain the particle ἀν (a non-translatable particle which makes a statement conditional)
+in the apodosis (or the “then clause”).
 
-  Example
-John 5:46
-εἰ γὰρ ἐπιστεύετε Μωϋσεῖ, ἐπιστεύετε ἂν ἐμοί
-ei gar episteuete Mōusei, episteuete an emoi
-if for   you believed Moses  you would have believed  me
+It is appropriate for the indicative mood to be used in the protasis because it is being presented as reality.
+(If this is so, then this.)
 
-For if you believed Moses, you would believe me 
+Example:
+
+Table VM-4 Conditional Statement Indicative
+####
+
+.. CS-table:: VM-4 Conditional Statement indicative
+
+  John 5:46
+  εἰ,γὰρ,**ἐπιστεύετε**,Μωϋσεῖ,ἐπιστεύετε,ἂν,ἐμοί
+  ei,gar,**episteuete**,Mōusei,episteuete,an,emoi
+  if,for,**you believed**,Moses,you would have believed,,me
+
+*For if* **you believed** *Moses, you would believe me* 
 
 
 Imperative Indicative
