@@ -5,7 +5,7 @@
 Mood indicative
 ===============
 
-Glossary              [DRAFT  - UNDER CONSTRUCTION] 11.36
+Glossary              [DRAFT  - UNDER CONSTRUCTION] 11.52
 --------
 
 The **indicative mood** indicates that the speaker is portraying or speaking as
@@ -47,7 +47,9 @@ A declarative statement makes a statement or assertion.  This is the most common
 
 Example:
 
-#### Table VM-2  Declarative Indicative
+Table VM-2  Declarative Indicative
+####
+
 
 .. csv-table:: Table VM-2 Declarative Indicative
   :header-rows: 1
