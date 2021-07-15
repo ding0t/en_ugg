@@ -5,7 +5,7 @@
 Mood indicative
 ===============
 
-Glossary              [DRAFT  - UNDER CONSTRUCTION] 12.06
+Glossary              [DRAFT  - UNDER CONSTRUCTION] 1.29
 --------
 
 The **indicative mood** indicates that the speaker is portraying or speaking as
@@ -34,9 +34,9 @@ a make-believe story, exaggerating, or just be wrong.  In all of these cases the
 
 The indicative mood may be used in:
 
-  #.	Declarative statements [See :ref:`Declarative<declarative-indicative>`]
-  #.	Interrogative statements (or questions)
-  #.	Conditional statements, or 
+  #.	Declarative statements [See :ref:`Declarative <declarative-indicative>`]
+  #.	Interrogative statements (or questions) [See :ref:`Interrogative-indicative <interrogative-indicative>` ]
+  #.	Conditional statements, [ See :ref:`Conditional Statement <conditional-statement-indicative>` ,or 
   #.	Imperatives
 
 
@@ -76,8 +76,8 @@ Table VM-3   Interrogative Indicative
 .. csv-table:: Table VM-3 Interrogative Indicative
 
   John 1:38
-  **λέγει**,αὐτοῖς,"τί,ζητεῖτε?"
-  **legei**,autois,"ti,zēteite?"
+  **λέγει**,αὐτοῖς,τί,ζητεῖτε?
+  **legei**,autois,ti,zēteite?
   **He says**,to them,what,do you seek
 
 **He said** to them, "What do you seek?”
@@ -110,14 +110,21 @@ Table VM-4 Conditional Statement Indicative
 
 
 Imperative Indicative
+~~~~~~~~~~~~~~~~~~~~~
 
 The future indicative is sometimes used to express a command.
 
 Example:
-Matthew 19:18
-ὁ δὲ Ἰησοῦς εἶπεν, τὸ "οὐ φονεύσεις, οὐ μοιχεύσεις
-ho de Iēsous eipen, to "ou phoneuseis, ou moicheuseis
-the but Jesus he said the not you will kill, not you will commit adultery
 
-But Jesus said, “Do not kill, do not commit adultery
+Table VM-5  Imperative Indicative
+####
+
+.. cs-table:: Imperative Indicative
+
+  Matthew 19:18
+  ὁ,δὲ,Ἰησοῦς,εἶπεν,τὸ,οὐ,**φονεύσεις**,οὐ,**μοιχεύσεις**
+  ho,de,Iēsous,eipen,to,ou,**phoneuseis**,ou,**moicheuseis**
+  the,but,Jesus,he said,the,not,**you will kill**,not,**you will commit adultery**
+
+*But Jesus said,* “**Do not kill**, **do not commit adultery**
 
