@@ -5,7 +5,7 @@
 Mood indicative
 ===============
 
-Glossary              [DRAFT  - UNDER CONSTRUCTION] 1.42
+Glossary              [DRAFT  - UNDER CONSTRUCTION] 2.00
 --------
 
 The **indicative mood** indicates that the speaker is portraying or speaking as
@@ -34,10 +34,10 @@ a make-believe story, exaggerating, or just be wrong.  In all of these cases the
 
 The indicative mood may be used in:
 
-  #.	Declarative statements [See `Declarative_Indicative <https://ugg.readthedocs.io/en/latest/mood_indicative.html#declarative-indicative>` ]
-  #.	Interrogative statements (or questions) [See :ref:`Interrogative-indicative<interrogative-indicative>` ]
-  #.	Conditional statements, [ See :ref:`Conditional Statement <conditional-statement-indicative>` ,or 
-  #.	Imperatives
+  #.	Declarative statements [See `Declarative_Indicative <https://ugg.readthedocs.io/en/latest/mood_indicative.html#declarative-indicative>`_ ]
+  #.	Interrogative statements (or questions) [See `Interrogative-indicative <https://ugg.readthedocs.io/en/latest/mood_indicative.html#interrogative-indicative>`_ ]
+  #.	Conditional statements, [ See `Conditional Statement <https://ugg.readthedocs.io/en/latest/mood_indicative.html#conditional-statement-indicative>`_ ,or 
+  #.	Imperatives [See `Imperative Indicative <https://ugg.readthedocs.io/en/latest/mood_indicative.html#imperative-indicative>`_]
 
 
 Declarative indicative
