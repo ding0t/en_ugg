@@ -5,7 +5,7 @@
 Mood indicative
 ===============
 
-Glossary              [DRAFT  - UNDER CONSTRUCTION] 1.29
+Glossary              [DRAFT  - UNDER CONSTRUCTION] 1.42
 --------
 
 The **indicative mood** indicates that the speaker is portraying or speaking as
@@ -34,8 +34,8 @@ a make-believe story, exaggerating, or just be wrong.  In all of these cases the
 
 The indicative mood may be used in:
 
-  #.	Declarative statements [See :ref:`Declarative <declarative-indicative>`]
-  #.	Interrogative statements (or questions) [See :ref:`Interrogative-indicative <interrogative-indicative>` ]
+  #.	Declarative statements [See `Declarative_Indicative <https://ugg.readthedocs.io/en/latest/mood_indicative.html#declarative-indicative>` ]
+  #.	Interrogative statements (or questions) [See :ref:`Interrogative-indicative<interrogative-indicative>` ]
   #.	Conditional statements, [ See :ref:`Conditional Statement <conditional-statement-indicative>` ,or 
   #.	Imperatives
 
@@ -99,7 +99,7 @@ Example:
 Table VM-4 Conditional Statement Indicative
 ####
 
-.. CS-table:: VM-4 Conditional Statement indicative
+.. CSv-table:: VM-4 Conditional Statement indicative
 
   John 5:46
   εἰ,γὰρ,**ἐπιστεύετε**,Μωϋσεῖ,ἐπιστεύετε,ἂν,ἐμοί
@@ -119,7 +119,7 @@ Example:
 Table VM-5  Imperative Indicative
 ####
 
-.. cs-table:: Imperative Indicative
+.. csv-table:: Imperative Indicative
 
   Matthew 19:18
   ὁ,δὲ,Ἰησοῦς,εἶπεν,τὸ,οὐ,**φονεύσεις**,οὐ,**μοιχεύσεις**
