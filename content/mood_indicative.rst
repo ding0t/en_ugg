@@ -5,7 +5,7 @@
 Mood indicative
 ===============
 
-Glossary
+Glossary              [DRAFT  - UNDER CONSTRUCTION]
 --------
 
 The **indicative mood** indicates that the speaker is portraying or speaking as
@@ -18,10 +18,10 @@ Example:
 .. csv-table:: VM-1 Indicative Example
   :header-rows: 1
 
-Matthew 3:11
-ἐγὼ,μὲν,ὑμᾶς,**βαπτίζω**,ἐν,ὕδατι,εἰς,μετάνοιαν
-egō,men,hymas,**baptizō**,en,hydati,eis, metanoian
-I,indeed,you,**I baptize**,with,water,into,repentance
+  Matthew 3:11
+  ἐγὼ,μὲν,ὑμᾶς,**βαπτίζω**,ἐν,ὕδατι,εἰς,μετάνοιαν
+  egō,men,hymas,**baptizō**,en,hydati,eis, metanoian
+  I,indeed,you,**I baptize**,with,water,into,repentance
 
 **I baptize** *you with water for repentance*
 
@@ -53,10 +53,10 @@ Table VM-2  Declarative Indicative
 .. csv-table:: Table VM-2 Declarative Indicative
   :header-rows: 1
 
-John 1:1
-ἐν,ἀρχῇ,**ἦν**,ὁ,λόγος
-en,archē,**ēn**,ho,logos
-in,beginning,**it was**,the,word
+  John 1:1
+  ἐν,ἀρχῇ,**ἦν**,ὁ,λόγος
+  en,archē,**ēn**,ho,logos
+  in,beginning,**it was**,the,word
 
 *In the beginning* **was** *the Word*
 
