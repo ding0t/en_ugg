@@ -5,11 +5,11 @@
 Mood indicative
 ===============
 
-Glossary              [DRAFT  - UNDER CONSTRUCTION] 9.52
+Glossary              [DRAFT  - UNDER CONSTRUCTION] 10.00
 --------
 
 The **indicative mood** indicates that the speaker is portraying or speaking as
-if the verbal action he is referring to is real (rather than only potential) (e.g., he is eating). 
+if the verbal action he is referring to is real (rather than only potential). 
 It is the most frequently used mood and is the *default mood* when there is no reason to use one of the other moods.
 
 Example:
@@ -76,11 +76,11 @@ Table VM-3   Interrogative Indicative
 .. csv-table:: Table VM-3 Interrogative Indicative
 
   John 1:38
-  **λέγει**,αὐτοῖς,τί,ζητεῖτε?
-  **legei**,autois,ti,zēteite?
-  **He says**,to them,what,do you seek
+  λέγει,αὐτοῖς,τί,**ζητεῖτε**?
+  legei,autois,ti,**zēteite**?
+  He says,to them,what,do you **seek**
 
-**He said** to them, "What do you seek?”
+*He said to them, "What* do you **seek**?”
 
 
 Conditional Statement- Indicative
