@@ -5,7 +5,7 @@
 Mood indicative
 ===============
 
-Glossary              [DRAFT  - UNDER CONSTRUCTION] 10.00
+Glossary              [DRAFT  - UNDER CONSTRUCTION] 10.00 (rev)
 --------
 
 The **indicative mood** indicates that the speaker is portraying or speaking as
