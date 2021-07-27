@@ -5,7 +5,7 @@
 Mood indicative
 ===============
 
-Glossary              [DRAFT  - UNDER CONSTRUCTION] 10.00 (rev)
+Glossary              
 --------
 
 The **indicative mood** indicates that the speaker is portraying or speaking as
@@ -83,6 +83,26 @@ Table VM-3   Interrogative Indicative
 *He said to them, "What* do you **seek**?”
 
 
+The following example ( Table VM-4) could be translated as a *Declarative Indicative*
+or an *Interrogative Indicative* based on the Greek Grammar.   The decission to translate this
+verse as a question (or interrogative) is based on the context. It should be also kept in mind 
+that the punctuation marks in the Greek text are not a part of the original text of the scripture,
+but are a helpful aide in our translation.
+
+Table VM-4  Interrogative based on context
+
+.. csv-table::  Table VM-4 Interrogative based on Context
+
+  Matthew 27:11
+  "σὺ,**εἶ**,ὁ,βασιλεὺς,τῶν,Ἰουδαίων?"
+  "sy,**ei**,ho,basileus,tōn,Ioudaiōn?"
+  you,**you are**,the,king,of the,Jews?
+
+**Are you** *the king of the Jews?*   or alternate translation based on grammar
+**"You are** *the king of the Jews."*
+[Note:  Context makes it clear that Pilate is asking a question and making a declaritive statement that Jesus is King of the Jews.]
+
+
 Conditional Statement- Indicative
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -126,5 +146,5 @@ Table VM-5  Imperative Indicative
   ho,de,Iēsous,eipen,to,ou,**phoneuseis**,ou,**moicheuseis**
   the,but,Jesus,he said,the,not,**you will kill**,not,**you will commit adultery**
 
-*But Jesus said,* “**Do not kill**, **do not commit adultery**
+*But Jesus said,* “**Do not kill**, **do not commit adultery**"
 
