@@ -15,7 +15,7 @@ It is the most frequently used mood and is the *default mood* when there is no r
 Example:
 **Table VM-1   Indicative example**
 
-.. csv-table:: VM-1 Indicative Example
+.. csv-table:: Table VM-1 Indicative Example
   
   Matthew 3:11
   ἐγὼ,μὲν,ὑμᾶς,**βαπτίζω**,ἐν,ὕδατι,εἰς,μετάνοιαν
@@ -92,14 +92,16 @@ but are a helpful aide in our translation.
 Table VM-4  Interrogative based on context
 
 .. csv-table::  Table VM-4 Interrogative based on Context
+  :header-rows: 1
 
   Matthew 27:11
-  "σὺ,**εἶ**,ὁ,βασιλεὺς,τῶν,Ἰουδαίων?"
-  "sy,**ei**,ho,basileus,tōn,Ioudaiōn?"
+  σὺ,**εἶ**,ὁ,βασιλεὺς,τῶν,Ἰουδαίων?
+  sy,**ei**,ho,basileus,tōn,Ioudaiōn?
   you,**you are**,the,king,of the,Jews?
 
 **Are you** *the king of the Jews?*   or alternate translation based on grammar
 **"You are** *the king of the Jews."*
+
 [Note:  Context makes it clear that Pilate is asking a question and making a declaritive statement that Jesus is King of the Jews.]
 
 
@@ -116,10 +118,10 @@ It is appropriate for the indicative mood to be used in the protasis because it 
 
 Example:
 
-Table VM-4 Conditional Statement Indicative
+Table VM-5 Conditional Statement Indicative
 ####
 
-.. CSv-table:: VM-4 Conditional Statement indicative
+.. CSv-table:: Table VM-5 Conditional Statement indicative
 
   John 5:46
   εἰ,γὰρ,**ἐπιστεύετε**,Μωϋσεῖ,ἐπιστεύετε,ἂν,ἐμοί
@@ -136,10 +138,10 @@ The future indicative is sometimes used to express a command.
 
 Example:
 
-Table VM-5  Imperative Indicative
+Table VM-6  Imperative Indicative
 ####
 
-.. csv-table:: Imperative Indicative
+.. csv-table:: Table VM-6 Imperative Indicative
 
   Matthew 19:18
   ὁ,δὲ,Ἰησοῦς,εἶπεν,τὸ,οὐ,**φονεύσεις**,οὐ,**μοιχεύσεις**
