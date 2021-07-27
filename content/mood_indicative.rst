@@ -99,7 +99,7 @@ Table VM-4  Interrogative based on context
   sy,**ei**,ho,basileus,tōn,Ioudaiōn?
   you,**you are**,the,king,of the,Jews?
 
-**Are you** *the king of the Jews?*   or alternate translation based on grammar
+"**Are you** *the king of the Jews?*"   or alternate translation based on grammar
 **"You are** *the king of the Jews."*
 
 [Note:  Context makes it clear that Pilate is asking a question and making a declaritive statement that Jesus is King of the Jews.]
