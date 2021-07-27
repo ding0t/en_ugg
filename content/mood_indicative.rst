@@ -13,9 +13,9 @@ if the verbal action he is referring to is real (rather than only potential).
 It is the most frequently used mood and is the *default mood* when there is no reason to use one of the other moods.
 
 Example:
-**Table VM-1   Indicative example**
+**Table VMI-1   Indicative example**
 
-.. csv-table:: Table VM-1 Indicative Example
+.. csv-table:: Table VMI-1 Indicative Example
   
   Matthew 3:11
   ἐγὼ,μὲν,ὑμᾶς,**βαπτίζω**,ἐν,ὕδατι,εἰς,μετάνοιαν
@@ -47,11 +47,11 @@ A declarative statement makes a statement or assertion.  This is the most common
 
 Example:
 
-Table VM-2  Declarative Indicative
+Table VMI-2  Declarative Indicative
 ####
 
 
-.. csv-table:: Table VM-2 Declarative Indicative
+.. csv-table:: Table VMI-2 Declarative Indicative
   :header-rows: 1
 
   John 1:1
@@ -70,10 +70,10 @@ It assumes that there is a factual response to the question.
 
 Example:
 
-Table VM-3   Interrogative Indicative
+Table VMI-3   Interrogative Indicative
 ####
 
-.. csv-table:: Table VM-3 Interrogative Indicative
+.. csv-table:: Table VMI-3 Interrogative Indicative
 
   John 1:38
   λέγει,αὐτοῖς,τί,**ζητεῖτε**?
@@ -89,9 +89,9 @@ verse as a question (or interrogative) is based on the context. It should be als
 that the punctuation marks in the Greek text are not a part of the original text of the scripture,
 but are a helpful aide in our translation.
 
-Table VM-4  Interrogative based on context
+Table VMI-4  Interrogative based on context
 
-.. csv-table::  Table VM-4 Interrogative based on Context
+.. csv-table::  Table VMI-4 Interrogative based on Context
   :header-rows: 1
 
   Matthew 27:11
@@ -118,10 +118,10 @@ It is appropriate for the indicative mood to be used in the protasis because it 
 
 Example:
 
-Table VM-5 Conditional Statement Indicative
+Table VMI-5 Conditional Statement Indicative
 ####
 
-.. CSv-table:: Table VM-5 Conditional Statement indicative
+.. CSv-table:: Table VMI-5 Conditional Statement indicative
 
   John 5:46
   εἰ,γὰρ,**ἐπιστεύετε**,Μωϋσεῖ,ἐπιστεύετε,ἂν,ἐμοί
@@ -138,10 +138,10 @@ The future indicative is sometimes used to express a command.
 
 Example:
 
-Table VM-6  Imperative Indicative
+Table VMI-6  Imperative Indicative
 ####
 
-.. csv-table:: Table VM-6 Imperative Indicative
+.. csv-table:: Table VMI-6 Imperative Indicative
 
   Matthew 19:18
   ὁ,δὲ,Ἰησοῦς,εἶπεν,τὸ,οὐ,**φονεύσεις**,οὐ,**μοιχεύσεις**
