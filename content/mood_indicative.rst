@@ -84,12 +84,12 @@ Table VMI-3   Interrogative Indicative
 
 
 The following example ( Table VM-4) could be translated as a *Declarative Indicative*
-or an *Interrogative Indicative* based on the Greek Grammar.   The decission to translate this
-verse as a question (or interrogative) is based on the context. It should be also kept in mind 
+or an *Interrogative Indicative* based on Greek grammar.   The decision to translate this
+verse as a question (or interrogative) is based on the context. It should also be kept in mind 
 that the punctuation marks in the Greek text are not a part of the original text of the scripture,
-but are a helpful aide in our translation.
+but are a helpful aid in our translation.
 
-Table VMI-4  Interrogative based on context
+**Table VMI-4  Interrogative based on context**
 
 .. csv-table::  Table VMI-4 Interrogative based on Context
   :header-rows: 1
