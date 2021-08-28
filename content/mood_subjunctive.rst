@@ -5,7 +5,7 @@
 Mood subjunctive
 ================
 
-Glossary            [D R A F T   -   U N D E R   C O N S T R U C T I O N] 8 28 21   12.50
+Glossary            [D R A F T   -   U N D E R   C O N S T R U C T I O N] 8 28 21   [1.03]
 --------
 
 The **subjunctive mood** indicates that the speaker is referring to the verbal action 
@@ -91,33 +91,46 @@ See `Paradigms verb_subjunctive <https://ugg.readthedocs.io/en/latest/paradigms.
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-j7b8" colspan="5"><span style="font-weight:bold">Present (or </span><span style="font-style:italic">Continuous</span><span style="font-style:normal">) Subjunctive</span></th>
+        <th class="tg-zv4m"></th>
+        <th class="tg-zv4m"></th>
+        <th class="tg-j7b8" colspan="5"><span style="font-weight:bold">Present (or </span><span style="font-style:italic">Continuous</span><span style="font-style:normal">) </span><span style="font-weight:bold;font-style:normal">Subjunctive</span></th>
       </tr>
     </thead>
     <tbody>
       <tr>
+        <td class="tg-zv4m"></td>
+        <td class="tg-zv4m"></td>
         <td class="tg-km2t"></td>
         <td class="tg-zv4m" colspan="4">Present tense stem +</td>
       </tr>
       <tr>
+        <td class="tg-zv4m"></td>
+        <td class="tg-zv4m"></td>
         <td class="tg-eo4b"></td>
         <td class="tg-zv4m" colspan="4">Lengthened connecting vowel (ω, η) +</td>
       </tr>
       <tr>
-        <td class="tg-eo4b"></td>
+        <td class="tg-zv4m"></td>
+        <td class="tg-zv4m"></td>
+        <td class="tg-eo4b">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
         <td class="tg-oe15" colspan="4">Primary personal endings</td>
       </tr>
       <tr>
-        <td class="tg-zv4m"><span style="font-style:italic">active</span></td>
-        <td class="tg-zv4m" colspan="4">λυ + ω + μεν &gt;&nbsp;&nbsp;λύομεν</td>
+        <td class="tg-zv4m"></td>
+        <td class="tg-zv4m"></td>
+        <td class="tg-km2t"><span style="font-style:italic">active</span></td>
+        <td class="tg-km2t" colspan="4">λυ + ω + μεν &gt;&nbsp;&nbsp;λύομεν</td>
       </tr>
       <tr>
-        <td class="tg-zv4m"><span style="font-style:italic">middle/passive</span></td>
-        <td class="tg-zv4m" colspan="4">λυ + ω + μεθα &gt; λυώμεθα</td>
+        <td class="tg-zv4m"></td>
+        <td class="tg-zv4m"></td>
+        <td class="tg-km2t"><span style="font-style:italic">middle/passive</span></td>
+        <td class="tg-km2t" colspan="4">λυ + ω + μεθα &gt; λυώμεθα</td>
       </tr>
     </tbody>
-    </table></br>
+    </table></br></br>
 
+    
 
 
 
