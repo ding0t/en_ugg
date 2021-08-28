@@ -5,7 +5,7 @@
 Mood subjunctive
 ================
 
-Glossary            [D R A F T   -   U N D E R   C O N S T R U C T I O N] 8 28 21
+Glossary            [D R A F T   -   U N D E R   C O N S T R U C T I O N] 8 28 21   12.18
 --------
 
 The **subjunctive mood** indicates that the speaker is referring to the verbal action 
@@ -17,10 +17,10 @@ Table VMS-1  Subjunctive Example
 
 .. csv-table:: Table VMS-1 Subjunctive Example
 
-Mark 14:14
-ποῦ,ἐστιν,τὸ,κατάλυμά,μου,ὅπου,τὸ,πάσχα,μετὰ,τῶν,μαθητῶν,μου,**φάγω;**
-pou,estin,to,katalyma,mou,hopou,to,Pascha,meta,tōn,mathētōn,mou,**phagō?**
-Where,it is,the,guestroom,of my,where,the,Passover meal,with,the,disciples,of me,**I may eat?**
+  Mark 14:14
+  ποῦ,ἐστιν,τὸ,κατάλυμά,μου,ὅπου,τὸ,πάσχα,μετὰ,τῶν,μαθητῶν,μου,**φάγω;**
+  pou,estin,to,katalyma,mou,hopou,to,Pascha,meta,tōn,mathētōn,mou,**phagō?**
+  Where,it is,the,guestroom,of my,where,the,Passover meal,with,the,disciples,of me,**I may eat?**
 
 *Where is my guest room where* **I may eat** *the Passover with my disciples?*
 
@@ -36,8 +36,8 @@ The **subjunctive mood** is used to portray a probable or desired action.
     *  Dependent Clauses - The subjunctive in a dependent clause is the most common use of
        the subjunctive preceded with (ἐάν, ἐι, ἄν)
     *  Independent Clauses - The subjunctive may also be used in an independent clause either
-      #   in a real question or
-      #  in a question where an answer is not expected to be given.
+       *  (1) in a real question or
+       *  (2) in a question where an answer is not expected to be given.
     *  Subjunctive of Purpose/Result – The subjunctive case is often used to show purpose
        or results of an action in a clause that is preceded with a ἵνα.
     *  Exhortative Subjunctive - It is used in the first person as an exhortation (even to the point of being a mild command).
