@@ -5,7 +5,7 @@
 Mood subjunctive
 ================
 
-Glossary            [D R A F T   -   U N D E R   C O N S T R U C T I O N] 8 28 21   [1.03]
+Glossary            [D R A F T   -   U N D E R   C O N S T R U C T I O N] 8 28 21   [1.23]
 --------
 
 The **subjunctive mood** indicates that the speaker is referring to the verbal action 
@@ -93,11 +93,13 @@ See `Paradigms verb_subjunctive <https://ugg.readthedocs.io/en/latest/paradigms.
       <tr>
         <th class="tg-zv4m"></th>
         <th class="tg-zv4m"></th>
+        <th class="tg-zv4m"></th>
         <th class="tg-j7b8" colspan="5"><span style="font-weight:bold">Present (or </span><span style="font-style:italic">Continuous</span><span style="font-style:normal">) </span><span style="font-weight:bold;font-style:normal">Subjunctive</span></th>
       </tr>
     </thead>
     <tbody>
       <tr>
+        <td class="tg-zv4m"></td>
         <td class="tg-zv4m"></td>
         <td class="tg-zv4m"></td>
         <td class="tg-km2t"></td>
@@ -106,10 +108,12 @@ See `Paradigms verb_subjunctive <https://ugg.readthedocs.io/en/latest/paradigms.
       <tr>
         <td class="tg-zv4m"></td>
         <td class="tg-zv4m"></td>
+        <td class="tg-zv4m"></td>
         <td class="tg-eo4b"></td>
         <td class="tg-zv4m" colspan="4">Lengthened connecting vowel (ω, η) +</td>
       </tr>
       <tr>
+        <td class="tg-zv4m"></td>
         <td class="tg-zv4m"></td>
         <td class="tg-zv4m"></td>
         <td class="tg-eo4b">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
@@ -118,10 +122,12 @@ See `Paradigms verb_subjunctive <https://ugg.readthedocs.io/en/latest/paradigms.
       <tr>
         <td class="tg-zv4m"></td>
         <td class="tg-zv4m"></td>
+        <td class="tg-zv4m"></td>
         <td class="tg-km2t"><span style="font-style:italic">active</span></td>
         <td class="tg-km2t" colspan="4">λυ + ω + μεν &gt;&nbsp;&nbsp;λύομεν</td>
       </tr>
       <tr>
+        <td class="tg-zv4m"></td>
         <td class="tg-zv4m"></td>
         <td class="tg-zv4m"></td>
         <td class="tg-km2t"><span style="font-style:italic">middle/passive</span></td>
@@ -130,6 +136,7 @@ See `Paradigms verb_subjunctive <https://ugg.readthedocs.io/en/latest/paradigms.
     </tbody>
     </table></br></br>
 
+    
     
 
 
