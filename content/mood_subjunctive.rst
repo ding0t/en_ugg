@@ -214,6 +214,7 @@ See `Paradigms verb_subjunctive <https://ugg.readthedocs.io/en/latest/paradigms.
 
 
 [Note: There is no tense formative in the aorist subjunctive]
+
 [Note:  There is no augment in the aorist subjunctive]
 
 
@@ -225,7 +226,7 @@ In fact, if the if the translator sees an *ἐάν*, *ἐι*, or *ἄν* they sh
 
 Example
 
-.. table-csv::  Table VMS-2  Dependent Clause Subjunctive
+.. csv-table::  Table VMS-2  Dependent Clause Subjunctive
   :header-rows: 1
 
   Mark 8:35
