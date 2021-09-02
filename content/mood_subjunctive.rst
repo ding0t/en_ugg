@@ -213,9 +213,8 @@ See `Paradigms verb_subjunctive <https://ugg.readthedocs.io/en/latest/paradigms.
     </table></br></br>
 
 
-[Note: There is no tense formative in the aorist subjunctive]
-
-[Note:  There is no augment in the aorist subjunctive]
+  *  [Note: There is no tense formative in the aorist subjunctive]
+  *  [Note: There is no augment in the aorist subjunctive]
 
 
 Dependent Clauses
@@ -236,7 +235,7 @@ Example
 
 *whoever* **wants** *to save his soul will lose it.*
 
-[Note: the word for word translation picks up on the continual aspect of the present subjunctive.]
+  *  [Note: the word for word translation picks up on the continual aspect of the present subjunctive.]
 
 
 Independent Clauses
@@ -248,16 +247,18 @@ The subjunctive case may also be used in an independent clause that is
 
 
 
-Example expecting an answer
+Example
+.. csv-table::  Table csv-3 Independent Clause Expecting an Answer
 
-Matthew 11:3
-σὺ εἶ ὁ ἐρχόμενος, ἢ ἕτερον προσδοκῶμεν?
-sy ei ho erchomenos, ē heteron prosdokōmen?
-You are you the one who is coming or another  shall we expect?
+  Matthew 11:3
+  σὺ,εἶ,ὁ,ἐρχόμενος,ἢ,ἕτερον,**προσδοκῶμεν?**
+  sy,ei,ho,erchomenos,ē,heteron,**prosdokōmen?**
+  You,are you,the,one who is coming,or,another,**shall we expect?**
 
-Are you the one coming, or are we expecting another?
+*Are you the one coming, or are we* **expecting another?**
 
-[Note:  In order to pick up on the continuous aspect of the present subjunctive, this could be translated  -  Are you the one who is coming or are we to continue looking for another?]
+  *  [Note:  In order to pick up on the continuous aspect of the present subjunctive, this could be translated;
+     "Are you the one who is coming or are we **to continue looking** for another?"]
 
 Example rhetorical question
 
