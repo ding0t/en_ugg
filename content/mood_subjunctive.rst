@@ -248,6 +248,7 @@ The subjunctive case may also be used in an independent clause that is
 
 
 Example
+
 .. csv-table::  Table csv-3 Independent Clause Expecting an Answer
 
   Matthew 11:3,
