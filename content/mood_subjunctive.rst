@@ -5,7 +5,7 @@
 Mood subjunctive
 ================
 
-Glossary            [D R A F T   -   U N D E R   C O N S T R U C T I O N] 9 2 21   [1.50]
+Glossary            [D R A F T   -   U N D E R   C O N S T R U C T I O N] 9 2 21   [2.15]
 --------
 
 The **subjunctive mood** indicates that the speaker is referring to the verbal action 
@@ -199,7 +199,7 @@ See `Paradigms verb_subjunctive <https://ugg.readthedocs.io/en/latest/paradigms.
         <td class="tg-zv4m"></td>
         <td class="tg-zv4m"></td>
         <td class="tg-zv4m"></td>
-        <td class="tg-km2t"><span style="font-style:italic">active</span></td>
+        <td class="tg-km2t"><span style="font-style:italic">first aorist</span></td>
         <td class="tg-km2t" colspan="4">λυ + σ + ω + μεν &gt;  λύςωμεν</td>
       </tr>
       <tr>
@@ -212,40 +212,38 @@ See `Paradigms verb_subjunctive <https://ugg.readthedocs.io/en/latest/paradigms.
     </tbody>
     </table></br></br>
 
-The Aorist or undefined subjunctive
-
-Unaugmented aorist tense stem +
-Tense formative +  (for 1st aorist verbs only)
-Lengthened connecting vowel (ω,η) +
-Primary personal endings
-
-First aorist    	λυ + σ + ω + μεν   > λύσωμεν
-Second aorist         λαβ      + ω + μεν > λάβωμεν
 
 [Note: There is no tense formative in the aorist subjunctive]
 [Note:  There is no augment in the aorist subjunctive]
 
 
 Dependent Clauses
+~~~~~~~~~~~~~~~~~
 
-The most common use of the subjunctive is in dependent or conditional clauses.   In fact, if the if the translator sees an ἐάν, ἐι, or ἄν they should start looking for a verb in the subjunctive case.  
+The most common use of the subjunctive is in dependent or conditional clauses.   
+In fact, if the if the translator sees an *ἐάν*, *ἐι*, or *ἄν* they should start looking for a verb in the subjunctive case.  
+
 Example
 
-Mark 8:35
-ὃς  ἐὰν θέλῃ τὴν ψυχὴν αὐτοῦ σῶσαι, ἀπολέσει αὐτήν
-hos  ean thelē tēn psychēn autou sōsai, apolesei autēn
-who ever continually wishes   the soul of him  to save, he will lose it
+.. table-csv::  Table VMS-2  Dependent Clause Subjunctive
+  :header-rows: 1
 
-whoever wants to save his soul will lose it
+  Mark 8:35
+  ὃς,ἐὰν,**θέλῃ**,τὴν,ψυχὴν,αὐτοῦ,σῶσαι,ἀπολέσει,αὐτήν
+  hos,ean,**thelē**,tēn,psychēn,autou,sōsai,apolesei,autēn
+  whoever,,**continually wishes**,the,soul,of him,to save,he will lose,it
+
+*whoever* **wants** *to save his soul will lose it.*
 
 [Note: the word for word translation picks up on the continual aspect of the present subjunctive.]
 
 
 Independent Clauses
+~~~~~~~~~~~~~~~~~~~
 
 The subjunctive case may also be used in an independent clause that is
-1)	Asking a question or is seeking an answer, or in a
-2)	Rhetorical question that is asking a question for the purpose of directing the hearers thinking, but not expecting an answer.
+  1)	Asking a question or is seeking an answer, or in a
+  2)	Rhetorical question that is asking a question for the purpose of directing the hearers thinking, but not expecting an answer.
 
 
 
