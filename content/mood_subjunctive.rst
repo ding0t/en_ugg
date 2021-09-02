@@ -5,7 +5,7 @@
 Mood subjunctive
 ================
 
-Glossary            [D R A F T   -   U N D E R   C O N S T R U C T I O N] 9 2 21   [2.15]
+Glossary            [D R A F T   -   U N D E R   C O N S T R U C T I O N] 9 2 21   [5.00]
 --------
 
 The **subjunctive mood** indicates that the speaker is referring to the verbal action 
@@ -250,7 +250,7 @@ The subjunctive case may also be used in an independent clause that is
 Example
 .. csv-table::  Table csv-3 Independent Clause Expecting an Answer
 
-  Matthew 11:3
+  Matthew 11:3,
   σὺ,εἶ,ὁ,ἐρχόμενος,ἢ,ἕτερον,**προσδοκῶμεν?**
   sy,ei,ho,erchomenos,ē,heteron,**prosdokōmen?**
   You,are you,the,one who is coming,or,another,**shall we expect?**
