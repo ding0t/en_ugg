@@ -5,7 +5,7 @@
 Mood subjunctive
 ================
 
-Glossary            [D R A F T   -   U N D E R   C O N S T R U C T I O N] 8 28 21   [1.23]
+Glossary            [D R A F T   -   U N D E R   C O N S T R U C T I O N] 9 2 21   [1.50]
 --------
 
 The **subjunctive mood** indicates that the speaker is referring to the verbal action 
@@ -50,7 +50,7 @@ Verbs occur in the subjunctive mood 1,868 times in the New Testament.
 Key words:
 ~~~~~~~~~~
 
-Verbs which are preceded by ἄν, ἐάν, ἕως, ὅταν, ὁς αν,or  ὄπου ἄν  will be in the subjunctive.
+Verbs which are preceded by *ἄν*, *ἐάν*, *ἕως*, *ὅταν*, *ὁς αν*, or  *ὄπου ἄν*  will be in the subjunctive.
 This is a strong clue that a verb in the subjunctive is following.
 
 Tense
@@ -124,7 +124,7 @@ See `Paradigms verb_subjunctive <https://ugg.readthedocs.io/en/latest/paradigms.
         <td class="tg-zv4m"></td>
         <td class="tg-zv4m"></td>
         <td class="tg-km2t"><span style="font-style:italic">active</span></td>
-        <td class="tg-km2t" colspan="4">λυ + ω + μεν &gt;&nbsp;&nbsp;λύομεν</td>
+        <td class="tg-km2t" colspan="4">λυ + ω + μεν &gt;&nbsp;&nbsp;λύωμεν</td>
       </tr>
       <tr>
         <td class="tg-zv4m"></td>
@@ -137,18 +137,80 @@ See `Paradigms verb_subjunctive <https://ugg.readthedocs.io/en/latest/paradigms.
     </table></br></br>
 
     
-    
+.. raw:: html
 
-
-
-*The Present or continuous subjunctive*
-
-Present tense stem + 
-Lengthened connecting vowel (ω,η)+
-primary personal endings
-
-active - 		λυ + ω + μεν >    λύομεν
-middle/passive -     λυ + ω + μεθα > λυώμεθα
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-km2t{border-color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
+    .tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
+    .tg .tg-j7b8{background-color:#fffc9e;border-color:#ffffff;text-align:center;vertical-align:top}
+    .tg .tg-eo4b{border-color:#ffffff;font-style:italic;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-zv4m"></th>
+        <th class="tg-zv4m"></th>
+        <th class="tg-zv4m"></th>
+        <th class="tg-j7b8" colspan="5"><span style="font-weight:bold">Aorist (or </span><span style="font-weight:bold;font-style:italic">Undefined</span><span style="font-style:normal">) </span><span style="font-weight:bold;font-style:normal">Subjunctive</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-zv4m"></td>
+        <td class="tg-zv4m"></td>
+        <td class="tg-zv4m"></td>
+        <td class="tg-km2t"></td>
+        <td class="tg-zv4m" colspan="4">Unaugmented Aorist tense stem +</td>
+      </tr>
+      <tr>
+        <td class="tg-zv4m"></td>
+        <td class="tg-zv4m"></td>
+        <td class="tg-zv4m"></td>
+        <td class="tg-zv4m"></td>
+        <td class="tg-zv4m">Tense formative (for 1st aorist verbs only)&nbsp;&nbsp;+</td>
+        <td class="tg-zv4m"></td>
+        <td class="tg-zv4m"></td>
+        <td class="tg-zv4m"></td>
+      </tr>
+      <tr>
+        <td class="tg-zv4m"></td>
+        <td class="tg-zv4m"></td>
+        <td class="tg-zv4m"></td>
+        <td class="tg-eo4b"></td>
+        <td class="tg-zv4m">Lengthened connecting vowel (ω, η) +</td>
+        <td class="tg-zv4m"></td>
+        <td class="tg-zv4m"></td>
+        <td class="tg-zv4m"></td>
+      </tr>
+      <tr>
+        <td class="tg-zv4m"></td>
+        <td class="tg-zv4m"></td>
+        <td class="tg-zv4m"></td>
+        <td class="tg-eo4b">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td class="tg-oe15" colspan="4">Primary personal endings</td>
+      </tr>
+      <tr>
+        <td class="tg-zv4m"></td>
+        <td class="tg-zv4m"></td>
+        <td class="tg-zv4m"></td>
+        <td class="tg-km2t"><span style="font-style:italic">active</span></td>
+        <td class="tg-km2t" colspan="4">λυ + σ + ω + μεν &gt;  λύςωμεν</td>
+      </tr>
+      <tr>
+        <td class="tg-zv4m"></td>
+        <td class="tg-zv4m"></td>
+        <td class="tg-zv4m"></td>
+        <td class="tg-km2t">second aorist</td>
+        <td class="tg-km2t" colspan="4">λυ + ω + μεν &gt; λάβωμεν</td>
+      </tr>
+    </tbody>
+    </table></br></br>
 
 The Aorist or undefined subjunctive
 
