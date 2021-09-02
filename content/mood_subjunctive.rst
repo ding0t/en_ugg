@@ -5,7 +5,7 @@
 Mood subjunctive
 ================
 
-Glossary            [D R A F T   -   U N D E R   C O N S T R U C T I O N] 9 2 21   [5.00]
+Glossary            [D R A F T   -   U N D E R   C O N S T R U C T I O N] 9 2 21   [6.00]
 --------
 
 The **subjunctive mood** indicates that the speaker is referring to the verbal action 
@@ -279,20 +279,30 @@ Example
 Subjunctive of Purpose/Result
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-ἵνα + a verb in the Subjunctive mood  may be used to express the purpose for or result from a course of action.   Approximately one-third (1/3) of uses of the subjunctive case in the New Testament fall into this category.
+ἵνα + a verb in the Subjunctive mood  may be used to express:
 
+  1) the purpose for or
+  2) the result from a course of action.
   
-Acts 16:30
-"κύριοι, τί με δεῖ ποιεῖν, ἵνα σωθῶ?
-"kyrioi, ti me dei poiein, hina sōthō?
-Sirs,     what I it is necessary to do  in order that I may be saved?
+Approximately one-third (1/3) of uses of the subjunctive case in the New Testament fall into this category.
 
-“Sirs, what must I do in order to be saved?”
+Example
+
+.. csv-table:: Table CSV-5 Subjunctive of Purpose/Result
+  :header-rows: 1
+
+  Acts 16:30
+  κύριοι,τί,με,δεῖ,ποιεῖν,ἵνα,**σωθῶ?**
+  kyrioi,ti,me,dei,poiein,hina,**sōthō?**
+  Sirs,what,I,is necessary,to do,in order that,**I may be saved?**
+
+*Sirs, what must I do in order* **to be saved?”**
 
 
 
 
 Exhortative Subjunctive
+~~~~~~~~~~~~~~~~~~~~~~~
 
 	The Exhortative Subjunctive is also known as the Hortatory Subjunctive.  It occurs almost always as a first-person plural expression.   It is a polite way of encouraging others to join the speaker in a course of action.   Sometimes it is also used as a command.
 
