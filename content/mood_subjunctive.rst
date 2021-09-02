@@ -212,9 +212,9 @@ See `Paradigms verb_subjunctive <https://ugg.readthedocs.io/en/latest/paradigms.
     </tbody>
     </table></br></br>
 
-  [Note: There is no tense formative in the aorist subjunctive]
+[Note: There is no tense formative in the aorist subjunctive]
 
-  [Note: There is no augment in the aorist subjunctive]
+[Note: There is no augment in the aorist subjunctive]
 
 
 Dependent Clauses
