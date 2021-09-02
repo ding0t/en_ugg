@@ -212,10 +212,9 @@ See `Paradigms verb_subjunctive <https://ugg.readthedocs.io/en/latest/paradigms.
     </tbody>
     </table></br></br>
 
+  [Note: There is no tense formative in the aorist subjunctive]
 
-  *  [Note: There is no tense formative in the aorist subjunctive]
-
-  *  [Note: There is no augment in the aorist subjunctive]
+  [Note: There is no augment in the aorist subjunctive]
 
 
 Dependent Clauses
@@ -236,7 +235,7 @@ Example
 
 *whoever* **wants** *to save his soul will lose it.*
 
-  *  [Note: the word for word translation picks up on the continual aspect of the present subjunctive.]
+  [Note: the word for word translation picks up on the continual aspect of the present subjunctive.]
 
 
 Independent Clauses
@@ -265,15 +264,16 @@ Example
 Example 
 
 .. csv-table:: Table VMS-4  Independent Clause Rhetorical Question
+  :header-rows: 1
 
-  Romans 6:1,
+  Romans 6:1
   **ἐπιμένωμεν**,τῇ,ἁμαρτίᾳ,ἵνα,ἡ,χάρις,πλεονάσῃ?
   **epimenōmen**,tē,hamartia,hina,hē,charis,pleonasē?
   **Shall we continue**,in,sin,in order that,the,grace,may abound?
 
 **Should we continue** *in sin so that grace may abound?*
 
-  *  [Note:  πλεονάσῃ is an aorist subjunctive following a ἵνα clause.   See  ______   below.]
+[Note:  πλεονάσῃ is an aorist subjunctive following a ἵνα clause.   See  ______   below.]
 
 
 Subjunctive of Purpose/Result
