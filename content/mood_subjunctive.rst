@@ -214,6 +214,7 @@ See `Paradigms verb_subjunctive <https://ugg.readthedocs.io/en/latest/paradigms.
 
 
   *  [Note: There is no tense formative in the aorist subjunctive]
+
   *  [Note: There is no augment in the aorist subjunctive]
 
 
@@ -261,20 +262,22 @@ Example
   *  [Note:  In order to pick up on the continuous aspect of the present subjunctive, this could be translated;
      "Are you the one who is coming or are we **to continue looking** for another?"]
 
-Example rhetorical question
+Example 
 
-Romans 6:1
+.. csv-table:: Table VMS-4  Independent Clause Rhetorical Question
 
-ἐπιμένωμεν τῇ ἁμαρτίᾳ, ἵνα ἡ χάρις πλεονάσῃ?
-epimenōmen tē hamartia, hina hē charis pleonasē?
-Shall we continue  in sin in order that  the grace  may abound?
+  Romans 6:1,
+  **ἐπιμένωμεν**,τῇ,ἁμαρτίᾳ,ἵνα,ἡ,χάρις,πλεονάσῃ?
+  **epimenōmen**,tē,hamartia,hina,hē,charis,pleonasē?
+  **Shall we continue**,in,sin,in order that,the,grace,may abound?
 
-Should we continue in sin so that grace may abound?
+**Should we continue** *in sin so that grace may abound?*
 
-[Note:  πλεονάσῃ is an aorist subjunctive following a ἵνα clause.   See  ______   below.]
+  *  [Note:  πλεονάσῃ is an aorist subjunctive following a ἵνα clause.   See  ______   below.]
 
 
 Subjunctive of Purpose/Result
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ἵνα + a verb in the Subjunctive mood  may be used to express the purpose for or result from a course of action.   Approximately one-third (1/3) of uses of the subjunctive case in the New Testament fall into this category.
 
