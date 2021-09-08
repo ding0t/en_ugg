@@ -328,13 +328,15 @@ Example :  Exhortative Subjunctive as a command
   Matthew 26:46
   ἐγείρεσθε,**ἄγωμεν!**,ἰδοὺ,ἤγγικεν,ὁ,παραδιδούς,με!"
   egeiresthe,**agōmen!**,idou,ēngiken,ho,paradidous,me!"
-  Arise,**Let us go**,Look,he is approaching,the one who is betraying,me
+  Arise,**Let us go**,Look,he is approaching,the,one who is betraying,me
 
 *Get up, that* **we might go**. *Behold, the one betraying me has approached*
-[Note:  In this example  ἐγείρεσθε is a second person plural imperative.  Therefore the force of the imperative
- is carried over onto “Let us go.”]
+
+[Note:  In this example  ἐγείρεσθε is a second person plural imperative.
+Therefore the force of the imperative is carried over onto “Let us go.”]
 
 Prohibitive Subjunctive
+~~~~~~~~~~~~~~~~~~~~~~~
 
 μή + a verb in the aorist subjunctive is used to indicate a prohibition.
 
