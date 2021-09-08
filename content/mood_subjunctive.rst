@@ -36,8 +36,10 @@ The **subjunctive mood** is used to portray a probable or desired action.
     *  Dependent Clauses - The subjunctive in a dependent clause is the most common use of
        the subjunctive preceded with (ἐάν, ἐι, ἄν)
     *  Independent Clauses - The subjunctive may also be used in an independent clause either
-       *  (1) in a real question or
-       *  (2) in a question where an answer is not expected to be given.
+       
+       (1) in a real question or
+       (2) in a question where an answer is not expected to be given.
+       
     *  Subjunctive of Purpose/Result – The subjunctive case is often used to show purpose
        or results of an action in a clause that is preceded with a ἵνα.
     *  Exhortative Subjunctive - It is used in the first person as an exhortation (even to the point of being a mild command).
