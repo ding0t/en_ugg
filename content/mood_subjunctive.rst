@@ -332,21 +332,28 @@ Example :  Exhortative Subjunctive as a command
 
 *Get up, that* **we might go**. *Behold, the one betraying me has approached*
 
-[Note:  In this example  ἐγείρεσθε is a second person plural imperative.
+[Note:  In order to pick up on the imperatival force of the Exhortavie Subjunctive,
+this could also be translated, " Get up! Let us Go! Behold, the one betraying me has approached."]
+
+[Note:  In this example  *ἐγείρεσθε* is a second person plural imperative.
 Therefore the force of the imperative is carried over onto “Let us go.”]
 
 Prohibitive Subjunctive
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-μή + a verb in the aorist subjunctive is used to indicate a prohibition.
+*μή* + *a verb in the aorist subjunctive* is used to indicate a prohibition.
 
-οὐ μή + a verb in the aorist subjunctive is used to indicate an emphatic prohibition. Jesus uses this form to express that something will never happen.  It adds extra strength to the prohibition.
+*οὐ μή* + *a verb in the aorist subjunctive* is used to indicate an emphatic prohibition. 
+Jesus uses this form to express that something will never happen.  It adds extra strength to the prohibition.
 
 
 Example of Simple prohibition
 
-Matthew 1:20
-μὴ φοβηθῇς παραλαβεῖν Μαρίαν τὴν γυναῖκά σου
+.. csv-table:: Table VMS-8 Simple prohibition
+  :Header-Rows: 1
+
+  Matthew 1:20
+  μὴ,φοβηθῇς,παραλαβεῖν,Μαρίαν,τὴν,γυναῖκά, σου
 mē phobēthēs paralabein Marian tēn gynaika sou
 not do fear      to take       Mary    the wife        of you
 
