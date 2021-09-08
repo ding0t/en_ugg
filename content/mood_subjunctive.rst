@@ -5,7 +5,7 @@
 Mood subjunctive
 ================
 
-Glossary            [D R A F T   -   U N D E R   C O N S T R U C T I O N] 9 2 21   [6.00]
+Glossary            [D R A F T   -   U N D E R   C O N S T R U C T I O N] 9 8 21
 --------
 
 The **subjunctive mood** indicates that the speaker is referring to the verbal action 
@@ -64,7 +64,7 @@ Verbs in the subjunctive mood have no reference to time – past, present, or fu
   *  Verbs in the present tense refer to continuous action.   
   *  Verbs in the aorist tense refer to an undefined aspect.  
   *  There are 10 perfect subjunctive verbs in the New Testament.  
-     They are all based on the verb οἴδα (to know) and would imply an ongoing effect based on the knowledge.
+     These are all based on the verb οἴδα (to know) and would imply an ongoing effect based on the knowledge.
      See `Perfect Tense <https://ugg.readthedocs.io/en/latest/tense_perfect.html>`_  
 
 Form
@@ -209,7 +209,7 @@ See `Paradigms verb_subjunctive <https://ugg.readthedocs.io/en/latest/paradigms.
         <td class="tg-zv4m"></td>
         <td class="tg-zv4m"></td>
         <td class="tg-km2t">second aorist</td>
-        <td class="tg-km2t" colspan="4">λυ + ω + μεν &gt; λάβωμεν</td>
+        <td class="tg-km2t" colspan="4">λαβ + ω + μεν &gt; λάβωμεν</td>
       </tr>
     </tbody>
     </table></br></br>
@@ -223,7 +223,7 @@ Dependent Clauses
 ~~~~~~~~~~~~~~~~~
 
 The most common use of the subjunctive is in dependent or conditional clauses.   
-In fact, if the if the translator sees an *ἐάν*, *ἐι*, or *ἄν* they should start looking for a verb in the subjunctive case.  
+In fact, if the translator sees an *ἐάν*, *ἐι*, or *ἄν* they should start looking for a verb in the subjunctive case.  
 
 Example
 
@@ -290,7 +290,7 @@ Approximately one-third (1/3) of uses of the subjunctive case in the New Testame
 
 Example
 
-.. csv-table:: Table CSV-5 Subjunctive of Purpose/Result
+.. csv-table:: Table VMS-5 Subjunctive of Purpose/Result
   :header-rows: 1
 
   Acts 16:30
@@ -310,22 +310,29 @@ Exhortative Subjunctive
 
 Example:  Exhortative Subjunctive
 
-1 John 4:7
-ἀγαπητοί, ἀγαπῶμεν ἀλλήλους
-agapētoi, agapōmen allēlous
-Beloved    let us love   one another
+.. csv-table:: Table VMS-6 Exhortive Subjunctive
+  :header-rows: 1
 
-Beloved, let us love one another
+  1 John 4:7
+  ἀγαπητοί,**ἀγαπῶμεν**,ἀλλήλους
+  agapētoi,**agapōmen**,allēlous
+  Beloved,**let us love**,one another
+
+*Beloved,* **let us love** *one another*
 
 Example :  Exhortative Subjunctive as a command
 
-Matthew 26:46
-ἐγείρεσθε, ἄγωμεν! ἰδοὺ, ἤγγικεν ὁ παραδιδούς με!"
-egeiresthe, agōmen! idou, ēngiken ho paradidous me!"
-Arise,     Let us go   Look  he is approaching the one who is betraying  me
+.. csv-table:: Table VMS-7
+  :Header-rows: 1
 
-Get up, that we might go. Behold, the one betraying me has approached
-[Note:  In this example  ἐγείρεσθε is a second person plural imperative.  Therefore the force of the imperative is carried over onto “Let us go.”]
+  Matthew 26:46
+  ἐγείρεσθε,**ἄγωμεν!**,ἰδοὺ,ἤγγικεν,ὁ,παραδιδούς,με!"
+  egeiresthe,**agōmen!**,idou,ēngiken,ho,paradidous,me!"
+  Arise,**Let us go**,Look,he is approaching,the one who is betraying,me
+
+*Get up, that* **we might go**. *Behold, the one betraying me has approached*
+[Note:  In this example  ἐγείρεσθε is a second person plural imperative.  Therefore the force of the imperative
+ is carried over onto “Let us go.”]
 
 Prohibitive Subjunctive
 
