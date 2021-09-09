@@ -138,8 +138,10 @@ See `Paradigms verb_subjunctive <https://ugg.readthedocs.io/en/latest/paradigms.
     </tbody>
     </table></br></br>
 
+
    *  There is no augment for verbs in the aorist subjunctive as there is no reference to time.
    *  There is no tense formative for verbs formed on the second aorist stem in subjunctive.
+</br>
 
 .. raw:: html
 
