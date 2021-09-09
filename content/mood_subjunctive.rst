@@ -71,7 +71,7 @@ Form
 ~~~~
 	
 The subjunctive is based on the present or aorist tense of the verb.
-  *  There is no augment for verbs in the aorist subjunctive as there is no reference to time.
+  
   *  The connecting vowel is lengthened.  This lengthened connecting vowel is a key indicator of the subjunctive case.
 
 See `Paradigms verb_subjunctive <https://ugg.readthedocs.io/en/latest/paradigms.html#verbs-subjunctive>`_
@@ -138,7 +138,9 @@ See `Paradigms verb_subjunctive <https://ugg.readthedocs.io/en/latest/paradigms.
     </tbody>
     </table></br></br>
 
-    
+   *  There is no augment for verbs in the aorist subjunctive as there is no reference to time.
+   *  There is no tense formative for verbs formed on the second aorist stem in subjunctive.
+
 .. raw:: html
 
     <style type="text/css">
@@ -214,7 +216,7 @@ See `Paradigms verb_subjunctive <https://ugg.readthedocs.io/en/latest/paradigms.
     </tbody>
     </table></br></br>
 
-[Note: There is no tense formative in the aorist subjunctive]
+
 
 [Note: There is no augment in the aorist subjunctive]
 
