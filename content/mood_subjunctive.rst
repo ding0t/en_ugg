@@ -44,7 +44,7 @@ The **subjunctive mood** is used to portray a probable or desired action.
        or results of an action in a clause that is preceded with a ἵνα. [See `Subjunctive of Purpose <https://ugg.readthedocs.io/en/latest/mood_subjunctive.html#subjunctive-of-purpose-result>`_]
     *  Exhortative Subjunctive - It is used in the first person as an exhortation (even to the point of being a mild command). {See `Exhortative Subjunctive <https://ugg.readthedocs.io/en/latest/mood_subjunctive.html#id3>`_}
     *  Prohibitive Subjunctive - It is used in prohibitions [See `Prohibitive Subjunctive <https://ugg.readthedocs.io/en/latest/mood_subjunctive.html#id4>`_]
-    *  General Subjunctive - It may also be used if the action is viewed as probable, or possible (instead of the optative mood). [See `General Subjunctive <https://ugg.readthedocs.io/en/latest/mood_subjunctive.html#general-subjunctive>`_]
+    *  General Subjunctive - It may also be used if the action is viewed as probable, or possible (instead of the optative mood). [See `General Subjunctive <https://ugg.readthedocs.io/en/latest/mood_subjunctive.html#id6>`_]
 
 
 Verbs occur in the subjunctive mood 1,868 times in the New Testament.
