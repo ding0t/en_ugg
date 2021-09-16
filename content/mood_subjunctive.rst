@@ -34,8 +34,8 @@ The **subjunctive mood** is used to portray a probable or desired action.
 
   *  It is used when the action is viewed as being possible if certain conditions are met. 
     *  Dependent Clauses - The subjunctive in a dependent clause is the most common use of
-       the subjunctive preceded with (ἐάν, ἐι, ἄν)
-    *  Independent Clauses - The subjunctive may also be used in an independent clause either
+       the subjunctive preceded with (ἐάν, ἐι, ἄν) [See `Dependent Clauses <https://ugg.readthedocs.io/en/latest/mood_subjunctive.html#dependent-clauses>`_]
+    *  Independent Clauses - The subjunctive may also be used in an `independent clause <https://ugg.readthedocs.io/en/latest/mood_subjunctive.html#independent-clauses>`_ either
        
        (1) in a real question or
        (2) in a question where an answer is not expected to be given.
