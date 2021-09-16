@@ -381,15 +381,23 @@ Example of emphatic prohibition
 
 
 General Subjunctive
-The subjunctive may also occur without any of the key words (ἄν, ἐάν, ἕως, ὅταν, ὁς αν,or  ὄπου ἄν) to indicate something that is possible or even probable.  
+~~~~~~~~~~~~~~~~~~~
 
-Matthew 13:29
-ἐκριζώσητε ἅμα αὐτοῖς τὸν σῖτον.
-ekrizōsēte           hama      autois ton siton.
-you may uproot  together with it the wheat
+The subjunctive may also occur without any of the key words (ἄν, ἐάν, ἕως, ὅταν, ὁς αν,or  ὄπου ἄν) to indicate
+something that is possible or even probable.  
 
-you might uproot the wheat along with them.
+Example - General Subjunctive
+
+.. csv-table:: Table VMS-10 General Subjunctive
+  :Header-rows: 1
+
+  Matthew 13:29
+  **ἐκριζώσητε**,ἅμα,αὐτοῖς,τὸν,σῖτον.
+  **ekrizōsēte**,hama,autois,ton,siton.
+  **you may uproot**,together,with it,the,wheat
+
+**you might uproot** *the wheat along with them.*
 
 
-[ Note could use Matthew 18:23 -  The kingdom of heaven may be compared to a man…]
+[ **Note to Grant** - could use Matthew 18:23 -  The kingdom of heaven may be compared to a man…]
 
