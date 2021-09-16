@@ -280,7 +280,7 @@ Example
 
 **Should we continue** *in sin so that grace may abound?*
 
-[Note:  πλεονάσῃ is an aorist subjunctive following a ἵνα clause.   See  `Subjunctive of Purpose/Result <https://ugg.readthedocs.io/en/latest/mood_subjunctive.html#subjunctive-of-purpose-result>`_   below.]
+[Note:  πλεονάσῃ is an aorist subjunctive following a ἵνα clause.   See  `Subjunctive of Purpose/Result <https://ugg.readthedocs.io/en/latest/mood_subjunctive.html#id3>`_   below.]
 
 
 Subjunctive of Purpose/Result
