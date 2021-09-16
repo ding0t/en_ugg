@@ -358,9 +358,9 @@ Example of Simple prohibition
   :Header-Rows: 1
 
   Matthew 1:20
-  μὴ,φοβηθῇς,παραλαβεῖν,Μαρίαν,τὴν,γυναῖκά, σου
-mē phobēthēs paralabein Marian tēn gynaika sou
-not do fear      to take       Mary    the wife        of you
+  **μὴ**,**φοβηθῇς**,παραλαβεῖν,Μαρίαν,τὴν,γυναῖκά, σου
+  **mē**,**phobēthēs**,paralabein,Marian,tēn,gynaika,sou
+  **not**,**you should fear**,to take,Mary,the,wife,of you
 
 you should not fear to take Mary as your wife,
 
@@ -368,12 +368,15 @@ you should not fear to take Mary as your wife,
 
 Example of emphatic prohibition
 
-Matthew 24:35
-οἱ δὲ λόγοι μου οὐ μὴ παρέλθωσιν
-hoi de logoi mou ou mē parelthōsin
-the but words of me  never they will pass away
+.. csv-table:: Table VMS-9 Emphatic Prohibitive
+  :Header-rows: 1
 
-but my words may certainly not pass away.
+  Matthew 24:35
+  οἱ,δὲ,λόγοι,μου,**οὐ μὴ**,**παρέλθωσιν**
+  hoi,de,logoi,mou,**ou mē**,**parelthōsin**
+  the,but,words,of me,**never**,**they will pass away**
+
+*but my words may* **certainly not pass away.**
 
 
 
