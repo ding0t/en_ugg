@@ -398,6 +398,3 @@ Example - General Subjunctive
 
 **you might uproot** *the wheat along with them.*
 
-
-[ **Note to Grant** - could use Matthew 18:23 -  The kingdom of heaven may be compared to a man…]
-
