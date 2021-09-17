@@ -5,7 +5,7 @@
 Mood subjunctive
 ================
 
-Glossary            [D R A F T   -   U N D E R   C O N S T R U C T I O N] 9 8 21
+Glossary      
 --------
 
 The **subjunctive mood** indicates that the speaker is referring to the verbal action 
@@ -27,7 +27,7 @@ Table VMS-1  Subjunctive Example
 
 
 
-Article           [D R A F T   -   U N D E R   C O N S T R U C T I O N]   
+Article       
 -------
 
 The **subjunctive mood** is used to portray a probable or desired action.
@@ -207,7 +207,7 @@ There is no tense formative for verbs formed on the second aorist stem in subjun
         <td class="tg-zv4m"></td>
         <td class="tg-zv4m"></td>
         <td class="tg-km2t"><span style="font-style:italic">first aorist</span></td>
-        <td class="tg-km2t" colspan="4">λυ + σ + ω + μεν &gt;  λύςωμεν</td>
+        <td class="tg-km2t" colspan="4">λυ + σ + ω + μεν &gt;  λύσωμεν</td>
       </tr>
       <tr>
         <td class="tg-zv4m"></td>
@@ -333,12 +333,12 @@ Example :  Exhortative Subjunctive as a command
   Matthew 26:46
   ἐγείρεσθε,**ἄγωμεν!**,ἰδοὺ,ἤγγικεν,ὁ,παραδιδούς,με!"
   egeiresthe,**agōmen!**,idou,ēngiken,ho,paradidous,me!"
-  Arise,**Let us go**,Look,he is approaching,the,one who is betraying,me
+  Arise,**let us go**,look,he is approaching,the,one who is betraying,me
 
 *Get up, that* **we might go**. *Behold, the one betraying me has approached*
 
 [Note:  In order to pick up on the imperatival force of the Exhortavie Subjunctive,
-this could also be translated, " Get up! Let us Go! Behold, the one betraying me has approached."]
+this could also be translated, "Get up! Let us Go! Behold, the one betraying me has approached."]
 
 [Note:  In this example  *ἐγείρεσθε* is a second person plural imperative.
 Therefore the force of the imperative is carried over onto “Let us go.”]
@@ -352,9 +352,9 @@ Prohibitive Subjunctive
 Jesus uses this form to express that something will never happen.  It adds extra strength to the prohibition.
 
 
-Example of Simple prohibition
+Example of Simple Prohibition
 
-.. csv-table:: Table VMS-8 Simple prohibition
+.. csv-table:: Table VMS-8 Simple Prohibition
   :Header-Rows: 1
 
   Matthew 1:20
@@ -366,9 +366,9 @@ you should not fear to take Mary as your wife,
 
 
 
-Example of emphatic prohibition
+Example of Emphatic Prohibition
 
-.. csv-table:: Table VMS-9 Emphatic Prohibitive
+.. csv-table:: Table VMS-9 Emphatic Prohibition
   :Header-rows: 1
 
   Matthew 24:35
