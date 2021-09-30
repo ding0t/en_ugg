@@ -40,6 +40,22 @@ The indicative mood may be used in:
   #.	Imperatives [See `Imperative Indicative <https://ugg.readthedocs.io/en/latest/mood_indicative.html#id4>`_]
 
 
+Tense
+~~~~~
+
+
+*Tense*, in the indicative mood, refers to both time and aspect from the speaker’s perspective.  [ See `Tense <https://ugg.readthedocs.io/en/latest/tense.html>`_ ].
+
+Time in the indicative mood can be past (completed action), Present (either durative or undefined), 
+or future (either durative or undefined).
+
+Aspect refers to the kind of action.  The kind of action can be mere occurrence (undefined), duration or completion.  
+The aspect  (or kind of action) for the indicative mood in the present tense must be determined based on the context.  
+
+  When we say the aspect is “Mere occurrence” or “Undefined” this means the action could have taken place over a long period of time,
+  in a moment of time, or anywhere in between.  The aspect (or kind of action) is not defined.    
+
+
 Form
 ~~~~
 
