@@ -41,7 +41,7 @@ The indicative mood may be used in:
 
 
 Form
-~~~~
+~~~~~
 
 
 See the `Master_Verb_chart <https://ugg.readthedocs.io/en/latest/paradigms.html#verbs>`_  Table 3 through Table 8 for 
