@@ -47,6 +47,7 @@ Form
 See the `Master_Verb_chart <https://ugg.readthedocs.io/en/latest/paradigms.html#verbs>`_  Table 3 through Table 8 for 
 the complete list of forms for the indicative mood. 15,643 (or 55% of the 28,342 verbs) in the New Testament are in the indicative mood.
 
+
 The basic form for a verb consists of:
   1)	An augment ( for the imperfect and aorist tenses only) or a  reduplication (for the perfect tenses),
   2)	The tense stem,
