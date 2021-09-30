@@ -40,6 +40,29 @@ The indicative mood may be used in:
   #.	Imperatives [See `Imperative Indicative <https://ugg.readthedocs.io/en/latest/mood_indicative.html#id4>`_]
 
 
+Form
+~~~~
+
+
+See the `Master_Verb_chart <https://ugg.readthedocs.io/en/latest/paradigms.html#verbs>`_  Table 3 through Table 8 for 
+the complete list of forms for the indicative mood. 15,643 (or 55% of the 28,342 verbs) in the New Testament are in the indicative mood.
+
+The basic form for a verb consists of:
+  1)	An augment ( for the imperfect and aorist tenses only) or a  reduplication (for the perfect tenses),
+  2)	The tense stem,
+  3)	A tense formative (for the future, aorist tenses except for second aorist, and perfect active tenses,
+  4)	A connecting vowel (which may or may not be present), and 
+  5)	Personal ending
+
+See  `Thematic Indicative Verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#verbs-indicative-thematic>`_ 
+Table V-IT-1a through Table V-IT-5b for a complete listing of the different present,imperfect,future, and aorist tense
+forms for verbs with a theme vowel.
+
+See `Athematic Indicative Verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#verbs-indicative-athematic>`_ 
+for the forms of verbs that do not have a theme vowel.
+
+
+
 Declarative indicative
 ~~~~~~~~~~~~~~~~~~~~~~
 
