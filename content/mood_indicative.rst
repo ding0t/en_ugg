@@ -36,14 +36,14 @@ The indicative mood may be used in:
 
   #.	Declarative statements [See `Declarative Indicative <https://ugg.readthedocs.io/en/latest/mood_indicative.html#id2>`_ ]
   #.	Interrogative statements (or questions) [See `Interrogative-indicative <https://ugg.readthedocs.io/en/latest/mood_indicative.html#id3>`_ ]
-  #.	Conditional statements, [ See `Conditional Statement <https://ugg.readthedocs.io/en/latest/mood_indicative.html#conditional-statement-indicative>`_ ,or 
-  #.	Imperatives [See `Imperative Indicative <https://ugg.readthedocs.io/en/latest/mood_indicative.html#id4>`_]
+  #.	Conditional statements, [See `Conditional Statement <https://ugg.readthedocs.io/en/latest/mood_indicative.html#conditional-statement-indicative>`_ ] ,or 
+  #.	Imperatives [See `Imperative Indicative <https://ugg.readthedocs.io/en/latest/mood_indicative.html#id4>`_ ]
 
 
 Tense
 ~~~~~
 
-*Tense*, in the indicative mood, refers to both time and aspect from the speaker’s perspective.  [ See `Tense <https://ugg.readthedocs.io/en/latest/tense.html>`_ ].
+*Tense*, in the indicative mood, refers to both time and aspect from the speaker’s perspective.  [See `Tense <https://ugg.readthedocs.io/en/latest/tense.html>`_].
 
 Time in the indicative mood can be past (completed action), Present (either durative or undefined), 
 or future (either durative or undefined).
@@ -64,7 +64,7 @@ the complete list of forms for the indicative mood. 15,643 (or 55% of the 28,342
 
 The basic form for a verb consists of:
 
-  #. 	An augment ( for the imperfect and aorist tenses only) or a  reduplication (for the perfect tenses),
+  #. 	An augment (for the imperfect and aorist tenses only) or a  reduplication (for the perfect tenses),
   #.  The tense stem,
   #.  A tense formative (for the future, aorist tenses except for second aorist, and perfect active tenses,
   #.  A connecting vowel (which may or may not be present), and 
