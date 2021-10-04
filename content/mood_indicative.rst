@@ -34,10 +34,10 @@ a make-believe story, exaggerating, or just be wrong.  In all of these cases the
 
 The indicative mood may be used in:
 
-  #.	Declarative statements [See `Declarative Indicative <https://ugg.readthedocs.io/en/latest/mood_indicative.html#id2>`_ ]
-  #.	Interrogative statements (or questions) [See `Interrogative-indicative <https://ugg.readthedocs.io/en/latest/mood_indicative.html#id3>`_ ]
-  #.	Conditional statements, [See `Conditional Statement <https://ugg.readthedocs.io/en/latest/mood_indicative.html#conditional-statement-indicative>`_ ] ,or 
-  #.	Imperatives [See `Imperative Indicative <https://ugg.readthedocs.io/en/latest/mood_indicative.html#id4>`_ ]
+  #.	Declarative statements. See `Declarative Indicative <https://ugg.readthedocs.io/en/latest/mood_indicative.html#id2>`_ 
+  #.	Interrogative statements (or questions). See `Interrogative-indicative <https://ugg.readthedocs.io/en/latest/mood_indicative.html#id3>`_ 
+  #.	Conditional statements. See `Conditional Statement <https://ugg.readthedocs.io/en/latest/mood_indicative.html#conditional-statement-indicative>`_  or 
+  #.	Imperatives. See `Imperative Indicative <https://ugg.readthedocs.io/en/latest/mood_indicative.html#id4>`_ 
 
 
 Tense
@@ -51,8 +51,8 @@ or future (either durative or undefined).
 Aspect refers to the kind of action.  The kind of action can be mere occurrence (undefined), duration or completion.  
 The aspect  (or kind of action) for the indicative mood in the present tense must be determined based on the context.  
 
-  When we say the aspect is “Mere occurrence” or “Undefined” this means the action could have taken place over a long period of time,
-  in a moment of time, or anywhere in between.  The aspect (or kind of action) is not defined.    
+When we say the aspect is “Mere occurrence” or “Undefined” this means the action could have taken place over a long period of time,
+in a moment of time, or anywhere in between.  The aspect (or kind of action) is not defined.    
 
 
 Form
