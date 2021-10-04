@@ -43,7 +43,7 @@ The indicative mood may be used in:
 Tense
 ~~~~~
 
-*Tense*, in the indicative mood, refers to both time and aspect from the speaker’s perspective.  [See `Tense <https://ugg.readthedocs.io/en/latest/tense.html>`_].
+*Tense* in the indicative mood, refers to both time and aspect from the speaker’s perspective.  See `Tense <https://ugg.readthedocs.io/en/latest/tense.html>`_
 
 Time in the indicative mood can be past (completed action), Present (either durative or undefined), 
 or future (either durative or undefined).
