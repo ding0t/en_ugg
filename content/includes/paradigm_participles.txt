@@ -43,7 +43,7 @@ Table V-P-T1 Present Active (and Middle) Participles
       <tr>
         <td class="tg-q44m">Genitive</td>
         <td class="tg-iks7">λύοντος</td>
-        <td class="tg-iks7">λθούσης</td>
+        <td class="tg-iks7">λυούσης</td>
         <td class="tg-iks7">λύοντος</td>
         <td class="tg-iks7">λυομένου</td>
         <td class="tg-iks7">λυομένης</td>
@@ -63,7 +63,7 @@ Table V-P-T1 Present Active (and Middle) Participles
         <td class="tg-iks7">λύοντα</td>
         <td class="tg-iks7">λύουσαν</td>
         <td class="tg-iks7">λῦον</td>
-        <td class="tg-iks7">λυόμεον</td>
+        <td class="tg-iks7">λυόμενον</td>
         <td class="tg-iks7">λυόμενην</td>
         <td class="tg-iks7">λυόμενον</td>
       </tr>
@@ -82,7 +82,7 @@ Table V-P-T1 Present Active (and Middle) Participles
       </tr>
       <tr>
         <td class="tg-q44m">Genitive</td>
-        <td class="tg-iks7">λύοντων</td>
+        <td class="tg-iks7">λυόντων</td>
         <td class="tg-iks7">λυουσῶν</td>
         <td class="tg-iks7">λύοντων</td>
         <td class="tg-iks7">λυομένων</td>
