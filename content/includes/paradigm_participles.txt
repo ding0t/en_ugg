@@ -3,7 +3,7 @@ paradigm_participles
 [Note]  Participles built on a present tense stem indicate continuous action.
 
 Table V-P-T1 Present Active (and Middle) Participles
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
 
