@@ -1,1 +1,113 @@
 paradigm_participles
+
+[Note]  Participles built on a present tense stem indicate continuous action.
+
+Table V-P-T1 Present Active (and Middle) Participles
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+     font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-tgze{background-color:#ffffff;border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-f7v4{background-color:#c0c0c0;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-wovw{background-color:#fffc9e;border-color:#000000;text-align:center;vertical-align:top}
+    .tg .tg-q44m{background-color:#ffffff;border-color:#000000;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-wovw" colspan="7"><span style="font-weight:bold">Table V-P-T1</span><br><span style="font-weight:bold">Present     Participles</span><br><span style="font-weight:bold">Active and middle</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-tgze">Singular</td>
+        <td class="tg-tgze" colspan="3">Active</td>
+        <td class="tg-tgze" colspan="3">Middle</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">Nominative</td>
+        <td class="tg-iks7">λύων</td>
+        <td class="tg-iks7">λύουσα</td>
+        <td class="tg-iks7">λῦον</td>
+        <td class="tg-iks7">λυόμενος</td>
+        <td class="tg-iks7">λυομένη</td>
+        <td class="tg-iks7">λυόμενον</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">Genitive</td>
+        <td class="tg-iks7">λύοντος</td>
+        <td class="tg-iks7">λθούσης</td>
+        <td class="tg-iks7">λύοντος</td>
+        <td class="tg-iks7">λυομένου</td>
+        <td class="tg-iks7">λυομένης</td>
+        <td class="tg-iks7">λυομένου</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">Dative</td>
+        <td class="tg-iks7">λύοντι</td>
+        <td class="tg-iks7">λυούσῃ</td>
+        <td class="tg-q44m">λύοντι</td>
+        <td class="tg-iks7">λυομένῳ</td>
+        <td class="tg-iks7">λυομένῃ</td>
+        <td class="tg-iks7">λυομένῳ</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">Accusative</td>
+        <td class="tg-iks7">λύοντα</td>
+        <td class="tg-iks7">λύουσαν</td>
+        <td class="tg-iks7">λῦον</td>
+        <td class="tg-iks7">λυόμεον</td>
+        <td class="tg-iks7">λυόμενην</td>
+        <td class="tg-iks7">λυόμενον</td>
+      </tr>
+      <tr>
+        <td class="tg-tgze">Plural</td>
+        <td class="tg-f7v4" colspan="6"></td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">Nominative</td>
+        <td class="tg-iks7">λύοντες</td>
+        <td class="tg-iks7">λύουσαι</td>
+        <td class="tg-iks7">λύοντα</td>
+        <td class="tg-iks7">λυόμενοι</td>
+        <td class="tg-iks7">λυόμεναι</td>
+        <td class="tg-iks7">λυόμενα</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">Genitive</td>
+        <td class="tg-iks7">λύοντων</td>
+        <td class="tg-iks7">λυουσῶν</td>
+        <td class="tg-iks7">λύοντων</td>
+        <td class="tg-iks7">λυομένων</td>
+        <td class="tg-iks7">λυομένων</td>
+        <td class="tg-iks7">λυομένων</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">Dative</td>
+        <td class="tg-iks7">λύουσι(ν)</td>
+        <td class="tg-iks7">λυούσαις</td>
+        <td class="tg-iks7">λύουσι(ν)</td>
+        <td class="tg-iks7">λυομένοις</td>
+        <td class="tg-iks7">λυομέναις</td>
+        <td class="tg-iks7">λυομένοις</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">Accusative</td>
+        <td class="tg-iks7">λύοντας</td>
+        <td class="tg-iks7">λυούσας</td>
+        <td class="tg-iks7">λύοντα</td>
+        <td class="tg-iks7">λυομένους</td>
+        <td class="tg-iks7">λυομένας</td>
+        <td class="tg-iks7">λυόμενα</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+    
