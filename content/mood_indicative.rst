@@ -48,7 +48,7 @@ Tense
 Time in the indicative mood can be past (completed action), Present (either durative or undefined), 
 or future (either durative or undefined).
 
-Aspect refers to the kind of action.  The kind of action can be mere occurrence (undefined), duration or completion.  
+Aspect refers to the kind of action.  The kind of action can be mere occurrence (undefined), durative, or completed.  
 The aspect  (or kind of action) for the indicative mood in the present tense must be determined based on the context.  
 
 When we say the aspect is “Mere occurrence” or “Undefined” this means the action could have taken place over a long period of time,
@@ -66,13 +66,13 @@ The basic form for a verb consists of:
 
   #. 	An augment (for the imperfect and aorist tenses only) or a  reduplication (for the perfect tenses),
   #.  The tense stem,
-  #.  A tense formative (for the future, aorist tenses except for second aorist, and perfect active tenses,
+  #.  A tense formative (for the future, aorist tenses except for second aorist, and perfect active tenses),
   #.  A connecting vowel (which may or may not be present), and 
   #.  Personal ending
 
 
 See  `Thematic Indicative Verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#verbs-indicative-thematic>`_ 
-Table V-IT-1a through Table V-IT-5b for a complete listing of the different present,imperfect,future, and aorist tense
+Table V-IT-1a through Table V-IT-5b for a complete listing of the different present, imperfect, future, and aorist tense
 forms for verbs with a theme vowel.
 
 See `Athematic Indicative Verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#verbs-indicative-athematic>`_ 
