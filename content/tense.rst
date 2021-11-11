@@ -18,7 +18,7 @@ Article
 The *time of action* can be *past*, *present* or *future*. The *kind of
 action* can be *mere occurrence*, *duration* or *completion*.
 
-Greek has 10 *forms*:
+The Indicative tense in Greek has 10 forms:
 
 1.  **present tense** generally refers to present time and durative
     action
@@ -39,8 +39,6 @@ Greek has 10 *forms*:
 10. **2nd future** is different in from but has the same meaning as
     *future*
 
-Older Greek grammars often refer to **tense** while some newer grammars
-call this **form** in order to emphasis *verbal aspect*. A modern
-approach is to refer to the **form** (or morphological encoding) as
-**tense form**, while referring to the concept of the *viewpoint of the
-action* as *aspect.*
+Older Greek grammars often refer to **tense** while some newer grammars call this **form** 
+in order to emphasis *verbal aspect*.  A modern approach is to refer to the **form** (or morphological encoding) as
+**tense form**, while referring to the concept of the *viewpoint of the action* as *aspect.*
