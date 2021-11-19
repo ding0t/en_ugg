@@ -29,7 +29,7 @@ Table V-P-T1 Present Active (and Middle) Participles
       <tr>
         <td class="tg-tgze">Singular</td>
         <td class="tg-tgze" colspan="3">Active</td>
-        <td class="tg-tgze" colspan="3">Middle</td>
+        <td class="tg-tgze" colspan="3">Middle/Passive</td>
       </tr>
       <tr>
         <td class="tg-q44m">Nominative</td>
