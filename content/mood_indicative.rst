@@ -58,8 +58,10 @@ in a moment of time, or anywhere in between.  The aspect (or kind of action) is 
 Form
 ~~~~
 
-See the `Master_Verb_chart <https://ugg.readthedocs.io/en/latest/paradigms.html#verbs>`_  Table 3 through Table 8 for 
-the complete list of forms for the indicative mood. 15,643 (or 55% of the 28,342 verbs) in the New Testament are in the indicative mood.
+See the `Master_Verb_chart <https://ugg.readthedocs.io/en/latest/paradigms.html#verbs>`_  
+  *. Table 3 through Table 8 for the complete list of forms for the indicative mood. 
+  
+15,643 (or 55% of the 28,342 verbs) in the New Testament are in the indicative mood.
 
 
 The basic form for a verb consists of:
