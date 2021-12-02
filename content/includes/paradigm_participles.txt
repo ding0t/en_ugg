@@ -177,7 +177,7 @@ The following table is for  **First Aorist Active and Middle Participles**.
         <td class="tg-q44m">λύσαντι</td>
         <td class="tg-0lax">λυσαμένῳ</td>
         <td class="tg-0lax">λυσαμένῃ</td>
-        <td class="tg-0lax">λθσαμένῳ</td>
+        <td class="tg-0lax">λυσαμένῳ</td>
       </tr>
       <tr>
         <td class="tg-q44m">Accusative</td>
