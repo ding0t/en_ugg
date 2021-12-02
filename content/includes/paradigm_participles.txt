@@ -113,7 +113,9 @@ Table V-P-T1 Present Active (and Middle) Participles
 Table V-P-2   Aorist Active and Middle Participle
 ^^^^^^^^^^^^^^^
 
-[Note:  Second Aorist Active and Middle Participles will look just like the Present Active and Middle Participles except that they are formed based on the **second aorist stem**.   Therefore, refer to Table V-P-1 above for the second aorist paradigms]
+[Note:  Second Aorist Active and Middle Participles will look just like the Present Active and Middle Participles,
+ except that they are formed based on the **second aorist stem**.
+ Therefore, refer to Table V-P-1 above for the second aorist paradigms]
 
 The following table is for  **First Aorist Active and Middle Participles**.
 
