@@ -110,8 +110,12 @@ Table V-P-T1 Present Active (and Middle) Participles
     </tbody>
     </table></br>
 
-Table V-P-T1a   εἰμί Present Active Participle
+Table V-P-2   Aorist Active and Middle Participle
 ^^^^^^^^^^^^^^^
+
+[Note:  Second Aorist Active and Middle Participles will look just like the Present Active and Middle Participles except that they are formed based on the **second aorist stem**.   Therefore, refer to Table V-P-1 above for the second aorist paradigms]
+
+The following table is for  **First Aorist Active and Middle Participles**.
 
 .. raw:: html
 
@@ -121,76 +125,104 @@ Table V-P-T1a   εἰμί Present Active Participle
       overflow:hidden;padding:10px 5px;word-break:normal;}
     .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
       font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-k7ar{background-color:#c0c0c0;border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
     .tg .tg-tgze{background-color:#ffffff;border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
     .tg .tg-f7v4{background-color:#c0c0c0;border-color:#000000;text-align:left;vertical-align:top}
     .tg .tg-wovw{background-color:#fffc9e;border-color:#000000;text-align:center;vertical-align:top}
-    .tg .tg-cscf{background-color:#c0c0c0;border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-6qw1{background-color:#c0c0c0;text-align:center;vertical-align:top}
     .tg .tg-q44m{background-color:#ffffff;border-color:#000000;font-style:italic;text-align:left;vertical-align:top}
     .tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
     </style>
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-wovw" colspan="4"><span style="font-weight:bold">Table V-P-T1a</span><br><span style="font-weight:bold">Present     Participle (εἰμί)</span><br><span style="font-weight:bold">Active</span></th>
+        <th class="tg-wovw" colspan="7"><span style="font-weight:bold">Table V-P-T2</span><br><span style="font-weight:bold"> First Aorist&    nbsp;&nbsp;Participle </span></th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td class="tg-tgze">Singular</td>
-        <td class="tg-cscf" colspan="3"></td>
+        <td class="tg-k7ar" colspan="3">Active</td>
+        <td class="tg-6qw1" colspan="3"><span style="font-weight:bold">Middle</span></td>
       </tr>
       <tr>
         <td class="tg-q44m">Nominative</td>
-        <td class="tg-iks7">ὤν</td>
-        <td class="tg-iks7">οὖσα</td>
-        <td class="tg-iks7">ὄν</td>
+        <td class="tg-iks7">λύσας</td>
+        <td class="tg-iks7">λύσασα</td>
+        <td class="tg-iks7">λῦσαν</td>
+        <td class="tg-0lax">λυσάμενος</td>
+        <td class="tg-0lax">λυσαμένη</td>
+        <td class="tg-0lax">λυσάμενον</td>
       </tr>
       <tr>
         <td class="tg-q44m">Genitive</td>
-        <td class="tg-iks7">ὄντος</td>
-        <td class="tg-iks7">οὔσης</td>
-        <td class="tg-iks7">ὄντος</td>
+        <td class="tg-iks7">λύσαντος</td>
+        <td class="tg-iks7">λυσάσης</td>
+        <td class="tg-iks7">λύσαντος</td>
+        <td class="tg-0lax">λυσαμένου</td>
+        <td class="tg-0lax">λυσαμένης</td>
+        <td class="tg-0lax">λυσαμένου</td>
       </tr>
       <tr>
         <td class="tg-q44m">Dative</td>
-        <td class="tg-iks7">ὄντι</td>
-        <td class="tg-iks7">οὔσῃ</td>
-        <td class="tg-q44m">ὄντι</td>
+        <td class="tg-iks7">λύσαντι</td>
+        <td class="tg-iks7">λυσάσῃ</td>
+        <td class="tg-q44m">λύσαντι</td>
+        <td class="tg-0lax">λυσαμένῳ</td>
+        <td class="tg-0lax">λυσαμένῃ</td>
+        <td class="tg-0lax">λθσαμένῳ</td>
       </tr>
       <tr>
         <td class="tg-q44m">Accusative</td>
-        <td class="tg-iks7">ὄντα</td>
-        <td class="tg-iks7">οὖσαν</td>
-        <td class="tg-iks7">ὄν</td>
+        <td class="tg-iks7">λύσαντα</td>
+        <td class="tg-iks7">λύσασαν</td>
+        <td class="tg-iks7">λῦσαν</td>
+        <td class="tg-0lax">λυσάμενον</td>
+        <td class="tg-0lax">λυσαμένην</td>
+        <td class="tg-0lax">λυσάμενον</td>
       </tr>
       <tr>
         <td class="tg-tgze">Plural</td>
         <td class="tg-f7v4" colspan="3"></td>
+        <td class="tg-y6fn" colspan="3"></td>
       </tr>
       <tr>
         <td class="tg-q44m">Nominative</td>
-        <td class="tg-iks7">ὄντες</td>
-        <td class="tg-iks7">οὖσαι</td>
-        <td class="tg-iks7">ὄντα</td>
+        <td class="tg-iks7">λύσαντες</td>
+        <td class="tg-iks7">λύσασαι</td>
+        <td class="tg-iks7">λύσαντα</td>
+        <td class="tg-0lax">λυσάμενοι</td>
+        <td class="tg-0lax">λυσάμεναι</td>
+        <td class="tg-0lax">λυσάμενα</td>
       </tr>
       <tr>
         <td class="tg-q44m">Genitive</td>
-        <td class="tg-iks7">ὄντων</td>
-        <td class="tg-iks7">οὐσῶν</td>
-        <td class="tg-iks7">ὄντων</td>
+        <td class="tg-iks7">λυσάντων</td>
+        <td class="tg-iks7">λυσασῶν</td>
+        <td class="tg-iks7">λυσάντων</td>
+        <td class="tg-0lax">λυσαμένων</td>
+        <td class="tg-0lax">λυσαμένων</td>
+        <td class="tg-0lax">λυσαμένων</td>
       </tr>
       <tr>
         <td class="tg-q44m">Dative</td>
-        <td class="tg-iks7">οὖσι(ν)</td>
-        <td class="tg-iks7">οὔσαις</td>
-        <td class="tg-iks7">οὖσι(ν)</td>
+        <td class="tg-iks7">λύσασι(ν)</td>
+        <td class="tg-iks7">λυσάσαις</td>
+        <td class="tg-iks7">λύσασι(ν)</td>
+        <td class="tg-0lax">λυσαμένοις</td>
+        <td class="tg-0lax">λυσαμέναις</td>
+        <td class="tg-0lax">λυσαμένοις</td>
       </tr>
       <tr>
         <td class="tg-q44m">Accusative</td>
-        <td class="tg-iks7">ὄντας</td>
-        <td class="tg-iks7">οὔσας</td>
-        <td class="tg-iks7">ὄντα</td>
+        <td class="tg-iks7">λύσαντας</td>
+        <td class="tg-iks7">λυσάσας</td>
+        <td class="tg-iks7">λύσαντα</td>
+        <td class="tg-0lax">λυσαμένους</td>
+        <td class="tg-0lax">λυσαμένας</td>
+        <td class="tg-0lax">λυσάμενα</td>
       </tr>
     </tbody>
     </table></br>
-    
