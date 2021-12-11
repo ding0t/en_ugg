@@ -231,3 +231,120 @@ The following table is for  **First Aorist Active and Middle Participles**.
       </tr>
     </tbody>
     </table></br>
+
+Table V-P-T3 Aorist Passive Participles
+^^^^^^^^^^^^
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-34fe{background-color:#c0c0c0;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-k7ar{background-color:#c0c0c0;border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-tgze{background-color:#ffffff;border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-f7v4{background-color:#c0c0c0;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-wovw{background-color:#fffc9e;border-color:#000000;text-align:center;vertical-align:top}
+    .tg .tg-q44m{background-color:#ffffff;border-color:#000000;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-wovw" colspan="7"><span style="font-weight:bold">Table V-P-T3</span><br><span style="font-weight:bold">Aorist     Passive Participles</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-tgze">Singular</td>
+        <td class="tg-k7ar" colspan="3">First Aorist Passive</td>
+        <td class="tg-34fe" colspan="3">Second Aorist Passive</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">Nominative</td>
+        <td class="tg-iks7">λυθείς</td>
+        <td class="tg-iks7">λυθεῖσα</td>
+        <td class="tg-iks7">λυθέν</td>
+        <td class="tg-0pky">βληθείς</td>
+        <td class="tg-0pky">βληθεῖσα</td>
+        <td class="tg-0pky">βληθέν</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">Genitive</td>
+        <td class="tg-iks7">λυθέντος</td>
+        <td class="tg-iks7">λυθείσης</td>
+        <td class="tg-iks7">λυθέντος</td>
+        <td class="tg-0pky">βληθέντος</td>
+        <td class="tg-0pky">βληθείσης</td>
+        <td class="tg-0pky">βληθέντος</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">Dative</td>
+        <td class="tg-iks7">λυθέντι</td>
+        <td class="tg-iks7">λυθείσῃ</td>
+        <td class="tg-iks7">λυθέντι</td>
+        <td class="tg-0pky">βληθέντι</td>
+        <td class="tg-0pky">βληθείσῃ</td>
+        <td class="tg-0pky">βληθέντι</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">Accusative</td>
+        <td class="tg-iks7">λυθέντα</td>
+        <td class="tg-iks7">λυθεῖσαν</td>
+        <td class="tg-iks7">λυθέν</td>
+        <td class="tg-0pky">βληθέντα</td>
+        <td class="tg-0pky">βληθεῖσαν</td>
+        <td class="tg-0pky">βληθέν</td>
+      </tr>
+      <tr>
+        <td class="tg-tgze">Plural</td>
+        <td class="tg-f7v4" colspan="3"></td>
+        <td class="tg-llyw" colspan="3"></td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">Nominative</td>
+        <td class="tg-iks7">λυθέντες</td>
+        <td class="tg-iks7">λυθεῖσαι</td>
+        <td class="tg-iks7">λυθέντα</td>
+        <td class="tg-0pky">βληθέντες</td>
+        <td class="tg-0pky">βληθεῖσαι</td>
+        <td class="tg-0pky">βληθέντα</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">Genitive</td>
+        <td class="tg-iks7">λυθέντων</td>
+        <td class="tg-iks7">λυθεισῶν</td>
+        <td class="tg-iks7">λυθέντων</td>
+        <td class="tg-0pky">βληθέντων</td>
+        <td class="tg-0pky">βληθεισῶν</td>
+        <td class="tg-0pky">βληθέντων</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">Dative</td>
+        <td class="tg-iks7">λυθεῖσι(ν)</td>
+        <td class="tg-iks7">λυθείσαις</td>
+        <td class="tg-iks7">λυθεῖσι(ν)</td>
+        <td class="tg-0pky">βληθεῖσι(ν)</td>
+        <td class="tg-0pky">βληθείσαις</td>
+        <td class="tg-0pky">βληθεῖσι(ν)</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">Accusative</td>
+        <td class="tg-iks7">λυθέντας</td>
+        <td class="tg-iks7">λυθείσας</td>
+        <td class="tg-iks7">λυθέντα</td>
+        <td class="tg-0pky">βληθέντας</td>
+        <td class="tg-0pky">βληθείσας</td>
+        <td class="tg-0pky">λυόμενα</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+    
+
+
