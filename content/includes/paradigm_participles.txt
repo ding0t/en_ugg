@@ -243,7 +243,7 @@ Table V-P-T3 Aorist Passive Participles
       overflow:hidden;padding:10px 5px;word-break:normal;}
     .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
       font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-    .tg .tg-34fe{background-color:#c0c0c0;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
     .tg .tg-k7ar{background-color:#c0c0c0;border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
     .tg .tg-tgze{background-color:#ffffff;border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
     .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
@@ -263,7 +263,7 @@ Table V-P-T3 Aorist Passive Participles
       <tr>
         <td class="tg-tgze">Singular</td>
         <td class="tg-k7ar" colspan="3">First Aorist Passive</td>
-        <td class="tg-34fe" colspan="3">Second Aorist Passive</td>
+        <td class="tg-zlqz" colspan="3">Second Aorist Passive</td>
       </tr>
       <tr>
         <td class="tg-q44m">Nominative</td>
@@ -293,7 +293,7 @@ Table V-P-T3 Aorist Passive Participles
         <td class="tg-0pky">βληθέντι</td>
       </tr>
       <tr>
-        <td class="tg-q44m">Accusative</td>
+       <td class="tg-q44m">Accusative</td>
         <td class="tg-iks7">λυθέντα</td>
         <td class="tg-iks7">λυθεῖσαν</td>
         <td class="tg-iks7">λυθέν</td>
@@ -344,6 +344,8 @@ Table V-P-T3 Aorist Passive Participles
       </tr>
     </tbody>
     </table></br>
+
+    
 
     
 
