@@ -340,7 +340,7 @@ Table V-P-T3 Aorist Passive Participles
         <td class="tg-iks7">λυθέντα</td>
         <td class="tg-0pky">βληθέντας</td>
         <td class="tg-0pky">βληθείσας</td>
-        <td class="tg-0pky">λυόμενα</td>
+        <td class="tg-0pky">βληθέντα</td>
       </tr>
     </tbody>
     </table></br>
