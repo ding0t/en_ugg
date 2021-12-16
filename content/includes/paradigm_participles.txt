@@ -345,7 +345,7 @@ Table V-P-T3 Aorist Passive Participles
     </tbody>
     </table></br>
 
-Table V-P-T4 Perfect Middle/Passive Participles
+Table V-P-T4 Perfect Participles
 ^^^^^^^^^^^^
 
 .. raw:: html
