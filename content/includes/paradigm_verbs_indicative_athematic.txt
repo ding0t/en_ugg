@@ -109,7 +109,7 @@ Table V-AT-1 εἰμί Indicative and Non-Indicative
 
 
 
-Table V-AT - x   εἰμί Present Active Participle
+Table V-AT - 2   εἰμί Present Active Participle
 ^^^^^^^^^^^^^^^
 
 .. raw:: html
@@ -130,7 +130,7 @@ Table V-AT - x   εἰμί Present Active Participle
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-wovw" colspan="4"><span style="font-weight:bold">Table V-AT-x</span><br><span style="font-weight:bold">Present     Participle (εἰμί)</span><br><span style="font-weight:bold">Active</span></th>
+        <th class="tg-wovw" colspan="4"><span style="font-weight:bold">Table V-AT-2</span><br><span style="font-weight:bold">Present     Participle (εἰμί)</span><br><span style="font-weight:bold">Active</span></th>
       </tr>
     </thead>
     <tbody>
