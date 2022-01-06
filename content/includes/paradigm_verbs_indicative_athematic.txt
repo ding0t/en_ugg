@@ -224,7 +224,7 @@ This stem includes δίδωμι (I give - 415 occurances); παραδίδωμι 
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-wovw" colspan="7"><span style="font-weight:bold">Table V-AT-D1</span><br>δίδωμι <br>Athematic verbs (stem&nbsp;&    nbsp;δο-)<br>Active Indicative</th>
+        <th class="tg-wovw" colspan="7"><span style="font-weight:bold">Table V-AT-D1</span><br>δίδωμι <br>Athematic verbs (stem δο-)<br>Active Indicative</th>
       </tr>
     </thead>
     <tbody>
