@@ -192,4 +192,114 @@ Table V-AT - 2   εἰμί Present Active Participle
       </tr>
     </tbody>
     </table></br>
+
+Table V-AT-D1  δίδωμι  (Active Indicative)
+^^^^^^^^^^^^^^
+
+**Stem  δο-**
+This stem includes δίδωμι (I give - 415 occurances); παραδίδωμι (I entrust, I betray - 119 occurances); απωδίδωμι (I payback, I repay - 48 occurances) along with other compounds of δίδωμι.
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-4erg{border-color:inherit;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-tgze{background-color:#ffffff;border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-f7v4{background-color:#c0c0c0;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-wovw{background-color:#fffc9e;border-color:#000000;text-align:center;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-6t3r{font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-q44m{background-color:#ffffff;border-color:#000000;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-y698{background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-wovw" colspan="7"><span style="font-weight:bold">Table V-AT-D1</span><br>δίδωμι <br>Athematic verbs (stem&nbsp;&    nbsp;δο-)<br>Active Indicative</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-fymr">Singular</td>
+        <td class="tg-4erg">Present</td>
+        <td class="tg-4erg">Imperfect</td>
+        <td class="tg-4erg">1st Aorist</td>
+        <td class="tg-6t3r">2nd Aorist</td>
+        <td class="tg-4erg">Future</td>
+        <td class="tg-4erg">Perfect</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">1st person</td>
+        <td class="tg-iks7">δίδωμι</td>
+        <td class="tg-iks7">ἐδίδουν</td>
+        <td class="tg-iks7">ἔδωκα</td>
+        <td class="tg-0lax">ἔδων</td>
+        <td class="tg-0pky">δώσω</td>
+        <td class="tg-y698">δέδωκα</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">2nd person</td>
+        <td class="tg-iks7">δίδως</td>
+        <td class="tg-iks7">ἐδίδους</td>
+        <td class="tg-iks7">ἔδωκας</td>
+        <td class="tg-0lax">ἔδως</td>
+        <td class="tg-0pky">δώσεις</td>
+        <td class="tg-0pky">δέδωκας</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">3rd person</td>
+        <td class="tg-iks7">δίδωσι(ν)</td>
+        <td class="tg-iks7">ἐδίδου</td>
+        <td class="tg-iks7">ἔδωκε(ν)</td>
+        <td class="tg-0lax">ἔδω</td>
+        <td class="tg-0pky">δώσει</td>
+        <td class="tg-0pky">δέδωκε(ν)</td>
+      </tr>
+      <tr>
+        <td class="tg-tgze">Plural</td>
+        <td class="tg-f7v4" colspan="3"></td>
+        <td class="tg-y6fn"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">1st person</td>
+        <td class="tg-iks7">δίδωμεν</td>
+        <td class="tg-iks7">ἐδίδομεν</td>
+        <td class="tg-iks7">ἐδώκαμεν</td>
+        <td class="tg-0lax">ἔδομεν</td>
+        <td class="tg-0pky">δώσομεν</td>
+        <td class="tg-y698">δεδώκαμεν</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">2nd person</td>
+        <td class="tg-iks7">δίδοτε</td>
+        <td class="tg-iks7">ἐδίδοτε</td>
+        <td class="tg-iks7">ἐδώκατε</td>
+        <td class="tg-0lax">ἔδοτε</td>
+        <td class="tg-0pky">δώσετε</td>
+        <td class="tg-0pky">δεδώκατε</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">3rd person</td>
+        <td class="tg-iks7">διδόασι(ν)</td>
+        <td class="tg-iks7">ἐδίδοσαν /<br>εδίδουν</td>
+        <td class="tg-iks7">ἔδωκαν</td>
+        <td class="tg-0lax">ἔδοσαν</td>
+        <td class="tg-0pky">δώσουσι(ν)</td>
+        <td class="tg-0pky">δέδωκαν</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+    
     
