@@ -273,7 +273,7 @@ This stem includes δίδωμι (I give - 415 occurances); παραδίδωμι 
       </tr>
       <tr>
         <td class="tg-q44m">1st person</td>
-        <td class="tg-iks7">δίδωμεν</td>
+        <td class="tg-iks7">δίδομεν</td>
         <td class="tg-iks7">ἐδίδομεν</td>
         <td class="tg-iks7">ἐδώκαμεν</td>
         <td class="tg-0lax">ἔδομεν</td>
