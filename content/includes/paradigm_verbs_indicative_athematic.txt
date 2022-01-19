@@ -301,5 +301,108 @@ This stem includes δίδωμι (I give - 415 occurances); παραδίδωμι 
     </tbody>
     </table></br>
 
+Table V-AT-D2 ἵστημι (Active Indicative)
+^^^^^^^^^^^^^
+
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-4erg{border-color:inherit;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-tgze{background-color:#ffffff;border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-f7v4{background-color:#c0c0c0;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-wovw{background-color:#fffc9e;border-color:#000000;text-align:center;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-q44m{background-color:#ffffff;border-color:#000000;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-y698{background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-wovw" colspan="7"><span style="font-weight:bold">Table V-AT-D2</span><br>ἵστημι <br>Athematic verbs (stem  στα-)    <br>Active Indicative</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-fymr">Singular</td>
+        <td class="tg-4erg">Present</td>
+        <td class="tg-4erg">Imperfect</td>
+        <td class="tg-4erg">1st Aorist</td>
+        <td class="tg-4erg">2nd Aorist</td>
+        <td class="tg-4erg">Future</td>
+        <td class="tg-4erg">Perfect</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">1st person</td>
+        <td class="tg-iks7">ἵστημι</td>
+        <td class="tg-iks7">ἵστην</td>
+        <td class="tg-iks7">ἔστησα</td>
+        <td class="tg-0pky">ἔστην</td>
+        <td class="tg-0pky">στήσω</td>
+        <td class="tg-y698">ἕστηκα</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">2nd person</td>
+        <td class="tg-iks7">ἵστης</td>
+        <td class="tg-iks7">ἵστης</td>
+        <td class="tg-iks7">ἔστησας</td>
+        <td class="tg-0pky">ἔστης</td>
+        <td class="tg-0pky">στήσεις</td>
+        <td class="tg-0pky">ἕστηκας</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">3rd person</td>
+        <td class="tg-iks7">ἵστησι(ν)</td>
+        <td class="tg-iks7">ἵστη</td>
+        <td class="tg-iks7">ἔστησε(ν)</td>
+        <td class="tg-0pky">ἔστη</td>
+        <td class="tg-0pky">στήσει</td>
+        <td class="tg-0pky">ἕστηκε(ν)</td>
+      </tr>
+      <tr>
+        <td class="tg-tgze">Plural</td>
+        <td class="tg-f7v4" colspan="3"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">1st person</td>
+        <td class="tg-iks7">ἵσταμεν/<br>ἱστάνομεν</td>
+        <td class="tg-iks7">ἵσταμεν</td>
+        <td class="tg-iks7">ἐστήσαμεν</td>
+        <td class="tg-0pky">ἔστημεν</td>
+        <td class="tg-0pky">στήσομεν</td>
+        <td class="tg-y698">ἑστήκαμεν</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">2nd person</td>
+        <td class="tg-iks7">ἵστατε</td>
+        <td class="tg-iks7">ἵστατε</td>
+        <td class="tg-iks7">ἐστήσατε</td>
+        <td class="tg-0pky">ἔστητε</td>
+        <td class="tg-0pky">στήσετε</td>
+        <td class="tg-0pky">ἑστήκατε</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">3rd person</td>
+        <td class="tg-iks7">ἱστᾶσι(ν)</td>
+        <td class="tg-iks7">ἵστασαν</td>
+        <td class="tg-iks7">ἔστησαν</td>
+        <td class="tg-0pky">ἔστησαν</td>
+        <td class="tg-0pky">στήσουσι(ν)</td>
+        <td class="tg-0pky">ἑστήκασι(ν)</td>
+      </tr>
+    </tbody>
+    </table></br>
+
     
     
