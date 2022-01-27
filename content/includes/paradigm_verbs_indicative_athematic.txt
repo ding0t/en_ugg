@@ -409,7 +409,7 @@ Table V-AT-D2 ἵστημι (Active Indicative)
     </tbody>
     </table></br>
 
-  Table V-AT-D3 τίθημι (Active Indicative)
+Table V-AT-D3 τίθημι (Active Indicative)
 ^^^^^^^^^^^^^  
 
 **Stem  θη-**
