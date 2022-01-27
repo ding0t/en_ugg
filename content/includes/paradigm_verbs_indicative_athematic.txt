@@ -304,6 +304,7 @@ This stem includes δίδωμι (I give - 415 occurances); παραδίδωμι 
 Table V-AT-D2 ἵστημι (Active Indicative)
 ^^^^^^^^^^^^^
 
+Stem στα- This stem includes ἴστημι (I stand/cause - 155 occurances); ἀνίστημι (I oppose - 108 occurances); παρίστημι (I make available/ to be present - 41 occurances); καθίστημι (I appoint - 21 occurances); ἀνθίστημι (I oppose - 14 occurances); along with other compounds of ἴστημι.
 
 .. raw:: html
 
@@ -404,5 +405,100 @@ Table V-AT-D2 ἵστημι (Active Indicative)
     </tbody>
     </table></br>
 
+  Table V-AT-D3 τίθημι (Active Indicative)
+^^^^^^^^^^^^^  
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-4erg{border-color:inherit;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-tgze{background-color:#ffffff;border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-f7v4{background-color:#c0c0c0;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-wovw{background-color:#fffc9e;border-color:#000000;text-align:center;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-q44m{background-color:#ffffff;border-color:#000000;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-y698{background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-wovw" colspan="6"><span style="font-weight:bold">Table V-AT-D3</span><br>τίθημι <br>Athematic verbs (stem  θε-)    <br>Active Indicative</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-fymr">Singular</td>
+        <td class="tg-4erg">Present</td>
+        <td class="tg-4erg">Imperfect</td>
+        <td class="tg-4erg">1st Aorist</td>
+        <td class="tg-4erg"><span style="font-style:italic">Future</span></td>
+        <td class="tg-4erg">Perfect</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">1st person</td>
+        <td class="tg-iks7">τίθημι</td>
+        <td class="tg-iks7">ἐτίθην</td>
+        <td class="tg-iks7">ἔθηκα</td>
+        <td class="tg-0pky">θήσω</td>
+        <td class="tg-y698">τέθεικα</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">2nd person</td>
+        <td class="tg-iks7">τίθης</td>
+        <td class="tg-iks7">ἐτίθεις</td>
+        <td class="tg-iks7">ἔθηκας</td>
+        <td class="tg-0pky">θήσεις</td>
+        <td class="tg-0pky">τέθεικας</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">3rd person</td>
+        <td class="tg-iks7">τίθησι(ν)</td>
+        <td class="tg-iks7">ἐτίθει</td>
+        <td class="tg-iks7">ἔθηκε(ν)</td>
+        <td class="tg-0pky">θήσει</td>
+        <td class="tg-0pky">τέθεικε(ν)</td>
+      </tr>
+      <tr>
+        <td class="tg-tgze">Plural</td>
+        <td class="tg-f7v4" colspan="3"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">1st person</td>
+        <td class="tg-iks7">τίθεμεν</td>
+        <td class="tg-iks7">ἐτίθεμεν</td>
+        <td class="tg-iks7">ἐθήκαμεν</td>
+        <td class="tg-0pky">θήσομεν</td>
+        <td class="tg-y698">τεθείκαμεν</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">2nd person</td>
+        <td class="tg-iks7">τίθετε</td>
+        <td class="tg-iks7">ἐτίθετε</td>
+        <td class="tg-iks7">ἐθήκατε</td>
+        <td class="tg-0pky">θήσετε</td>
+        <td class="tg-0pky">τεθείκατε</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">3rd person</td>
+        <td class="tg-iks7">τιθέασι(ν)</td>
+        <td class="tg-iks7">ἐτίθεσαν/<br>ετίθουν</td>
+        <td class="tg-iks7">ἔθηκαν</td>
+        <td class="tg-0pky">θήσουσι(ν)</td>
+        <td class="tg-0pky">τεθείκασι(ν)</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+    
     
     
