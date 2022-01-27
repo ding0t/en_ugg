@@ -304,7 +304,11 @@ This stem includes δίδωμι (I give - 415 occurances); παραδίδωμι 
 Table V-AT-D2 ἵστημι (Active Indicative)
 ^^^^^^^^^^^^^
 
-Stem στα- This stem includes ἴστημι (I stand/cause - 155 occurances); ἀνίστημι (I oppose - 108 occurances); παρίστημι (I make available/ to be present - 41 occurances); καθίστημι (I appoint - 21 occurances); ἀνθίστημι (I oppose - 14 occurances); along with other compounds of ἴστημι.
+**Stem στα-** This stem includes ἴστημι (I stand/cause - 155 occurances); ἀνίστημι (I oppose - 108 occurances); παρίστημι (I make available/ to be present - 41 occurances); καθίστημι (I appoint - 21 occurances); ἀνθίστημι (I oppose - 14 occurances); along with other compounds of ἴστημι.
+
+[Note 1:] Note the smooth breathing (ἔστησα, ἔστην) over the first aorist and second aorist verbs which is because of the aorist augment. This contrasts with the rough breathing  due to the reduplication in the perfect form (ἵστηκα).
+
+[Note 2:] Both the present tense and the imperfect tense for the second person singular, the first person plural, and the second person plural are identical in form.  Context is the only way to distinguish between the present tense or the imperfect tense when this occurs.
 
 .. raw:: html
 
@@ -407,6 +411,9 @@ Stem στα- This stem includes ἴστημι (I stand/cause - 155 occurances); 
 
   Table V-AT-D3 τίθημι (Active Indicative)
 ^^^^^^^^^^^^^  
+
+**Stem  θη-**
+This stem includes τίθημι (I put/place - 100 occurances); παρατίθημι (I set before - 19 occurances); προστίθημι (I add to something present - 18 occurances) along with other compounds of τίθημι.
 
 .. raw:: html
 
