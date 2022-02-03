@@ -1226,6 +1226,11 @@ Verbs Indicative Athematic
 
 .. include:: includes/paradigm_verbs_indicative_athematic.txt
 
+Verbs Non-Indicative Athematic
+------------------------------
+
+.. include:: includes/paradigm_verbs_nonindicative_athematic.txt
+
 Verbs Subjunctive
 -----------------
 
