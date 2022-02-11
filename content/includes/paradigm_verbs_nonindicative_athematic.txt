@@ -1,6 +1,6 @@
 Paradigm_verbs_nonindicative_athematic.txt
 
-Table V-ATN-!  εἰμί Non-Indicative
+Table V-ATN-1  εἰμί Non-Indicative
 ^^^^^^^^^^^^^
 
 .. raw:: html
