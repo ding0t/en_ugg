@@ -24,7 +24,7 @@ Table V-ATN-1  εἰμί Non-Indicative
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-wovw" colspan="5"><span style="font-weight:bold">Table V-ATN-D1</span><br>Athematic verbs  (εἰμί)<br>Present     Active<br>Non-indicative  </th>
+        <th class="tg-wovw" colspan="5"><span style="font-weight:bold">Table V-ATN-1</span><br>Athematic verbs  (εἰμί)<br>Present     Active<br>Non-indicative  </th>
       </tr>
     </thead>
     <tbody>
@@ -83,4 +83,95 @@ Table V-ATN-1  εἰμί Non-Indicative
         <td class="tg-0pky">εἶεν (or εὄησαν)</td>
       </tr>
     </tbody>
-    </table>
+    </table></br>
+
+    Table V-ATN-2  Present Participle (εἰμί)
+    ^^^^^^^^^^^^^^
+
+    .. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+     overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-4erg{border-color:inherit;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-tgze{background-color:#ffffff;border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-f7v4{background-color:#c0c0c0;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-wovw{background-color:#fffc9e;border-color:#000000;text-align:center;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-q44m{background-color:#ffffff;border-color:#000000;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-8zwo{font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-wovw" colspan="4">Table V-ATN-2<br><span style="font-weight:bold">Present Participle</span> <span     style="font-weight:bold">(εἰμί)</span><br>Active</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-fymr">Singular</td>
+        <td class="tg-4erg">Masculine</td>
+        <td class="tg-4erg">Feminine</td>
+        <td class="tg-4erg">Neuter</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">Nominative</td>
+        <td class="tg-iks7">ὤν</td>
+        <td class="tg-iks7">οὖσα</td>
+        <td class="tg-iks7">ὄν</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">Genitive</td>
+        <td class="tg-iks7">ὄντος</td>
+        <td class="tg-iks7">οὔσης</td>
+        <td class="tg-iks7">ὄντος</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">Dative</td>
+        <td class="tg-iks7">ὄντι</td>
+        <td class="tg-iks7">οὔσῃ</td>
+        <td class="tg-iks7">ὄντι</td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">Accusative</td>
+        <td class="tg-0lax">ὄντα</td>
+        <td class="tg-0lax">οὖσαν</td>
+        <td class="tg-0lax">ὄν</td>
+      </tr>
+      <tr>
+        <td class="tg-tgze">Plural</td>
+        <td class="tg-f7v4"></td>
+        <td class="tg-f7v4"></td>
+        <td class="tg-f7v4"></td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">Nominative</td>
+        <td class="tg-iks7">ὄντες</td>
+        <td class="tg-iks7">οὖσαι</td>
+        <td class="tg-iks7">ὄντα</td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">Genitive</td>
+        <td class="tg-0lax">ὄντων</td>
+        <td class="tg-0lax">οὐσῶν</td>
+        <td class="tg-0lax">ὄντων</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">Dative</td>
+        <td class="tg-iks7">οὖσι(ν)</td>
+        <td class="tg-iks7">οὔσαις</td>
+        <td class="tg-iks7">οὖσι(ν)</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">Accusative</td>
+        <td class="tg-iks7">ὄντας</td>
+        <td class="tg-iks7">οὔσας</td>
+        <td class="tg-iks7">ὄντα</td>
+      </tr>
+    </tbody>
+    </table></BR>
