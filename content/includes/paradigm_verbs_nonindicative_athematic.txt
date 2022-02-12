@@ -88,7 +88,7 @@ Table V-ATN-1  εἰμί Non-Indicative
 Table V-ATN-2  Present Participle (εἰμί)
 ^^^^^^^^^^^^^^
 
-    .. raw:: html
+.. raw:: html
 
     <style type="text/css">
     .tg  {border-collapse:collapse;border-spacing:0;}
