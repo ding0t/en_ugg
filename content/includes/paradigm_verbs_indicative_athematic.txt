@@ -1,6 +1,6 @@
 paradigm_verbs_indicative_athematic.txt
 
-Table V-AT-1 εἰμί Indicative and Non-Indicative
+Table V-AT-1 εἰμί Indicative
 ^^^^^^^^^^^^
 
 .. raw:: html
@@ -11,102 +11,73 @@ Table V-AT-1 εἰμί Indicative and Non-Indicative
       overflow:hidden;padding:10px 5px;word-break:normal;}
     .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
       font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-    .tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
     .tg .tg-4erg{border-color:inherit;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
-    .tg .tg-k7ar{background-color:#c0c0c0;border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
     .tg .tg-tgze{background-color:#ffffff;border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
-    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
     .tg .tg-f7v4{background-color:#c0c0c0;border-color:#000000;text-align:left;vertical-align:top}
     .tg .tg-wovw{background-color:#fffc9e;border-color:#000000;text-align:center;vertical-align:top}
     .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
     .tg .tg-q44m{background-color:#ffffff;border-color:#000000;font-style:italic;text-align:left;vertical-align:top}
     .tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
     .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
     </style>
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-wovw" colspan="7"><span style="font-weight:bold">Table V-AT-1</span><br><span style="font-weight:bold">εἰμί</    span></th>
+        <th class="tg-wovw" colspan="4">Table V-AT-1<br><span style="font-weight:bold">εἰμί</span><br>Indicative</th>
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td class="tg-tgze"></td>
-        <td class="tg-k7ar" colspan="3">Indicative</td>
-        <td class="tg-zlqz" colspan="3">Non-indicative</td>
-      </tr>
       <tr>
         <td class="tg-fymr">Singular</td>
         <td class="tg-4erg">Present</td>
         <td class="tg-4erg">Imperfect</td>
         <td class="tg-4erg">Future</td>
-        <td class="tg-4erg">Subjunctive</td>
-        <td class="tg-4erg">Imperative</td>
-        <td class="tg-4erg">Infinitive<br>active</td>
       </tr>
       <tr>
         <td class="tg-q44m">1st person</td>
-        <td class="tg-iks7">είμἰ</td>
+        <td class="tg-iks7">εἰμί</td>
         <td class="tg-iks7">ἤμην</td>
         <td class="tg-iks7">ἔσομαι</td>
-        <td class="tg-0pky">ὦ</td>
-        <td class="tg-llyw"></td>
-        <td class="tg-0pky">εἶναι</td>
       </tr>
       <tr>
         <td class="tg-q44m">2nd person</td>
         <td class="tg-iks7">εἶ</td>
         <td class="tg-iks7">ἦς</td>
         <td class="tg-iks7">ἔσῃ</td>
-        <td class="tg-0pky">ᾖς</td>
-        <td class="tg-0pky">ἴσθι</td>
-        <td class="tg-llyw"></td>
       </tr>
       <tr>
         <td class="tg-q44m">3rd person</td>
-        <td class="tg-iks7">ἐστι(ν)</td>
+        <td class="tg-iks7">ἐστί(ν)</td>
         <td class="tg-iks7">ἦν</td>
         <td class="tg-iks7">ἔσται</td>
-        <td class="tg-0pky">ᾖ</td>
-        <td class="tg-0pky">ἔστω</td>
-        <td class="tg-llyw"></td>
       </tr>
       <tr>
         <td class="tg-tgze">Plural</td>
-        <td class="tg-f7v4" colspan="3"></td>
-        <td class="tg-llyw" colspan="3"></td>
+        <td class="tg-f7v4"></td>
+        <td class="tg-f7v4"></td>
+        <td class="tg-f7v4"></td>
       </tr>
       <tr>
         <td class="tg-q44m">1st person</td>
         <td class="tg-iks7">ἐσμέν</td>
         <td class="tg-iks7">ἦμεν, ἤμεθα</td>
         <td class="tg-iks7">ἐσόμεθα</td>
-        <td class="tg-0pky">ὦμεν</td>
-        <td class="tg-llyw"></td>
-        <td class="tg-llyw"></td>
       </tr>
       <tr>
-        <td class="tg-q44m">2nd person</td>
-        <td class="tg-iks7">ἐστέ</td>
-        <td class="tg-iks7">ἦτε</td>
-        <td class="tg-iks7">ἔσεσθε</td>
+        <td class="tg-f8tv">2nd person</td>
+        <td class="tg-0pky">ἐστέ</td>
         <td class="tg-0pky">ἦτε</td>
-        <td class="tg-0pky">ἔστε</td>
-        <td class="tg-llyw"></td>
+        <td class="tg-0pky">ἔσεσθε</td>
       </tr>
       <tr>
         <td class="tg-q44m">3rd person</td>
         <td class="tg-iks7">εἰσί(ν)</td>
         <td class="tg-iks7">ἦσαν</td>
         <td class="tg-iks7">ἔσονται</td>
-        <td class="tg-0pky">ὦσι(ν)</td>
-        <td class="tg-0pky">ἔστωσαν</td>
-        <td class="tg-llyw"></td>
       </tr>
     </tbody>
     </table></br>
-
-
 
 
 Table V-AT - 2   εἰμί Present Active Participle
