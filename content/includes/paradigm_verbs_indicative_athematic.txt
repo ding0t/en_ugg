@@ -272,6 +272,131 @@ This stem includes δίδωμι (I give - 415 occurances); παραδίδωμι 
     </tbody>
     </table></br>
 
+Table V-AT-D1a δίδομι Middle/passive indicative    
+^^^^^^^^^^^^^^
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-4erg{border-color:inherit;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-ihln{font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-tgze{background-color:#ffffff;border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-f7v4{background-color:#c0c0c0;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-wovw{background-color:#fffc9e;border-color:#000000;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-6t3r{font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-q44m{background-color:#ffffff;border-color:#000000;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-wovw" colspan="8">Table V-AT-D1a<br><span style="font-weight:bold">δἰδωμι (I give)</span><br>Middle/Passive&nbsp;&    nbsp;&nbsp;Indicative</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-0lax"></td>
+        <td class="tg-baqh"><span style="font-weight:bold;font-style:italic">Present</span></td>
+        <td class="tg-0lax"><span style="font-weight:bold;font-style:italic">Imperfect</span></td>
+        <td class="tg-ihln" colspan="2">2nd Aorist</td>
+        <td class="tg-ihln" colspan="2">Future</td>
+        <td class="tg-6t3r">Perfect</td>
+      </tr>
+      <tr>
+        <td class="tg-fymr">Singular</td>
+        <td class="tg-4erg">Middle/passive</td>
+        <td class="tg-4erg">Middle/passive</td>
+        <td class="tg-4erg">Middle</td>
+        <td class="tg-6t3r">Passive</td>
+        <td class="tg-6t3r">Middle</td>
+        <td class="tg-0lax"><span style="font-weight:bold;font-style:italic">Passive</span></td>
+        <td class="tg-6t3r">Middle/passive</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">1st person</td>
+        <td class="tg-iks7">δίδομαι</td>
+        <td class="tg-iks7">ἐδιδόμην</td>
+        <td class="tg-iks7">ἐδόμην</td>
+        <td class="tg-0lax">ἐδόθην</td>
+        <td class="tg-0lax">δώσομαι</td>
+        <td class="tg-0lax">δοθήσομαι</td>
+        <td class="tg-0lax">δέδομαι</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">2nd person</td>
+        <td class="tg-iks7">δίδοσαι</td>
+        <td class="tg-iks7">ἐδίδοσο</td>
+        <td class="tg-iks7">ἔδου</td>
+        <td class="tg-0lax">ἐδόθης</td>
+        <td class="tg-0lax">δώσῃ</td>
+        <td class="tg-0lax">δοθήσῃ</td>
+        <td class="tg-0lax">δέδοσαι</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">3rd person</td>
+        <td class="tg-iks7">δίδοται</td>
+        <td class="tg-iks7">ἐδίδοτο</td>
+        <td class="tg-iks7">ἔδοτο</td>
+        <td class="tg-0lax">ἐδόθη</td>
+        <td class="tg-0lax">δώσεται</td>
+        <td class="tg-0lax">δοθήσεται</td>
+        <td class="tg-0lax">δέδοται</td>
+      </tr>
+      <tr>
+        <td class="tg-tgze">Plural</td>
+        <td class="tg-f7v4"></td>
+        <td class="tg-f7v4"></td>
+        <td class="tg-f7v4"></td>
+        <td class="tg-y6fn"></td>
+        <td class="tg-y6fn"></td>
+        <td class="tg-y6fn"></td>
+        <td class="tg-y6fn"></td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">1st person</td>
+        <td class="tg-iks7">διδόμεθα</td>
+        <td class="tg-iks7">ἐδιδόμεθα</td>
+        <td class="tg-iks7">ἐδόμεθα</td>
+        <td class="tg-0lax">ἐδόθημεν</td>
+        <td class="tg-0lax">δωσόμεθα</td>
+        <td class="tg-0lax">δοθησόμεθα</td>
+        <td class="tg-0lax">δεδόμεθα</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">2nd person</td>
+        <td class="tg-0pky">δίδοσθε</td>
+        <td class="tg-0pky">ἐδίδοσθε</td>
+        <td class="tg-0pky">ἔδοσθε</td>
+        <td class="tg-0lax">ἐδόθητε</td>
+        <td class="tg-0lax">δώσεσθε</td>
+        <td class="tg-0lax">δοθήσεσθε</td>
+        <td class="tg-0lax">δέδοσθε</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">3rd person</td>
+        <td class="tg-iks7">δίδονται</td>
+        <td class="tg-iks7">ἐδίδοντο</td>
+        <td class="tg-iks7">ἔδοντο</td>
+        <td class="tg-0lax">ἐδόθησαν</td>
+        <td class="tg-0lax">δώσονται</td>
+        <td class="tg-0lax">δοθήσονται</td>
+        <td class="tg-0lax">δέδονται</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+
 Table V-AT-D2 ἵστημι (Active Indicative)
 ^^^^^^^^^^^^^
 
