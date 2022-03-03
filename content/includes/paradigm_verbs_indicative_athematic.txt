@@ -301,7 +301,7 @@ Table V-AT-D1a δίδομι Middle/passive indicative
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-wovw" colspan="8">Table V-AT-D1a<br><span style="font-weight:bold">δἰδωμι (I give)</span><br>Middle/Passive&nbsp;&    nbsp;&nbsp;Indicative</th>
+        <th class="tg-wovw" colspan="8">Table V-AT-D1a<br><span style="font-weight:bold">δἰδωμι (I give)</span><br>Middle/Passive  Indicative</th>
       </tr>
     </thead>
     <tbody>
