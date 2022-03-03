@@ -602,6 +602,130 @@ This stem includes τίθημι (I put/place - 100 occurances); παρατίθη
     </tbody>
     </table></br>
 
+Table V-AT-D3a τίθημι middle/passive indicative
+^^^^^^^^^^^^^^
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-4erg{border-color:inherit;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-tgze{background-color:#ffffff;border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-f7v4{background-color:#c0c0c0;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-wovw{background-color:#fffc9e;border-color:#000000;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-rvyq{border-color:inherit;font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-q44m{background-color:#ffffff;border-color:#000000;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-wovw" colspan="8"><span style="font-weight:bold">Table V-AT-D3a</span><br>τίθημι&nbsp;&nbsp;(I put/place)    <br>Middle/Passive   Indicative</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-0pky"></td>
+        <td class="tg-c3ow"><span style="font-weight:bold;font-style:italic">Present</span></td>
+        <td class="tg-0pky"><span style="font-weight:bold;font-style:italic">Imperfect</span></td>
+        <td class="tg-rvyq" colspan="2">Aorist</td>
+        <td class="tg-rvyq" colspan="2">Future</td>
+        <td class="tg-4erg">Perfect</td>
+      </tr>
+      <tr>
+        <td class="tg-fymr">Singular</td>
+        <td class="tg-4erg">Middle/passive</td>
+        <td class="tg-4erg">Middle/passive</td>
+        <td class="tg-4erg">Middle</td>
+        <td class="tg-4erg">Passive</td>
+        <td class="tg-4erg">Middle</td>
+        <td class="tg-0pky"><span style="font-weight:bold;font-style:italic">Passive</span></td>
+        <td class="tg-4erg">Middle/passive</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">1st person</td>
+        <td class="tg-iks7">τίθεμαι</td>
+        <td class="tg-iks7">ἐτιθέμην</td>
+        <td class="tg-iks7">ἐθέμην</td>
+        <td class="tg-0pky">ἐτέθην</td>
+        <td class="tg-0pky">θήσομαι</td>
+        <td class="tg-0pky">τεθήσομαι</td>
+        <td class="tg-0pky">τέθειμαι</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">2nd person</td>
+        <td class="tg-iks7">τίθεσαι</td>
+        <td class="tg-iks7">ἐτίθεσο</td>
+        <td class="tg-iks7">ἔθου</td>
+        <td class="tg-0pky">ἐτέθης</td>
+        <td class="tg-0pky">θήσῃ</td>
+        <td class="tg-0pky">τεθήσῃ</td>
+        <td class="tg-0pky">τέθεισαι</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">3rd person</td>
+        <td class="tg-iks7">τίθεται</td>
+        <td class="tg-iks7">ἐτίθετο</td>
+        <td class="tg-iks7">ἔθετο</td>
+        <td class="tg-0pky">ἐτέθη</td>
+        <td class="tg-0pky">θήσεται</td>
+        <td class="tg-0pky">τεθήσεται</td>
+        <td class="tg-0pky">τέθειται</td>
+      </tr>
+      <tr>
+        <td class="tg-tgze">Plural</td>
+        <td class="tg-f7v4"></td>
+        <td class="tg-f7v4"></td>
+        <td class="tg-f7v4"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">1st person</td>
+        <td class="tg-iks7">τιθέμεθα</td>
+        <td class="tg-iks7">ἐτιθέμεθα</td>
+        <td class="tg-iks7">ἐθέμεθα</td>
+        <td class="tg-0pky">ἐτέθημεν</td>
+        <td class="tg-0pky">θησόμεθα</td>
+        <td class="tg-0pky">τεθησόμεθα</td>
+        <td class="tg-0pky">τεθείμεθα</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">2nd person</td>
+        <td class="tg-0pky">τίθεσθε</td>
+        <td class="tg-0pky">ἐτίθεσθε</td>
+        <td class="tg-0pky">ἔθεσθε</td>
+        <td class="tg-0pky">ἐτέθητε</td>
+        <td class="tg-0pky">θήσεσθε</td>
+        <td class="tg-0pky">τεθήσεσθε</td>
+        <td class="tg-0pky">τέθεισθε</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">3rd person</td>
+        <td class="tg-iks7">τίθενται</td>
+        <td class="tg-iks7">ἐτίθεντο</td>
+        <td class="tg-iks7">ἔθεντο</td>
+        <td class="tg-0pky">ἐτέθησαν</td>
+        <td class="tg-0pky">θήσονται</td>
+        <td class="tg-0pky">τεθήσονται</td>
+        <td class="tg-0pky">τέθεινται</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+    
+
     
     
     
