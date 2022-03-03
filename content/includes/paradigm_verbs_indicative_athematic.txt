@@ -558,7 +558,7 @@ Table V-AT-D2a ἵστημι middle/passive indicative
         <td class="tg-iks7">ἱστάμην</td>
         <td class="tg-iks7">ἐστάμην</td>
         <td class="tg-0pky">ἐστάθην</td>
-        <td class="tg-0pky">θήσομαι</td>
+        <td class="tg-0pky">στήσομαι</td>
         <td class="tg-0pky">σταθήσομαι</td>
       </tr>
       <tr>
@@ -567,7 +567,7 @@ Table V-AT-D2a ἵστημι middle/passive indicative
         <td class="tg-iks7">ἵστασο</td>
         <td class="tg-iks7">ἔστω</td>
         <td class="tg-0pky">ἐστάθης</td>
-        <td class="tg-0pky">θήσῃ</td>
+        <td class="tg-0pky">στήσῃ</td>
         <td class="tg-0pky">σταθήσῃ</td>
       </tr>
       <tr>
@@ -576,7 +576,7 @@ Table V-AT-D2a ἵστημι middle/passive indicative
         <td class="tg-iks7">ἵστατο</td>
         <td class="tg-iks7">ἔστατο</td>
         <td class="tg-0pky">ἐστάθη</td>
-        <td class="tg-0pky">θήσεται</td>
+        <td class="tg-0pky">στήσεται</td>
         <td class="tg-0pky">σταθήσεται</td>
       </tr>
       <tr>
@@ -594,7 +594,7 @@ Table V-AT-D2a ἵστημι middle/passive indicative
         <td class="tg-tgze">ἱστάμεθα</td>
         <td class="tg-iks7">ἐστάμεθα</td>
         <td class="tg-0pky">ἐστάθημεν</td>
-        <td class="tg-0pky">θησόμεθα</td>
+        <td class="tg-0pky">στησόμεθα</td>
         <td class="tg-0pky">σταθησόμεθα</td>
       </tr>
       <tr>
@@ -603,7 +603,7 @@ Table V-AT-D2a ἵστημι middle/passive indicative
         <td class="tg-fymr">ἵστασθε</td>
         <td class="tg-0pky">ἔστασθε</td>
         <td class="tg-0pky">ἐστάθητε</td>
-        <td class="tg-0pky">θήσεσθε</td>
+        <td class="tg-0pky">στήσεσθε</td>
         <td class="tg-0pky">σταθήσεσθε</td>
       </tr>
       <tr>
@@ -612,7 +612,7 @@ Table V-AT-D2a ἵστημι middle/passive indicative
         <td class="tg-iks7">ἵσταντο</td>
         <td class="tg-iks7">ἔσταντο</td>
         <td class="tg-0pky">ἐστάθησαν</td>
-        <td class="tg-0pky">θήσονται</td>
+        <td class="tg-0pky">στήσονται</td>
         <td class="tg-0pky">σταθήσονται</td>
       </tr>
     </tbody>
