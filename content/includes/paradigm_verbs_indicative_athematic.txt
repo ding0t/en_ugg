@@ -505,6 +505,121 @@ Table V-AT-D2 ἵστημι (Active Indicative)
     </tbody>
     </table></br>
 
+Table V-AT-D2a ἵστημι middle/passive indicative
+^^^^^^^^^^^^^^
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-4erg{border-color:inherit;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-tgze{background-color:#ffffff;border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-f7v4{background-color:#c0c0c0;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-wovw{background-color:#fffc9e;border-color:#000000;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-rvyq{border-color:inherit;font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-q44m{background-color:#ffffff;border-color:#000000;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-wovw" colspan="7"><span style="font-weight:bold">Table V-AT-D2a</span><br>ἴστημι  (I stand/cause to stand)    <br>Middle/Passive   Indicative</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-0pky"></td>
+        <td class="tg-c3ow"><span style="font-weight:bold;font-style:italic">Present</span></td>
+        <td class="tg-0pky"><span style="font-weight:bold;font-style:italic">Imperfect</span></td>
+        <td class="tg-rvyq" colspan="2">Aorist</td>
+        <td class="tg-rvyq" colspan="2">Future</td>
+      </tr>
+      <tr>
+        <td class="tg-fymr">Singular</td>
+        <td class="tg-4erg">Middle/passive</td>
+        <td class="tg-4erg">Middle/passive</td>
+        <td class="tg-4erg">Middle</td>
+        <td class="tg-4erg">Passive</td>
+        <td class="tg-4erg">Middle</td>
+        <td class="tg-0pky"><span style="font-weight:bold;font-style:italic">Passive</span></td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">1st person</td>
+        <td class="tg-iks7">ἵσταμαι</td>
+        <td class="tg-iks7">ἱστάμην</td>
+        <td class="tg-iks7">ἐστάμην</td>
+        <td class="tg-0pky">ἐστάθην</td>
+        <td class="tg-0pky">θήσομαι</td>
+        <td class="tg-0pky">σταθήσομαι</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">2nd person</td>
+        <td class="tg-iks7">ἵστασαι</td>
+        <td class="tg-iks7">ἵστασο</td>
+        <td class="tg-iks7">ἔστω</td>
+        <td class="tg-0pky">ἐστάθης</td>
+        <td class="tg-0pky">θήσῃ</td>
+        <td class="tg-0pky">σταθήσῃ</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">3rd person</td>
+        <td class="tg-iks7">ἵσταται</td>
+        <td class="tg-iks7">ἵστατο</td>
+        <td class="tg-iks7">ἔστατο</td>
+        <td class="tg-0pky">ἐστάθη</td>
+        <td class="tg-0pky">θήσεται</td>
+        <td class="tg-0pky">σταθήσεται</td>
+      </tr>
+      <tr>
+        <td class="tg-tgze">Plural</td>
+        <td class="tg-f7v4"></td>
+        <td class="tg-f7v4"></td>
+        <td class="tg-f7v4"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">1st person</td>
+        <td class="tg-tgze">ἱστάμεθα</td>
+        <td class="tg-tgze">ἱστάμεθα</td>
+        <td class="tg-iks7">ἐστάμεθα</td>
+        <td class="tg-0pky">ἐστάθημεν</td>
+        <td class="tg-0pky">θησόμεθα</td>
+        <td class="tg-0pky">σταθησόμεθα</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">2nd person</td>
+        <td class="tg-fymr">ἵστασθε</td>
+        <td class="tg-fymr">ἵστασθε</td>
+        <td class="tg-0pky">ἔστασθε</td>
+        <td class="tg-0pky">ἐστάθητε</td>
+        <td class="tg-0pky">θήσεσθε</td>
+        <td class="tg-0pky">σταθήσεσθε</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">3rd person</td>
+        <td class="tg-iks7">ἵστανται</td>
+        <td class="tg-iks7">ἵσταντο</td>
+        <td class="tg-iks7">ἔσταντο</td>
+        <td class="tg-0pky">ἐστάθησαν</td>
+        <td class="tg-0pky">θήσονται</td>
+        <td class="tg-0pky">σταθήσονται</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+
+
 Table V-AT-D3 τίθημι (Active Indicative)
 ^^^^^^^^^^^^^  
 
