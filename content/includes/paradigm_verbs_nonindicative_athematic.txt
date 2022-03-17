@@ -175,3 +175,126 @@ Table V-ATN-2  Present Participle (εἰμί)
       </tr>
     </tbody>
     </table></BR>
+
+Table V-ATN-3S1 Subjunctive Non-indicative Athematic verbs
+^^^^^^^^^^^^^^^
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-tgze{background-color:#ffffff;border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-f7v4{background-color:#c0c0c0;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-wovw{background-color:#fffc9e;border-color:#000000;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-8zwo{font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-q44m{background-color:#ffffff;border-color:#000000;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-wovw" colspan="8"><span style="font-weight:bold">Table V-ATN-3S1</span><br><span     style="font-weight:bold">Non-Indicative Active Subjunctive</span><br></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-0pky"></td>
+        <td class="tg-c3ow" colspan="3"><span style="font-weight:bold;font-style:italic">δίδωμι</span></td>
+        <td class="tg-7btt" colspan="2">ἵστωμι</td>
+        <td class="tg-baqh" colspan="2"><span style="font-weight:bold">τίθημι</span></td>
+      </tr>
+      <tr>
+        <td class="tg-fymr">Singular</td>
+        <td class="tg-f8tv">Present</td>
+        <td class="tg-f8tv">1st <br>Aorist</td>
+        <td class="tg-f8tv">2nd <br>Aorist</td>
+        <td class="tg-f8tv">Present</td>
+        <td class="tg-f8tv">1st <br>Aorist</td>
+        <td class="tg-8zwo">Present</td>
+        <td class="tg-8zwo">2nd<br>Aorist</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">1st person</td>
+        <td class="tg-iks7">διδῶ</td>
+        <td class="tg-iks7">δώσω</td>
+        <td class="tg-iks7">δῶ</td>
+        <td class="tg-0pky">ἱστῶ</td>
+        <td class="tg-0pky">στήσω</td>
+        <td class="tg-0lax">τιθῶ</td>
+        <td class="tg-0lax">θῶ</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">2nd person</td>
+        <td class="tg-iks7">διδῷς</td>
+        <td class="tg-iks7">δώσῃς</td>
+        <td class="tg-iks7">δῷς</td>
+        <td class="tg-0pky">ἱστῇς</td>
+        <td class="tg-0pky">στήσῃς</td>
+        <td class="tg-0lax">τιθῇς</td>
+        <td class="tg-0lax">θῇς</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">3rd person</td>
+        <td class="tg-iks7">διδῷ</td>
+        <td class="tg-iks7">δώσῃ</td>
+        <td class="tg-iks7">δῷ&nbsp;&nbsp;(or)<br>δοῖ</td>
+        <td class="tg-0pky">ἱστῇ</td>
+        <td class="tg-0pky">στήσῃ</td>
+        <td class="tg-0lax">τιθῇ</td>
+        <td class="tg-0lax">θῇ</td>
+      </tr>
+      <tr>
+        <td class="tg-tgze">Plural</td>
+        <td class="tg-f7v4"></td>
+        <td class="tg-f7v4"></td>
+        <td class="tg-f7v4"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-y6fn"></td>
+        <td class="tg-y6fn"></td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">1st person</td>
+        <td class="tg-iks7">διδῶμεν</td>
+        <td class="tg-iks7">δώσωμεν</td>
+        <td class="tg-iks7">δῶμεν</td>
+        <td class="tg-0pky">ἱστῶμεν</td>
+        <td class="tg-0pky">στήσωμεν</td>
+        <td class="tg-0lax">τιθῶμεν</td>
+        <td class="tg-0lax">θῶμεν</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">2nd person</td>
+        <td class="tg-0pky">διδῶτε</td>
+        <td class="tg-0pky">δώσητε</td>
+        <td class="tg-0pky">δῶτε</td>
+        <td class="tg-0pky">ἱστῆτε</td>
+        <td class="tg-0pky">στήσητε</td>
+        <td class="tg-0lax">τιθῆτε</td>
+        <td class="tg-0lax">θῆτε</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">3rd person</td>
+        <td class="tg-iks7">διδῶσι(ν)</td>
+        <td class="tg-iks7">δώσωσι(ν)</td>
+        <td class="tg-iks7">δῶσι(ν)</td>
+        <td class="tg-0pky">ἱστῶσι(ν)</td>
+        <td class="tg-0pky">στήσωσι(ν)</td>
+        <td class="tg-0lax">τιθῶσι(ν)</td>
+        <td class="tg-0lax">θῶσι(ν)</td>
+      </tr>
+    </tbody>
+    </table></br>
