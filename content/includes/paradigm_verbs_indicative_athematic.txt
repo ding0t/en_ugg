@@ -125,7 +125,7 @@ Table V-AT - 2   εἰμί Present Active Participle
         <td class="tg-q44m">Dative</td>
         <td class="tg-iks7">ὄντι</td>
         <td class="tg-iks7">οὔσῃ</td>
-        <td class="tg-q44m">ὄντι</td>
+        <td class="tg-iks7">ὄντι</td>
       </tr>
       <tr>
         <td class="tg-q44m">Accusative</td>
