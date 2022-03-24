@@ -267,7 +267,7 @@ This stem includes δίδωμι (I give - 415 occurrences); παραδίδωμι
         <td class="tg-iks7">ἔδωκαν</td>
         <td class="tg-0lax">ἔδοσαν</td>
         <td class="tg-0pky">δώσουσι(ν)</td>
-        <td class="tg-0pky">δέδωκαν /δεδώκασι(ν)</td>
+        <td class="tg-0pky">δέδωκαν /<βρ>δεδώκασι(ν)</td>
       </tr>
     </tbody>
     </table></br>
