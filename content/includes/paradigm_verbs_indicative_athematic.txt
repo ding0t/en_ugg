@@ -188,8 +188,8 @@ This stem includes δίδωμι (I give - 415 occurrences); παραδίδωμι
     .tg .tg-q44m{background-color:#ffffff;border-color:#000000;font-style:italic;text-align:left;vertical-align:top}
     .tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
     .tg .tg-0lax{text-align:left;vertical-align:top}
-    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-    .tg .tg-y698{background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-y698{background-color:#efefef;border-color:#000000;text-align:left;vertical-align:top}
     .tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
     </style>
     <table class="tg">
@@ -267,7 +267,7 @@ This stem includes δίδωμι (I give - 415 occurrences); παραδίδωμι
         <td class="tg-iks7">ἔδωκαν</td>
         <td class="tg-0lax">ἔδοσαν</td>
         <td class="tg-0pky">δώσουσι(ν)</td>
-        <td class="tg-0pky">δέδωκαν</td>
+        <td class="tg-0pky">δέδωκαν /δεδώκασι(ν)</td>
       </tr>
     </tbody>
     </table></br>
