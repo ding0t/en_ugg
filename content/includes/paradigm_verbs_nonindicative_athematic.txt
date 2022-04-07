@@ -448,4 +448,110 @@ Table V-ATN-3S2 Subjunctive Middle/Passive Non-indicative Athematic verbs
     </tbody>
     </table></br>
 
+Table V-ATM-1 Imperative Active athematic verbs
+^^^^^^^^^^^^^^
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-yoze{background-color:#c0c0c0;border-color:inherit;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-e2mh{background-color:#c0c0c0;border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-4erg{border-color:inherit;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-tgze{background-color:#ffffff;border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-f7v4{background-color:#c0c0c0;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-wovw{background-color:#fffc9e;border-color:#000000;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-rvyq{border-color:inherit;font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-q44m{background-color:#ffffff;border-color:#000000;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-wovw" colspan="7"><span style="font-weight:bold">Table V-ATM-1</span><br><span     style="font-weight:bold">Non-Indicative  Athematic</span><br><span style="font-weight:bold">Imperative Active</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-0pky"></td>
+        <td class="tg-7btt" colspan="3">Present</td>
+        <td class="tg-c3ow" colspan="3"><span style="font-weight:bold">Aorist</span></td>
+      </tr>
+      <tr>
+        <td class="tg-0pky"></td>
+        <td class="tg-8bgf"><span style="font-weight:bold">δίδωμι</span></td>
+        <td class="tg-rvyq">ἵστημι</td>
+        <td class="tg-0pky"><span style="font-weight:bold;font-style:italic">τἰθημι</span></td>
+        <td class="tg-4erg">δίδωμι</td>
+        <td class="tg-rvyq">ἵστημι</td>
+        <td class="tg-4erg">τίθημι</td>
+      </tr>
+      <tr>
+        <td class="tg-fymr">Singular</td>
+        <td class="tg-yoze"></td>
+        <td class="tg-yoze"></td>
+        <td class="tg-e2mh"></td>
+        <td class="tg-yoze"></td>
+        <td class="tg-yoze"></td>
+        <td class="tg-yoze"></td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">2nd person</td>
+        <td class="tg-iks7">δίδου</td>
+        <td class="tg-0pky">ἵστη</td>
+        <td class="tg-0pky">τίθει</td>
+        <td class="tg-0pky">δός</td>
+        <td class="tg-0pky">στῆθι /<br>στῆσον</td>
+        <td class="tg-0pky">θές</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">3rd person</td>
+        <td class="tg-iks7">διδότω</td>
+        <td class="tg-0pky">ἱστάτω</td>
+        <td class="tg-0pky">τιθέτω</td>
+        <td class="tg-0pky">δότω</td>
+        <td class="tg-0pky">στήτω</td>
+        <td class="tg-0pky">θέτω</td>
+      </tr>
+      <tr>
+        <td class="tg-tgze">Plural</td>
+        <td class="tg-f7v4"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">2nd person</td>
+        <td class="tg-0pky">δίδοτε</td>
+        <td class="tg-0pky">ἵστατε</td>
+        <td class="tg-0pky">τίθετε</td>
+        <td class="tg-0pky">δότε</td>
+        <td class="tg-0pky">στῆτε /<br>στήσατε</td>
+        <td class="tg-0pky">θέτε</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">3rd person</td>
+        <td class="tg-iks7">διδότωσαν</td>
+        <td class="tg-0pky">ἱστάτωσαν</td>
+        <td class="tg-0pky">τιθέτωσαν</td>
+        <td class="tg-0pky">δότωσαν</td>
+        <td class="tg-0pky">στήτωσαν</td>
+        <td class="tg-0pky">θέτωσαν</td>
+      </tr>
+    </tbody>
+    </table></br>
+
     
