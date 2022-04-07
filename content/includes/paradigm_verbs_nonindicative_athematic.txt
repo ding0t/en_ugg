@@ -557,6 +557,8 @@ Table V-ATM-1 Imperative Active athematic verbs
 Table V-ATM-2 Imperative Middle/passive Non-indicative Athematic Verbs
 ^^^^^^^^^^^^^^
 
+.. raw:: html
+
     <style type="text/css">
     .tg  {border-collapse:collapse;border-spacing:0;}
     .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
