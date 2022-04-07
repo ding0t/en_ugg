@@ -448,7 +448,7 @@ Table V-ATN-3S2 Subjunctive Middle/Passive Non-indicative Athematic verbs
     </tbody>
     </table></br>
 
-Table V-ATM-1 Imperative Active athematic verbs
+Table V-ATM-1 Imperative Active Non-indicative athematic verbs
 ^^^^^^^^^^^^^^
 
 .. raw:: html
