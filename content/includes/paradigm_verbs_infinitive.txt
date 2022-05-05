@@ -1,5 +1,65 @@
 paradigm_infinitive
 
+Table V-NT  Verb Infinitive Morpheme Chart
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-4erg{border-color:inherit;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-4yb7{background-color:#ffffff;border-color:inherit;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-yk7f{background-color:#ffffff;border-color:#000000;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-wovw{background-color:#fffc9e;border-color:#000000;text-align:center;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-6t3r{font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-c6of{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-wovw" colspan="5"><span style="font-weight:bold">Table V-NT</span><br><span style="font-weight:bold">Non-Indicative </span><br><span style="font-weight:bold">Infinitive - Morpheme Chart</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-fymr"></td>
+        <td class="tg-4yb7">Present</td>
+        <td class="tg-4yb7">1st Aorist</td>
+        <td class="tg-4yb7">2nd Aorist</td>
+        <td class="tg-6t3r">Perfect</td>
+      </tr>
+      <tr>
+        <td class="tg-yk7f">Active</td>
+        <td class="tg-iks7">ειν</td>
+        <td class="tg-c6of">σαι</td>
+        <td class="tg-0pky">ειν</td>
+        <td class="tg-0lax">κεναι</td>
+      </tr>
+      <tr>
+        <td class="tg-yk7f">Middle</td>
+        <td class="tg-iks7">εσθαι</td>
+        <td class="tg-c6of">σασθαι</td>
+        <td class="tg-c6of">εσθαι</td>
+        <td class="tg-0lax">σθαι</td>
+      </tr>
+      <tr>
+        <td class="tg-4erg">Passive</td>
+        <td class="tg-0pky">εσθαι</td>
+        <td class="tg-0pky">θηναι</td>
+        <td class="tg-0pky">ηναι</td>
+        <td class="tg-0lax">σθαι</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+
 **Table V-NT-1**  Verb Infinitive with theme vowels
 
 [based on the verbs λύω - I loose/untie/destroy ; βάλλω - I throw/cast ]
