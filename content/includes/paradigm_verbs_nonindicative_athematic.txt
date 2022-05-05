@@ -654,5 +654,75 @@ Table V-ATM-2 Imperative Middle/passive Non-indicative Athematic Verbs
     </tbody>
     </table></br>
 
+Table V-ATN-1 Infinitives  Active Non-Indicative Athematic Verbs
+^^^^^^^^^^^^^
+
+[NOTE] The infinatives marked with an asterisk (*) do not appear in the New Testament, but do appear in the Septuagint. 
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-4yb7{background-color:#ffffff;border-color:inherit;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-wovw{background-color:#fffc9e;border-color:#000000;text-align:center;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-q44m{background-color:#ffffff;border-color:#000000;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-c6of{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-jbyd{background-color:#ffffff;border-color:#000000;text-align:center;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-wovw" colspan="4"><span style="font-weight:bold">Table V-ATN-1</span><br><span     style="font-weight:bold">Non-Indicative  Athematic</span><br><span style="font-weight:bold">Infinitive - Active</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-fymr"></td>
+        <td class="tg-4yb7">δίδωμι</td>
+        <td class="tg-4yb7">ἵστημι</td>
+        <td class="tg-4yb7">τίθημι</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">Present</td>
+        <td class="tg-iks7">διδόναι</td>
+        <td class="tg-c6of">ἱστάναι *</td>
+        <td class="tg-0pky">τιθέναι</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">1st Aorist</td>
+        <td class="tg-jbyd">-</td>
+        <td class="tg-0pky">στῆσαι</td>
+        <td class="tg-c3ow">-</td>
+      </tr>
+      <tr>
+        <td class="tg-iks7">2nd Aorist</td>
+        <td class="tg-iks7">δοῦναι</td>
+        <td class="tg-c6of">στῆναι</td>
+        <td class="tg-c6of">θεῖναι</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Perfect</td>
+        <td class="tg-c3ow">-</td>
+        <td class="tg-0pky">ἑστάναι</td>
+        <td class="tg-c3ow">-</td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">Future</td>
+        <td class="tg-iks7">σώσειν *</td>
+        <td class="tg-c6of">στήσειν *</td>
+        <td class="tg-c6of">θήσειν *</td>
+      </tr>
+    </tbody>
+    </table></br>
+
     
     
