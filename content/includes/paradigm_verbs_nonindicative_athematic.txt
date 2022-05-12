@@ -779,7 +779,7 @@ Table V-ATN-2 Infinitive Middle/Passive Non-indicative Verbs
     </tbody>
     </table></br>
 
-Table V-NAP-1 δίδωμμι Present Active Participles - Nonindicative Athematic
+Table V-NAP-1 δίδωμμι Present Active Participles - Verb Nonindicative Athematic
 ^^^^^^^^^^^^^
 
    .. raw:: html
@@ -882,7 +882,7 @@ Table V-NAP-1 δίδωμμι Present Active Participles - Nonindicative Athemati
     </tbody>
     </table></br>
 
-Table V-NAP-2 ἵστημι Present Active Participle - Verb Non-indicative
+Table V-NAP-2 ἵστημι Present Active Participle - Verb Nonindicative Athematic
 ^^^^^^^^^^^^^
 
 .. raw:: html
@@ -974,7 +974,7 @@ Table V-NAP-2 ἵστημι Present Active Participle - Verb Non-indicative
         <td class="tg-8zwo">Dative</td>
         <td class="tg-0lax">ἱστᾶσι(ν)</td>
         <td class="tg-0lax">ἱστάσαις</td>
-        <td class="tg-0lax">ἱστᾶσισ(ν)</td>
+        <td class="tg-0lax">ἱστᾶσι(ν)</td>
       </tr>
       <tr>
         <td class="tg-8zwo">Accusative</td>
