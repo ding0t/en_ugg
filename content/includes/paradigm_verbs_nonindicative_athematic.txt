@@ -809,7 +809,7 @@ Table V-NAP-1 δίδωμμι Present Active Participles - Verb Nonindicative Ath
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-wovw" colspan="4"><span style="font-weight:bold">Table V-NAP-1</span><br><span     style="font-weight:bold">Non-Indicative Athematic</span><br><span style="font-weight:bold">δίδωμι</span><br><span style="font-weight:bold">Present Active Participle</span></th>
+        <th class="tg-wovw" colspan="4"><span style="font-weight:bold">Table V-NAP-1</span><br><span     style="font-weight:bold">Non-Indicative Athematic</span><br><span style="font-weight:bold">δίδωμι (giving)</span><br><span style="font-weight:bold">Present Active Participle</span></th>
       </tr>
     </thead>
     <tbody>
@@ -984,6 +984,111 @@ Table V-NAP-2 ἵστημι Present Active Participle - Verb Nonindicative Athem
       </tr>
     </tbody>
     </table></br>
+
+Table V-NAP-3 τίθημι Present Active Participle - Nonindicative Athematic
+^^^^^^^^^^^^^
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-4yb7{background-color:#ffffff;border-color:inherit;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-yk7f{background-color:#ffffff;border-color:#000000;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-f7v4{background-color:#c0c0c0;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-wovw{background-color:#fffc9e;border-color:#000000;text-align:center;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-q44m{background-color:#ffffff;border-color:#000000;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-c6of{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-8zwo{font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-6t3r{font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-wovw" colspan="4"><span style="font-weight:bold">Table V-NAP-3</span><br><span style="font-weight:bold">Non-Indicative Athematic</span><br>τίθημιηξ (putting/placing)<br><span style="font-weight:bold">Present Active Participle</span><br></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-fymr"></td>
+        <td class="tg-4yb7">Masculine</td>
+        <td class="tg-4yb7">Feminine</td>
+        <td class="tg-4yb7">Neuter</td>
+      </tr>
+      <tr>
+        <td class="tg-yk7f">Singular</td>
+        <td class="tg-f7v4"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">Nominative</td>
+        <td class="tg-iks7">τιθείς</td>
+        <td class="tg-c6of">τιθεῖσα</td>
+        <td class="tg-c6of">τιθέν</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Genitive</td>
+        <td class="tg-0pky">τιθέντος</td>
+        <td class="tg-0pky">τιθείσῃς</td>
+        <td class="tg-0pky">τιθέντος</td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">Dative</td>
+        <td class="tg-0lax">τιθέντι</td>
+        <td class="tg-0lax">τιθείσῃ</td>
+        <td class="tg-0lax">τιθέντι</td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">Accusative</td>
+        <td class="tg-0lax">τιθέντα</td>
+        <td class="tg-0lax">τιθεῖσαν</td>
+        <td class="tg-0lax">τιθέν</td>
+      </tr>
+      <tr>
+        <td class="tg-6t3r">Plural</td>
+        <td class="tg-y6fn"></td>
+        <td class="tg-y6fn"></td>
+        <td class="tg-y6fn"></td>
+      </tr>
+      <tr>
+        <td class="tg-0lax"><span style="font-style:italic">Nominative</span></td>
+        <td class="tg-0lax">τιθέντες</td>
+        <td class="tg-0lax">τιθεῖσαι</td>
+        <td class="tg-0lax">τιθέντα</td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">Genitive</td>
+        <td class="tg-0lax">τιθέντων</td>
+        <td class="tg-0lax">τιθεισῶν</td>
+        <td class="tg-0lax">τιθέντων</td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">Dative</td>
+        <td class="tg-0lax">τιθεῖσι(ν)</td>
+        <td class="tg-0lax">τιθείσαις</td>
+        <td class="tg-0lax">τιθεῖσι(ν)</td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">Accusative</td>
+        <td class="tg-0lax">τιθέντας</td>
+        <td class="tg-0lax">τιθείσας</td>
+        <td class="tg-0lax">τιθέντα</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+    
 
     
 
