@@ -779,7 +779,7 @@ Table V-ATN-2 Infinitive Middle/Passive Non-indicative Verbs
     </tbody>
     </table></br>
 
-Table V-NAP-1 Present Active Participles - Nonindicative Athematic
+Table V-NAP-1 δίδωμμι Present Active Participles - Nonindicative Athematic
 ^^^^^^^^^^^^^
 
    .. raw:: html
@@ -881,5 +881,113 @@ Table V-NAP-1 Present Active Participles - Nonindicative Athematic
       </tr>
     </tbody>
     </table></br>
+
+Table V-NAP-2 ἵστημι Present Active Participle - Verb Non-indicative
+^^^^^^^^^^^^^
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-4yb7{background-color:#ffffff;border-color:inherit;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-yk7f{background-color:#ffffff;border-color:#000000;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-f7v4{background-color:#c0c0c0;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-wovw{background-color:#fffc9e;border-color:#000000;text-align:center;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-q44m{background-color:#ffffff;border-color:#000000;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-c6of{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-8zwo{font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-6t3r{font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-wovw" colspan="4"><span style="font-weight:bold">Table V-NAP-2</span><br><span     style="font-weight:bold">Non-Indicative Athematic</span><br>ἵστημι (standing)<br><span style="font-weight:bold">Present Active Participle</span><br></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-fymr"></td>
+        <td class="tg-4yb7">Masculine</td>
+        <td class="tg-4yb7">Feminine</td>
+        <td class="tg-4yb7">Neuter</td>
+      </tr>
+      <tr>
+        <td class="tg-yk7f">Singular</td>
+        <td class="tg-f7v4"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">Nominative</td>
+        <td class="tg-iks7">ἱστάς</td>
+        <td class="tg-c6of">ἱστᾶσα</td>
+        <td class="tg-c6of">ἱστάν</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Genitive</td>
+        <td class="tg-0pky">ἱστάντος</td>
+        <td class="tg-0pky">ἱστάσης</td>
+        <td class="tg-0pky">ἱστάντος</td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">Dative</td>
+        <td class="tg-0lax">ἱστάντι</td>
+        <td class="tg-0lax">ἱστάσῃ</td>
+        <td class="tg-0lax">ἱστάντι</td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">Accusative</td>
+        <td class="tg-0lax">ἱστάντα</td>
+        <td class="tg-0lax">ἱστᾶσαν</td>
+        <td class="tg-0lax">ἱστάν</td>
+      </tr>
+      <tr>
+        <td class="tg-6t3r">Plural</td>
+        <td class="tg-y6fn"></td>
+        <td class="tg-y6fn"></td>
+        <td class="tg-y6fn"></td>
+      </tr>
+      <tr>
+        <td class="tg-0lax"><span style="font-style:italic">Nominative</span></td>
+        <td class="tg-0lax">ἱστάντες</td>
+        <td class="tg-0lax">ἱστᾶσαι</td>
+        <td class="tg-0lax">ἱστάντα</td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">Genitive</td>
+        <td class="tg-0lax">ἱστάντων</td>
+        <td class="tg-0lax">ἱστασῶν</td>
+        <td class="tg-0lax">ἱστάντων</td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">Dative</td>
+        <td class="tg-0lax">ἱστᾶσι(ν)</td>
+        <td class="tg-0lax">ἱστάσαις</td>
+        <td class="tg-0lax">ἱστᾶσισ(ν)</td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">Accusative</td>
+        <td class="tg-0lax">ἱστάντας</td>
+        <td class="tg-0lax">ἱστάσας</td>
+        <td class="tg-0lax">ἱστάντα</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+    
+
+
+
     
          
