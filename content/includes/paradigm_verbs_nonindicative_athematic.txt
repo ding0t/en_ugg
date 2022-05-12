@@ -1015,7 +1015,7 @@ Table V-NAP-3 τίθημι Present Active Participle - Nonindicative Athematic
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-wovw" colspan="4"><span style="font-weight:bold">Table V-NAP-3</span><br><span style="font-weight:bold">Non-Indicative Athematic</span><br>τίθημιηξ (putting/placing)<br><span style="font-weight:bold">Present Active Participle</span><br></th>
+        <th class="tg-wovw" colspan="4"><span style="font-weight:bold">Table V-NAP-3</span><br><span style="font-weight:bold">Non-Indicative Athematic</span><br>τίθημι (putting/placing)<br><span style="font-weight:bold">Present Active Participle</span><br></th>
       </tr>
     </thead>
     <tbody>
