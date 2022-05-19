@@ -882,6 +882,112 @@ Table V-NAP-1 δίδωμμι Present Active Participles - Verb Nonindicative Ath
     </tbody>
     </table></br>
 
+Table V-NAP-1a δίδωμι Present Middle/Passive Participle - Verb Nonindicative Athematic
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-4erg{border-color:inherit;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-4yb7{background-color:#ffffff;border-color:inherit;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-yk7f{background-color:#ffffff;border-color:#000000;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-f7v4{background-color:#c0c0c0;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-wovw{background-color:#fffc9e;border-color:#000000;text-align:center;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-q44m{background-color:#ffffff;border-color:#000000;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-c6of{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-wovw" colspan="4"><span style="font-weight:bold">Table V-NAP-1a</span><br><span     style="font-weight:bold">Non-Indicative Athematic</span><br>δίδωμι (giving)<br><span style="font-weight:bold">Present Middle/Passive Participle</span><br></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-fymr"></td>
+        <td class="tg-4yb7">Masculine</td>
+        <td class="tg-4yb7">Feminine</td>
+        <td class="tg-4yb7">Neuter</td>
+      </tr>
+      <tr>
+        <td class="tg-yk7f">Singular</td>
+        <td class="tg-f7v4"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-q44m">Nominative</td>
+        <td class="tg-iks7">διδόμενος</td>
+        <td class="tg-c6of">διδομένη</td>
+        <td class="tg-c6of">διδόμενον</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Genitive</td>
+        <td class="tg-0pky">διδομένου</td>
+        <td class="tg-0pky">διδομένης</td>
+        <td class="tg-0pky">διδομένου</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Dative</td>
+        <td class="tg-0pky">διδομένῳ</td>
+        <td class="tg-0pky">διδομένῃ</td>
+        <td class="tg-0pky">διδομένῳ</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Accusative</td>
+        <td class="tg-0pky">διδόμενον</td>
+        <td class="tg-0pky">διδομένην</td>
+        <td class="tg-0pky">διδόμενον</td>
+      </tr>
+      <tr>
+        <td class="tg-4erg">Plural</td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-0pky"><span style="font-style:italic">Nominative</span></td>
+        <td class="tg-0pky">διδομένοι</td>
+        <td class="tg-0pky">διδομέναι</td>
+        <td class="tg-0pky">διδὀμενα</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Genitive</td>
+        <td class="tg-0pky">διδομένων</td>
+        <td class="tg-0pky">διδομένων</td>
+        <td class="tg-0pky">διδομένων</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Dative</td>
+        <td class="tg-0pky">διδομένοις</td>
+        <td class="tg-0pky">διδομέναις</td>
+        <td class="tg-0pky">διδομένοις</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Accusative</td>
+        <td class="tg-0pky">διδομένους</td>
+        <td class="tg-0pky">διδόμενας</td>
+        <td class="tg-0pky">διδόμενα</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+    
+
+
+
+
+
+
 Table V-NAP-2 ἵστημι Present Active Participle - Verb Nonindicative Athematic
 ^^^^^^^^^^^^^
 
