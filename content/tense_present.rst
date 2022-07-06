@@ -2,7 +2,7 @@
 
 .. _tense_present:
 
-Tense present    [**  D R A F T  - under   construction**]
+Tense present    [**DRAFT - under   construction**]
 =============
 
 Glossary
