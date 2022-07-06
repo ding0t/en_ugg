@@ -51,6 +51,7 @@ The :ref: `Tense<tense>`  of a verb is used to indicate the speaker’s perspect
 
   #.  Aspect - the kind of action of the verb. The kind of action may be continuous (also described as imperfective),
   completed (or simple) , or completed with an ongoing effect.
+  
   #. Time - the time of action (only in the indicative mood). 
 
     *	 Present tense- Aspect is used primarily to indicate the kind of action as (continuous or incomplete) in moods other than the
