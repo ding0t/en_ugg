@@ -2,7 +2,7 @@
 
 .. _tense_present:
 
-Tense present    [**  D R A F T  - u n d e r   c o n s t r u c t i o n**]
+Tense present    [**  D R A F T  - under   construction**]
 =============
 
 Glossary
@@ -20,10 +20,10 @@ Table VTP-1  Present Tense Verb
 .. csv-table::  VTP-1 Verb Present Tense
   :header-rows:  1
 
-John 15:27
-ἀπ’,ἀρχῆς,μετ’,ἐμοῦ,**ἐστε**
-ap’,archēs,met’,emou,**este**
-from,beginning,with,me,**you are**
+  John 15:27
+  ἀπ’,ἀρχῆς,μετ’,ἐμοῦ,**ἐστε**
+  ap’,archēs,met’,emou,**este**
+  from,beginning,with,me,**you are**
 
 **you are**  *with me from the beginning.*
 
