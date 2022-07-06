@@ -70,16 +70,17 @@ Form:
 The basic form for a verb in the present tense indicative is given in Tables 4 and 5 of the 
 Master paradigm.
 
-	See also:
-Table V-IT-1a Present Active Tense verbs
-Table V-IT-1b Present Middle/Passive Verbs
-Table V-AT-1 εἰμί Indicative
-Table V-AT-D1 δίδωμι (Active Indicative)
-Table V-AT-D1a δίδομι Middle/passive indicative
-Table V-AT-D2 ἵστημι (Active Indicative)
-Table V-AT-D2a ἵστημι middle/passive indicative
-Table V-AT-D3 τίθημι (Active Indicative)
-Table V-AT-D3a τίθημι middle/passive indicative
+See also:
+
+  *  `Table V-IT-1a Present Active Tense verbs<https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-it-1a-present-active-tense-verbs>`
+  *  `Table V-IT-1b Present Middle/Passive Verbs<https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-it-1b-present-middle-passive-verbs>`
+  *  Table V-AT-1 εἰμί Indicative
+  *  Table V-AT-D1 δίδωμι (Active Indicative)
+  *  Table V-AT-D1a δίδομι Middle/passive indicative
+  *  Table V-AT-D2 ἵστημι (Active Indicative)
+  *  Table V-AT-D2a ἵστημι middle/passive indicative
+  *  Table V-AT-D3 τίθημι (Active Indicative)
+  *  Table V-AT-D3a τίθημι middle/passive indicative
 
 	The Paradigms also contain forms of verbs in the present tense for the subjunctive mood, imperative mood, participles, and infinitives.  Verbs in the optative mood are so rare a table was not created for them.   There are only 70 occurrences of the optative mood in the New Testament.
 
