@@ -72,8 +72,8 @@ Master paradigm.
 
 See also:
 
-  *  `Table V-IT-1a Present Active Tense verbs<https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-it-1a-present-active-tense-verbs>`
-  *  `Table V-IT-1b Present Middle/Passive Verbs<https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-it-1b-present-middle-passive-verbs>`
+  *  `Table V-IT-1a Present Active Tense verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-it-1a-present-active-tense-verbs>`
+  *  `Table V-IT-1b Present Middle/Passive Verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-it-1b-present-middle-passive-verbs>`
   *  Table V-AT-1 εἰμί Indicative
   *  Table V-AT-D1 δίδωμι (Active Indicative)
   *  Table V-AT-D1a δίδομι Middle/passive indicative
