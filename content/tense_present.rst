@@ -67,7 +67,8 @@ The :ref:`Tense<tense>`  of a verb is used to indicate the speaker’s perspecti
 Form:
 ~~~~~
 
-The basic form for a verb in the present tense indicative is given in Tables 4 and 5 of the 
+The basic form for a verb in the present tense indicative is given in `Tables 4 - Primary and Secondary Endings of Verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#table-4-primary-and-secondary-endings-of-verbs>`_ , 
+and `Table 5 - Master Verb Tense Chart - Present and Imperfect Tenses <> of the 
 Master paradigm.
 
 See also:
