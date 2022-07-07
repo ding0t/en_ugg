@@ -115,7 +115,7 @@ The present Active Indicative for a verb is formed by using:
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-c82p" colspan="7"><span style="font-weight:bold">Table 2</span><br><span style="font-weight:bold">Formation of</span><br><span style="font-weight:bold">Present Active Indicative</span><br><span style="font-weight:bold">for Thematic Verbs</span></th>
+        <th class="tg-c82p" colspan="7"><span style="font-weight:bold">Table VTP-2</span><br><span style="font-weight:bold">Formation of</span><br><span style="font-weight:bold">Present Active Indicative</span><br><span style="font-weight:bold">for Thematic Verbs</span></th>
       </tr>
     </thead>
     <tbody>
@@ -138,7 +138,7 @@ The present Active Indicative for a verb is formed by using:
         <td class="tg-c3ow">λύομεν</td>
       </tr>
       <tr>
-        <td class="tg-8bgf" colspan="7">΅We are loosing. </td>
+        <td class="tg-8bgf" colspan="7">We are loosing. </td>
       </tr>
     </tbody>
     </table></br>
