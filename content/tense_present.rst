@@ -100,12 +100,50 @@ Form - Present Active Indicative  for Thematic Verbs
 
 The present Active Indicative for a verb is formed by using:
 
-.. csv-table::  VTP-2 Formation of Present Active Indicative Verbs
-  :header-rows: 1
+.. raw:: html
 
-Present tense stem,+,connecting vowel,+,primary active personal ending
-λυ,+,ο,+,μεν,->,λύομεν
-,,,,,We are loosing
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-c82p{background-color:#fffe65;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-c82p" colspan="7"><span style="font-weight:bold">Table 2</span><br><span style="font-weight:bold">Formation of</span><br><span style="font-weight:bold">Present Active Indicative</span><br><span style="font-weight:bold">for Thematic Verbs</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-c3ow">Present Tense<br>Stem</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">Connecting<br>Vowel</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">Primary<br>Active<br>Personal Ending</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">λυ</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">ο</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">μεν</td>
+        <td class="tg-c3ow">-&gt;</td>
+        <td class="tg-c3ow">λύομεν</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf" colspan="7">΅We are loosing. </td>
+      </tr>
+    </tbody>
+    </table></br>
+
+
 
 A present Middle/passive indicative verb is formed by using:
 
