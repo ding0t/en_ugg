@@ -9,12 +9,13 @@ Master
 ------
 
 Case Endings
-^^^^^^^^^^^^
+~~~~~~~~~~~
 
   * Table 1 -  First and Second Declension
   * Table 2 -  Third Declension
 
 **Table 1** First and Second Declension
+^^^^^^^^^^^
 
   Note: -The columns shaded in grey show the case ending WITH the final stem vowel.
 		 The unshaded columns show the true case ending.
@@ -145,6 +146,7 @@ Case Endings
 
 
 **Table 2**  Third Declension
+^^^^^^^^^^^
 
 Note: The columns shaded in grey and the unshaded columns are the same.
        This is because Third Declension nouns (or adjectives) end in a consonant and do not have a final stem vowel as in Table 1.
