@@ -74,8 +74,8 @@ See also:
 
   *  `Table V-IT-1a Present Active Tense verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-it-1a-present-active-tense-verbs>`_
   *  `Table V-IT-1b Present Middle/Passive Verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-it-1b-present-middle-passive-verbs>`_
-  *  :ref:`Table V-AT-1 εἰμί Indicative <paradigms.html#table-v-at-1-indicative>`
-  *  Table V-AT-D1 δίδωμι (Active Indicative)
+  *  `Table V-AT-1 εἰμί Indicative <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-1-indicative>`_
+  *  `Table V-AT-D1 δίδωμι (Active Indicative) <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d1-active-indicative>`_
   *  Table V-AT-D1a δίδομι Middle/passive indicative
   *  Table V-AT-D2 ἵστημι (Active Indicative)
   *  Table V-AT-D2a ἵστημι middle/passive indicative
