@@ -717,6 +717,7 @@ Verbs
  
  
 **Table 6** - Master Verb Tense Chart - Future Tenses
+^^^^^^^^^^^
 
 .. raw:: html
 
@@ -810,7 +811,7 @@ Verbs
 
 
 **Table 7**  Master Verb Tense Chart - The Aorist Tenses
-
+^^^^^^^^^
 
 .. raw:: html
 
@@ -910,6 +911,7 @@ Verbs
 
 
 **Table 8** - The Perfect Tenses
+^^^^^^^^^^^
 
 .. raw:: html
 
@@ -975,13 +977,14 @@ Verbs
 The initial consonant is then followed by an epsilon.  
 
 Contractions and Stops
-^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~
 
   * Table 9 - Contractions of Single Vowels
   * Table 10 - Contractions of Vowels with Dipthongs
   * Table 11 - Square of Stops
   
 **Table 9** - Contractions of Single Vowels
+^^^^^^^^^^
 
 .. raw:: html
 
@@ -1066,6 +1069,7 @@ Contractions and Stops
     </table><br/>
 
 **Table 10** - Contractions of Vowels with Diphthongs
+^^^^^^^^^^
 
 .. raw:: html
 
@@ -1150,6 +1154,7 @@ The rules for combining a vowel with a dipthong are as follows:
 
 
 **Table 11**  Square of Stops
+^^^^^^^^^^^
 
 The following table shows common contractions that occur when the stem of a word ends in a **"stop"**.  A stop is a consonant whose sound
 is formed by stopping or slowing down the flow of air through the mouth.  Stops are classified as Labial (formed by the lips), Velar (formed by
