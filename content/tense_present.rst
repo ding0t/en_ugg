@@ -68,8 +68,7 @@ Form:
 ~~~~~
 
 The basic form for a verb in the present tense indicative is given in `Tables 4 - Primary and Secondary Endings of Verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#table-4-primary-and-secondary-endings-of-verbs>`_ , 
-and `Table 5 - Master Verb Tense Chart - Present and Imperfect Tenses <> of the 
-Master paradigm.
+and `Table 5 - Master Verb Tense Chart - Present and Imperfect Tenses <https://ugg.readthedocs.io/en/latest/paradigms.html#table-5-master-verb-tense-chart-present-and-imperfect-tenses>`_ of the `Master Verb paradigms <https://ugg.readthedocs.io/en/latest/paradigms.html#verbs>`_ .
 
 See also:
 
