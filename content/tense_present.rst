@@ -100,9 +100,12 @@ Form - Present Active Indicative  for Thematic Verbs
 
 The present Active Indicative for a verb is formed by using:
 
-Present tense stem + connecting vowel +primary active personal ending
+.. csv-table::  VTP-2 Formation of Present Active Indicative Verbs
+  :header-rows: 1
 
-	λυ                   + ο                               +       μεν  -> λύομεν  	We are loosing
+Present tense stem,+,connecting vowel,+,primary active personal ending
+λυ,+,ο,+,μεν,->,λύομεν
+,,,,,We are loosing
 
 A present Middle/passive indicative verb is formed by using:
 
