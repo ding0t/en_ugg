@@ -82,7 +82,10 @@ See also:
   *  `Table V-AT-D3 τίθημι (Active Indicative) <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d3-active-indicative>`_
   *  `Table V-AT-D3a τίθημι middle/passive indicative <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d3a-middle-passive-indicative>`_
 
-	The Paradigms also contain forms of verbs in the present tense for the subjunctive mood, imperative mood, participles, and infinitives.  Verbs in the optative mood are so rare a table was not created for them.   There are only 70 occurrences of the optative mood in the New Testament.
+	The Paradigms also contain forms of verbs in the present tense for the `Subjunctive Mood <https://ugg.readthedocs.io/en/latest/paradigms.html#verbs-subjunctive>`_ ,
+  `Imperative Mood <https://ugg.readthedocs.io/en/latest/paradigms.html#verbs-imperative>`_ , `participles <https://ugg.readthedocs.io/en/latest/paradigms.html#participles>`_ ,
+  and `Infinitives <https://ugg.readthedocs.io/en/latest/paradigms.html#verbs-infinitive>`_ .  
+  Verbs in the optative mood are so rare a table was not created for them.   There are only 70 occurrences of the optative mood in the New Testament.
 
 In this section we will describe the formation of Verbs with a theme vowel in:
 •	The Present Active Indicative
