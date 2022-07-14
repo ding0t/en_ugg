@@ -59,7 +59,7 @@ The :ref:`Tense<tense>`  of a verb is used to indicate the speaker’s perspecti
     *	 **Present tense- Aspect** is used primarily to indicate the kind of action as (continuous or incomplete) in moods other than the indicative.  It may indicate the action as continuous or incomplete in the present time depending on the context of the verb. The continuous aspect may also refer to an event that occurs on an iterative basis, or an event that generally occurs (or may be reasonably expected to occur).  
 
 
-    *	 **Present tense -Time** - The use of the Present tense in the indicative mood is the only way to indicate action occurring at the time the speaker is speaking. Therefore, the time of the action takes on a primary role when used with the indicative mood.  The Present indicative may describe simply an event occurring in the present (simple action with no indication of continuity) or an ongoing event occurring in the present. 
+    *	 **Present tense -Time** - The use of the Present tense in the indicative mood is the only way to indicate action occurring at the time the speaker is speaking. Therefore, the time of the action takes on a primary role when used with the indicative mood.  The Present indicative may describe simply 1) an event occurring in the present (simple action with no indication of continuity) or 2) an ongoing event occurring in the present. 
 
     An event that has occurred in the past or that will occur in the future may be portrayed in the present indicative for dramatic effect.
  
@@ -86,7 +86,7 @@ The Paradigms also contain forms of verbs in the present tense for the `Subjunct
 `Imperative Mood <https://ugg.readthedocs.io/en/latest/paradigms.html#verbs-imperative>`_ , `Participles <https://ugg.readthedocs.io/en/latest/paradigms.html#participles>`_ ,
 and `Infinitives <https://ugg.readthedocs.io/en/latest/paradigms.html#verbs-infinitive>`_ .  
 
-Verbs in the `Optative Mood <https://ugg.readthedocs.io/en/latest/mood_optative.html>`_  are so rare a table was not created for them.   There are only 70 occurrences of the optative mood in the New Testament.
+Verbs in the `Optative Mood <https://ugg.readthedocs.io/en/latest/mood_optative.html>`_  are so rare a paradigm table was not created for them.   There are only 70 occurrences of the optative mood in the New Testament.
 
 In this section we will describe the formation of Verbs with a theme vowel in:
   
@@ -145,13 +145,61 @@ The present Active Indicative for a verb is formed by using:
 
 
 
-A present Middle/passive indicative verb is formed by using:
+The present Middle/passive indicative verb is formed by using:
 
-Present tense stem – connecting vowel – plus the primary middle/passive personal ending
+.. raw:: html
 
-λυ                           +       ο                         +    μαι           ->  λύομαι  We are being loosed.
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-wovw{background-color:#fffc9e;border-color:#000000;text-align:center;vertical-align:top}
+    .tg .tg-rvyq{border-color:inherit;font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-c6of{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-jbyd{background-color:#ffffff;border-color:#000000;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-wovw" colspan="7"><span style="font-weight:bold">Table VTP-3</span><br><span style="font-weight:bold">Formation of </span><br><span style="font-weight:bold">Present Middle/Passive Indicative </span><br><span style="font-weight:bold">for Thematic Verbs</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-rvyq">Present Tense Stem</td>
+        <td class="tg-0pky">+</td>
+        <td class="tg-fymr">Connecting Vowel</td>
+        <td class="tg-0pky">+</td>
+        <td class="tg-7btt">Primary<br>Middle/Passive<br>Personal Ending</td>
+        <td class="tg-c6of"></td>
+        <td class="tg-0pky"></td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">λυ</td>
+        <td class="tg-rvyq">+</td>
+        <td class="tg-c3ow">ο</td>
+        <td class="tg-0pky">+</td>
+        <td class="tg-c3ow">μαι</td>
+        <td class="tg-c6of">-&gt;</td>
+        <td class="tg-c3ow">λύομαι</td>
+      </tr>
+      <tr>
+        <td class="tg-jbyd" colspan="7"><span style="font-style:italic">We are being loosed</span></td>
+      </tr>
+    </tbody>
+    </table></br>
 
-The connecting vowel and personal endings for the present indicative are shown in the left two quadrants of the Verb Master chart Table 4 under the column labeled as Primary endings.
+
+
+
+The connecting vowel and personal endings for the present indicative are shown in the left two quadrants of the 
+`Verb Master chart Table 4 <https://ugg.readthedocs.io/en/latest/paradigms.html#table-4-primary-and-secondary-endings-of-verbs>`_  under the column labeled as Primary endings which is shown below:
 
 •	The present tense stem for a verb may be determined by …………………………….
 •	The Primary Active personal endings are listed in upper left quadrant of the chart below.
