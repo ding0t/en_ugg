@@ -198,39 +198,177 @@ The present Middle/passive indicative verb is formed by using:
 
 
 
-The connecting vowel and personal endings for the present indicative are shown in the left two quadrants of the 
-`Verb Master chart Table 4 <https://ugg.readthedocs.io/en/latest/paradigms.html#table-4-primary-and-secondary-endings-of-verbs>`_  under the column labeled as Primary endings which is shown below:
+The connecting vowel (omicron, or episolon) and the primary personal endings for the present indicative are shown in the left two quadrants of the 
+`Verb Master chart Table 4 <https://ugg.readthedocs.io/en/latest/paradigms.html#table-4-primary-and-secondary-endings-of-verbs>`_  under the column labeled as Primary endings:
 
-•	The present tense stem for a verb may be determined by …………………………….
+
+•	The present tense stem for a verb may be determined by deleting the connecting vowel and personal ending from a verb.  If a verb has a prefix or an augment such as in the aorist or perfect tenses, the prefix or augment must also be deleted. 
 •	The Primary Active personal endings are listed in upper left quadrant of the chart below.
 •	The Primary middle/passive personal endings are listed in the lower left quadrant of the chart below.
 
 Table 4 Primary and Secondary Endings of Verbs
-Primary and Secondary Endings of Verbs  
-Table 4
-Primary personal endings		Secondary Personal endings
-	regular	alternate		regular	alternate
-Active		c.v.	p.e.				c.v.	p.e.	
-1 singular	λύω	ο	-	μι		ἒλυον	ο	ν	
-2 singular	λύεις	ε	ς			ἒλυες	ε	ς	
-3 singular	λύει	ε	ι	σι (ν)		ἒλυε (ν)	ε	ε	
-									
-1 plural	λύομεν	ο	μεν			ἐλύομεν	ο	μεν	
-2 plural	λύετε	ε	τε			ἐλύετε	ε	τε	
-3 plural	λύουσι (ν)	ο	νσι (ν)	ασι (ν)		ἒλυον	ο	ν	σαν
-Middle/
-Passive									
-1 singular	λύομαι	ο	μαι			ἐλυόμην	ο	μην	
-2 singular	λύῃ	ε	σαι			ἐλύου	ε	σο	
-3 singular	λύεται	ε	ται			ἐλύετο	ε	το	
-									
-1 plural	λυόμεθα	ο	μεθα			ἐλυόμεθα	ο	μεθα	
-2 plural	λύεσθε	ε	σθε			ἐλύεσθε	ε	σθε	
-3 plural	λύονται	ο	νται			ἐλύοντο	ο	ντο	
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-iiaj{font-size:xx-small;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-6vgs{background-color:#ffffff;border-color:#000000;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-wovw{background-color:#fffc9e;border-color:#000000;text-align:center;vertical-align:top}
+    .tg .tg-u1yq{background-color:#c0c0c0;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-c6of{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-hvas{font-size:xx-small;text-align:left;vertical-align:top}
+    .tg .tg-88oy{font-size:xx-small;text-align:center;vertical-align:top}
+    .tg .tg-8zwo{font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-6t3r{font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-wovw" colspan="5"><span style="font-weight:bold">Table VTP-4</span><br>Quadrants 1 and 3 of<br><span style="font-weight:bold">Master Verb Chart 4</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-u1yq" colspan="5">Quadrant 1</td>
+      </tr>
+      <tr>
+        <td class="tg-1wig">Active</td>
+        <td class="tg-0lax" colspan="4"></td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf"></td>
+        <td class="tg-0pky"></td>
+        <td class="tg-7btt">Connecting <br>Vowel</td>
+        <td class="tg-fymr">Primary<br>Personal<br>Ending</td>
+        <td class="tg-7btt">Alternative<br>Personal<br>Ending</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">1 singular</td>
+        <td class="tg-0lax">λύω</td>
+        <td class="tg-baqh">ο</td>
+        <td class="tg-baqh">-</td>
+        <td class="tg-0lax">μι</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">2 singular</td>
+        <td class="tg-f8tv">λύεις</td>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-c3ow">ς</td>
+        <td class="tg-c3ow"></td>
+      </tr>
+      <tr>
+        <td class="tg-6vgs">3 singular</td>
+        <td class="tg-iks7">λύει</td>
+        <td class="tg-3xi5">ε</td>
+        <td class="tg-3xi5">ι</td>
+        <td class="tg-c6of">σι(ν)</td>
+      </tr>
+      <tr>
+        <td class="tg-iiaj"></td>
+        <td class="tg-hvas"></td>
+        <td class="tg-88oy"></td>
+        <td class="tg-88oy"></td>
+        <td class="tg-hvas"></td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">1 plural</td>
+        <td class="tg-0lax">λύομεν</td>
+        <td class="tg-baqh">ο</td>
+        <td class="tg-baqh">μεν</td>
+        <td class="tg-0lax"></td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">2 plural</td>
+        <td class="tg-0lax">λύετε</td>
+        <td class="tg-baqh">ε</td>
+        <td class="tg-baqh">τε</td>
+        <td class="tg-0lax"></td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">3 plural</td>
+        <td class="tg-0lax">λύουσι(ν)</td>
+        <td class="tg-baqh">ο</td>
+        <td class="tg-baqh">νσι(ν)</td>
+        <td class="tg-0lax">ασι(ν)</td>
+      </tr>
+      <tr>
+        <td class="tg-u1yq" colspan="5">Quadrant 3</td>
+      </tr>
+      <tr>
+        <td class="tg-6t3r">Middle/<br>Passive</td>
+        <td class="tg-0lax" colspan="4"></td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">1 singular</td>
+        <td class="tg-0lax">λύομαι</td>
+        <td class="tg-baqh">ο</td>
+        <td class="tg-baqh">μαι</td>
+        <td class="tg-0lax"></td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">2 singular</td>
+        <td class="tg-0lax">λύῃ</td>
+        <td class="tg-baqh">ε</td>
+        <td class="tg-baqh">σαι</td>
+        <td class="tg-0lax"></td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">3 singular</td>
+        <td class="tg-0lax">λύεται</td>
+        <td class="tg-baqh">ε</td>
+        <td class="tg-baqh">ται</td>
+        <td class="tg-0lax">ασι(ν)</td>
+      </tr>
+      <tr>
+        <td class="tg-iiaj"></td>
+        <td class="tg-0lax"></td>
+        <td class="tg-baqh"></td>
+        <td class="tg-baqh"></td>
+        <td class="tg-0lax"></td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">1 plural</td>
+        <td class="tg-0lax">λυόμεθα</td>
+        <td class="tg-baqh">ο</td>
+        <td class="tg-baqh">μεθα</td>
+        <td class="tg-0lax"></td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">2 plural</td>
+        <td class="tg-0lax">λύεσθε</td>
+        <td class="tg-baqh">ε</td>
+        <td class="tg-baqh">σθε</td>
+        <td class="tg-0lax"></td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">3 plural</td>
+        <td class="tg-0lax">λύονται</td>
+        <td class="tg-baqh">ο</td>
+        <td class="tg-baqh">νται</td>
+        <td class="tg-0lax"></td>
+      </tr>
+    </tbody>
+    </table></br>
+
 
 [Note]
-•	“c.v.” stands for “connecting voewel”
-•	“p.e.” stands for “personal ending”
+
 •	The “-” indicates there is no personal ending.
 •	The omega (ω) at the end of the first person singular verb is the lengthened connecting vowel “ο” which lengthens to an “ω”.
 •	Third person plural ending - the “ν” drops out because it is followed by a sigma and the connecting vowel “o” lengthens to compensate for the missing “v”. Therefore, λυ + ο + νσι becomes λυ + ου + σι -> λύουσι
