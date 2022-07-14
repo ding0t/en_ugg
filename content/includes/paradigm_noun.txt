@@ -1,7 +1,11 @@
 First Declension
 ~~~~~~~~~~~~~~~~
 
+**N-1** Nouns of the first declension ending in **α** or **η**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 **N-1** Nouns of the first declension ending in **α** or **η** in the nominative singular are declined as follows:
+
 
 .. csv-table::
 
@@ -17,6 +21,9 @@ First Declension
   Dative,ἀρχαῖς,ἡμέραις
   Accusative,ἀρχάς,ἡμέρας
 
+
+**N-2** Nouns of the first declension ending in an **ης** or **ας**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **N-2** Nouns of the first declension ending in an **ης** or **ας** in the nominative singular are masculine and are declined as follows:
 
@@ -36,6 +43,8 @@ First Declension
   Dative,προφήταις,νεανίαις
   Accusative,προφήτας,νεανίας
 
+**N-3** Nouns of the first declension ending in an **α**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **N-3** Nouns of the first declension ending in an **α** in the Nominative singular not preceded by a vowel or the letter **ρ** are declined as follows:
 
@@ -55,7 +64,7 @@ First Declension
 
 
 N-4 Second Declension
-^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~
 
 Nouns of the second declension ending in **ος** in the Nominative singular are *almost* always masculine.
 *All* nouns ending in **ον** in the Nominative singuar are Neuter.  Note that the Nominative, Accussative, and Vocative case of neuter nouns are the same.
