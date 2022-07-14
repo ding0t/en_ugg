@@ -2,7 +2,7 @@ paradigm_verbs_indicative_thematic
 
 
 **Table V-IT-1a**   Present Active Tense verbs
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 [Note]  Thematic verbs are verbs that use a "theme" vowel (or "connecting vowel") between the verbal stem and the personal ending in the present indicative.  The theme vowel is always an omicron (ο) or an epsilon (ε).
 [See `Verbal_Parts <https://ugg.readthedocs.io/en/latest/verb.html#parts>`_ ]
@@ -105,7 +105,7 @@ paradigm_verbs_indicative_thematic
     </table></br>  
 
 **Table V-IT-1b** Present Middle/Passive Verbs
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 [Note] - The middle and passive voices are presented together because they are identical in form.  The reader (or translator) will have to make their decision as to the intended voice based on context.
 
@@ -210,7 +210,7 @@ paradigm_verbs_indicative_thematic
     </table></br>
 
 **Table V-IT-1c**   Imperfect Active Tense verbs
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 [Note]  Thematic verbs are verbs that use a "theme" vowel (or "connecting vowel") between the verbal stem and the personal ending in the present indicative.  The theme vowel is always an omicron (ο) or an epsilon (ε). 
 [See `Verbal_Parts <https://ugg.readthedocs.io/en/latest/verb.html#parts>`_ ]
@@ -314,7 +314,7 @@ paradigm_verbs_indicative_thematic
 
 
 **Table V-IT-1d**  Imperfect Middle/Passive Verbs
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 [Note] - The middle and passive voices are presented together because they are identical in form.  The reader (or translator) will have to make their decision as to the intended voice based on context.
 
@@ -420,7 +420,7 @@ paradigm_verbs_indicative_thematic
 
 
 **Table V-IT-2**  Indicative Thematic Verbs built on Future tense Stem
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 [Note]  The passive voice is omitted in this table because it is based upon the Aorist Passive Stem.
 
@@ -514,7 +514,7 @@ paradigm_verbs_indicative_thematic
     
     
 **Table V-IT-3** Indicative Verbs built on the Aorist Active Stem
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     
 [Note]  The passive voice is omitted from this table because it is built on the Aorist Passive Stem.
 
@@ -618,7 +618,7 @@ paradigm_verbs_indicative_thematic
     </table></br>
     
 **Table V-IT-4** - Indicative Verbs built on the Perfect and Perfect Middle/Passive Stem
-^^^^^^^^^^^^^^^^  
+~~~~~~~~~~~~~~~~  
 
 [Built on the verb  *λύω* - I loose/untie/destroy; *γράφω* - I write]
 
@@ -706,7 +706,7 @@ paradigm_verbs_indicative_thematic
     </table></br>
     
 **Table V-IT-5α**  Indicative Verbs built on the Aorist Active Stem
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 [Built on the verb  *λύω* - I loose/untie/destroy; *κρίνω* - I judge/decide/prefer; *λαμβάνω* - I take/receive]
 
@@ -817,7 +817,7 @@ paradigm_verbs_indicative_thematic
 
 
 **Table V-IT-5b**  Aorist Passive and Future Passive Verbs built on the Aorist Passive Tense stem
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 [Built on the verb  *λύω* - I loose/untie/destroy; *χαίρω* - I rejoice]
 
