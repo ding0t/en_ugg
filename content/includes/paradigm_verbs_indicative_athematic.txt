@@ -1,5 +1,8 @@
 paradigm_verbs_indicative_athematic.txt
 
+εἴμι
+~~~~
+
 Table V-AT-1 εἰμί Indicative
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -165,7 +168,7 @@ Table V-AT - 2   εἰμί Present Active Participle
     </table></br>
 
 Table V-AT-D1  δίδωμι  (Active Indicative)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Stem  δο-**
 This stem includes δίδωμι (I give - 415 occurrences); παραδίδωμι (I entrust, I betray - 119 occurrences); απωδίδωμι (I payback, I repay - 48 occurrences) along with other compounds of δίδωμι.
