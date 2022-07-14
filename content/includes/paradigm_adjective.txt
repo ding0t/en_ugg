@@ -16,7 +16,7 @@ Tables a1 through a3 give the paradigms for uncontracted 2-1-2 adjectives.
 * Table a3 - *uncontracted with an omicron in the neuter.*
 
 **Table a1** - *uncontracted adjectives without a vowel shift in the feminine*
-####
+#####
 
 In the feminine declension, the final vowel will remain an alpha, and not lengthen to an eta, for adjectives that have
 **a vowel or the letter rho (ρ)** immediately preceding the case ending.   
@@ -40,7 +40,7 @@ In the feminine declension, the final vowel will remain an alpha, and not length
 
 
 **Table a2** - *uncontracted with a vowel shift in the feminine*
-####
+#####
 
 When the letter **immediately preceding the case ending for an adjective is not a vowel or the letter “ρ”** the final vowel lengthens in the feminine declension.
 
