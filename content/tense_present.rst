@@ -206,7 +206,7 @@ The connecting vowel (omicron, or episolon) and the primary personal endings for
 •	The Primary Active personal endings are shown the chart below and in the upper left quadrant (Quadrant 1) of the Verb Master Chart Table 4.
 •	The Primary middle/passive personal endings are shown the chart below and the lower left quadrant (Quadrant 3) of Berb Master Chart Table 4.
 
-<br/>
+
 
 Table 4 Primary and Secondary Endings of Verbs
 
@@ -375,10 +375,9 @@ Table 4 Primary and Secondary Endings of Verbs
 •	The omega (ω) at the end of the first person singular verb is the lengthened connecting vowel “ο” which lengthens to an “ω”.
 •	Third person plural ending - the “ν” drops out because it is followed by a sigma and the connecting vowel “o” lengthens to compensate for the missing “v”. Therefore, λυ + ο + νσι becomes λυ + ου + σι -> λύουσι
 
-<br/>
 
 
-.. iclude:: includes/paradigm_verbs_indicative_athematic.txt
+.. include:: includes/paradigm_verbs_indicative_athematic.txt
 
 
 From Table V-AT-1 εἰμί  Present Indicative
