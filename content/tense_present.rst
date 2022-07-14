@@ -378,6 +378,9 @@ Table 4 Primary and Secondary Endings of Verbs
 </br>
 
 
+.. iclude:: includes/paradigm_verbs_indicative_athematic.txt
+
+
 From Table V-AT-1 εἰμί  Present Indicative
 Singular	Present tense	
 1st person	εἰμί	
