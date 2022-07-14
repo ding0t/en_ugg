@@ -203,8 +203,10 @@ The connecting vowel (omicron, or episolon) and the primary personal endings for
 
 
 •	The present tense stem for a verb may be determined by deleting the connecting vowel and personal ending from a verb.  If a verb has a prefix or an augment such as in the aorist or perfect tenses, the prefix or augment must also be deleted. 
-•	The Primary Active personal endings are listed in upper left quadrant of the chart below.
-•	The Primary middle/passive personal endings are listed in the lower left quadrant of the chart below.
+•	The Primary Active personal endings are shown the chart below and in the upper left quadrant (Quadrant 1) of the Verb Master Chart Table 4.
+•	The Primary middle/passive personal endings are shown the chart below and the lower left quadrant (Quadrant 3) of Berb Master Chart Table 4.
+
+</br>
 
 Table 4 Primary and Secondary Endings of Verbs
 
@@ -372,6 +374,9 @@ Table 4 Primary and Secondary Endings of Verbs
 •	The “-” indicates there is no personal ending.
 •	The omega (ω) at the end of the first person singular verb is the lengthened connecting vowel “ο” which lengthens to an “ω”.
 •	Third person plural ending - the “ν” drops out because it is followed by a sigma and the connecting vowel “o” lengthens to compensate for the missing “v”. Therefore, λυ + ο + νσι becomes λυ + ου + σι -> λύουσι
+
+</br>
+
 
 From Table V-AT-1 εἰμί  Present Indicative
 Singular	Present tense	
