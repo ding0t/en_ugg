@@ -1,7 +1,7 @@
 paradigm_verbs_indicative_athematic.txt
 
 Table V-AT-1 εἰμί Indicative
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
 
@@ -81,7 +81,7 @@ Table V-AT-1 εἰμί Indicative
 
 
 Table V-AT - 2   εἰμί Present Active Participle
-^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
 
@@ -165,7 +165,7 @@ Table V-AT - 2   εἰμί Present Active Participle
     </table></br>
 
 Table V-AT-D1  δίδωμι  (Active Indicative)
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Stem  δο-**
 This stem includes δίδωμι (I give - 415 occurrences); παραδίδωμι (I entrust, I betray - 119 occurrences); απωδίδωμι (I payback, I repay - 48 occurrences) along with other compounds of δίδωμι.
@@ -273,7 +273,7 @@ This stem includes δίδωμι (I give - 415 occurrences); παραδίδωμι
     </table></br>
 
 Table V-AT-D1a δίδομι Middle/passive indicative    
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
 
@@ -398,7 +398,7 @@ Table V-AT-D1a δίδομι Middle/passive indicative
 
 
 Table V-AT-D2 ἵστημι (Active Indicative)
-^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Stem στα-** This stem includes ἴστημι (I stand/cause - 155 occurances); ἀνίστημι (I oppose - 108 occurances); παρίστημι (I make available/ to be present - 41 occurances); καθίστημι (I appoint - 21 occurances); ἀνθίστημι (I oppose - 14 occurances); along with other compounds of ἴστημι.
 
@@ -506,7 +506,7 @@ Table V-AT-D2 ἵστημι (Active Indicative)
     </table></br>
 
 Table V-AT-D2a ἵστημι middle/passive indicative
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
 
@@ -621,7 +621,7 @@ Table V-AT-D2a ἵστημι middle/passive indicative
 
 
 Table V-AT-D3 τίθημι (Active Indicative)
-^^^^^^^^^^^^^  
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
 
 **Stem  θη-**
 This stem includes τίθημι (I put/place - 100 occurances); παρατίθημι (I set before - 19 occurances); προστίθημι (I add to something present - 18 occurances) along with other compounds of τίθημι.
@@ -718,7 +718,7 @@ This stem includes τίθημι (I put/place - 100 occurances); παρατίθη
     </table></br>
 
 Table V-AT-D3a τίθημι middle/passive indicative
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
 
