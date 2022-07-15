@@ -998,8 +998,8 @@ Table V-NAP-1a δίδωμι Present Middle/Passive Participle - Verb Nonindicati
     </tbody>
     </table></br>
 
-  ἵστημι
-  ~~~~~~
+ἵστημι
+~~~~~~
 
 Table V-NAP-2 ἵστημι Present Active Participle - Verb Nonindicative Athematic
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
