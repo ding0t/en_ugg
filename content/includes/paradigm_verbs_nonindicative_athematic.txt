@@ -1,7 +1,10 @@
 Paradigm_verbs_nonindicative_athematic.txt
 
+εἴμι
+~~~~
+
 Table V-ATN-1  εἰμί Non-Indicative
-^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
 
@@ -86,7 +89,7 @@ Table V-ATN-1  εἰμί Non-Indicative
     </table></br>
 
 Table V-ATN-2  Present Participle (εἰμί)
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
 
@@ -176,8 +179,12 @@ Table V-ATN-2  Present Participle (εἰμί)
     </tbody>
     </table></BR>
 
+
+Subjunctive Non-Indicative Athematic Verbs
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Table V-ATN-3S1 Subjunctive Active Non-indicative Athematic verbs
-^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
 
@@ -308,7 +315,7 @@ Table V-ATN-3S1 Subjunctive Active Non-indicative Athematic verbs
     </table></br>
 
 Table V-ATN-3S2 Subjunctive Middle/Passive Non-indicative Athematic verbs
-^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
 
@@ -448,8 +455,11 @@ Table V-ATN-3S2 Subjunctive Middle/Passive Non-indicative Athematic verbs
     </tbody>
     </table></br>
 
-Table V-ATM-1 Imperative Active Non-indicative athematic verbs
-^^^^^^^^^^^^^^
+Imperative Non-indicative Athematic Verbs
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Table V-ATM-1 Imperative Active Non-indicative Athematic Verbs
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
 
@@ -555,7 +565,7 @@ Table V-ATM-1 Imperative Active Non-indicative athematic verbs
     </table></br>
 
 Table V-ATM-2 Imperative Middle/passive Non-indicative Athematic Verbs
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
 
@@ -654,8 +664,11 @@ Table V-ATM-2 Imperative Middle/passive Non-indicative Athematic Verbs
     </tbody>
     </table></br>
 
+Infinitive Non-indicative Athematic Verbs
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Table V-ATN-1 Infinitives  Active Non-Indicative Athematic Verbs
-^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 [NOTE] The infinatives marked with an asterisk (*) do not appear in the New Testament, but do appear in the Septuagint. 
 
@@ -725,7 +738,7 @@ Table V-ATN-1 Infinitives  Active Non-Indicative Athematic Verbs
     </table></br>
 
 Table V-ATN-2 Infinitive Middle/Passive Non-indicative Verbs
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
 
@@ -779,8 +792,11 @@ Table V-ATN-2 Infinitive Middle/Passive Non-indicative Verbs
     </tbody>
     </table></br>
 
-Table V-NAP-1 δίδωμμι Present Active Participles - Verb Nonindicative Athematic
-^^^^^^^^^^^^^
+δίδωμι
+~~~~~~
+
+Table V-NAP-1 δίδωμι Present Active Participles - Verb Nonindicative Athematic
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
    .. raw:: html
    
@@ -883,7 +899,7 @@ Table V-NAP-1 δίδωμμι Present Active Participles - Verb Nonindicative Ath
     </table></br>
 
 Table V-NAP-1a δίδωμι Present Middle/Passive Participle - Verb Nonindicative Athematic
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
 
@@ -982,10 +998,11 @@ Table V-NAP-1a δίδωμι Present Middle/Passive Participle - Verb Nonindicati
     </tbody>
     </table></br>
 
-  
+  ἵστημι
+  ~~~~~~
 
 Table V-NAP-2 ἵστημι Present Active Participle - Verb Nonindicative Athematic
-^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
 
@@ -1088,7 +1105,7 @@ Table V-NAP-2 ἵστημι Present Active Participle - Verb Nonindicative Athem
     </table></br>
 
 Table V-NAP-2a ἵσταμι Present Middle/Passive Participle - Nonidicative Athematic
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
 
@@ -1187,10 +1204,11 @@ Table V-NAP-2a ἵσταμι Present Middle/Passive Participle - Nonidicative At
     </tbody>
     </table></br>
 
-
+τίθημι
+~~~~~~
 
 Table V-NAP-3 τίθημι Present Active Participle - Nonindicative Athematic
-^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
 
@@ -1294,7 +1312,7 @@ Table V-NAP-3 τίθημι Present Active Participle - Nonindicative Athematic
 
     
 Table V-NAP-3a - τίθημι Present Middle/Passive Participle - Nonidicative Athematic
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
 
