@@ -1,7 +1,7 @@
 paradigm_pronoun
 
 Table r1 - The Article - *(ὁ,ἡ,τό)*
-^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The article appears approximately 19,723 times in the Greek New Testament.  It functions as a pronoun in 16% of the occurrences.  84% of the time it functions as the definite article.  
 
@@ -20,8 +20,8 @@ The article appears approximately 19,723 times in the Greek New Testament.  It f
   Dative,τοῖς,ταῖς,τοῖς
   Accusative,τούς,τάς,τά
 
-The relative pronoun  (2-1-2) (*neuter in “ο”*)
-^^^^^^^^^^^^^^^^^^^^
+Table R2 - The relative pronoun  (2-1-2) (*neuter in “ο”*)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: r2 (2-1-2) (ὅς  *who,which*)
   :header-rows: 1
@@ -43,7 +43,7 @@ The relative pronoun  (2-1-2) (*neuter in “ο”*)
 
 
 Personal Pronouns
-^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~
 
   Table r3 - (*ἐγώ, σύ*)
   Table r4  - (*αὐτός*)
@@ -51,6 +51,7 @@ Personal Pronouns
   Note: *ἐγώ*  and *σύ*  do not have gender
 
 **Table r3**  - (*ἐγώ, σύ*)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: r3  -ἐγώ (*I*)  σύ (*you*)
   :header-rows: 1
@@ -67,6 +68,7 @@ Personal Pronouns
   Accusative,ἡμᾶς,,ὑμᾶς
 
 **Table r4**   *αὐτός*  
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: r4 (2-1-2)  *αὐτός* (he,she,it,they)
   :header-rows: 1
@@ -84,12 +86,13 @@ Personal Pronouns
   Accusative,αὐτούς,αὐτάς,αὐτά
 
 Demonstrative pronoun – οὗτος,ἐκεῖνος
-^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
   Table r5 - οὗτος
   Table r6 - ἐκεῖνος
 
 **Table r5**  - οὗτος
+^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: r5 (2-1-2) (οὗτος -  *this*)
   :header-rows: 1
@@ -107,6 +110,7 @@ Demonstrative pronoun – οὗτος,ἐκεῖνος
   Accusative,τούτους,ταύτας,ταῦτα
 
 **Table r6** - ἐκεῖνος
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: r6 (2-1-2) (ἐκεῖνος  *that*)
   :header-rows: 1
@@ -126,7 +130,7 @@ Demonstrative pronoun – οὗτος,ἐκεῖνος
 
 
 Interrogative pronoun – τίς
-^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Table r7**  -stems ending in a nu
 NOTE:  *The masculine and feminine declensions are identical.*
@@ -149,7 +153,7 @@ NOTE:  *The masculine and feminine declensions are identical.*
 
 
 Reflexive Pronouns - ἐμαυτοῦ, σεαυτοῦ
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Table R8 (ἐμαθτοῦ, σεαυτοῦ)
 
