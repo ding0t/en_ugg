@@ -377,7 +377,7 @@ Table 4 Primary and Secondary Endings of Verbs
 
 
 
-.. include:: includes/paradigm_verbs_indicative_athematic.txt
+.. include:: includes/paradigms.html#table-v-at-1-indicative
 
 
 From Table V-AT-1 εἰμί  Present Indicative
