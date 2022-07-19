@@ -1,7 +1,7 @@
 paradigm_imperative
 
 **Table V-MT-1a** Active Imperative Verbs (Thematic Uncontracted)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
   * [Note] The second person plural present active imperative is identical in  form to the second person plural present active indicative.
   * [Note]  There is no augment for the aorist tense in the imperative mood.
@@ -105,7 +105,7 @@ paradigm_imperative
 
 
 **Table V-MT-1b** Present Active Imperative Verbs (Thematic contracted)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 [based on the verbs τιμάω - I honor; φιλέω -I love/have affection for; δηλόω - I reveal/make known]
 
@@ -195,7 +195,7 @@ paradigm_imperative
     </table></br>
 
 **Table V-MT-2a** Middle/Passive uncontracted verbs
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 [based on the verb λύω - I loose/untie/destroy ; γίνομαι - I am/become/exist]
 
@@ -298,7 +298,7 @@ paradigm_imperative
     </table></br>
 
 **Table V-MT-2b** Present Middle/Passive Contracted verbs
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
  [based on the verbs τιμάω - I honor; φιλέω -I love/have affection for; δηλόω - I reveal/make known]
 
@@ -390,7 +390,7 @@ paradigm_imperative
 
 
 **Table V-MT-3**  Aorist Passive Imperative verbs
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 [based on the verbs λύω - I loose/untie/destroy ; τιμάω - I honor; φιλέω -I love/have affection for; δηλόω - I reveal/make known]
 
