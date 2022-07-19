@@ -377,18 +377,68 @@ Table 4 Primary and Secondary Endings of Verbs
 
 
 
-.. include:: includes/paradigms.html#table-v-at-1-indicative
+Table V-  εἴμι Present Indicative
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-ex3e{border-color:inherit;font-size:xx-small;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-6vgs{background-color:#ffffff;border-color:#000000;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-wovw{background-color:#fffc9e;border-color:#000000;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-kd1j{border-color:inherit;font-size:xx-small;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-wovw" colspan="2"><span style="font-weight:bold">Table VTP-5</span><br><span style="font-weight:bold">εἴμι</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-7btt" colspan="2">Present Tense<br>Indicative Mood</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">1 singular</td>
+        <td class="tg-0pky">εἴμι</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">2 singular</td>
+        <td class="tg-f8tv">εἶ</td>
+      </tr>
+      <tr>
+        <td class="tg-6vgs">3 singular</td>
+        <td class="tg-iks7">ἐστί(ν)</td>
+      </tr>
+      <tr>
+        <td class="tg-ex3e"></td>
+        <td class="tg-kd1j"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">1 plural</td>
+        <td class="tg-0pky">ἐσμέν</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">2 plural</td>
+        <td class="tg-0pky">ἐστέ</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">3 plural</td>
+        <td class="tg-0pky">εἰσι(ν)</td>
+      </tr>
+    </tbody>
+    </table></br>
 
 
-From Table V-AT-1 εἰμί  Present Indicative
-Singular	Present tense	
-1st person	εἰμί	
-2nd person	εἶ	
-3rd person	ἐστί(ν)	
-Plural			
-1st person	ἐσμέν 
-2nd person	ἐστέ	
-3rd person	εἰσί(ν)
 
 Present tense – Aspect
 	
