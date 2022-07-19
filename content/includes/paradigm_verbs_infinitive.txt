@@ -1,6 +1,7 @@
 paradigm_infinitive
 
 Table V-NT  Verb Infinitive Morpheme Chart
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
 
@@ -61,6 +62,7 @@ Table V-NT  Verb Infinitive Morpheme Chart
 
 
 **Table V-NT-1**  Verb Infinitive with theme vowels
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 [based on the verbs λύω - I loose/untie/destroy ; βάλλω - I throw/cast ]
 
