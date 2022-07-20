@@ -480,7 +480,7 @@ Continuous action may be in the form of:
   (3) action that occurs on an iterative (or repeatedly occurs.     
 
 
-• **Continuous action over a short period of time in the present time.**
+(1) **Continuous action over a short period of time in the present time.**
 
 .. csv-table:: Table VTP-7 Continuous Action over a short period of time
   :Header-rows: 1
@@ -492,7 +492,18 @@ Continuous action may be in the form of:
 
 *Everyone* **is seeking** *you.*
 
-•	**Iterative Present – action that happens repeatedly or an event that reoccurs at intervals.**  
+(2) **Continuous action over a longer period of time.
+
+.. csv-table:: Table VTP-8 Continuous action over a long period of time
+  :header-rows: 1
+
+  John 3:35
+  ὁ,Πατὴρ,ἀγαπᾷ,τὸν,Υἱόν
+  ho,Patēr,**agapa**,ton,Huion
+
+*The Father* **loves** *the Son*
+
+(3)	**Iterative Present – action that happens repeatedly or an event that reoccurs at intervals.**  
 
 The following two examples from the same verse are two examples of the Iterative Present.
 
@@ -500,7 +511,7 @@ The following two examples from the same verse are two examples of the Iterative
 
   * The second example καταγγέλλω is an example of the present tense in the indicative mood.
 
-.. csv-table:: Table VTP-8a Iterative Present Tense
+.. csv-table:: Table VTP-9a Iterative Present Tense
   :header-rows: 1
 
   1 cor 11:26a
@@ -511,7 +522,7 @@ The following two examples from the same verse are two examples of the Iterative
 *For as often as* **you eat** *this bread*
   
 	
-.. csv-table:: Table VTP-8b Iterative Present Tense
+.. csv-table:: Table VTP-9b Iterative Present Tense
   :header-rows: 1
 
 	 1 Cor 11:26c
@@ -528,7 +539,7 @@ The following two examples from the same verse are two examples of the Iterative
 
 Iterative basis example:
 
-.. csv-table:: Table VTP-9a Customary Present (Iterative)
+.. csv-table:: Table VTP-10a Customary Present (Iterative)
   :header-rows: 1
 
   Matthew 7:17
@@ -540,7 +551,7 @@ Iterative basis example:
 
 continuous example:
 
-.. csv-table:: Table VTP-9b Customary Present (Continuous)
+.. csv-table:: Table VTP-10b Customary Present (Continuous)
   :header-rows: 1
 
   2 Corinthians 9:7
@@ -565,7 +576,7 @@ This has the dramatic effect of moving the reader into the time that the event o
 
 The following example is from the story of when a person with leprosy came to Jesus to ask for healing. 
 
-.. csv-table:: VTP-10
+.. csv-table:: VTP-11
   :header-rows: 1
 
   Mark 1:40-41
@@ -580,7 +591,10 @@ The following example is from the story of when a person with leprosy came to Je
 	and he is saying  to him
 	and says to him
 
-•	Future Present - Simple Action that will occur in the future. This use of the present tense views the probability of a future event as so certain that it portrays the event as already occurring in the present time. As such it adds an emphasis on the certainty of the event portrayed.  
+Future Present 
+^^^^^^^^^^^^^^
+
+ Simple Action that will occur in the future. This use of the present tense views the probability of a future event as so certain that it portrays the event as already occurring in the present time. As such it adds an emphasis on the certainty of the event portrayed.  
 
 Example: Jesus speaking of His return.
 Rev 22:20
