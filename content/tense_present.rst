@@ -209,7 +209,7 @@ The connecting vowel (omicron, or epsilon) and the primary personal endings for 
 
 
 
-Table 4 Primary and Secondary Endings of Verbs
+Table VTP-4 Primary and Secondary Endings of Verbs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. raw:: html
 
@@ -378,7 +378,7 @@ Table 4 Primary and Secondary Endings of Verbs
 
 
 
-Table V-  εἴμι Present Indicative
+Table VTP-5-  εἴμι Present Indicative
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
@@ -481,32 +481,45 @@ Continuous action may be in the form of:
 
 
 • Continuous action over a short period of time in the present time.
-Mark 1:37
-πάντες ζητοῦσίν σε
-pantes zētousin se
-all   they are seeking you
 
-“Everyone is seeking you.”
+.. csv-table:: Table VTP-7 Continuous Action over a short period of time
+  :Header-rows: 1
+
+  Mark 1:37
+  πάντες,**ζητοῦσίν**,σε
+  pantes,**zētousin**,se
+  all,**they are seeking**,you
+
+*Everyone* **is seeking** *you.*
 
 •	Iterative Present – action that happens repeatedly or an event that reoccurs at intervals.  
 
-[The following two examples from the same verse are two examples of the Iterative Present.   The first example ἐθίητε is an example of the Iterative  Present tense in the subjunctive mood.
+[The following two examples from the same verse are two examples of the Iterative Present.
 
-The second example 
+  *  The first example ἐθίητε is an example of the Iterative  Present tense in the subjunctive mood.
 
-1 cor 11:26a
-ὁσάκις        γὰρ ἐὰν          ἐσθίητε τὸν ἄρτον τοῦτον
-hosakis      gar ean             esthiēte ton arton touton
-as often as for whenever   you eat  the bread this
+  * The second example καταγγέλλω is an example of the present tense in the indicative mood.
 
-For as often as you eat this bread
+.. csv-table:: Table VTP-8a Iterative Present Tense
+  :header-rows: 1
+
+  1 cor 11:26a
+  ὁσάκις,γὰρ,ἐὰν,**ἐσθίητε**,τὸν,ἄρτον,τοῦτον
+  hosakis,gar,ean,**esthiēte**,ton,arton,touton
+  as often as,for,whenever,**you eat**,the,bread,this
+
+*For as often as* **you eat** *this bread*
   
-			1 Cor 11:26c
-			θάνατον τοῦ Κυρίου καταγγέλλετε
-			thanaton tou Kyriou katangellete
-			death        of the  Lord  you are proclaiming
+	
+.. csv-table:: Table VTP-8b Iterative Present Tense
+  :header-rows: 1
 
-			you proclaim the death of the Lord
+	 1 Cor 11:26c
+  θάνατον,τοῦ,Κυρίου,**καταγγέλλετε**
+  thanaton,tou,Kyriou,**katangellete**
+  death,of,the,Lord,**you are proclaiming**
+
+**you proclaim** *the death of the Lord*   or it could be translated **you are proclaiming** *the death of the Lord.*
 
 
 •	Customary (or General) Present is used to describe events that regularly occur or may be reasonably expected to occur.  The time element is remote or removed because the action described is something that occurs regularly without respect to time.   It may occur continuously or regularly on an iterative basis.  [matt 7:17][2 cor 9:7]
