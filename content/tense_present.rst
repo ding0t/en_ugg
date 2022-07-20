@@ -475,12 +475,12 @@ Progressive Present
  
 Continuous action may be in the form of:
 
-  (1) a short period of continuous action in the present time – (something that is now occurring), or  
+  (1) a short period of continuous action in the present time – (something that is now occurring),  
   (2) describe ongoing continuous action over a longer period of time, or 
   (3) action that occurs on an iterative (or repeatedly occurs.     
 
 
-• Continuous action over a short period of time in the present time.
+• **Continuous action over a short period of time in the present time.**
 
 .. csv-table:: Table VTP-7 Continuous Action over a short period of time
   :Header-rows: 1
@@ -492,9 +492,9 @@ Continuous action may be in the form of:
 
 *Everyone* **is seeking** *you.*
 
-•	Iterative Present – action that happens repeatedly or an event that reoccurs at intervals.  
+•	**Iterative Present – action that happens repeatedly or an event that reoccurs at intervals.**  
 
-[The following two examples from the same verse are two examples of the Iterative Present.
+The following two examples from the same verse are two examples of the Iterative Present.
 
   *  The first example ἐθίητε is an example of the Iterative  Present tense in the subjunctive mood.
 
@@ -517,26 +517,40 @@ Continuous action may be in the form of:
 	 1 Cor 11:26c
   θάνατον,τοῦ,Κυρίου,**καταγγέλλετε**
   thanaton,tou,Kyriou,**katangellete**
-  death,of,the,Lord,**you are proclaiming**
+  death,of the,Lord,**you are proclaiming**
 
-**you proclaim** *the death of the Lord*   or it could be translated **you are proclaiming** *the death of the Lord.*
+**you proclaim** *the death of the Lord*   or [it could be translated **you are proclaiming** *the death of the Lord.*]
 
 
-•	Customary (or General) Present is used to describe events that regularly occur or may be reasonably expected to occur.  The time element is remote or removed because the action described is something that occurs regularly without respect to time.   It may occur continuously or regularly on an iterative basis.  [matt 7:17][2 cor 9:7]
+•	**Customary (or General) Present is used to describe events that regularly occur or may be reasonably expected to occur.**
+  The time element is remote or removed because the action described is something that occurs regularly without respect to time.  
+  It may occur continuously or regularly on an iterative basis.
 
-Iterative basis example
-Matthew 7:17
-πᾶν δένδρον ἀγαθὸν καρποὺς καλοὺς ποιεῖ
-pan dendron agathon karpous kalous poiei
-every tree     good        fruit       good    it makes
-every good tree produces good fruit
-continuous example
-2 Corinthians 9:7
-ἱλαρὸν γὰρ δότην ἀγαπᾷ ὁ Θεός.
-hilaron gar dotēn agapa ho Theos.
-Cheerful for giver  he loves  the God
+Iterative basis example:
 
-for God loves a cheerful giver.
+.. csv-table:: Table VTP-9a Customary Present (Iterative)
+  :header-rows: 1
+
+  Matthew 7:17
+  πᾶν,δένδρον,ἀγαθὸν,καρποὺς,καλοὺς,**ποιεῖ**
+  pan,dendron,agathon,karpous,kalous,**poiei**
+  every,tree,good,fruit,good,**it makes**
+
+*every good tree* **produces** *good fruit*
+
+continuous example:
+
+.. csv-table:: Table VTP-9b Customary Present (Continuous)
+
+.. csv-table:: Table VTP-9a Customary Present (continuous)
+  :header-rows: 1
+
+  2 Corinthians 9:7
+  ἱλαρὸν,γὰρ,δότην,**ἀγαπᾷ**,ὁ,Θεός.
+  hilaron,gar,dotēn,**agapa**,ho,Theos.
+  Cheerful,for,giver,**he loves**,the,God
+
+*for God* **loves** *a cheerful giver.*
 
 
 
