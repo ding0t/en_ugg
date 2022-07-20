@@ -61,7 +61,7 @@ The :ref:`Tense<tense>`  of a verb is used to indicate the speaker’s perspecti
 
     *	 **Present tense -Time** - The use of the Present tense in the indicative mood is the only way to indicate action occurring at the time the speaker is speaking. Therefore, the time of the action takes on a primary role when used with the indicative mood.  The Present indicative may describe simply 1) an event occurring in the present (simple action with no indication of continuity) or 2) an ongoing event occurring in the present. 
 
-    An event that has occurred in the past or that will occur in the future may be portrayed in the present indicative for dramatic effect.
+    *  **Dramatice Effect**  - An event that has occurred in the past or that will occur in the future may be portrayed in the present indicative for dramatic effect.
  
 
 Form:
@@ -541,8 +541,6 @@ Iterative basis example:
 continuous example:
 
 .. csv-table:: Table VTP-9b Customary Present (Continuous)
-
-.. csv-table:: Table VTP-9a Customary Present (continuous)
   :header-rows: 1
 
   2 Corinthians 9:7
@@ -553,18 +551,29 @@ continuous example:
 *for God* **loves** *a cheerful giver.*
 
 
+Dramatic Effect
+~~~~~~~~~~~~~~~
 
 For dramatic effect the present tense may be used to portray:
-•	Historic Present - Simple Action that occurred in the past but is portrayed with the present tense (instead of the expected aorist or imperfect tense).  This has the dramatic effect of moving the reader into the time that the event occurred.  It portrays the event as now occurring.  Frequently used with the verb λέγω.   
+
+
+Historic Present 
+^^^^^^^^^^^^^^^^
+
+Simple Action that occurred in the past but is portrayed with the present tense (instead of the expected aorist or imperfect tense).
+This has the dramatic effect of moving the reader into the time that the event occurred.  It portrays the event as now occurring.  Frequently used with the verb λέγω.   
 
 The following example is from the story of when a person with leprosy came to Jesus to ask for healing. 
 
-Mark 1:40-41
-	καὶ ἔρχεται πρὸς αὐτὸν λεπρὸς
-	kai erchetai pros auton lepros
-	and he is coming to him leper
+.. csv-table:: VTP-10
+  :header-rows: 1
 
-	And a leper comes to him
+  Mark 1:40-41
+	καὶ,**ἔρχεται**,πρὸς,αὐτὸν,λεπρὸς,...,καὶ,**λέγει**,αὐτῷ
+	kai,**erchetai**,pros,auton,lepros,...,kai,**legei**,autō
+	and,**he is coming**,to,him,leper,...,and,**he is saying**,to him
+
+	*And a leper* **comes** *to him ... and* **says** *to him*
 
 	καὶ λέγει αὐτῷ,
 	kai legei autō,
