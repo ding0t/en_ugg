@@ -145,7 +145,8 @@ The present Active Indicative for a verb is formed by using:
 
 
 
-The present Middle/passive indicative verb is formed by using:
+Form - Present Middle/passive indicative verb is formed by using:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
 
@@ -198,7 +199,7 @@ The present Middle/passive indicative verb is formed by using:
 
 
 
-The connecting vowel (omicron, or episolon) and the primary personal endings for the present indicative are shown in the left two quadrants of the 
+The connecting vowel (omicron, or epsilon) and the primary personal endings for the present indicative are shown in the left two quadrants of the 
 `Verb Master chart Table 4 <https://ugg.readthedocs.io/en/latest/paradigms.html#table-4-primary-and-secondary-endings-of-verbs>`_  under the column labeled as Primary endings:
 
 
@@ -209,7 +210,7 @@ The connecting vowel (omicron, or episolon) and the primary personal endings for
 
 
 Table 4 Primary and Secondary Endings of Verbs
-
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. raw:: html
 
     <style type="text/css">
@@ -378,6 +379,7 @@ Table 4 Primary and Secondary Endings of Verbs
 
 
 Table V-  εἴμι Present Indicative
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
 
@@ -441,27 +443,44 @@ Table V-  εἴμι Present Indicative
 
 
 Present tense – Aspect
+~~~~~~~~~~~~~~~~~~~~~~
 	
-Aspect refers to the type of Action.    
-•	Action can be viewed as simple (also referred to as “punctiliar” or “undefined”).   When viewed as “simple” no comment is being made regarding if the action is continuous or a process.   It simply states that the event occurred.    (Aorist tense, and Future tense)
-•	Action can be viewed as continuous (or imperfective).  Continuous action is action that is viewed as ongoing, continuous, or as a process from the speaker’s point of view.  (Present tense, and Imperfect tense)
-•	Action can be portrayed or viewed as perfective or as an event that occurred at some point of time in the past, but with an ongoing effect. ( Perfect tense and Pluperfect tense)
+**Aspect** refers to the type of Action.    
+  *  Action can be viewed as simple (also referred to as “punctiliar” or “undefined”).   When viewed as “simple” no comment is being made regarding if the action is continuous or a process.   It simply states that the event occurred.    (Aorist tense, and Future tense)
+  *  Action can be viewed as continuous (or imperfective).  Continuous action is action that is viewed as ongoing, continuous, or as a process from the speaker’s point of view.  (Present tense, and Imperfect tense)
+  *  Action can be portrayed or viewed as perfective or as an event that occurred at some point of time in the past, but with an ongoing effect. ( Perfect tense and Pluperfect tense)
 
 The present tense is used to express the continuous aspect in all moods other that the indicative mood.  In the indicative mood, the Aspect may be simple or continuous.
 
 In the present time:
+
+Simple Present (in the present time)
+^^^^^^^^^^^^^^
+
 •	Simple-Present describes action in the present time    The “Simple Present” could be described as viewing an action as occurring instantaneous or as a single event as a whole. 
 
-(Acts 25:11)
-Καίσαρα ἐπικαλοῦμαι
-Kaisara epikaloumai
-to Caesar   I appealo
+.. csv-table:: Table VTP-6  Simple Present
+  :Header-rows: 1
 
-I appeal to Caesar.
+  (Acts 25:11)
+  Καίσαρα,**ἐπικαλοῦμαι**
+  Kaisara,**epikaloumai**
+  to Caesar,**I appeal**
+
+**I appeal** *to Caesar.*
 
 
-•	Progressive Present - continuous action may be in the form of (1) a short period of continuous action in the present time – (something that is now occurring). It may also be used to describe (2) ongoing continuous action over a longer period of time, or (3) action that occurs on an iterative (or repeatedly occurs.     
-•	Continuous action over a short period of time in the present time.
+Progressive Present
+^^^^^^^^^^^^^^^^^^^
+ 
+Continuous action may be in the form of:
+
+  (1) a short period of continuous action in the present time – (something that is now occurring), or  
+  (2) describe ongoing continuous action over a longer period of time, or 
+  (3) action that occurs on an iterative (or repeatedly occurs.     
+
+
+• Continuous action over a short period of time in the present time.
 Mark 1:37
 πάντες ζητοῦσίν σε
 pantes zētousin se
