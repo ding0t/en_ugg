@@ -18,10 +18,8 @@ The present tense may also be used for *dramatic effect* to bring the hearer int
 Example:
 Table VTP-1  Present Tense Verb
 
-.. csv-table::  VTP-1 Verb Present Tense
-  :header-rows:  1
+.. csv-table::  VTP-1 Verb Present Tense  John 15:27
 
-  John 15:27
   ἀπ’,ἀρχῆς,μετ’,ἐμοῦ,**ἐστε**
   ap’,archēs,met’,emou,**este**
   from,beginning,with,me,**you are**
@@ -512,7 +510,6 @@ The following two examples from the same verse are examples of the Iterative Pre
   * The second example καταγγέλλω is an example of the present tense in the indicative mood.
 
 .. csv-table:: Table VTP-9a Iterative Present Tense 1 Cor. 11:26a
-  :header-rows: 1
 
   ὁσάκις,γὰρ,ἐὰν,**ἐσθίητε**,τὸν,ἄρτον,τοῦτον
   hosakis,gar,ean,**esthiēte**,ton,arton,touton
@@ -522,7 +519,6 @@ The following two examples from the same verse are examples of the Iterative Pre
   
 	
 .. csv-table:: Table VTP-9b Iterative Present Tense 1 Cor. 11:26c
-  :header-rows: 1
 
 	 θάνατον,τοῦ,Κυρίου,**καταγγέλλετε**
   thanaton,tou,Kyriou,**katangellete**
@@ -540,7 +536,6 @@ The Customary Present is used to describe events that regularly occur or may be 
 Iterative basis example:
 
 .. csv-table:: Table VTP-10a Customary Present (Iterative) Matt. 7:17
-  :header-rows: 1
 
   πᾶν,δένδρον,ἀγαθὸν,καρποὺς,καλοὺς,**ποιεῖ**
   pan,dendron,agathon,karpous,kalous,**poiei**
@@ -580,7 +575,6 @@ The following example is from the story of when a person with leprosy came to Je
 The narative reads as though we were right there watching the scene. 
 
 .. csv-table:: VTP-11a Mark 1:40
-  :header-rows: 1
 
   καὶ,**ἔρχεται**,πρὸς,αὐτὸν,λεπρὸς,...,καὶ,**λέγει**,αὐτῷ
 	kai,**erchetai**,pros,auton,lepros,...,kai,**legei**,autō
@@ -591,11 +585,10 @@ The narative reads as though we were right there watching the scene.
 Then Jesus moved with compassion responds to the leper.
 
 .. csv-table:: VTP-11b Mark 1:41
-  :header-rows: 1
 
-	καὶ,**λέγει**,αὐτῷ
-	kai,**legei**,autō
-	and,**he is saying**,to him
+	 καὶ,**λέγει**,αὐτῷ
+	 kai,**legei**,autō
+	 and,**he is saying**,to him
 
 *and* **says** *to him*
 
@@ -608,8 +601,7 @@ Future Present
 Example: Jesus speaking of His return:
 
 .. csv-table:: VTP-12 Rev. 22:20
-  :header-rows: 1
-
+ 
   ναί,**ἔρχομαι**,ταχύ
   nai,**erchomai**,tachy
   yes,**I am coming**,quickly
@@ -624,8 +616,7 @@ The following are examples of the Present tense being used with the continuous a
 
 Present tense imperative mood
 
-.. csv-table:: VTP-13 Matt 7:7
-  :header-rows: 1
+.. csv-table:: VTP-13 Present Imperative Matt 7:7
 
   **αἰτεῖτε**,καὶ,δοθήσεται,ὑμῖν;,**ζητεῖτε**,καὶ,εὑρήσετε
   **aiteite**,kai,dothēsetai,hymin,**zēteite**,kai,heurēsete
@@ -635,9 +626,11 @@ Present tense imperative mood
 
 Present tense - participle
 
-1 Jn 3:7
-ὁ ποιῶν τὴν δικαιοσύνην, δίκαιός ἐστιν
-ho poiōn tēn dikaiosynēn, dikaios estin
-the one who is doing the righteousness  righteous he is
-The one who does righteousness is righteous
+.. csv-table:: VTP-14 Present Participle 1 Jn 3:7
+
+  ὁ,**ποιῶν**,τὴν,δικαιοσύνην,δίκαιός,ἐστιν
+  ho,**poiōn**,tēn,dikaiosynēn,dikaios,estin
+  the,**one who is doing**,the,righteousness,righteous,he is
+
+*The* **one who does** *righteousness is righteous*
 
