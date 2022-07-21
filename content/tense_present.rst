@@ -457,7 +457,7 @@ In the present time:
 Simple Present (in the present time)
 ^^^^^^^^^^^^^^
 
-•	Simple-Present describes action in the present time    The “Simple Present” could be described as viewing an action as occurring instantaneous or as a single event as a whole. 
+•	Simple-Present describes action in the present time    The “Simple Present” could be described as viewing an action as occurring instantaneous or viewing a single event (which may have occured quickly or over a period of time) as a whole. 
 
 .. csv-table:: Table VTP-6  Simple Present
   :Header-rows: 1
@@ -497,11 +497,13 @@ Continuous action may be in the form of:
 .. csv-table:: Table VTP-8 Continuous action over a long period of time
   :header-rows: 1
 
-  John 3:35
-  ὁ,Πατὴρ,ἀγαπᾷ,τὸν,Υἱόν
-  ho,Patēr,**agapa**,ton,Huion
+  John 3:36
+  ὁ,**πιστεύων**,εἰς,τὸν,Υἱὸν,**ἔχει**,ζωὴν,αἰώνιον
+  ho,**pisteuōn**,eis,ton,Huion,**echei**,zōēn,aiōnion
+  the,**one who believes**,in,the,Son,**he has**,life,eternal
 
-*The Father* **loves** *the Son*
+*The* **one who believes** *in the Son* **has** *eternal life*
+[Note:] In this example both the present tense participle πιστεύων and the verb ἔχει are in the present tense and indicate continuous action over a period of time.
 
 (3)	**Iterative Present – action that happens repeatedly or an event that reoccurs at intervals.**  
 
@@ -604,6 +606,9 @@ yes  I am coming  quickly
 
 Yes! I am coming quickly
 
+
+Examples of Present tense in non-indicative moods
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The following are examples of the Present tense being used with the continuous aspect in moods other than the indicative.
 
