@@ -503,11 +503,12 @@ Continuous action may be in the form of:
   the,**one who believes**,in,the,Son,**he has**,life,eternal
 
 *The* **one who believes** *in the Son* **has** *eternal life*
+
 [Note:] In this example both the present tense participle πιστεύων and the verb ἔχει are in the present tense and indicate continuous action over a period of time.
 
 (3)	**Iterative Present – action that happens repeatedly or an event that reoccurs at intervals.**  
 
-The following two examples from the same verse are two examples of the Iterative Present.
+The following two examples from the same verse are examples of the Iterative Present.
 
   *  The first example ἐθίητε is an example of the Iterative  Present tense in the subjunctive mood.
 
@@ -534,8 +535,10 @@ The following two examples from the same verse are two examples of the Iterative
 
 **you proclaim** *the death of the Lord*   or [it could be translated **you are proclaiming** *the death of the Lord.*]
 
+Customary (or General) Present 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-•	**Customary (or General) Present is used to describe events that regularly occur or may be reasonably expected to occur.**
+The Customary Present is used to describe events that regularly occur or may be reasonably expected to occur.
   The time element is remote or removed because the action described is something that occurs regularly without respect to time.  
   It may occur continuously or regularly on an iterative basis.
 
@@ -568,43 +571,59 @@ Dramatic Effect
 ~~~~~~~~~~~~~~~
 
 For dramatic effect the present tense may be used to portray:
+  *  Historical Present - an event that occured in the past, but is portrayed as occuring in the present
+  *  Future Present - and event that will occur in the future, but is portrayed as occuring in the present.
 
 
 Historic Present 
 ^^^^^^^^^^^^^^^^
 
 Simple Action that occurred in the past but is portrayed with the present tense (instead of the expected aorist or imperfect tense).
-This has the dramatic effect of moving the reader into the time that the event occurred.  It portrays the event as now occurring.  Frequently used with the verb λέγω.   
+This has the dramatic effect of moving the reader into the time that the event occurred.  It portrays the event as now occurring.
+Frequently the Historic Present is used with the verb λέγω.  Most English versions will translate Historic Present verbs with a verb
+in the past tense.   
 
 The following example is from the story of when a person with leprosy came to Jesus to ask for healing. 
+The narative reads as though we were right there watching the scene. 
 
-.. csv-table:: VTP-11
+.. csv-table:: VTP-11a
   :header-rows: 1
 
-  Mark 1:40-41
+  Mark 1:40
 	καὶ,**ἔρχεται**,πρὸς,αὐτὸν,λεπρὸς,...,καὶ,**λέγει**,αὐτῷ
 	kai,**erchetai**,pros,auton,lepros,...,kai,**legei**,autō
 	and,**he is coming**,to,him,leper,...,and,**he is saying**,to him
 
 	*And a leper* **comes** *to him ... and* **says** *to him*
 
-	καὶ λέγει αὐτῷ,
-	kai legei autō,
-	and he is saying  to him
-	and says to him
+Then Jesus moved with compassion responds to the leper.
+
+.. csv-table:: VTP-11b
+  :header-rows: 1
+
+	καὶ,**λέγει**,αὐτῷ
+	kai,**legei**,autō
+	and,**he is saying**,to him
+
+*and* **says** *to him*
 
 Future Present 
 ^^^^^^^^^^^^^^
 
- Simple Action that will occur in the future. This use of the present tense views the probability of a future event as so certain that it portrays the event as already occurring in the present time. As such it adds an emphasis on the certainty of the event portrayed.  
+ The Future Present is used to describe Simple Action that will occur in the future. 
+ This use of the present tense views the probability of a future event as so certain that it portrays the event as already occurring in the present time. As such it adds an emphasis on the certainty of the event portrayed.  
 
-Example: Jesus speaking of His return.
-Rev 22:20
-ναί, ἔρχομαι ταχύ
-nai, erchomai tachy
-yes  I am coming  quickly
+Example: Jesus speaking of His return:
 
-Yes! I am coming quickly
+.. csv-table:: VTP-12
+  :header-rows: 1
+
+  Rev 22:20
+  ναί,**ἔρχομαι**,ταχύ
+  nai,**erchomai**,tachy
+  yes,**I am coming**,quickly
+
+*Yes!* **I am coming** *quickly*
 
 
 Examples of Present tense in non-indicative moods
