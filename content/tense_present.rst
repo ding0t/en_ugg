@@ -18,9 +18,10 @@ The present tense may also be used for *dramatic effect* to bring the hearer int
 Example:
 Table VTP-1  Present Tense Verb
 
-.. csv-table::  VTP-1 Verb Present Tense John 15:27
+.. csv-table::  VTP-1 Verb Present Tense
   :header-rows:  1
 
+  John 15:27
   ἀπ’,ἀρχῆς,μετ’,ἐμοῦ,**ἐστε**
   ap’,archēs,met’,emou,**este**
   from,beginning,with,me,**you are**
