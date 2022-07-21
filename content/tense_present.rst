@@ -446,7 +446,7 @@ Present tense – Aspect
 	
 **Aspect** refers to the type of Action.    
   *  Action can be viewed as simple (also referred to as “punctiliar” or “undefined”).   When viewed as “simple” no comment is being made regarding if the action is continuous or a process.   It simply states that the event occurred.    (Simple Action is generally associated with the Aorist tense, and Future tense, but can also is portrayed in the present indicative .)
-  *  Action can be viewed as continuous (or imperfective).  Continuous action is action that is viewed as ongoing, continuous, or as a process from the speaker’s point of view.  (Continuous Action is genrally associated with the Present and Imperfect tense.)
+  *  Action can be viewed as continuous (or imperfective).  Continuous action is action that is viewed as ongoing, continuous, or as a process from the speaker’s point of view.  (Continuous Action is generally associated with the Present and Imperfect tense.)
   *  Action can be portrayed or viewed as perfective or as an event that occurred at some point of time in the past, but with an ongoing effect. ( Perfective action is generally associated with the Perfect and Pluperfect tense)
 
 The present tense is used to express the continuous aspect in all moods other that the indicative mood.  In the indicative mood, the Aspect may be simple or continuous.
@@ -456,11 +456,12 @@ In the present time:
 Simple Present (in the present time)
 ^^^^^^^^^^^^^^
 
-•	Simple-Present describes action in the present time    The “Simple Present” could be described as viewing an action as occurring instantaneous or viewing a single event (which may have occured quickly or over a period of time) as a whole. 
+•	Simple-Present describes action in the present time.  The “Simple Present” could be described as viewing an action as occurring instantaneous or viewing a single event (which may have occured quickly or over a period of time) as a whole. 
 
-.. csv-table:: Table VTP-6  Simple Present Acts 25:11
+.. csv-table:: Table VTP-6  Simple Present
   :Header-rows: 1
 
+  Acts 25:11
   Καίσαρα,**ἐπικαλοῦμαι**
   Kaisara,**epikaloumai**
   to Caesar,**I appeal**
@@ -475,14 +476,15 @@ Continuous action may be in the form of:
 
   (1) a short period of continuous action in the present time – (something that is now occurring),  
   (2) describe ongoing continuous action over a longer period of time, or 
-  (3) action that occurs on an iterative (or repeatedly occurs.     
+  (3) action that occurs on an iterative basis (or repeatedly occurs).     
 
 
 (1) **Continuous action over a short period of time in the present time.**
 
-.. csv-table:: Table VTP-7 Continuous Action over a short period of time Mark 1:37
+.. csv-table:: Table VTP-7 Continuous Action over a short period of time
   :Header-rows: 1
 
+  Mark 1:37
   πάντες,**ζητοῦσίν**,σε
   pantes,**zētousin**,se
   all,**they are seeking**,you
@@ -492,7 +494,6 @@ Continuous action may be in the form of:
 (2) **Continuous action over a longer period of time.
 
 .. csv-table:: Table VTP-8 Continuous action over a long period of time John 3:36
-  :header-rows: 1
 
   ὁ,**πιστεύων**,εἰς,τὸν,Υἱὸν,**ἔχει**,ζωὴν,αἰώνιον
   ho,**pisteuōn**,eis,ton,Huion,**echei**,zōēn,aiōnion
