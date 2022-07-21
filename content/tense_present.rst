@@ -18,10 +18,9 @@ The present tense may also be used for *dramatic effect* to bring the hearer int
 Example:
 Table VTP-1  Present Tense Verb
 
-.. csv-table::  VTP-1 Verb Present Tense
+.. csv-table::  VTP-1 Verb Present Tense John 15:27
   :header-rows:  1
 
-  John 15:27
   ἀπ’,ἀρχῆς,μετ’,ἐμοῦ,**ἐστε**
   ap’,archēs,met’,emou,**este**
   from,beginning,with,me,**you are**
@@ -53,10 +52,11 @@ The :ref:`Tense<tense>`  of a verb is used to indicate the speaker’s perspecti
   1.  **Aspect** - the kind of action of the verb. The kind of action may be continuous (also described as imperfective),
   completed (or simple) , or completed with an ongoing effect.
   
-  2.  **Time** - the time of action (only in the indicative mood). 
-
 
     *	 **Present tense- Aspect** is used primarily to indicate the kind of action as (continuous or incomplete) in moods other than the indicative.  It may indicate the action as continuous or incomplete in the present time depending on the context of the verb. The continuous aspect may also refer to an event that occurs on an iterative basis, or an event that generally occurs (or may be reasonably expected to occur).  
+
+
+  2.  **Time** - the time of action (only in the indicative mood). 
 
 
     *	 **Present tense -Time** - The use of the Present tense in the indicative mood is the only way to indicate action occurring at the time the speaker is speaking. Therefore, the time of the action takes on a primary role when used with the indicative mood.  The Present indicative may describe simply 1) an event occurring in the present (simple action with no indication of continuity) or 2) an ongoing event occurring in the present. 
@@ -197,15 +197,13 @@ Form - Present Middle/passive indicative verb is formed by using:
     </table></br>
 
 
-
-
 The connecting vowel (omicron, or epsilon) and the primary personal endings for the present indicative are shown in the left two quadrants of the 
 `Verb Master chart Table 4 <https://ugg.readthedocs.io/en/latest/paradigms.html#table-4-primary-and-secondary-endings-of-verbs>`_  under the column labeled as Primary endings:
 
 
 •	The present tense stem for a verb may be determined by deleting the connecting vowel and personal ending from a verb.  If a verb has a prefix or an augment such as in the aorist or perfect tenses, the prefix or augment must also be deleted. 
 •	The Primary Active personal endings are shown the chart below and in the upper left quadrant (Quadrant 1) of the Verb Master Chart Table 4.
-•	The Primary middle/passive personal endings are shown the chart below and the lower left quadrant (Quadrant 3) of Berb Master Chart Table 4.
+•	The Primary middle/passive personal endings are shown the chart below and the lower left quadrant (Quadrant 3) of Verb Master Chart Table 4.
 
 
 
@@ -446,9 +444,9 @@ Present tense – Aspect
 ~~~~~~~~~~~~~~~~~~~~~~
 	
 **Aspect** refers to the type of Action.    
-  *  Action can be viewed as simple (also referred to as “punctiliar” or “undefined”).   When viewed as “simple” no comment is being made regarding if the action is continuous or a process.   It simply states that the event occurred.    (Aorist tense, and Future tense)
-  *  Action can be viewed as continuous (or imperfective).  Continuous action is action that is viewed as ongoing, continuous, or as a process from the speaker’s point of view.  (Present tense, and Imperfect tense)
-  *  Action can be portrayed or viewed as perfective or as an event that occurred at some point of time in the past, but with an ongoing effect. ( Perfect tense and Pluperfect tense)
+  *  Action can be viewed as simple (also referred to as “punctiliar” or “undefined”).   When viewed as “simple” no comment is being made regarding if the action is continuous or a process.   It simply states that the event occurred.    (Simple Action is generally associated with the Aorist tense, and Future tense, but can also is portrayed in the present indicative .)
+  *  Action can be viewed as continuous (or imperfective).  Continuous action is action that is viewed as ongoing, continuous, or as a process from the speaker’s point of view.  (Continuous Action is genrally associated with the Present and Imperfect tense.)
+  *  Action can be portrayed or viewed as perfective or as an event that occurred at some point of time in the past, but with an ongoing effect. ( Perfective action is generally associated with the Perfect and Pluperfect tense)
 
 The present tense is used to express the continuous aspect in all moods other that the indicative mood.  In the indicative mood, the Aspect may be simple or continuous.
 
@@ -459,10 +457,9 @@ Simple Present (in the present time)
 
 •	Simple-Present describes action in the present time    The “Simple Present” could be described as viewing an action as occurring instantaneous or viewing a single event (which may have occured quickly or over a period of time) as a whole. 
 
-.. csv-table:: Table VTP-6  Simple Present
+.. csv-table:: Table VTP-6  Simple Present Acts 25:11
   :Header-rows: 1
 
-  (Acts 25:11)
   Καίσαρα,**ἐπικαλοῦμαι**
   Kaisara,**epikaloumai**
   to Caesar,**I appeal**
@@ -482,10 +479,9 @@ Continuous action may be in the form of:
 
 (1) **Continuous action over a short period of time in the present time.**
 
-.. csv-table:: Table VTP-7 Continuous Action over a short period of time
+.. csv-table:: Table VTP-7 Continuous Action over a short period of time Mark 1:37
   :Header-rows: 1
 
-  Mark 1:37
   πάντες,**ζητοῦσίν**,σε
   pantes,**zētousin**,se
   all,**they are seeking**,you
@@ -494,10 +490,9 @@ Continuous action may be in the form of:
 
 (2) **Continuous action over a longer period of time.
 
-.. csv-table:: Table VTP-8 Continuous action over a long period of time
+.. csv-table:: Table VTP-8 Continuous action over a long period of time John 3:36
   :header-rows: 1
 
-  John 3:36
   ὁ,**πιστεύων**,εἰς,τὸν,Υἱὸν,**ἔχει**,ζωὴν,αἰώνιον
   ho,**pisteuōn**,eis,ton,Huion,**echei**,zōēn,aiōnion
   the,**one who believes**,in,the,Son,**he has**,life,eternal
@@ -514,10 +509,9 @@ The following two examples from the same verse are examples of the Iterative Pre
 
   * The second example καταγγέλλω is an example of the present tense in the indicative mood.
 
-.. csv-table:: Table VTP-9a Iterative Present Tense
+.. csv-table:: Table VTP-9a Iterative Present Tense 1 Cor. 11:26a
   :header-rows: 1
 
-  1 cor 11:26a
   ὁσάκις,γὰρ,ἐὰν,**ἐσθίητε**,τὸν,ἄρτον,τοῦτον
   hosakis,gar,ean,**esthiēte**,ton,arton,touton
   as often as,for,whenever,**you eat**,the,bread,this
@@ -525,11 +519,10 @@ The following two examples from the same verse are examples of the Iterative Pre
 *For as often as* **you eat** *this bread*
   
 	
-.. csv-table:: Table VTP-9b Iterative Present Tense
+.. csv-table:: Table VTP-9b Iterative Present Tense 1 Cor. 11:26c
   :header-rows: 1
 
-	 1 Cor 11:26c
-  θάνατον,τοῦ,Κυρίου,**καταγγέλλετε**
+	 θάνατον,τοῦ,Κυρίου,**καταγγέλλετε**
   thanaton,tou,Kyriou,**katangellete**
   death,of the,Lord,**you are proclaiming**
 
@@ -544,10 +537,9 @@ The Customary Present is used to describe events that regularly occur or may be 
 
 Iterative basis example:
 
-.. csv-table:: Table VTP-10a Customary Present (Iterative)
+.. csv-table:: Table VTP-10a Customary Present (Iterative) Matt. 7:17
   :header-rows: 1
 
-  Matthew 7:17
   πᾶν,δένδρον,ἀγαθὸν,καρποὺς,καλοὺς,**ποιεῖ**
   pan,dendron,agathon,karpous,kalous,**poiei**
   every,tree,good,fruit,good,**it makes**
@@ -556,10 +548,9 @@ Iterative basis example:
 
 continuous example:
 
-.. csv-table:: Table VTP-10b Customary Present (Continuous)
+.. csv-table:: Table VTP-10b Customary Present (Continuous) 2 Cor. 9:7
   :header-rows: 1
 
-  2 Corinthians 9:7
   ἱλαρὸν,γὰρ,δότην,**ἀγαπᾷ**,ὁ,Θεός.
   hilaron,gar,dotēn,**agapa**,ho,Theos.
   Cheerful,for,giver,**he loves**,the,God
@@ -586,11 +577,10 @@ in the past tense.
 The following example is from the story of when a person with leprosy came to Jesus to ask for healing. 
 The narative reads as though we were right there watching the scene. 
 
-.. csv-table:: VTP-11a
+.. csv-table:: VTP-11a Mark 1:40
   :header-rows: 1
 
-  Mark 1:40
-	καὶ,**ἔρχεται**,πρὸς,αὐτὸν,λεπρὸς,...,καὶ,**λέγει**,αὐτῷ
+  καὶ,**ἔρχεται**,πρὸς,αὐτὸν,λεπρὸς,...,καὶ,**λέγει**,αὐτῷ
 	kai,**erchetai**,pros,auton,lepros,...,kai,**legei**,autō
 	and,**he is coming**,to,him,leper,...,and,**he is saying**,to him
 
@@ -598,7 +588,7 @@ The narative reads as though we were right there watching the scene.
 
 Then Jesus moved with compassion responds to the leper.
 
-.. csv-table:: VTP-11b
+.. csv-table:: VTP-11b Mark 1:41
   :header-rows: 1
 
 	καὶ,**λέγει**,αὐτῷ
@@ -615,10 +605,9 @@ Future Present
 
 Example: Jesus speaking of His return:
 
-.. csv-table:: VTP-12
+.. csv-table:: VTP-12 Rev. 22:20
   :header-rows: 1
 
-  Rev 22:20
   ναί,**ἔρχομαι**,ταχύ
   nai,**erchomai**,tachy
   yes,**I am coming**,quickly
@@ -633,10 +622,14 @@ The following are examples of the Present tense being used with the continuous a
 
 Present tense imperative mood
 
-Matt 7:7 
-αἰτεῖτε καὶ δοθήσεται ὑμῖν; ζητεῖτε καὶ εὑρήσετε
-aiteite kai dothēsetai hymin? zēteite kai heurēsete
-ask       and   it will be given to you, seek and you will find
+.. csv-table:: VTP-13 Matt 7:7
+  :header-rows: 1
+
+  **αἰτεῖτε**,καὶ,δοθήσεται,ὑμῖν;,**ζητεῖτε**,καὶ,εὑρήσετε
+  **aiteite**,kai,dothēsetai,hymin,**zēteite**,kai,heurēsete
+  **you ask**,and,it will be given,to you,**you seek**,and,you will find
+
+**Ask**, *and it will be given to you.* **Seek**, *and you will find*
 
 Present tense - participle
 
