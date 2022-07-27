@@ -640,5 +640,5 @@ Present tense - participle
 
 *The* **one who does** *righteousness is righteous*
 
-[This could be translated "The one who is does righteousness (and keeps on doing righteousness) is righteous.]
+[This could be translated "The one who does righteousness (and keeps on doing righteousness) is righteous.]
 
