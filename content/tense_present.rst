@@ -489,7 +489,7 @@ Continuous action may be in the form of:
 
 *Everyone* **is seeking** *you.*
 
-(2) **Continuous action over a longer period of time.
+(2) **Continuous action over a longer period of time.**
 
 .. csv-table:: Table VTP-8 Continuous action over a long period of time John 3:36
 
