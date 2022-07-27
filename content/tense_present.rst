@@ -443,7 +443,7 @@ Present tense – Aspect
 ~~~~~~~~~~~~~~~~~~~~~~
 	
 **Aspect** refers to the type of Action.    
-  *  Action can be viewed as simple (also referred to as “punctiliar” or “undefined”).   When viewed as “simple” no comment is being made regarding if the action is continuous or a process.   It simply states that the event occurred.    (Simple Action is generally associated with the Aorist tense, and Future tense, but can also is portrayed in the present indicative .)
+  *  Action can be viewed as simple (also referred to as “punctiliar” or “undefined”).   When viewed as “simple” no comment is being made regarding if the action is continuous or a process.   It simply states that the event occurred.    (Simple Action is generally associated with the Aorist tense, and Future tense, but can also occur in the present indicative .)
   *  Action can be viewed as continuous (or imperfective).  Continuous action is action that is viewed as ongoing, continuous, or as a process from the speaker’s point of view.  (Continuous Action is generally associated with the Present and Imperfect tense.)
   *  Action can be portrayed or viewed as perfective or as an event that occurred at some point of time in the past, but with an ongoing effect. ( Perfective action is generally associated with the Perfect and Pluperfect tense)
 
@@ -530,8 +530,12 @@ Customary (or General) Present
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The Customary Present is used to describe events that regularly occur or may be reasonably expected to occur.
+
   The time element is remote or removed because the action described is something that occurs regularly without respect to time.  
   It may occur continuously or regularly on an iterative basis.
+
+
+
 
 Iterative basis example:
 
@@ -580,7 +584,7 @@ The narative reads as though we were right there watching the scene.
 	kai,**erchetai**,pros,auton,lepros,...,kai,**legei**,autō
 	and,**he is coming**,to,him,leper,...,and,**he is saying**,to him
 
-	*And a leper* **comes** *to him ... and* **says** *to him*
+*And a leper* **comes** *to him ... and* **says** *to him*
 
 Then Jesus moved with compassion responds to the leper.
 
@@ -624,6 +628,8 @@ Present tense imperative mood
 
 **Ask**, *and it will be given to you.* **Seek**, *and you will find*
 
+[This could be translated "Ask (and keep on asking) and it will be give to you.  Seek (and keep on seeking) and you will find.]
+
 Present tense - participle
 
 .. csv-table:: VTP-14 Present Participle 1 Jn 3:7
@@ -633,4 +639,6 @@ Present tense - participle
   the,**one who is doing**,the,righteousness,righteous,he is
 
 *The* **one who does** *righteousness is righteous*
+
+[This could be translated "The one who is does righteousness (and keeps on doing righteousness) is righteous.]
 
