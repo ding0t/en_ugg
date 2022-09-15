@@ -12,22 +12,9 @@ Summary
 
 .. include:: includes/hebrew/adverb-summary-hebrew.rst
 
-.. include:: includes/notes/adverbs-hebrew.rst
-
 Article
 -------
-Biblical Hebrew does not contain many words that are classified directly
-as adverbs. However, many different kinds of words can
-function as adverbs, including an
-:ref:`infinitive absolute<infinitive_absolute>`, an
-:ref:`adjective<adjective>`, or even a :ref:`noun<noun>`.
-Many :ref:`particles<particle>` are closely related to adverbs in Biblical Hebrew. A
-general rule is that when a particle occurs after the verb, it functions
-as an adverb; but when a particle appears before the verb, then it
-functions in some other way (usually as a conjunction or a discourse marker). But
-this rule is not universal; sometimes both adverbs and particles
-can appear before the verb rather than after the verb, as in the
-example below (GEN 32:11).
+In Koiné Greek, adverbs are often formed from the neuter singular adjective form.
 
 Describes a verb
 ----------------
@@ -38,7 +25,9 @@ adverb of time, or an adverb of manner; פֹּה can function as an adverb
 of time or an adverb of place, etc. 
 
 .. _adverb-locative:
+
 .. include:: includes/adverb-locative.rst
+
 .. csv-table:: Example: GEN 22:5
   "שְׁבוּ־לָכֶ֥ם **פֹּה֙** עִֽם־הַחֲמ֔וֹר וַאֲנִ֣י וְהַנַּ֔עַר נֵלְכָ֖ה
      עַד־כֹּ֑ה"
