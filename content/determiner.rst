@@ -5,9 +5,9 @@
 Determiner
 ==========
 
-Determiners are words that identify or point to the object of a noun by
-*pointing to*, *talking about*, *referring to*, or *quantifying* the
-noun.
+In Koiné Greek, determiners are words that describe either something in a sentence or something about a sentence.
+It can be helpful to think about determiners as a special class of adjective.
+For example, in this grammar the Greek definite article is classified as a determiner.
 
 .. csv-table:: Example: John 6:44
 
