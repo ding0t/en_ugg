@@ -14,10 +14,11 @@ Summary
 
 Article
 -------
-In Koiné Greek, adverbs are often formed from the neuter singular adjective form.
+In Koiné Greek, adverbs can be formed from any number of different kinds of word endings.
+However, any one particular adverb usually has only one single form that is always used.
 
-Describes a verb
-----------------
+Describes a verb, adjective, or other adverb
+--------------------------------------------
 There are several different ways that an adverb can describe a verb.
 Some adverbs in Koiné Greek have the potential to serve multiple
 functions. For example, כֹּה can function as an adverb of place, an
@@ -102,6 +103,17 @@ of time or an adverb of place, etc.
   **mar** tsoreah sham gibbor
   **bitterly** cries there hero.
   even brave soldiers will cry **loudly**.
+
+.. _adverb-comparative
+
+.. _adverb-superlative
+
+.. _adverb-adjectival
+
+Functions as an attributive adjective
+-------------------------------------
+
+
 
 .. _adverb-sentential:
 
