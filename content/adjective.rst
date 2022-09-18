@@ -10,12 +10,10 @@ Summary
 
 .. include:: includes/adjective-summary.rst
 
-.. include:: includes/hebrew/adjective-summary-hebrew.rst
-
 Article
 -------
 
-In Koiné Greek, adjectives generally match the noun they modify in :ref:`number<number>` and :ref:`gender<gender>`.
+In Koiné Greek, adjectives generally match the noun they describe in :ref:`number<number>` and :ref:`gender<gender>`.
 Attributive adjectives specifically match the noun they describe in case as well.
 Greek adjectives can take the form of all three genders: :ref:`masculine<gender_masculine>` , :ref:`feminine<gender_feminine>` , and  :ref:`neuter<gender_neuter>` . 
 Greek adjectives are listed in a lexicon according to the nominative singular masculine form.
@@ -25,50 +23,16 @@ See Master Table 1 and Master Table 2 :ref:`Master Tables<paradigms>` .
 (The set of suffixes used by each adjective is determined by its stem, 
 just as is true with nouns.   See `adjective_paradigms <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_ .
 
-**Adjectives will decline according to the stem of the adjective, NOT THE STEM OF THE NOUN THEY ARE MODIFYING.**  In other words, 
-the feminine dative singular for the adjective πάς will always be πάςῃ.  It will not change when modifying any other
-dative feminine noun.
+**Adjectives change form according to the stem of the adjective itself, NOT the stem of the noun it is describing.**
+For example, the feminine dative singular form of the adjective πάς is always πάςῃ.
+The form will not change when describing any other dative feminine noun.
 
 **Example:**  The final vowel (α) in the feminine declension for the adjective 
 πάς, πάσα, πάν ( *all, each, every *) changes to an (η) in the dative singular.  
  See `Table_A7 <https://ugg.readthedocs.io/en/latest/paradigms.html#id6>`_
 The first declension noun εὐλογία  does not undergo the same vowel change.
-As long as the adjective agrees with its noun in number, and gender, 
-the specific form of its endings makes no difference to translation.
-
-.. csv-table:: 
-  :header-rows: 1
-
-  Ephesians 1:3
-  ὁ,εὐλογήσας,ἡμᾶς,ἐν,**πάσῃ**,**εὐλογίᾳ**,**πνευματικῇ**
-  ho,eulogēsas,hēmas,en,**pasē**,**eulogia**,**pneumatikē**
-  who,has blessed,us,with,**every**,**blessing**,**spiritual**
-
-*who has blessed us with*  **every spiritual blessing**
-
-In this example the adjectives πάςῃ and πνευματικῇ are feminine singular and agree with the noun εὐλογιᾳ in gender and number.  
-They also agree in case because they are functioning as an attributive adjective (see below).
-
-Most first declension nouns are feminine (but some are masculine).   Most second declension
-nouns are masculine (but some are feminine or neuter).   Third declension nouns may be masculine, feminine, or neuter.  
-
-
-The entry in the lexicon will identify the gender of each noun.  However, if the definite article is present in the text,
-the definite article always agrees with the noun it is modifying in case, number and gender.  The definite article (if present)
-in the text may also serve as an indicator of the gender of the noun.  
-
-The adjective (like the article) will always take the form that represents the true gender of the noun.   In the example 
-below ποίμην may look like it is feminine because it ends with “ην”, but it is a third declension masculine noun.  An adjective 
-modifying ποίμην must therefore decline in the masculine form. In this example both ποιμήν and καλός are nominative masculine singular.
-
-.. csv-table::
-
-  John 10:11
-  ἐγώ,εἰμι,ὁ,**ποιμὴν**,ὁ,**καλός.**
-  Egō,eimi,ho,**poimēn**,ho,**kalos.**
-  I,I am,the,**shepherd**,the,**good**
-
-*I am the* **good shepherd.**
+As long as the adjective agrees with its noun in number and gender, 
+the specific form of its ending makes no difference to translation.
 
 Form
 ----
@@ -92,6 +56,44 @@ Paradigm
   feminine plural absolute,טוֹבוֹת,tovoth,good
   feminine plural construct,טוֹבוֹת,tovoth,good
   feminine plural determined,הַטּוֹבוֹת,hattovoth,the good
+
+.. csv-table:: 
+  :header-rows: 1
+
+
+  Ephesians 1:3
+  ὁ,εὐλογήσας,ἡμᾶς,ἐν,**πάσῃ**,**εὐλογίᾳ**,**πνευματικῇ**
+  ho,eulogēsas,hēmas,en,**pasē**,**eulogia**,**pneumatikē**
+  who,has blessed,us,with,**every**,**blessing**,**spiritual**
+
+*who has blessed us with*  **every spiritual blessing**
+
+In this example the adjectives πάςῃ and πνευματικῇ are feminine singular and agree with the noun εὐλογιᾳ in gender and number.  
+They also agree in case because they are functioning as an attributive adjective (see below).
+
+Most first declension nouns are feminine (but some are masculine).
+Most second declension nouns are masculine (but some are feminine or neuter).
+Third declension nouns may be masculine, feminine, or neuter.  
+
+The entry in the lexicon will identify the gender of each noun.
+However, if the definite article is present in the text, the definite article always agrees with the noun it is modifying in case, number and gender.
+The definite article (if present) in the text may also serve as an indicator of the gender of the noun.  
+
+The adjective (like the article) will always take the form that represents the true gender of the noun.
+In the example below ποίμην may look like it is feminine because it ends with “ην”, but it is a third declension masculine noun.
+An adjective modifying ποίμην must therefore decline in the masculine form. 
+In this example both ποιμήν and καλός are nominative masculine singular.
+
+.. csv-table::
+
+  John 10:11
+  ἐγώ,εἰμι,ὁ,**ποιμὴν**,ὁ,**καλός.**
+  Egō,eimi,ho,**poimēn**,ho,**kalos.**
+  I,I am,the,**shepherd**,the,**good**
+
+*I am the* **good shepherd.**
+
+
 
 Function
 --------
