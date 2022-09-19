@@ -44,28 +44,15 @@ Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
-  masculine singular absolute,טוֹב,tov,good
-  masculine singular construct,טוֹב,tov,good
-  masculine singular determined,הַטּוֹב,hattov,the good
-  feminine singular absolute,טוֹבָה,tovah,good
-  feminine singular construct,טוֹבַת,tovath,good
-  feminine singular determined,הַטּוֹבָה,hattovah,the good
-  masculine plural absolute,טוֹבִים,tovim,good
-  masculine plural contruct,טוֹבֵי,tove,good
-  masculine plural determined,הַטּוֹבִים,hattovim,the good
-  feminine plural absolute,טוֹבוֹת,tovoth,good
-  feminine plural construct,טוֹבוֹת,tovoth,good
-  feminine plural determined,הַטּוֹבוֹת,hattovoth,the good
+  
 
 .. csv-table:: 
   :header-rows: 1
-
 
   Ephesians 1:3
   ὁ,εὐλογήσας,ἡμᾶς,ἐν,**πάσῃ**,**εὐλογίᾳ**,**πνευματικῇ**
   ho,eulogēsas,hēmas,en,**pasē**,**eulogia**,**pneumatikē**
   who,has blessed,us,with,**every**,**blessing**,**spiritual**
-
 *who has blessed us with*  **every spiritual blessing**
 
 In this example the adjectives πάςῃ and πνευματικῇ are feminine singular and agree with the noun εὐλογιᾳ in gender and number.  
@@ -102,7 +89,6 @@ Describes a noun
 ~~~~~~~~~~~~~~~~
 .. _adjective-attributive:
 .. include:: includes/adjective-attributive.rst
-.. include:: includes/notes/adjective-number.rst
 
 .. csv-table:: Example: 1SA 18:17
 
