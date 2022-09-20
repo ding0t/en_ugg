@@ -17,8 +17,8 @@ In Koiné Greek, adjectives generally match the noun they describe in :ref:`numb
 Attributive adjectives specifically match the noun they describe in case as well.
 Greek adjectives can take the form of all three genders: :ref:`masculine<gender_masculine>` , :ref:`feminine<gender_feminine>` , and  :ref:`neuter<gender_neuter>` . 
 Greek adjectives are listed in a lexicon according to the nominative singular masculine form.
+Adjectives show these various forms by using the same kinds of endings as nouns.
 
-Adjectives will show these these various forms by using the same endings as nouns.
 See Master Table 1 and Master Table 2 :ref:`Master Tables<paradigms>` .
 (The set of suffixes used by each adjective is determined by its stem, 
 just as is true with nouns.   See `adjective_paradigms <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_ .
@@ -36,6 +36,320 @@ the specific form of its ending makes no difference to translation.
 
 Form
 ----
+
+Most adjectives in Koiné Greek use one the following set of suffix endings.
+However, there are more sets of suffix endings for adjectives than are listed here.
+See `adjective_paradigms <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_ for more.
+
+
+.. csv-table:: (ἀγαθός *good*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Singular*,,,
+  Nominative,ἀγαθός,ἀγαθή,ἀγαθόν
+  Vocative,ἀγαθέ,ἀγαθή,ἀγαθόν
+  Genitive,ἀγαθοῦ,ἀγαθῆς,ἀγαθοῦ
+  Dative,ἀγαθῷ,ἀγαθῇ,ἀγαθῷ
+  Accusative,ἀγαθόν,ἀγαθήν,ἀγαθόν
+  *Plural*,,,
+  Nominative_Vocative,ἀγαθοί,ἀγαθαί,ἀγαθά
+  Genitive,ἀγαθῶν,ἀγαθῶν,ἀγαθῶν
+  Dative,ἀγαθοῖς,ἀγαθαῖς,ἀγαθοῖς
+  Accusative,ἀγαθούς,ἀγαθάς,ἀγαθά
+
+
+.. csv-table:: (ἃγioς *holy*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Singular*,,,
+  Nominative,ἅγιος,ἁγία,ἅγιον
+  Genitive,ἁγίου,ἁγιάς,ἁγίου
+  Dative,ἁγίῳ,ἁγἰᾳ,ἁγίῳ
+  Accusative,ἃγιον,ἁγίαν,ἃγιον
+  Vocative,ἅγιε,ἁγία,ἅγιον
+  *Plural*,,,
+  Nominative,ἃγιοι,ἃγιαι,ἃγια
+  Genitive,ἁγίων,ἁγίων,ἁγίων
+  Dative,ἁγίοις,ἁγίαις,ἁγίοις
+  Accusative,ἁγίους,ἁγίας,ἃγια
+  Vocative,ἃγιοι,ἃγιαι,ἃγια
+
+
+
+  ,Masculine,Feminine,Neuter
+  *Singular*,,,
+  Nominative,ἂλλος,ἂλλη,ἂλλο
+  Genitive,ἂλλου,ἂλλης,ἂλλου
+  Dative,ἂλλῳ,ἂλλῃ,ἂλλῳ
+  Accusative,ἂλλον,ἂλλην,ἂλλο
+  *Plural*,,,
+  Nominative,ἄλλοι,ἄλλαι,ἂλλα
+  Genitive,ἂλλων,ἂλλων,ἂλλων
+  Dative,ἂλλοις,ἂλλαις,ἂλλοις
+  Accusative,ἂλλους,ἂλλας,ἂλλα
+
+2-1-2 contract adjectives 
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+**Note:** The circumflex accent should help the reader to recognize the contraction.
+
+.. csv-table:: a4 (2-1-2) (ἁπλοῦς  *single, sincere*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Singular*,,,
+  Nominative,ἁπλοῦς,ἁπλῆ,ἁπλοῦν
+  Genitive,ἁπλοῦ,ἁπλῆς,ἁπλοῦ
+  Dative,ἁπλῷ,ἁπλῇ,ἁπλῷ
+  Accusative,ἁπλοῦν,ἁπλῆν,ἁπλοῦν
+  *Plural*,,,
+  Nominative,ἁπλοῖ,ἁπλαῖ,ἁπλᾶ
+  Genitive,ἁπλῶν,ἁπλῶν,ἁπλῶν
+  Dative,ἁπλοῖς,ἁπλαῖς,ἁπλοῖς
+  Accusative,ἁπλοῦς,ἁπλᾶς,ἁπλᾶ
+  
+
+
+2-1-2 special paradigms
+^^^^^^^^^^^^^^^^^^^^^^^
+
+The stem for μέγας is **μεγαλ** and the stem for πολύς is **πολλ**.
+Note that in the nominative and accusative masculine and neuter in the singular, the stem drops a lambda.
+
+* Table a5 - *μέγας*
+* Table a6 - *πολύς*
+
+**Table a5** - *μέγας*
+
+.. csv-table:: a5 (2-1-2) (μέγας  *great*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Singular*,,,
+  Nominative,μέγας,μεγάλη,μέγα
+  Genitive,μεγάλου,μεγάλης,μεγάλου
+  Dative,μεγάλῳ, μεγάλῃ,μεγάλῳ
+  Accusative,μέγαν,μεγάλην,μέγα
+  *Plural*,,,
+  Nominative,μεγάλοι,μεγάλαι,μεγάλα
+  Genitive,μεγάλων,μεγάλων,μεγάλων
+  Dative,μεγάλοις,μεγάλαις,μεγάλοις
+  Accusative,μεγάλους,μεγάλας,μεγάλα
+
+
+**Table a6** -*πολῦς*
+
+.. csv-table:: a6 (2-1-2) (πολύς  *much, great*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Singular*,,,
+  Nominative,πολύς,πολλή,πολὐ
+  Genitive,πολλοῦ,πολλῆς,πολλοῦ
+  Dative,πολλῷ,πολλῇ,πολλῷ
+  Accusative,πολύν,πολλήν,πολύ
+  *Plural*,,,
+  Nominative,πολλοί,πολλαί,πολλά
+  Genitive,πολλῶν,πολλῶν,πολλῶν
+  Dative,πολλοῖς,πολλαῖς,πολλοῖς
+  Accusative,πολλούς,πολλάς,πολλά
+
+
+3-1-3 Adjectives
+^^^^^^^^^^^^^^^^
+
+The 3-1-3 adjectives (tables a7 and a8) are divided into two groups:
+
+* Table a7 is the paradigm for πᾶς  *(all, every)*.  
+* Table a8 is the paradigm for ταχύς  *(quick, speedy)*.
+
+The paradigm for the number one also follows a 3-1-3 pattern but is listed with the cardinals in table a12 below.
+
+
+**Table a7** - *πᾳς*
+πᾶς (3-1-3) adjective
+
+
+The root for πᾶς is **παντ**  This is a very important paradigm to know because it also serves as a model for  active and aorist passive participles.
+
+.. csv-table:: a7 (3-1-3) (πᾶς  *all, every*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Singular*,,,
+  Nominative,πᾶς,πᾶσα,πᾶν
+  Genitive,παντός,πάσης,παντός
+  Dative,παντί,πάσῃ,παντί
+  Accusative,πάντα,πᾶσαν,πᾶν
+  *Plural*,,,
+  Nominative,πάντες,πᾶσαι,πάντα
+  Genitive,πάντων,πασῶν,πάντων
+  Dative,πᾶσι(ν),πάσαις,πᾶσι(ν)
+  Accusative,πάντας,πάσας,πάντα
+
+
+**Table a8** - *ταχύς*
+
+.. csv-table:: a8 (3-1-3) (ταχύς  *quick, speedy*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Singular*,,,
+  Nominative,ταχύς,ταχεῖα,ταχῦ
+  Genitive,ταχέως,ταχείας,ταχέως
+  Dative,ταχεῖ,ταχείᾳ,ταχεῖ
+  Accusative,ταχύν,ταχεῖαν,ταχῦ
+  *Plural*,,,
+  Nominative,ταχεῖς,ταχεῖαι,ταχέα
+  Genitive,ταχέων,ταχειῶν,ταχέων
+  Dative,ταχέσι(ν),ταχείαις,ταχέσι(ν)
+  Accusative,ταχεῖς,ταχείας,ταχέα
+
+
+(2-2-2) άμαρτωλός
+^^^^^^^^^^^^^^^^^
+
+In this category there are eight adjectives that will sometimes follow the 2-2-2 pattern and sometimes their respective 2-1-2 pattern with a feminine ending of alpha or eta. 
+
+**Note that the masculine and feminine declensions are identical in the 2-2-2 pattern.**
+
+**Table a9** - *ἁμαρτωλός*
+
+.. csv-table:: a9 (2-2-2) (ἁμαρτωλός  *sinful*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Singular*,,,
+  Nominative,ἁμαρτωλός,ἁμαρτωλός,άμαρτωλόν
+  Vocative,ἁμαρτωλέ,ἁμαρτωλέ,ἁμαρτωλόν
+  Genitive,ἁμαρτωλοῦ,ἁμαρτωλοῦ,ἁμαρτωλοῦ
+  Dative,ἁμαρτωλῷ, ἁμαρτωλῷ, ἁμαρτωλῷ
+  Accusative,ἁμαρτωλόν, ἁμαρτωλόν, ἁμαρτωλόν
+  *Plural*,,,
+  Nominative_vocative,ἁμαρτωλοί,ἁμαρτωλοί,ἁμαρτωλά
+  Genitive,ἁματωλῶν,ἁμαρτωλῶν,ἁμαρτωλῶν
+  Dative,ἁμαρτωλοῖς, ἁμαρτωλοῖς, ἁμαρτωλοῖς
+  Accusative,ἁμαρτωλούς,ἁμαρτωλούς,ἁμαρτωλά
+
+(3-3-3) adjectives
+^^^^^^^^^^^^^^^^^^
+
+3-3-3 adjectives are divided into two groups. 
+
+* Table a10 is the paradigm for stems ending in **ες**. 
+* Table a11 is the paradigm for stems ending in **ον**
+
+
+**Note that the masculine and feminine conjugations are the same for 3-3-3 adjectives.**
+
+**Table a10** - *αληθής*
+
+.. csv-table:: a10 (3-3-3) (ἀληθής  *true*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Singular*,,,
+  Nominative,ἀληθής, ἀληθής, ἀληθές
+  Genitive,ἀληθοῦς,ἀληθοῦς,ἀληθοῦς
+  Dative,ἀληθεῖ,ἀληθεῖ,ἀληθεῖ
+  Accusative,ἀληθῆ,ἀληθῆ,ἀληθές
+  *Plural*,,,
+  Nominative,ἀληθεῖς,ἀληθεῖς,ἀληθῆ
+  Genitive,ἀληθῶν,ἀληθῶν,ἀληθῶν
+  Dative,ἀληθέσι(ν),ἀληθέσι(ν),ἀληθέσι(ν)
+  Accusative,ἀληθεῖς,ἀληθεῖς,ἀληθῆ
+
+**Table a11** - *μείζων*
+
+.. csv-table:: a11 (3-3-3) (μείζων  *greater*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Singular*,,,
+  Nominative,μείζων,μείζων,μεῖζον
+  Genitive,μείζονος,μείζονος,μείζονος
+  Dative,μείζονι,μείζονι,μείζονι
+  Accusative,μείζονα (μείζω),μείζονα (μείζω),μεῖζον
+  *Plural*,,,
+  Nominative,μείζονες (μείζους),μείζονες (μείζους),μείζονα (μείζω)
+  Genitive,μειζόνων,μειζόνων,μειζόνων
+  Dative,μείζοσι(ν),μείζοσι(ν),μείζοσι(ν)
+  Accusative,μείζονας (μείζους),μείζονας (μείζους),μείζονα (μείζω)
+  
+
+*μείζω is an alternative form for μείζονα in the masculine and feminine accusative singular,*
+*and in the nominative and accusative neuter plural.*
+
+*μείζους is an alternative form for μείζονες in the masculine and feminine nominative plural,*
+*and for μείζονας in the masculine and feminine accustive plural.
+
+  
+  
+Cardinals (numerals)
+^^^^^^^^^^^^^^^^^^^^
+
+The following four tables are for the declension of the cardinal numbers one through four.
+One follows a 3-1-3 pattern but only occurs in the singular.   The numbers two through four only occur in the plural.  Two is the same in the nominative, genetive, and accusative cases.
+
+* Table a12 - εἷς      (one)
+* Table a13 - δὑο      (two)
+* Table a14 - τρεῖς    (three)
+* Table a15 - τέσσαρες (four)
+
+
+
+**Table a12** - *εἷς* 
+
+.. csv-table:: a12 (3-1-3) (εἷς  *one*)
+  :header-rows: 1 
+
+  ,Masculine,Feminine,Neuter
+  *Singular*,,,
+  Nominative,εἷς,μία,ἕν
+  Genitive,ἑνός,μιᾶς,ἑνός
+  Dative,ἑνί,μιᾷ,ἑνί
+  Accusative,ἑνά,μίαν,ἕν
+  
+**Table a13** - *δύο*  
+
+.. csv-table:: a13  (δύο  *two*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Plural*,,,
+  Nominative,δύο,δύο,δύο
+  Genitive,δύο,δύο,δύο
+  Dative,δυσί,δυσί,δυσί
+  Accusative,δύο,δύο,δύο
+  
+**Table a14** - *τρεῖς*  
+ Note that the masculine and feminine declension is identical. 
+ 
+ .. csv-table:: a14 (3-3-3) (τρεῖς  *three*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Plural*,,,
+  Nominative,τρεῖς,τρεῖς,τρία
+  Genitive,τριῶν,τριῶν,τριῶν
+  Dative,τρισί(ν),τρισί(ν),τρισί(ν)
+  Accusative,τρεῖς,τρεῖς,τρία
+  
+**Table a15** - *τέσσαρες*
+
+.. csv-table:: a15 (3-3-3) (τέσσαρες  *four*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Plural*,,,
+  Nominative,τέσσαρες,τέσσαρες,τέσσαρα
+  Genitive,τεσσάρων,τεσσάρων,τεσσάρων
+  Dative,τέσσαρσι(ν),τέσσαρσι(ν),τέσσαρσι(ν)
+  Accusative,τέσσαρας (τέσσαρες),τέσσαρας (τέσσαρες),τέσσαρα
+
 
 Paradigm
 ~~~~~~~~
