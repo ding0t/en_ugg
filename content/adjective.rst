@@ -71,7 +71,8 @@ Paradigm
   Accusative,ἁγίους,ἁγίας,ἃγια
   Vocative,ἃγιοι,ἃγιαι,ἃγια
 
-
+  .. csv-table:: (ἂλλος *other, another*)
+  :header-rows: 1
 
   ,Masculine,Feminine,Neuter
   *Singular*,,,
@@ -146,173 +147,6 @@ Describes a noun
 .. _adjective-attributive:
 .. include:: includes/adjective-attributive.rst
 
-.. csv-table:: Example: 1SA 18:17
-
-  בִתִּ֨י הַגְּדוֹלָ֤ה
-  vitti **haggedolah**
-  my-daughter **the-old**
-  my **older** daughter
-
-.. csv-table:: Example: JOS 10:2
-
-  כִּ֣י עִ֤יר **גְּדוֹלָה֙** גִּבְע֔וֹן
-  
-  for city **great** Gibeon
-  because Gibeon was a **large** city
-
-.. _adjective-predicative:
-.. include:: includes/adjective-predicative.rst
-.. include:: includes/notes/adjective-congruence.rst
-
-.. csv-table:: Example: 2SA 14:20
-
-  וַאדֹנִ֣י חָכָ֗ם
-  wadoni **hakham**
-  And-my-lord **wise**
-  My master is **wise**
-
-.. csv-table:: Example: 2KI 20:19
-
-  טֹ֥וב דְּבַר־יְהוָ֖ה אֲשֶׁ֣ר דִּבַּ֑רְתָּ
-  **towv** devar-yehwah 'asher dibbarta
-  **Good** word-of\_Yahweh that you-spoke.
-  The word of Yahweh that you have spoken is **good**.
-
-.. _adjective-nominal:
-.. include:: includes/adjective-nominal.rst
-
-.. csv-table:: Example: PSA 3:2
-
-  רַ֝בִּ֗ים קָמִ֥ים עָלָֽי
-  **rabbim** qamim 'alay
-  **many** are-rising-up against-me
-  **many people** are rising up against me
-
-.. csv-table:: Example: ISA 30:12
-
-  לָכֵ֗ן כֹּ֤ה אָמַר֙ **קְד֣וֹשׁ** יִשְׂרָאֵ֔ל
-  
-  Therefore thus he-says **holy-of** Israel
-  "Therefore the **Holy One** of Israel says,"
-
-.. _adjective-adverbial:
-.. include:: includes/adjective-adverbial.rst
-
-.. csv-table:: Example: JOS 21:10
-
-  כִּ֥י לָהֶ֛ם הָיָ֥ה הַגּוֹרָ֖ל רִיאשֹׁנָֽה
-  
-  for to-them it-was the-lot **first**
-  For the **first** casting of lots had fallen to them.
-
-Other uses of adjectives
-~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. _adjective-comparative:
-.. include:: includes/adjective-comparative.rst
-.. include:: includes/hebrew/adjective-comparative-hebrew.rst
-
-.. csv-table:: Example: JDG 14:18
-
-  מַה־\ **מָּת֣וֹק** מִדְּבַ֔שׁ וּמֶ֥ה **עַ֖ז** מֵאֲרִ֑י
-  mah-\ **mmathoq** middevash umeh **'az** me'ari
-  What\_\ **sweet** than-honey and-what **strong** from-lion
-  "What is **sweeter** than honey, and what is **stronger** than a lion"
-
-.. csv-table:: Example: GEN 3:1
-
-  וְהַנָּחָשׁ֙ הָיָ֣ה **עָר֔וּם מִכֹּל֙** חַיַּ֣ת הַשָּׂדֶ֔ה
-  wehannahash hayah **'arum mikkol** hayyath hassadeh
-  And-the-serpent was **shrewd from-all** beings-of the-field
-  Now the serpent was **more shrewd than any other** beast of the field
-
-.. _adjective-intensive:
-.. include:: includes/adjective-intensive.rst
-.. include:: includes/hebrew/adjective-intensive-hebrew.rst
-
-.. csv-table:: Example: GEN 1:31
-
-  וְהִנֵּה־ט֖וֹב מְאֹ֑ד
-  wehinneh-\ **tov me'od**
-  And-behold\_\ **good very**
-  "Behold, it was **very good**"
-
-.. csv-table:: Example: JON 3:3
-
-  עִיר־גְּדוֹלָה֙ לֵֽאלֹהִ֔ים
-  'ir-**gedolah lelohim**
-  city\_\ **great to-God**
-  a **very large** city
-
-.. _adjective-superlative:
-.. include:: includes/adjective-superlative.rst
-.. include:: includes/hebrew/adjective-superlative-hebrew.rst
-
-.. csv-table:: Example: 1SA 16:11 –– adjective with the :ref:`definite article<particle_definite_article>`
-
-  עֹ֚וד שָׁאַ֣ר הַקָּטָ֔ן
-  'owd sha'ar **haqqatan**
-  Still remains **the-young**
-  There remains yet **the youngest**
-
-.. csv-table:: Example: MIC 7:4 –– adjective with a :ref:`pronominal suffix<suffix_pronominal>`
-
-  טוֹבָ֣ם כְּחֵ֔דֶק
-  **tovam** kehedeq
-  **good-their** like-brier
-  **the best of them** is like a brier
-
-.. csv-table:: Example: SNG 1:8 –– adjective with a :ref:`prepositional<preposition>` phrase
-
-  הַיָּפָ֖ה בַּנָּשִׁ֑ים
-  **hayyafah** bannashim
-  **the-fair** among-women
-  **the fairest** among women
-
-
-
-
-
-.. csv-table:: 
-
-  John 10:11
-  ἐγώ,εἰμι,ὁ,ποιμὴν,ὁ,**καλός**
-  egō,eimi,ho,poimēn,ho,**kalos**
-  I, I am,the,shepherd,the,**good**
-  
-*I am the*  **good**  *shepherd*...
-
-
-Article
--------
-
-Overview
-~~~~~~~~
-
-Adjectives describe (or modify) a noun or a pronoun.  Adjectives function (or are used) in four distinct ways; 
-
-  #.	Attributive – giving information about the noun. It tells of an attribute or a quality of the word it modifies.
-  #.	Substantive – taking the place of a noun (or pronoun), acts like a noun
-  #.	Predicate Nominative – asserting something about the subject of the sentence
-  #.	Adverbial – used to modify (or give information) about a verb
-
-Often the final determination as to how an adjective is being used (or its function in the sentence) must be based on context
-after taking into account the form of the adjective.
-
-Adjectives may also be used as a `comparative <https://ugg.readthedocs.io/en/latest/adjective.html#comparisons>`_ .
-
-
-Form
-~~~~
-
-
-
-Function
-~~~~~~~~
-
-Attributive function
-^^^^^^^^^^^^^^^^^^^^
-
 This is the most common use of an adjective.  Both :ref:`restrictive adjectives<adjective_restrictive>` and 
 :ref:`ascriptive adjectives<adjective_ascriptive>` may have an *attributive* function.   
 
@@ -369,39 +203,9 @@ The pattern for attributive adjectives without an article is generally:   **noun
 Note:  if there is NO article, the adjective could be functioning as a predicate nominative.
 See  *Predicate Function* below.
 
-
-Substantive Function
-^^^^^^^^^^^^^^^^^^^^
-
-Adjectives functioning as a Substantive are parsed as a **Noun Substantive** in the 
-`Unfolding_Word_Greek_New_Testament <https://klappy.github.io/translation-helps/?owner=door43-catalog&rc=/en/ult/>`_
-
-Sometimes, an adjective is used, but there is no noun nearby that it agrees
-with in case, number,and gender.  There is therefore no noun that
-it could be modifying.  When this occurs the adjective is functioning as a noun. 
-In this case, the reader understands that the writer is referring to some unnamed person or
-object in the sentence.  The unnamed person or object is simply identified by the adjective. 
-An adjective functioning in this way is called a **substantive** (because the substance of a noun is implied by the
-adjective). A substantive adjective will **usually** have an article immediately preceding the adjective.
-
-If an adjective is functioning as a **substantive** , its **case** will be
-determined by its function within the clause.
-Its **number** and **gender** will be determined by the person or thing it represents.
-
-.. csv-table::
-  :header-rows: 1
-
-  Romans 1:17
-  καθὼς,γέγραπται,ὁ,δὲ,**δίκαιος**,,ἐκ,πίστεως,ζήσεται 
-  kathōs,gegraptai,ho,de,**dikaios**,,ek,pisteōs,zēsetai
-  as,it has been written,the,but,**righteous**,[man/person],from,faith,he will live
-
-*as it has been written, "But, the* **righteous** will live by faith."
-
-
-
-Predicate Function
-^^^^^^^^^^^^^^^^^^^^
+.. _adjective-predicative:
+.. include:: includes/adjective-predicative.rst
+.. include:: includes/notes/adjective-congruence.rst
 
 Adjectives functioning as a Predicate are parsed as a **Noun Predicate** in the 
 `Unfolding_Word_Greek_New_Testament <https://klappy.github.io/translation-helps/?owner=door43-catalog&rc=/en/ult/>`_
@@ -452,8 +256,36 @@ Predicate adjectives occur in three basic patterns.
 
 **Blessed** *is the man who endures testing.*
 
-Adverbial Function
-^^^^^^^^^^^^^^^^^^
+.. _adjective-nominal:
+.. include:: includes/adjective-nominal.rst
+
+Adjectives functioning as a Substantive are parsed as a **Noun Substantive** in the 
+`Unfolding_Word_Greek_New_Testament <https://klappy.github.io/translation-helps/?owner=door43-catalog&rc=/en/ult/>`_
+
+Sometimes, an adjective is used, but there is no noun nearby that it agrees
+with in case, number,and gender.  There is therefore no noun that
+it could be modifying.  When this occurs the adjective is functioning as a noun. 
+In this case, the reader understands that the writer is referring to some unnamed person or
+object in the sentence.  The unnamed person or object is simply identified by the adjective. 
+An adjective functioning in this way is called a **substantive** (because the substance of a noun is implied by the
+adjective). A substantive adjective will **usually** have an article immediately preceding the adjective.
+
+If an adjective is functioning as a **substantive** , its **case** will be
+determined by its function within the clause.
+Its **number** and **gender** will be determined by the person or thing it represents.
+
+.. csv-table::
+  :header-rows: 1
+
+  Romans 1:17
+  καθὼς,γέγραπται,ὁ,δὲ,**δίκαιος**,,ἐκ,πίστεως,ζήσεται 
+  kathōs,gegraptai,ho,de,**dikaios**,,ek,pisteōs,zēsetai
+  as,it has been written,the,but,**righteous**,[man/person],from,faith,he will live
+
+*as it has been written, "But, the* **righteous** will live by faith."
+
+.. _adjective-adverbial:
+.. include:: includes/adjective-adverbial.rst
 
 Some adjectives can be used as an adverb.  In this case the adjective will usually be in the neuter gender and accusative (or dative) case.
 The most common adjectives used as an adverb are:  βραχύ (short), ἲδιον (one's own), μίκρον (small), ὀλίγον (little),
@@ -468,16 +300,11 @@ The most common adjectives used as an adverb are:  βραχύ (short), ἲδιο
 
 *But seek* **first** *his kingdom*
 
+Other uses of adjectives
+~~~~~~~~~~~~~~~~~~~~~~~~
 
-Comparisons
-^^^^^^^^^^^
-
-Adjectives may be used to make a comparison between two nouns. 
-  •	The *positive degree* of an adjective makes a simple assertion about the kind or quality of an object.
-  •	The *comparative degree* asserts that the person or thing described by it has this quality in a higher degree than some other person or thing.
-  •	The *superlative degree* asserts that the person or thing described by it has the highest degree or more of the stated quality than all the others in a group.
-
-**Comparative degree form**
+.. _adjective-comparative:
+.. include:: includes/adjective-comparative.rst
 
 When an adjective is used to compare its noun to another noun, it is functioning
 as a **comparative** adjective. Comparatives are formed by adding -τερος
@@ -496,11 +323,34 @@ as a **comparative** adjective. Comparatives are formed by adding -τερος
   οὐκ,ἔστιν,δοῦλος,**μείζων**,τοῦ,κυρίου,αὐτοῦ
   ouk,estin,doulos,**meizōn**,tou,kyriou,autou
   not, he is,a slave,**greater**,than,master,his
+*a servant is not* **greater** *than his master*   
 
-*a servant is not* **greater** *than his master*    
+.. _adjective-intensive:
+.. include:: includes/adjective-intensive.rst
 
-**Superlative degree form**
+Both comparative and superlative adjectives may be used with an *elative* sense.  
+When an adjective is used as an *elative* the quality expressed by the adjective is intensified, but no comparison is intended.
 
+.. csv-table::
+
+  Mark 4:1
+  καὶ,συνάγεται,πρὸς,αὐτὸν,ὄχλος,**πλεῖστος**
+  kai,synagetai,pros,auton,ochlos,**pleistos**
+  and,it is gathered,to,him,crowd,**very large**
+
+*and a* **large** *crowd gathered around him*
+
+
+.. csv-table::
+
+  Luke 1:3
+  **κράτιστε**,Θεόφιλε
+  **kratiste**,Theophile  
+  **most excellent**,Theophilus
+**most excellent** *Theophilus*
+
+.. _adjective-superlative:
+.. include:: includes/adjective-superlative.rst
 
 An adjective that compares a noun to two or more other nouns is a **superlative**
 adjective. The suffixes that show the superlative form are:
@@ -523,31 +373,17 @@ Caution:
 
 
 
-Elative
-^^^^^^^
-
-Both comparative and superlative adjectives may be used with an *elative* sense.  
-When an adjective is used as an *elative* the quality expressed by the adjective is intensified, but no comparison is intended.
-
-.. csv-table::
-
-  Mark 4:1
-  καὶ,συνάγεται,πρὸς,αὐτὸν,ὄχλος,**πλεῖστος**
-  kai,synagetai,pros,auton,ochlos,**pleistos**
-  and,it is gathered,to,him,crowd,**very large**
-
-*and a* **large** *crowd gathered around him*
 
 
-.. csv-table::
+.. csv-table:: 
 
-  Luke 1:3
-  **κράτιστε**,Θεόφιλε
-  **kratiste**,Theophile  
-  **most excellent**,Theophilus
+  John 10:11
+  ἐγώ,εἰμι,ὁ,ποιμὴν,ὁ,**καλός**
+  egō,eimi,ho,poimēn,ho,**kalos**
+  I, I am,the,shepherd,the,**good**
+  
+*I am the*  **good**  *shepherd*...
 
-
-**most excellent** *Theophilus*
 
 
 
