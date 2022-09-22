@@ -1,6 +1,6 @@
 [submodule "content/en_uag"]
 	path = content/en_uag
-	url = https://git.door43.org/unfoldingWord/en_uag.gi
+	url = https://git.door43.org/unfoldingWord/en_uag.git
 	branch = master
 [submodule "content/en_uhg"]
 	path = content/en_uhg
