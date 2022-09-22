@@ -19,11 +19,7 @@ However, any one particular adverb usually has only one single form that is alwa
 
 Describes a verb, adjective, or other adverb
 --------------------------------------------
-There are several different ways that an adverb can describe a verb.
-Some adverbs in Koiné Greek have the potential to serve multiple
-functions. For example, כֹּה can function as an adverb of place, an
-adverb of time, or an adverb of manner; פֹּה can function as an adverb
-of time or an adverb of place, etc. 
+There are several different ways that an adverb can describe a verb. 
 
 .. _adverb-locative:
 
@@ -105,14 +101,13 @@ of time or an adverb of place, etc.
   even brave soldiers will cry **loudly**.
 
 .. _adverb-comparative
+A ``comparative adverb`` expresses a comparison between two or more actions. [make an include]
 
 .. _adverb-superlative
+A ``superlative adverb`` has a meaning strengthened to its greatest degree. [make an include]
 
 .. _adverb-adjectival
-
-Functions as an attributive adjective
--------------------------------------
-
+An ``adjectival adverb`` is an adverb that functions as an adjective, meaning that it describes a noun instead of a verb. [make an include]
 
 
 .. _adverb-sentential:
@@ -138,14 +133,6 @@ Describes an entire clause or sentence
   **raq** 'im-shamoa' tishma' beqol yehwah 'eloheykha
   **only** if\_listening you-will-listen to-voice-of Yahweh your-God
   if **only** you diligently listen to the voice of Yahweh your God
-
-.. _adverb-nominal:
-.. include:: includes/adverb-nominal.rst
-.. csv-table:: Example: ISA 65:16
-  יִשָּׁבַ֖ע בֵּאלֹהֵ֣י אָמֵ֑ן
-  he-will-swear by-God-of **Amen**
-  "Whoever ... will swear by me, the God of **truth**"
-
 
 
 
