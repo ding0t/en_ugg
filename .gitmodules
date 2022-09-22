@@ -1,0 +1,8 @@
+[submodule "content/en_uag"]
+	path = content/en_uag
+	url = git@git.door43.org:unfoldingWord/en_uag.git
+	branch = master
+[submodule "content/en_uhg"]
+	path = content/en_uhg
+	url = git@git.door43.org:unfoldingWord/en_uhg.git
+	branch = master
