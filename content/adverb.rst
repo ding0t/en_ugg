@@ -101,12 +101,15 @@ There are several different ways that an adverb can describe a verb.
   even brave soldiers will cry **loudly**.
 
 .. _adverb-comparative
+
 A ``comparative adverb`` expresses a comparison between two or more actions. [make an include]
 
 .. _adverb-superlative
+
 A ``superlative adverb`` has a meaning strengthened to its greatest degree. [make an include]
 
 .. _adverb-adjectival
+
 An ``adjectival adverb`` is an adverb that functions as an adjective, meaning that it describes a noun instead of a verb. [make an include]
 
 
