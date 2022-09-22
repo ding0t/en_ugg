@@ -18,9 +18,8 @@ in the past. The action is described as a whole (e.g., he wrote).
 Example:  Table VTA-1  General example of Aorist tense
 
 .. csv-table:: VTA-1  Example Aorist tense
-  :header-rows:: 1
-
-  
+  :header-rows::  1
+ 
   John 1:3
   πάντα,δι’,αὐτοῦ,**ἐγένετο**
   panta,di’,autou,**egeneto**
