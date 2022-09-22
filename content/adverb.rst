@@ -102,7 +102,7 @@ There are several different ways that an adverb can describe a verb.
 
 .. _adverb-comparative
 
-A ``comparative adverb`` expresses a comparison between two or more actions. [make an include]
+A ``comparative adverb`` expresses a comparison between two or more actions.
 
 .. _adverb-superlative
 
