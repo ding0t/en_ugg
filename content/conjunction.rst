@@ -20,11 +20,9 @@ Rather, they should be considered as a single grammatical entity with its own ra
 .. include:: includes/conjunction-categories.rst
 .. include:: includes/hebrew/conjunction-categories-hebrew.rst
 
-
-
 Form
 ~~~~
-Conjunctions in Koiné Greek can appear as stand-alone words or combined with other words to form a compound term.
+Conjunctions in Koiné Greek can appear as stand-alone words or be combined with other words to form a compound term.
 
 
 
