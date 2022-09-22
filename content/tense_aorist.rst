@@ -38,6 +38,70 @@ Overview
 
 The :ref:`Tense<tense>` of a verb is used to indicate the speaker’s perspective or viewpoint of:
 
+  1.  Aspect - the kind of action of the verb. The kind of action may be unspecified ( also known as simple or simply completed), continuous (also described as imperfective), or completed with an ongoing effect.
+
+    *  Aorist tense- In the aorist tense, aspect is used to express an unspecified kind of action (merely that it has occurred or occurs), without reference to its duration or completeness. It therefore may be used to refer to action that occurred in:
+
+      *	 a moment (punctiliar action), or
+	  *	 action that occurred over a period of time (continuous), or
+	  *	 repeated action.
+
+  2.  Time - the time of action 
+
+
+•	Aorist  tense:
+
+•	The principle use of the Aorist tense in the indicative mood and with participles is to refer to unspecified action (aspect) that occurred in the past. 
+
+•	Time - The use of the Aorist tense in the indicative mood and with participles generally refers to an event or events that have occurred in the past.   However, it can be used to describe an event:
+•	that is occurring in the present, or has just been completed.  This would also include what is sometimes referred to as an epistolary aorist - where the writer describes his letter as already having been completed and delivered,  or
+•	 an event that will occur in the future, or
+•	What is called a Gnomic aorist which is used to present a timeless general fact that occurs regularly and so can be assumed to have occurred.
+
+Form:
+The basic form for a verb in the indicative Aorist tense is given in Tables 4 (Primary and Secondary Endings of Verbs) and 7 (Master Verb Tense Chart - The Aorist Tenses) of the 
+Master paradigm.
+
+See also:
+Table V-IT-3 Indicative Verbs built on the Aorist Active Stem
+Table V-IT-5α Indicative Verbs built on the Aorist Active Stem
+Table V-IT-5b Aorist Passive (and Future Passive Verbs built on the Aorist Passive Tense stem)
+Table V-AT-D1 δίδωμι (Active Indicative)
+Table V-AT-D1a δίδομι Middle/passive indicative
+Table V-AT-D2 ἵστημι (Active Indicative)
+Table V-AT-D2a ἵστημι middle/passive indicative
+Table V-AT-D3 τίθημι (Active Indicative)
+Table V-AT-D3a τίθημι middle/passive indicative
+
+The Paradigms also contain forms of verbs in the aorist tense for the subjunctive mood, imperative mood, participles, and infinitives.    See Paradigms – Verbs Subjunctive, verbs Imperative, Verbs Infinitives, and Participles
+
+In this section we will describe the formation of Verbs with a theme vowel in:
+•	The 1st and 2nd Aorist Active Indicative
+•	1st and 2nd Aorist Middle Indicative, and
+•	1st and 2nd Aorist Passive indicative
+
+The Koine Greek language has two ways of forming the Aorist Tense. 
+•	1st Aorist, and
+•	2nd Aorist
+
+There is no difference in meaning between a 1st Aorist verb and a 2nd Aorist Verb.   They are both aorist verbs.   If it helps, you may think of it as a room (the Aorist room) and the Aorist room has two doors.  It does not matter which door you use to enter the room.  In both cases the word is now in the Aorist room.
+
+A 1st Aorist verb uses the same verbal stem that is used in the present tense.
+
+A 2nd Aorist verb is first formed by making a change to the present tense stem for the verb.  The change in the stem let’s the reader know that it is a 2nd Aorist verb.
+
+
+
+Form – First Aorist Active Indicative for Thematic Verbs
+
+	Built on the verb  λύω (I loose) and κρίνω (I judge)
+
+
+Overview
+~~~~~~~~
+
+The :ref:`Tense<tense>` of a verb is used to indicate the speaker’s perspective or viewpoint of:
+
   1.  *Aspect* - the kind of action of the verb. The kind of action may be unspecified ( also known as simple or simply completed),
   continuous (also described as imperfective), or completed with an ongoing effect.
     
