@@ -17,7 +17,7 @@ in the past. The action is described as a whole (e.g., he wrote).
 
 Example:  Table VTA-1  General example of Aorist tense
 
-.. csvtable:: VTA-1  Example Aorist tense
+.. csv-table:: VTA-1  Example Aorist tense
   :header-rows:: 1
 
   
