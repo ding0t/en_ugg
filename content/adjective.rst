@@ -16,13 +16,12 @@ Article
 
 In Koiné Greek, adjectives generally match the noun they describe in :ref:`number<number>` and :ref:`gender<gender>`.
 Attributive adjectives specifically match the noun they describe in case as well.
-Greek adjectives can take the form of all three genders: :ref:`masculine<gender_masculine>` , :ref:`feminine<gender_feminine>` , and  :ref:`neuter<gender_neuter>` . 
-Greek adjectives are listed in a lexicon according to the nominative singular masculine form.
+Greek adjectives can take the form of all three genders: :ref:`masculine<gender_masculine>`, :ref:`feminine<gender_feminine>`, and  :ref:`neuter<gender_neuter>`. 
 Adjectives show these various forms by using the same kinds of suffix endings as nouns.
+Greek adjectives are listed in a lexicon according to the nominative singular masculine form.
 
-See Master Table 1 and Master Table 2 :ref:`Master Tables<paradigms>` .
-(The set of suffixes used by each adjective is determined by its stem, 
-just as is true with nouns.   See `adjective_paradigms <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_ .
+
+See `adjective_paradigms <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_ .
 
 **Adjectives change form according to the stem of the adjective itself, NOT the stem of the noun it is describing.**
 For example, the feminine dative singular form of the adjective πάς is always πάςῃ.
@@ -34,6 +33,7 @@ Form
 Most adjectives in Koiné Greek use one of the following sets of suffix endings.
 However, there are more sets of suffix endings for adjectives than are listed here.
 See `adjective_paradigms <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_ for more.
+See especially Master Table 1 and Master Table 2 :ref:`Master Tables<paradigms>`. 
 
 Paradigm
 ~~~~~~~~
@@ -87,9 +87,6 @@ Paradigm
   Dative,ἂλλοις,ἂλλαις,ἂλλοις
   Accusative,ἂλλους,ἂλλας,ἂλλα
 
-
-
-The root for πᾶς is **παντ**  This is a very important paradigm to know because it also serves as a model for  active and aorist passive participles.
 
 .. csv-table:: (πᾶς  *all, every*)
   :header-rows: 1
