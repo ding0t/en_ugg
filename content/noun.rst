@@ -5,6 +5,25 @@
 Noun
 ====
 
+Summary
+-------
+
+.. include:: includes/noun_summary.txt
+
+Article
+-------
+
+In Koiné Greek, all nouns contain case, gender, and number.
+By case, a noun can be nominative, genitive, dative, accusative, or vocative. 
+By number, a noun can be :ref:`singular<number_singular>` or :ref:`plural<number_plural>`.
+By gender, a noun can be :ref:`masculine<gender_masculine>`, :ref:`feminine<gender_feminine>`, or neuter.
+Nouns are listed in a Greek dictionary by their nominative masculine singular form.
+
+.. note:: Sometimes the actual classification of a noun does not match its form. For example, a noun can appear dual when it is actually plural; a noun can appear masculine when it is actually feminine; and so on.
+
+Noun
+====
+
 Glossary
 --------
 

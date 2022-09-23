@@ -5,65 +5,109 @@
 Adjective
 =========
 
-Glossary
---------
+Summary
+-------
 
-An adjective is a part of speech which describes a noun or pronoun (or a word functioning as a noun or pronoun).
-
-.. csv-table:: 
-
-  John 10:11
-  ἐγώ,εἰμι,ὁ,ποιμὴν,ὁ,**καλός**
-  egō,eimi,ho,poimēn,ho,**kalos**
-  I, I am,the,shepherd,the,**good**
-  
-*I am the*  **good**  *shepherd*...
-
+.. include:: includes/adjective-summary.rst
 
 Article
 -------
 
-Overview
-~~~~~~~~
+In Koiné Greek, adjectives generally match the noun they describe in :ref:`number<number>` and :ref:`gender<gender>`.
+Attributive adjectives specifically match the noun they describe in case as well.
+Greek adjectives can take the form of all three genders: :ref:`masculine<gender_masculine>` , :ref:`feminine<gender_feminine>` , and  :ref:`neuter<gender_neuter>` . 
+Greek adjectives are listed in a lexicon according to the nominative singular masculine form.
+Adjectives show these various forms by using the same kinds of suffix endings as nouns.
 
-Adjectives describe (or modify) a noun or a pronoun.  Adjectives function (or are used) in four distinct ways; 
-
-  #.	Attributive – giving information about the noun. It tells of an attribute or a quality of the word it modifies.
-  #.	Substantive – taking the place of a noun (or pronoun), acts like a noun
-  #.	Predicate Nominative – asserting something about the subject of the sentence
-  #.	Adverbial – used to modify (or give information) about a verb
-
-Often the final determination as to how an adjective is being used (or its function in the sentence) must be based on context
-after taking into account the form of the adjective.
-
-Adjectives may also be used as a `comparative <https://ugg.readthedocs.io/en/latest/adjective.html#comparisons>`_ .
-
-
-Form
-~~~~
-
-Greek adjectives must match the noun they modify in, :ref:`number<number>` , and :ref:`gender<gender>` .
-Because of this, they can take the form of all three genders:  
-:ref:`masculine<gender_masculine>` , :ref:`feminine<gender_feminine>` , and  :ref:`neuter<gender_neuter>` . 
-If the adjective is functioning as an attributive, it will also agree with the noun it modifies in :ref:`case<case>` .
-An adjective is listed in a lexicon in its nominative, singular, masculine form.
-
-Adjectives will show these these various forms by using the same endings as nouns.
 See Master Table 1 and Master Table 2 :ref:`Master Tables<paradigms>` .
 (The set of suffixes used by each adjective is determined by its stem, 
 just as is true with nouns.   See `adjective_paradigms <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_ .
 
+**Adjectives change form according to the stem of the adjective itself, NOT the stem of the noun it is describing.**
+For example, the feminine dative singular form of the adjective πάς is always πάςῃ.
+The form will not change when describing any other dative feminine noun.
 
-**Adjectives will decline according to the stem of the adjective, NOT THE STEM OF THE NOUN THEY ARE MODIFYING.**  In other words, 
-the feminine dative singular for the adjective πάς will always be πάςῃ.  It will not change when modifying any other
-dative feminine noun.
+Form
+----
 
-**Example:**  The final vowel (α) in the feminine declension for the adjective 
-πάς, πάσα, πάν ( *all, each, every *) changes to an (η) in the dative singular.  
- See `Table_A7 <https://ugg.readthedocs.io/en/latest/paradigms.html#id6>`_
-The first declension noun εὐλογία  does not undergo the same vowel change.
-As long as the adjective agrees with its noun in number, and gender, 
-the specific form of its endings makes no difference to translation.
+Most adjectives in Koiné Greek use one of the following sets of suffix endings.
+However, there are more sets of suffix endings for adjectives than are listed here.
+See `adjective_paradigms <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_ for more.
+
+Paradigm
+~~~~~~~~
+
+.. csv-table:: (ἀγαθός *good*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Singular*,,,
+  Nominative,ἀγαθός,ἀγαθή,ἀγαθόν
+  Vocative,ἀγαθέ,ἀγαθή,ἀγαθόν
+  Genitive,ἀγαθοῦ,ἀγαθῆς,ἀγαθοῦ
+  Dative,ἀγαθῷ,ἀγαθῇ,ἀγαθῷ
+  Accusative,ἀγαθόν,ἀγαθήν,ἀγαθόν
+  *Plural*,,,
+  Nominative_Vocative,ἀγαθοί,ἀγαθαί,ἀγαθά
+  Genitive,ἀγαθῶν,ἀγαθῶν,ἀγαθῶν
+  Dative,ἀγαθοῖς,ἀγαθαῖς,ἀγαθοῖς
+  Accusative,ἀγαθούς,ἀγαθάς,ἀγαθά
+
+
+.. csv-table:: (ἃγioς *holy*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Singular*,,,
+  Nominative,ἅγιος,ἁγία,ἅγιον
+  Genitive,ἁγίου,ἁγιάς,ἁγίου
+  Dative,ἁγίῳ,ἁγἰᾳ,ἁγίῳ
+  Accusative,ἃγιον,ἁγίαν,ἃγιον
+  Vocative,ἅγιε,ἁγία,ἅγιον
+  *Plural*,,,
+  Nominative,ἃγιοι,ἃγιαι,ἃγια
+  Genitive,ἁγίων,ἁγίων,ἁγίων
+  Dative,ἁγίοις,ἁγίαις,ἁγίοις
+  Accusative,ἁγίους,ἁγίας,ἃγια
+  Vocative,ἃγιοι,ἃγιαι,ἃγια
+
+  .. csv-table:: (ἂλλος *other, another*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Singular*,,,
+  Nominative,ἂλλος,ἂλλη,ἂλλο
+  Genitive,ἂλλου,ἂλλης,ἂλλου
+  Dative,ἂλλῳ,ἂλλῃ,ἂλλῳ
+  Accusative,ἂλλον,ἂλλην,ἂλλο
+  *Plural*,,,
+  Nominative,ἄλλοι,ἄλλαι,ἂλλα
+  Genitive,ἂλλων,ἂλλων,ἂλλων
+  Dative,ἂλλοις,ἂλλαις,ἂλλοις
+  Accusative,ἂλλους,ἂλλας,ἂλλα
+
+
+
+The root for πᾶς is **παντ**  This is a very important paradigm to know because it also serves as a model for  active and aorist passive participles.
+
+.. csv-table:: (πᾶς  *all, every*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Singular*,,,
+  Nominative,πᾶς,πᾶσα,πᾶν
+  Genitive,παντός,πάσης,παντός
+  Dative,παντί,πάσῃ,παντί
+  Accusative,πάντα,πᾶσαν,πᾶν
+  *Plural*,,,
+  Nominative,πάντες,πᾶσαι,πάντα
+  Genitive,πάντων,πασῶν,πάντων
+  Dative,πᾶσι(ν),πάσαις,πᾶσι(ν)
+  Accusative,πάντας,πάσας,πάντα
+
+
+Examples
+~~~~~~~~
 
 .. csv-table:: 
   :header-rows: 1
@@ -72,23 +116,12 @@ the specific form of its endings makes no difference to translation.
   ὁ,εὐλογήσας,ἡμᾶς,ἐν,**πάσῃ**,**εὐλογίᾳ**,**πνευματικῇ**
   ho,eulogēsas,hēmas,en,**pasē**,**eulogia**,**pneumatikē**
   who,has blessed,us,with,**every**,**blessing**,**spiritual**
-
 *who has blessed us with*  **every spiritual blessing**
 
-In this example the adjectives πάςῃ and πνευματικῇ are feminine singular and agree with the noun εὐλογιᾳ in gender and number.  
-They also agree in case because they are functioning as an attributive adjective (see below).
-
-Most first declension nouns are feminine (but some are masculine).   Most second declension
-nouns are masculine (but some are feminine or neuter).   Third declension nouns may be masculine, feminine, or neuter.  
-
-
-The entry in the lexicon will identify the gender of each noun.  However, if the definite article is present in the text,
-the definite article always agrees with the noun it is modifying in case, number and gender.  The definite article (if present)
-in the text may also serve as an indicator of the gender of the noun.  
-
-The adjective (like the article) will always take the form that represents the true gender of the noun.   In the example 
-below ποίμην may look like it is feminine because it ends with “ην”, but it is a third declension masculine noun.  An adjective 
-modifying ποίμην must therefore decline in the masculine form. In this example both ποιμήν and καλός are nominative masculine singular.
+In this example the adjectives πάςῃ and πνευματικῇ are in feminine singular form.
+They agree with the noun εὐλογιᾳ in gender and number.  
+These adjectives are both attributive.
+Therefore, they also agree in case.
 
 .. csv-table::
 
@@ -96,15 +129,23 @@ modifying ποίμην must therefore decline in the masculine form. In this exa
   ἐγώ,εἰμι,ὁ,**ποιμὴν**,ὁ,**καλός.**
   Egō,eimi,ho,**poimēn**,ho,**kalos.**
   I,I am,the,**shepherd**,the,**good**
-
 *I am the* **good shepherd.**
 
+The adjective (like the article) will always take the form that represents the true gender of the noun.
+This is a statement of Jesus, who was a man.
+The pronoun ἐγώ ("I") is in masculine singular form.
+Therefore, any adjective describing ἐγώ must also appear in masculine singular form.
+In this example, the adjective ποίμην appears to be feminine because it ends with “ην”.
+However, the adjective ποίμην uses a different set of suffix endings than listed above. 
+In this example, both ποιμήν and καλός are nominative masculine singular.
 
 Function
-~~~~~~~~
+--------
 
-Attributive function
-^^^^^^^^^^^^^^^^^^^^
+Describes a noun
+~~~~~~~~~~~~~~~~
+.. _adjective-attributive:
+.. include:: includes/adjective-attributive.rst
 
 This is the most common use of an adjective.  Both :ref:`restrictive adjectives<adjective_restrictive>` and 
 :ref:`ascriptive adjectives<adjective_ascriptive>` may have an *attributive* function.   
@@ -162,39 +203,9 @@ The pattern for attributive adjectives without an article is generally:   **noun
 Note:  if there is NO article, the adjective could be functioning as a predicate nominative.
 See  *Predicate Function* below.
 
-
-Substantive Function
-^^^^^^^^^^^^^^^^^^^^
-
-Adjectives functioning as a Substantive are parsed as a **Noun Substantive** in the 
-`Unfolding_Word_Greek_New_Testament <https://klappy.github.io/translation-helps/?owner=door43-catalog&rc=/en/ult/>`_
-
-Sometimes, an adjective is used, but there is no noun nearby that it agrees
-with in case, number,and gender.  There is therefore no noun that
-it could be modifying.  When this occurs the adjective is functioning as a noun. 
-In this case, the reader understands that the writer is referring to some unnamed person or
-object in the sentence.  The unnamed person or object is simply identified by the adjective. 
-An adjective functioning in this way is called a **substantive** (because the substance of a noun is implied by the
-adjective). A substantive adjective will **usually** have an article immediately preceding the adjective.
-
-If an adjective is functioning as a **substantive** , its **case** will be
-determined by its function within the clause.
-Its **number** and **gender** will be determined by the person or thing it represents.
-
-.. csv-table::
-  :header-rows: 1
-
-  Romans 1:17
-  καθὼς,γέγραπται,ὁ,δὲ,**δίκαιος**,,ἐκ,πίστεως,ζήσεται 
-  kathōs,gegraptai,ho,de,**dikaios**,,ek,pisteōs,zēsetai
-  as,it has been written,the,but,**righteous**,[man/person],from,faith,he will live
-
-*as it has been written, "But, the* **righteous** will live by faith."
-
-
-
-Predicate Function
-^^^^^^^^^^^^^^^^^^^^
+.. _adjective-predicative:
+.. include:: includes/adjective-predicative.rst
+.. include:: includes/notes/adjective-congruence.rst
 
 Adjectives functioning as a Predicate are parsed as a **Noun Predicate** in the 
 `Unfolding_Word_Greek_New_Testament <https://klappy.github.io/translation-helps/?owner=door43-catalog&rc=/en/ult/>`_
@@ -245,8 +256,36 @@ Predicate adjectives occur in three basic patterns.
 
 **Blessed** *is the man who endures testing.*
 
-Adverbial Function
-^^^^^^^^^^^^^^^^^^
+.. _adjective-nominal:
+.. include:: includes/adjective-nominal.rst
+
+Adjectives functioning as a Substantive are parsed as a **Noun Substantive** in the 
+`Unfolding_Word_Greek_New_Testament <https://klappy.github.io/translation-helps/?owner=door43-catalog&rc=/en/ult/>`_
+
+Sometimes, an adjective is used, but there is no noun nearby that it agrees
+with in case, number,and gender.  There is therefore no noun that
+it could be modifying.  When this occurs the adjective is functioning as a noun. 
+In this case, the reader understands that the writer is referring to some unnamed person or
+object in the sentence.  The unnamed person or object is simply identified by the adjective. 
+An adjective functioning in this way is called a **substantive** (because the substance of a noun is implied by the
+adjective). A substantive adjective will **usually** have an article immediately preceding the adjective.
+
+If an adjective is functioning as a **substantive** , its **case** will be
+determined by its function within the clause.
+Its **number** and **gender** will be determined by the person or thing it represents.
+
+.. csv-table::
+  :header-rows: 1
+
+  Romans 1:17
+  καθὼς,γέγραπται,ὁ,δὲ,**δίκαιος**,,ἐκ,πίστεως,ζήσεται 
+  kathōs,gegraptai,ho,de,**dikaios**,,ek,pisteōs,zēsetai
+  as,it has been written,the,but,**righteous**,[man/person],from,faith,he will live
+
+*as it has been written, "But, the* **righteous** will live by faith."
+
+.. _adjective-adverbial:
+.. include:: includes/adjective-adverbial.rst
 
 Some adjectives can be used as an adverb.  In this case the adjective will usually be in the neuter gender and accusative (or dative) case.
 The most common adjectives used as an adverb are:  βραχύ (short), ἲδιον (one's own), μίκρον (small), ὀλίγον (little),
@@ -261,16 +300,11 @@ The most common adjectives used as an adverb are:  βραχύ (short), ἲδιο
 
 *But seek* **first** *his kingdom*
 
+Other uses of adjectives
+~~~~~~~~~~~~~~~~~~~~~~~~
 
-Comparisons
-^^^^^^^^^^^
-
-Adjectives may be used to make a comparison between two nouns. 
-  •	The *positive degree* of an adjective makes a simple assertion about the kind or quality of an object.
-  •	The *comparative degree* asserts that the person or thing described by it has this quality in a higher degree than some other person or thing.
-  •	The *superlative degree* asserts that the person or thing described by it has the highest degree or more of the stated quality than all the others in a group.
-
-**Comparative degree form**
+.. _adjective-comparative:
+.. include:: includes/adjective-comparative.rst
 
 When an adjective is used to compare its noun to another noun, it is functioning
 as a **comparative** adjective. Comparatives are formed by adding -τερος
@@ -289,11 +323,34 @@ as a **comparative** adjective. Comparatives are formed by adding -τερος
   οὐκ,ἔστιν,δοῦλος,**μείζων**,τοῦ,κυρίου,αὐτοῦ
   ouk,estin,doulos,**meizōn**,tou,kyriou,autou
   not, he is,a slave,**greater**,than,master,his
+*a servant is not* **greater** *than his master*   
 
-*a servant is not* **greater** *than his master*    
+.. _adjective-intensive:
+.. include:: includes/adjective-intensive.rst
 
-**Superlative degree form**
+Both comparative and superlative adjectives may be used with an *elative* sense.  
+When an adjective is used as an *elative* the quality expressed by the adjective is intensified, but no comparison is intended.
 
+.. csv-table::
+
+  Mark 4:1
+  καὶ,συνάγεται,πρὸς,αὐτὸν,ὄχλος,**πλεῖστος**
+  kai,synagetai,pros,auton,ochlos,**pleistos**
+  and,it is gathered,to,him,crowd,**very large**
+
+*and a* **large** *crowd gathered around him*
+
+
+.. csv-table::
+
+  Luke 1:3
+  **κράτιστε**,Θεόφιλε
+  **kratiste**,Theophile  
+  **most excellent**,Theophilus
+**most excellent** *Theophilus*
+
+.. _adjective-superlative:
+.. include:: includes/adjective-superlative.rst
 
 An adjective that compares a noun to two or more other nouns is a **superlative**
 adjective. The suffixes that show the superlative form are:
@@ -316,29 +373,81 @@ Caution:
 
 
 
-Elative
-^^^^^^^
-
-Both comparative and superlative adjectives may be used with an *elative* sense.  
-When an adjective is used as an *elative* the quality expressed by the adjective is intensified, but no comparison is intended.
-
-.. csv-table::
-
-  Mark 4:1
-  καὶ,συνάγεται,πρὸς,αὐτὸν,ὄχλος,**πλεῖστος**
-  kai,synagetai,pros,auton,ochlos,**pleistos**
-  and,it is gathered,to,him,crowd,**very large**
-
-*and a* **large** *crowd gathered around him*
 
 
-.. csv-table::
+.. csv-table:: 
 
-  Luke 1:3
-  **κράτιστε**,Θεόφιλε
-  **kratiste**,Theophile  
-  **most excellent**,Theophilus
+  John 10:11
+  ἐγώ,εἰμι,ὁ,ποιμὴν,ὁ,**καλός**
+  egō,eimi,ho,poimēn,ho,**kalos**
+  I, I am,the,shepherd,the,**good**
+  
+*I am the*  **good**  *shepherd*...
 
 
-**most excellent** *Theophilus*
 
+
+
+  
+  
+Cardinals (numerals)
+^^^^^^^^^^^^^^^^^^^^
+
+The following four tables are for the declension of the cardinal numbers one through four.
+One follows a 3-1-3 pattern but only occurs in the singular.   The numbers two through four only occur in the plural.  Two is the same in the nominative, genetive, and accusative cases.
+
+* Table a12 - εἷς      (one)
+* Table a13 - δὑο      (two)
+* Table a14 - τρεῖς    (three)
+* Table a15 - τέσσαρες (four)
+
+
+
+**Table a12** - *εἷς* 
+
+.. csv-table:: a12 (3-1-3) (εἷς  *one*)
+  :header-rows: 1 
+
+  ,Masculine,Feminine,Neuter
+  *Singular*,,,
+  Nominative,εἷς,μία,ἕν
+  Genitive,ἑνός,μιᾶς,ἑνός
+  Dative,ἑνί,μιᾷ,ἑνί
+  Accusative,ἑνά,μίαν,ἕν
+  
+**Table a13** - *δύο*  
+
+.. csv-table:: a13  (δύο  *two*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Plural*,,,
+  Nominative,δύο,δύο,δύο
+  Genitive,δύο,δύο,δύο
+  Dative,δυσί,δυσί,δυσί
+  Accusative,δύο,δύο,δύο
+  
+**Table a14** - *τρεῖς*  
+ Note that the masculine and feminine declension is identical. 
+ 
+ .. csv-table:: a14 (3-3-3) (τρεῖς  *three*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Plural*,,,
+  Nominative,τρεῖς,τρεῖς,τρία
+  Genitive,τριῶν,τριῶν,τριῶν
+  Dative,τρισί(ν),τρισί(ν),τρισί(ν)
+  Accusative,τρεῖς,τρεῖς,τρία
+  
+**Table a15** - *τέσσαρες*
+
+.. csv-table:: a15 (3-3-3) (τέσσαρες  *four*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Plural*,,,
+  Nominative,τέσσαρες,τέσσαρες,τέσσαρα
+  Genitive,τεσσάρων,τεσσάρων,τεσσάρων
+  Dative,τέσσαρσι(ν),τέσσαρσι(ν),τέσσαρσι(ν)
+  Accusative,τέσσαρας (τέσσαρες),τέσσαρας (τέσσαρες),τέσσαρα
