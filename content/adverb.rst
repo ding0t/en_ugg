@@ -8,9 +8,8 @@ Adverb
 Summary
 -------
 
-.. include:: includes/adverb-summary.rst
-
-.. include:: includes/hebrew/adverb-summary-hebrew.rst
+.. include:: en_uhg/content/includes/adverb-summary.rst
+.. include:: includes/adverb-summary-greek.rst
 
 Article
 -------
