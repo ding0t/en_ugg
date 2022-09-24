@@ -1,5 +1,4 @@
 :github_url: https://git.door43.org/unfoldingWord/en_ugg/src/branch/master/content/adjective.rst
-
 .. _adjective:
 Adjective
 =========
@@ -10,18 +9,19 @@ Summary
 Article
 -------
 In Koiné Greek, adjectives generally match the noun they describe in :ref:`number<number>` and :ref:`gender<gender>`.
-Attributive adjectives specifically match the noun they describe in case as well.
-Greek adjectives can take the form of all three genders: :ref:`masculine<gender_masculine>`, :ref:`feminine<gender_feminine>`, and  :ref:`neuter<gender_neuter>`. 
+Attributive adjectives specifically must also match the noun they describe in :ref:`case<case>`.
+Any Greek adjective can take the form of all three genders: :ref:`masculine<gender_masculine>`, :ref:`feminine<gender_feminine>`, and  :ref:`neuter<gender_neuter>`. 
 Adjectives show these various forms by using the same kinds of suffix endings as nouns.
-Greek adjectives are listed in a lexicon according to the nominative singular masculine form.
+Greek adjectives are listed in a lexicon according to the masculine nominative singular form.
 
 **Adjectives change form according to the stem of the adjective itself, NOT the stem of the noun it is describing.**
 For example, the feminine dative singular form of the adjective πάς is always πάςῃ.
-The form will not change when describing any other dative feminine noun.
+The form will not change when describing any feminine dative noun.
+This remains true regardless of the kind of feminine dative suffix ending that appears on the noun.
 Form
 ----
 Most adjectives in Koiné Greek use one of the following sets of suffix endings.
-However, there are more sets of suffix endings for adjectives than are listed here.
+However, there are more sets of suffix endings for adjectives in Greek than are listed here.
 See `adjective_paradigms <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_ for more.
 See especially Master Table 1 and Master Table 2 :ref:`Master Tables<paradigms>`. 
 Paradigm
@@ -41,7 +41,6 @@ Paradigm
   Genitive,ἀγαθῶν,ἀγαθῶν,ἀγαθῶν
   Dative,ἀγαθοῖς,ἀγαθαῖς,ἀγαθοῖς
   Accusative,ἀγαθούς,ἀγαθάς,ἀγαθά
-
 
 .. csv-table:: (ἃγioς *holy*)
   :header-rows: 1
@@ -112,9 +111,9 @@ Therefore, they also agree in case.
   ἐγώ,εἰμι,ὁ,**ποιμὴν**,ὁ,**καλός.**
   Egō,eimi,ho,**poimēn**,ho,**kalos.**
   I,I am,the,**shepherd**,the,**good**
-*I am the* **good shepherd.**
+  *I am the* **good shepherd.**
 
-The adjective (like the article) will always take the form that represents the true gender of the noun.
+The adjective alway appears in the form that represents the true gender of the noun.
 This is a statement of Jesus, who was a man.
 The pronoun ἐγώ ("I") is in masculine singular form.
 Therefore, any adjective describing ἐγώ must also appear in masculine singular form.
@@ -127,8 +126,14 @@ Describes a noun
 ~~~~~~~~~~~~~~~~
 .. _adjective-attributive:
 .. include:: includes/adjective-attributive.rst
-This is the most common use of an adjective.  Both :ref:`restrictive adjectives<adjective_restrictive>` and 
-:ref:`ascriptive adjectives<adjective_ascriptive>` may have an *attributive* function.   
+An ascriptive adjective is an adjective that directly describes a noun.
+This is the most common use of an adjective.
+An attributive adjective may come either before or after the noun it describes.
+It usually appears with the definite article. 
+As state above, attributive adjectives must agree with the noun they describe in case, number, and gender. 
+As stated above attributive adjectives will occur in one of several patterns.  
+
+Both :ref:`restrictive adjectives<adjective_restrictive>` and :ref:`ascriptive adjectives<adjective_ascriptive>` may function as *attributive* adjectives.   
 
   #. Restrictive adjectives follow a pattern of **noun- definite article- adjective** or (**definite article-noun-definite article-adjective**)
   #. Ascriptive adjectives follow one of four patterns:
@@ -138,9 +143,7 @@ This is the most common use of an adjective.  Both :ref:`restrictive adjectives<
      * **noun- adjective** or
      * **adjective- noun**
      
-An attributive adjective may come before or after the noun it modifies. An attributive adjective will usually have 
-an article. Attributive adjectives must agree with the noun they modify in case, number, and gender. 
-As stated above attributive adjectives will occur in one of several patterns.  One of the most common patterns is
+One of the most common patterns is
 **noun- definite article- adjective** (which may also include a definite article in front of the noun).  
 Attributive adjectives following this pattern are restrictive.
 	
@@ -151,7 +154,6 @@ Attributive adjectives following this pattern are restrictive.
   Καὶ,**τῇ**,**ἡμέρᾳ**,**τῇ**,**τρίτῃ**,γάμος,ἐγένετο
   Kai,**tē**,**hēmera**,**tē**,**trite**,gamos,egeneto
   And,**on the**,**day**,**the**,**third**,wedding, there was
-
 *and there was a wedding on*  **the third day**
  
 
@@ -177,7 +179,6 @@ The pattern for attributive adjectives without an article is generally:   **noun
   οὐκ,,**ἐντολὴν**,**καινὴν**,γράφω,ὑμῖν,ἀλλ’,,**ἐντολὴν**,**παλαιὰν**
   ouk,,**entolēn**,**kainēn**,graphō,hymin,all’,,**entolēn**,**palaian**
   not,a,**commandment**,**new**,I am writing,to you,but,an,**commandment**,**old**
-
 *I am not writing a* **new commandment** *to you, but an* **old commandment...**
 
 Note:  if there is NO article, the adjective could be functioning as a predicate nominative.
