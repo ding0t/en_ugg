@@ -23,14 +23,14 @@ The form will not change when describing any feminine dative noun.
 This remains true regardless of the kind of feminine dative suffix ending that appears on the noun.
 
 Form
-----
-Most adjectives in Koiné Greek use one of the following sets of suffix endings.
-However, there are more sets of suffix endings for adjectives in Greek than are listed here.
-See `adjective_paradigms <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_ for more.
-See especially Master Table 1 and Master Table 2 :ref:`Master Tables<paradigms>`. 
+---- 
 
 Paradigm
 ~~~~~~~~
+Most adjectives in Koiné Greek use one of the following sets of suffix endings.
+However, there are more sets of suffix endings for adjectives in Greek than are listed here.
+See `adjective_paradigms <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_ for more.
+See especially Master Table 1 and Master Table 2 :ref:`Master Tables<paradigms>`.
 .. csv-table:: ἀγαθός, "good"
   :header-rows: 1
 
@@ -81,7 +81,7 @@ Paradigm
   Accusative,ἂλλους,ἂλλας,ἂλλα
 
 
-.. csv-table:: πᾶς,  "all, every"
+.. csv-table:: πᾶς, "all, every"
   :header-rows: 1
 
   ,Masculine,Feminine,Neuter
@@ -98,8 +98,10 @@ Paradigm
 
 Examples
 ~~~~~~~~
-Ephesians 1:3, "*who has blessed us with*  **every spiritual blessing**"
-.. csv-table:: 
+
+
+.. csv-table:: Ephesians 1:3, "*who has blessed us with*  **every spiritual blessing**"
+  :header-rows: 0
 
   ὁ,εὐλογήσας,ἡμᾶς,ἐν,**πάσῃ**,**εὐλογίᾳ**,**πνευματικῇ**
   ho,eulogēsas,hēmas,en,**pasē**,**eulogia**,**pneumatikē**
@@ -110,9 +112,9 @@ They agree with the noun εὐλογιᾳ in gender and number.
 These adjectives are both attributive.
 Therefore, they also agree in case.
 
-John 10:11, "*I am the* **good shepherd.**"
-.. csv-table::
-
+.. csv-table:: John 10:11, "*I am the* **good shepherd.**"
+  :header-rows: 0
+  
   ἐγώ,εἰμι,ὁ,**ποιμὴν**,ὁ,**καλός.**
   Egō,eimi,ho,**poimēn**,ho,**kalos.**
   I,I am,the,**shepherd**,the,**good**
@@ -130,12 +132,13 @@ Restrictive adjectives
 Restrictive adjectives are definite adjectives that describe definite nouns.
 Restrictive adjectives appear in one of the following two patterns:
 EITHER
-.. csv-table::
+
+.. csv-table:: 
 definite article,noun,definite article,**adjective**
 
 OR
 
-.. csv-table::
+.. csv-table:: 
 noun,definite article,**adjective**
 
 Function
