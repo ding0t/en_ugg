@@ -1,42 +1,31 @@
 :github_url: https://git.door43.org/unfoldingWord/en_ugg/src/branch/master/content/adjective.rst
 
 .. _adjective:
-
 Adjective
 =========
-
 Summary
 -------
 .. include:: en_uhg/content/includes/adjective-summary.rst
 .. include:: includes/adjective-summary-greek.rst
-
 Article
 -------
-
 In Koiné Greek, adjectives generally match the noun they describe in :ref:`number<number>` and :ref:`gender<gender>`.
 Attributive adjectives specifically match the noun they describe in case as well.
 Greek adjectives can take the form of all three genders: :ref:`masculine<gender_masculine>`, :ref:`feminine<gender_feminine>`, and  :ref:`neuter<gender_neuter>`. 
 Adjectives show these various forms by using the same kinds of suffix endings as nouns.
 Greek adjectives are listed in a lexicon according to the nominative singular masculine form.
 
-
-See `adjective_paradigms <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_ .
-
 **Adjectives change form according to the stem of the adjective itself, NOT the stem of the noun it is describing.**
 For example, the feminine dative singular form of the adjective πάς is always πάςῃ.
 The form will not change when describing any other dative feminine noun.
-
 Form
 ----
-
 Most adjectives in Koiné Greek use one of the following sets of suffix endings.
 However, there are more sets of suffix endings for adjectives than are listed here.
 See `adjective_paradigms <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_ for more.
 See especially Master Table 1 and Master Table 2 :ref:`Master Tables<paradigms>`. 
-
 Paradigm
 ~~~~~~~~
-
 .. csv-table:: (ἀγαθός *good*)
   :header-rows: 1
 
@@ -71,7 +60,7 @@ Paradigm
   Accusative,ἁγίους,ἁγίας,ἃγια
   Vocative,ἃγιοι,ἃγιαι,ἃγια
 
-  .. csv-table:: (ἂλλος *other, another*)
+.. csv-table:: (ἂλλος *other, another*)
   :header-rows: 1
 
   ,Masculine,Feminine,Neuter
@@ -85,7 +74,6 @@ Paradigm
   Genitive,ἂλλων,ἂλλων,ἂλλων
   Dative,ἂλλοις,ἂλλαις,ἂλλοις
   Accusative,ἂλλους,ἂλλας,ἂλλα
-
 
 .. csv-table:: (πᾶς  *all, every*)
   :header-rows: 1
@@ -102,10 +90,8 @@ Paradigm
   Dative,πᾶσι(ν),πάσαις,πᾶσι(ν)
   Accusative,πάντας,πάσας,πάντα
 
-
 Examples
 ~~~~~~~~
-
 .. csv-table:: 
   :header-rows: 1
 
@@ -135,15 +121,12 @@ Therefore, any adjective describing ἐγώ must also appear in masculine singul
 In this example, the adjective ποίμην appears to be feminine because it ends with “ην”.
 However, the adjective ποίμην uses a different set of suffix endings than listed above. 
 In this example, both ποιμήν and καλός are nominative masculine singular.
-
 Function
 --------
-
 Describes a noun
 ~~~~~~~~~~~~~~~~
 .. _adjective-attributive:
 .. include:: includes/adjective-attributive.rst
-
 This is the most common use of an adjective.  Both :ref:`restrictive adjectives<adjective_restrictive>` and 
 :ref:`ascriptive adjectives<adjective_ascriptive>` may have an *attributive* function.   
 
