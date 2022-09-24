@@ -1,11 +1,14 @@
 :github_url: https://git.door43.org/unfoldingWord/en_ugg/src/branch/master/content/adjective.rst
 .. _adjective:
+
 Adjective
 =========
+
 Summary
 -------
 .. include:: en_uhg/content/includes/adjective-summary.rst
 .. include:: includes/adjective-summary-greek.rst
+
 Article
 -------
 In Koiné Greek, adjectives generally match the noun they describe in :ref:`number<number>` and :ref:`gender<gender>`.
@@ -18,12 +21,14 @@ Greek adjectives are listed in a lexicon according to the masculine nominative s
 For example, the feminine dative singular form of the adjective πάς is always πάςῃ.
 The form will not change when describing any feminine dative noun.
 This remains true regardless of the kind of feminine dative suffix ending that appears on the noun.
+
 Form
 ----
 Most adjectives in Koiné Greek use one of the following sets of suffix endings.
 However, there are more sets of suffix endings for adjectives in Greek than are listed here.
 See `adjective_paradigms <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_ for more.
 See especially Master Table 1 and Master Table 2 :ref:`Master Tables<paradigms>`. 
+
 Paradigm
 ~~~~~~~~
 .. csv-table:: ἀγαθός, "good"
@@ -119,6 +124,7 @@ Therefore, any adjective describing ἐγώ must also appear in masculine singul
 In this example, the adjective ποίμην appears to be feminine because it ends with “ην”.
 However, the adjective ποίμην uses a different set of suffix endings than listed above. 
 In this example, both ποιμήν and καλός are nominative masculine singular.
+
 Restrictive adjectives
 ~~~~~~~~~~~~~~~~~~~~~~
 Restrictive adjectives are definite adjectives that describe definite nouns.
@@ -134,6 +140,7 @@ noun,definite article,**adjective**
 
 Function
 --------
+
 Describes a noun
 ~~~~~~~~~~~~~~~~
 .. _adjective-attributive:
