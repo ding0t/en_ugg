@@ -119,6 +119,19 @@ Therefore, any adjective describing ἐγώ must also appear in masculine singul
 In this example, the adjective ποίμην appears to be feminine because it ends with “ην”.
 However, the adjective ποίμην uses a different set of suffix endings than listed above. 
 In this example, both ποιμήν and καλός are nominative masculine singular.
+Restrictive adjectives
+~~~~~~~~~~~~~~~~~~~~~~
+Restrictive adjectives are definite adjectives that describe definite nouns.
+Restrictive adjectives appear in one of the following two patterns:
+EITHER
+.. csv-table::
+definite article,noun,definite article,**adjective**
+
+OR
+
+.. csv-table::
+noun,definite article,**adjective**
+
 Function
 --------
 Describes a noun
@@ -134,7 +147,7 @@ As stated above attributive adjectives will occur in one of several patterns.
 
 Both :ref:`restrictive adjectives<adjective_restrictive>` and :ref:`ascriptive adjectives<adjective_ascriptive>` may function as *attributive* adjectives.   
 
-  #. Restrictive adjectives follow a pattern of **noun- definite article- adjective** or (**definite article-noun-definite article-adjective**)
+  #. 
   #. Ascriptive adjectives follow one of four patterns:
  
      * **Definite article- adjective- noun**  or
