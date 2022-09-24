@@ -26,23 +26,24 @@ See `adjective_paradigms <https://ugg.readthedocs.io/en/latest/paradigms.html#ad
 See especially Master Table 1 and Master Table 2 :ref:`Master Tables<paradigms>`. 
 Paradigm
 ~~~~~~~~
-.. csv-table:: (ἀγαθός *good*)
+.. csv-table:: ἀγαθός, "good"
   :header-rows: 1
 
   ,Masculine,Feminine,Neuter
   *Singular*,,,
   Nominative,ἀγαθός,ἀγαθή,ἀγαθόν
-  Vocative,ἀγαθέ,ἀγαθή,ἀγαθόν
   Genitive,ἀγαθοῦ,ἀγαθῆς,ἀγαθοῦ
   Dative,ἀγαθῷ,ἀγαθῇ,ἀγαθῷ
   Accusative,ἀγαθόν,ἀγαθήν,ἀγαθόν
+  Vocative,ἀγαθέ,ἀγαθή,ἀγαθόν
   *Plural*,,,
-  Nominative_Vocative,ἀγαθοί,ἀγαθαί,ἀγαθά
+  Nominative,ἀγαθοί,ἀγαθαί,ἀγαθά
   Genitive,ἀγαθῶν,ἀγαθῶν,ἀγαθῶν
   Dative,ἀγαθοῖς,ἀγαθαῖς,ἀγαθοῖς
   Accusative,ἀγαθούς,ἀγαθάς,ἀγαθά
+  Vocative,ἀγαθοί,ἀγαθαί,ἀγαθά
 
-.. csv-table:: (ἃγioς *holy*)
+.. csv-table:: ἃγioς, "holy"
   :header-rows: 1
 
   ,Masculine,Feminine,Neuter
@@ -59,7 +60,7 @@ Paradigm
   Accusative,ἁγίους,ἁγίας,ἃγια
   Vocative,ἃγιοι,ἃγιαι,ἃγια
 
-.. csv-table:: (ἂλλος *other, another*)
+.. csv-table:: ἂλλος, "other, another"
   :header-rows: 1
 
   ,Masculine,Feminine,Neuter
@@ -74,7 +75,8 @@ Paradigm
   Dative,ἂλλοις,ἂλλαις,ἂλλοις
   Accusative,ἂλλους,ἂλλας,ἂλλα
 
-.. csv-table:: (πᾶς  *all, every*)
+
+.. csv-table:: πᾶς,  "all, every"
   :header-rows: 1
 
   ,Masculine,Feminine,Neuter
@@ -91,28 +93,25 @@ Paradigm
 
 Examples
 ~~~~~~~~
+Ephesians 1:3, "*who has blessed us with*  **every spiritual blessing**"
 .. csv-table:: 
-  :header-rows: 1
 
-  Ephesians 1:3
   ὁ,εὐλογήσας,ἡμᾶς,ἐν,**πάσῃ**,**εὐλογίᾳ**,**πνευματικῇ**
   ho,eulogēsas,hēmas,en,**pasē**,**eulogia**,**pneumatikē**
   who,has blessed,us,with,**every**,**blessing**,**spiritual**
-*who has blessed us with*  **every spiritual blessing**
 
 In this example the adjectives πάςῃ and πνευματικῇ are in feminine singular form.
 They agree with the noun εὐλογιᾳ in gender and number.  
 These adjectives are both attributive.
 Therefore, they also agree in case.
 
+John 10:11, "*I am the* **good shepherd.**"
 .. csv-table::
 
-  John 10:11
   ἐγώ,εἰμι,ὁ,**ποιμὴν**,ὁ,**καλός.**
   Egō,eimi,ho,**poimēn**,ho,**kalos.**
   I,I am,the,**shepherd**,the,**good**
-  *I am the* **good shepherd.**
-
+  
 The adjective alway appears in the form that represents the true gender of the noun.
 This is a statement of Jesus, who was a man.
 The pronoun ἐγώ ("I") is in masculine singular form.
