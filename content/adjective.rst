@@ -7,7 +7,6 @@ Adjective
 
 Summary
 -------
-
 .. include:: en_uhg/content/includes/adjective-summary.rst
 .. include:: includes/adjective-summary-greek.rst
 
