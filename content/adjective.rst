@@ -100,7 +100,7 @@ Examples
 ~~~~~~~~
 
 
-.. csv-table:: Ephesians 1:3, "*who has blessed us with*  **every spiritual blessing**"
+.. csv-table:: Ephesians 1:3, "who has blessed us with  **every spiritual blessing**"
   :header-rows: 0
 
   ὁ,εὐλογήσας,ἡμᾶς,ἐν,**πάσῃ**,**εὐλογίᾳ**,**πνευματικῇ**
@@ -112,7 +112,7 @@ They agree with the noun εὐλογιᾳ in gender and number.
 These adjectives are both attributive.
 Therefore, they also agree in case.
 
-.. csv-table:: John 10:11, "*I am the* **good shepherd.**"
+.. csv-table:: John 10:11, "I am the **good shepherd.**"
   :header-rows: 0
   
   ἐγώ,εἰμι,ὁ,**ποιμὴν**,ὁ,**καλός.**
@@ -131,14 +131,17 @@ Restrictive adjectives
 ~~~~~~~~~~~~~~~~~~~~~~
 Restrictive adjectives are definite adjectives that describe definite nouns.
 Restrictive adjectives appear in one of the following two patterns:
+
 EITHER
 
 .. csv-table:: 
+
 definite article,noun,definite article,**adjective**
 
 OR
 
 .. csv-table:: 
+
 noun,definite article,**adjective**
 
 Function
