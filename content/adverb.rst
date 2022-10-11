@@ -109,22 +109,15 @@ There are several different ways that an adverb can describe a verb.
   even brave soldiers will cry **loudly**.
 
 .. _adverb-comparative:
-
 .. include:: en_uhg/content/includes/adverb-comparative.rst
 
 .. _adverb-superlative:
-
 .. include:: en_uhg/content/includes/adverb-superlative.rst
 
 .. _adverb-adjectival:
-
 .. include:: en_uhg/content/includes/adverb-adjectival.rst
 
 .. _adverb-sentential:
-
-Describes an entire clause or sentence
---------------------------------------
-
 .. include:: en_uhg/content/includes/adverb-sentential.rst
 
 .. csv-table:: Example: GEN 9:4 ––  אַךְ as a restrictive adverb
