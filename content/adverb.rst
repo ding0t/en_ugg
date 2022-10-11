@@ -22,7 +22,7 @@ There are several different ways that an adverb can describe a verb.
 
 .. _adverb-locative:
 
-.. include:: includes/adverb-locative.rst
+.. include:: en_uhg/content/includes/adverb-locative.rst
 
 .. csv-table:: Example: GEN 22:5
   "שְׁבוּ־לָכֶ֥ם **פֹּה֙** עִֽם־הַחֲמ֔וֹר וַאֲנִ֣י וְהַנַּ֔עַר נֵלְכָ֖ה
@@ -49,7 +49,7 @@ There are several different ways that an adverb can describe a verb.
 
 .. _adverb-temporal:
 
-.. include:: includes/adverb-temporal.rst
+.. include:: en_uhg/content/includes/adverb-temporal.rst
 
 .. csv-table:: Example: GEN 32:11
   וְעַתָּ֥ה הָיִ֖יתִי לִשְׁנֵ֥י מַחֲנֽוֹת
@@ -63,7 +63,7 @@ There are several different ways that an adverb can describe a verb.
 
 .. _adverb-quantitative:
 
-.. include:: includes/adverb-quantitative.rst
+.. include:: en_uhg/content/includes/adverb-quantitative.rst
 
 .. csv-table:: Example: PHP 4:10
 
@@ -86,7 +86,7 @@ There are several different ways that an adverb can describe a verb.
 
 .. _adverb-manner:
 
-.. include:: includes/adverb-manner.rst
+.. include:: en_uhg/content/includes/adverb-manner.rst
 
 .. csv-table:: Example: JDG 21:14
   וְלֹֽא־מָצְא֥וּ לָהֶ֖ם כֵּֽן׃
@@ -101,22 +101,22 @@ There are several different ways that an adverb can describe a verb.
 
 .. _adverb-comparative:
 
-.. include:: includes/adverb-comparative.rst
+.. include:: en_uhg/content/includes/adverb-comparative.rst
 
 .. _adverb-superlative:
 
-.. include:: includes/adverb-superlative.rst
+.. include:: en_uhg/content/includes/adverb-superlative.rst
 
 .. _adverb-adjectival:
 
-.. include:: includes/adverb-adjectival.rst
+.. include:: en_uhg/content/includes/adverb-adjectival.rst
 
 .. _adverb-sentential:
 
 Describes an entire clause or sentence
 --------------------------------------
 
-.. include:: includes/adverb-sentential.rst
+.. include:: en_uhg/content/includes/adverb-sentential.rst
 
 .. csv-table:: Example: GEN 9:4 ––  אַךְ as a restrictive adverb
   אַךְ־בָּשָׂ֕ר בְּנַפְשׁ֥וֹ דָמ֖וֹ לֹ֥א תֹאכֵֽלוּ׃
