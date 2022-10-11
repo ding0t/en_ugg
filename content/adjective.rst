@@ -23,11 +23,11 @@ The form will not change when describing any feminine dative noun.
 This remains true regardless of the kind of feminine dative word ending that appears on the noun.
 
 Form
----- 
+----
 
 Paradigm
 ~~~~~~~~
-Most adjectives in Koiné Greek use one of the following sets of suffix endings.
+Most adjectives in Koiné Greek use one of the following sets of word endings.
 However, there are more sets of word endings for adjectives in Greek than are listed here.
 See `adjective_paradigms <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_ for more.
 See especially Master Table 1 and Master Table 2 :ref:`Master Tables<paradigms>`.
