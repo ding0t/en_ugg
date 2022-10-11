@@ -132,28 +132,25 @@ Ascriptive adjectives
 An ``ascriptive adjective`` is an adjective that functions as an attributive adjective and is NOT paired with the definite article.
 The noun being described by an ascriptive adjective may or may not be paired with the definite article.
 
-.. csv-table::
-  :header-rows: 1
+.. csv-table:: 1 John 2:7, "I am not writing a **new commandment** to you, but an **old commandment...**"
+  :header-rows: 0
 
-  1 John 2:7
   οὐκ,,**ἐντολὴν**,**καινὴν**,γράφω,ὑμῖν,ἀλλ’,,**ἐντολὴν**,**παλαιὰν**
   ouk,,**entolēn**,**kainēn**,graphō,hymin,all’,,**entolēn**,**palaian**
-  not,a,**commandment**,**new**,I am writing,to you,but,an,**commandment**,**old**
-  *I am not writing a* **new commandment** *to you, but an* **old commandment...**
+  not,**commandment**,**new**,I write,to you,but,**commandment**,**old**
+  
 
 Restrictive adjectives
 ~~~~~~~~~~~~~~~~~~~~~~
 A ``restrictive adjective`` is an adjective that functions as an attributive adjective and IS paired with the definite article.
 The noun being described by a restrictive adjective may or may not be paired with the definite article but is always be a definite noun.
 
-.. csv-table::  
-  :header-rows: 1
+.. csv-table:: John 2:1, "and there was a wedding on **the third day**"
+  :header-rows: 0
 
-  John 2:1
   Καὶ,**τῇ**,**ἡμέρᾳ**,**τῇ**,**τρίτῃ**,γάμος,ἐγένετο
   Kai,**tē**,**hēmera**,**tē**,**trite**,gamos,egeneto
-  And,**on the**,**day**,**the**,**third**,wedding, there was
-  *and there was a wedding on*  **the third day**
+  And,**the**,**on day**,**the**,**third**,wedding,there was
 
 Function
 --------
@@ -168,14 +165,13 @@ In Koiné Greek, an attributive adjective may come either before or after the no
 Attributive adjectives are usually paired with the definite article, but not always. 
 As state above, attributive adjectives must agree with the noun they describe in gender, case, and number.
 
-.. csv-table::  
-  :header-rows: 1
+.. csv-table::  Matthew 12:35, "The **good man** from the **good treasure**"
+  :header-rows: 0
 
-  Matthew 12:35
   ὁ,**ἀγαθὸς**,**ἄνθρωπος**,ἐκ,τοῦ,**ἀγαθοῦ**,**θησαυροῦ**
   ho,**agathos**,**anthrōpos**,ek,tou,**agathou**,**thēsaurou**
-  the,**good**,**man**,out,of the,**good**,**treasure**
-  *The*  **good man** *from the* **good treasure..**
+  the,**good**,**man**,out of,the,**good**,**treasure**
+  
 
 
 .. _adjective-predicative:
@@ -184,34 +180,31 @@ As state above, attributive adjectives must agree with the noun they describe in
 
 .. note:: Adjectives that function as predicative adjectives are classified as nouns ("NP") in the UGNT.
 
-.. csv-table::
-
-  Matthew 5:3
+.. csv-table:: Matthew 5:3, "**Blessed are** the poor in spirit"
+  :header-rows: 0
+  
   **Μακάριοι**,,οἱ,πτωχοὶ,τῷ,πνεύματι
   **makarioi**,,hoi,ptōchoi,tō,pneumati
-  **Blessed**,**are**,the,poor,in the,spirit
-**Blessed are**  *the poor in spirit*
+  **Blessed**,**are**,the,poor,the,in spirit
 
 
-.. csv-table::
-
-  John 3:33
+.. csv-table:: John 3:33, "God is **true**"
+  :header-rows: 0
+  
   ὁ,θεὸς,**ἀληθής**,ἐστιν
   ho,Theos,**alēthēs**,estin
   the,God,**true**,he is
-*God is* **true**
 
 
-.. csv-table::
+.. csv-table:: James 1:12, "**Blessed** is the man who endures testing."
+  :header-rows: 0
 
-  James 1:12
   **Μακάριος**,,ἀνὴρ,ὃς,ὑπομένει,πειρασμόν
   **makarios**,,anēr,hos,hypomenei,peirasmon
   **Blessed**,is the,man,who,he endures,a trial
-**Blessed** *is the man who endures testing.*
 
 .. _adjective-nominal:
-.. include:: includes/adjective-nominal.rst
+.. include:: en_uhg/content/includes/adjective-nominal.rst
 
 .. note:: Adjectives that function as nominal adjectives are classified as nouns ("NS") in the UGNT.
 
@@ -228,15 +221,12 @@ If an adjective is functioning as a **substantive** , its **case** will be
 determined by its function within the clause.
 Its **number** and **gender** will be determined by the person or thing it represents.
 
-.. csv-table::
-  :header-rows: 1
-
-  Romans 1:17
+.. csv-table:: Romans 1:17, "as it has been written, 'But the **righteous** will live by faith.'"
+  :header-rows: 0
+  
   καθὼς,γέγραπται,ὁ,δὲ,**δίκαιος**,,ἐκ,πίστεως,ζήσεται 
   kathōs,gegraptai,ho,de,**dikaios**,,ek,pisteōs,zēsetai
-  as,it has been written,the,but,**righteous**,[man/person],from,faith,he will live
-
-*as it has been written, "But, the* **righteous** will live by faith."
+  as,it has been written,the,but,**righteous** [man/person],by,faith,he will live
 
 .. _adjective-adverbial:
 .. include:: en_uhg/content/includes/adjective-adverbial.rst
@@ -245,14 +235,13 @@ Some adjectives can be used as an adverb.  In this case the adjective will usual
 The most common adjectives used as an adverb are:  βραχύ (short), ἲδιον (one's own), μίκρον (small), ὀλίγον (little),
 μόνον (alone), πολύ (many), πρῶτον (first), ὕστερον (second).
 
-.. csv-table::
-
-  Matthew 6:33
+.. csv-table:: Matthew 6:33, "But seek **first** his kingdom"
+  :header-rows: 0
+  
   ζητεῖτε,δὲ,**πρῶτον**,τὴν,βασιλείαν
   zēteite,de,**proton**,tēn,basileian 
   you seek,but,**first**,the,kingdom
 
-*But seek* **first** *his kingdom*
 
 Other uses of adjectives
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -271,13 +260,13 @@ as a **comparative** adjective. Comparatives are formed by adding -τερος
 *Therefore the translator must be observant of the context and take the context into account when translating the text.*
 
 
-.. csv-table::
-
-  John 13:16
+.. csv-table:: John 13:16, "a servant is not **greater** than his master"
+  :header-rows: 0
+  
   οὐκ,ἔστιν,δοῦλος,**μείζων**,τοῦ,κυρίου,αὐτοῦ
   ouk,estin,doulos,**meizōn**,tou,kyriou,autou
   not, he is,a slave,**greater**,than,master,his
-*a servant is not* **greater** *than his master*   
+   
 
 .. _adjective-intensive:
 .. include:: en_uhg/content/includes/adjective-intensive.rst
@@ -285,23 +274,19 @@ as a **comparative** adjective. Comparatives are formed by adding -τερος
 Both comparative and superlative adjectives may be used with an *elative* sense.  
 When an adjective is used as an *elative* the quality expressed by the adjective is intensified, but no comparison is intended.
 
-.. csv-table::
+.. csv-table:: Mark 4:1, "and a **large** crowd gathered around him"
+  :header-rows: 0
 
-  Mark 4:1
   καὶ,συνάγεται,πρὸς,αὐτὸν,ὄχλος,**πλεῖστος**
   kai,synagetai,pros,auton,ochlos,**pleistos**
   and,it is gathered,to,him,crowd,**very large**
 
-*and a* **large** *crowd gathered around him*
-
-
-.. csv-table::
-
-  Luke 1:3
+.. csv-table:: Luke 1:3, "**most excellent** *Theophilus*"
+  :header-rows: 0
+  
   **κράτιστε**,Θεόφιλε
   **kratiste**,Theophile  
   **most excellent**,Theophilus
-**most excellent** *Theophilus*
 
 .. _adjective-superlative:
 .. include:: en_uhg/content/includes/adjective-superlative.rst
