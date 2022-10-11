@@ -17,7 +17,7 @@ Any Greek adjective can take the form of all three genders: :ref:`masculine<gend
 Adjectives show these various forms by using the same kinds of word endings as nouns.
 Greek adjectives are listed in a lexicon according to the masculine nominative singular form.
 
-**Adjectives change form according to the stem of the adjective itself, NOT the stem of the noun it is describing.**
+.. note:: **Adjectives change form according to the stem of the adjective itself, NOT the stem of the noun it is describing.**
 For example, the feminine dative singular form of the adjective πάς is always πάςῃ.
 The form will not change when describing any feminine dative noun.
 This remains true regardless of the kind of feminine dative word ending that appears on the noun.
@@ -100,7 +100,6 @@ See especially Master Table 1 and Master Table 2 :ref:`Master Tables<paradigms>`
 Examples
 ~~~~~~~~
 
-
 .. csv-table:: Ephesians 1:3, "who has blessed us with  **every spiritual blessing**"
   :header-rows: 0
 
@@ -128,59 +127,10 @@ In this example, the adjective ποίμην appears to be feminine because it en
 However, the adjective ποίμην uses a different set of word endings than listed above. 
 In this example, both ποιμήν and καλός are nominative masculine singular.
 
-
-Function
---------
-
-Describes a noun
-~~~~~~~~~~~~~~~~
-.. _adjective-attributive:
-.. include:: includes/adjective-attributive.rst
-An ascriptive adjective is an adjective that directly describes a noun.
-This is the most common use of an adjective.
-An attributive adjective may come either before or after the noun it describes.
-It usually appears with the definite article. 
-As state above, attributive adjectives must agree with the noun they describe in case, number, and gender. 
-As stated above attributive adjectives will occur in one of several patterns.  
-
-Both :ref:`restrictive adjectives<adjective_restrictive>` and :ref:`ascriptive adjectives<adjective_ascriptive>` may function as *attributive* adjectives.   
-
-  #. 
-  #. Ascriptive adjectives follow one of four patterns:
- 
-     * **Definite article- adjective- noun**  or
-     * **Definite Article- noun- adjective** or
-     * **noun- adjective** or
-     * **adjective- noun**
-     
-One of the most common patterns is
-**noun- definite article- adjective** (which may also include a definite article in front of the noun).  
-Attributive adjectives following this pattern are restrictive.
-	
-.. csv-table::  
-  :header-rows: 1
-
-  John 2:1
-  Καὶ,**τῇ**,**ἡμέρᾳ**,**τῇ**,**τρίτῃ**,γάμος,ἐγένετο
-  Kai,**tē**,**hēmera**,**tē**,**trite**,gamos,egeneto
-  And,**on the**,**day**,**the**,**third**,wedding, there was
-*and there was a wedding on*  **the third day**
- 
-
-Another pattern for attributive adjectives is:  **definite article – adjective- noun**.   
-
-.. csv-table::  
-  :header-rows: 1
-
-  Matthew 12:35
-  ὁ,**ἀγαθὸς**,**ἄνθρωπος**,ἐκ,τοῦ,**ἀγαθοῦ**,**θησαυροῦ**
-  ho,**agathos**,**anthrōpos**,ek,tou,**agathou**,**thēsaurou**
-  the,**good**,**man**,out,of the,**good**,**treasure**
-
-*The*  **good man** *from the* **good treasure..**
-
-Attributive adjectives may also occur with no definite article.
-The pattern for attributive adjectives without an article is generally:   **noun-adjective**
+Ascriptive adjectives
+~~~~~~~~~~~~~~~~~~~~~
+An ``ascriptive adjective`` is an adjective that functions as an attributive adjective and is NOT paired with the definite article.
+The noun being described by an ascriptive adjective may or may not be paired with the definite article.
 
 .. csv-table::
   :header-rows: 1
@@ -191,11 +141,45 @@ The pattern for attributive adjectives without an article is generally:   **noun
   not,a,**commandment**,**new**,I am writing,to you,but,an,**commandment**,**old**
 *I am not writing a* **new commandment** *to you, but an* **old commandment...**
 
-Note:  if there is NO article, the adjective could be functioning as a predicate nominative.
-See  *Predicate Function* below.
+Restrictive adjectives
+~~~~~~~~~~~~~~~~~~~~~~
+A ``restrictive adjective`` is an adjective that functions as an attributive adjective and IS paired with the definite article.
+The noun being described by a restrictive adjective may or may not be paired with the definite article but is always be a definite noun.
+
+.. csv-table::  
+  :header-rows: 1
+
+  John 2:1
+  Καὶ,**τῇ**,**ἡμέρᾳ**,**τῇ**,**τρίτῃ**,γάμος,ἐγένετο
+  Kai,**tē**,**hēmera**,**tē**,**trite**,gamos,egeneto
+  And,**on the**,**day**,**the**,**third**,wedding, there was
+*and there was a wedding on*  **the third day**
+
+Function
+--------
+
+Describes a noun
+~~~~~~~~~~~~~~~~
+.. _adjective-attributive:
+.. include:: en_uhg/content/includes/adjective-attributive.rst
+
+This is the most common use of an adjective.
+In Koiné Greek, an attributive adjective may come either before or after the noun it describes.
+Attributive adjectives are usually paired with the definite article, but not always. 
+As state above, attributive adjectives must agree with the noun they describe in gender, case, and number.
+
+.. csv-table::  
+  :header-rows: 1
+
+  Matthew 12:35
+  ὁ,**ἀγαθὸς**,**ἄνθρωπος**,ἐκ,τοῦ,**ἀγαθοῦ**,**θησαυροῦ**
+  ho,**agathos**,**anthrōpos**,ek,tou,**agathou**,**thēsaurou**
+  the,**good**,**man**,out,of the,**good**,**treasure**
+*The*  **good man** *from the* **good treasure..**
+
 
 .. _adjective-predicative:
-.. include:: includes/adjective-predicative.rst
+.. include:: en_uhg/content/includes/adjective-predicative.rst
 .. include:: includes/notes/adjective-congruence.rst
 
 Adjectives functioning as a Predicate are parsed as a **Noun Predicate** in the 
@@ -222,7 +206,6 @@ Predicate adjectives occur in three basic patterns.
   **Μακάριοι**,,οἱ,πτωχοὶ,τῷ,πνεύματι
   **makarioi**,,hoi,ptōchoi,tō,pneumati
   **Blessed**,**are**,the,poor,in the,spirit
- 
 **Blessed are**  *the poor in spirit*
 
 *A second pattern is:*  **definite article-noun-adjective**
@@ -233,7 +216,6 @@ Predicate adjectives occur in three basic patterns.
   ὁ,θεὸς,**ἀληθής**,ἐστιν
   ho,Theos,**alēthēs**,estin
   the,God,**true**,he is
-
 *God is* **true**
 
 **A third pattern occurs when no article is present**
@@ -244,7 +226,6 @@ Predicate adjectives occur in three basic patterns.
   **Μακάριος**,,ἀνὴρ,ὃς,ὑπομένει,πειρασμόν
   **makarios**,,anēr,hos,hypomenei,peirasmon
   **Blessed**,is the,man,who,he endures,a trial
-
 **Blessed** *is the man who endures testing.*
 
 .. _adjective-nominal:
@@ -276,7 +257,7 @@ Its **number** and **gender** will be determined by the person or thing it repre
 *as it has been written, "But, the* **righteous** will live by faith."
 
 .. _adjective-adverbial:
-.. include:: includes/adjective-adverbial.rst
+.. include:: en_uhg/content/includes/adjective-adverbial.rst
 
 Some adjectives can be used as an adverb.  In this case the adjective will usually be in the neuter gender and accusative (or dative) case.
 The most common adjectives used as an adverb are:  βραχύ (short), ἲδιον (one's own), μίκρον (small), ὀλίγον (little),
@@ -295,7 +276,7 @@ Other uses of adjectives
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. _adjective-comparative:
-.. include:: includes/adjective-comparative.rst
+.. include:: en_uhg/content/includes/adjective-comparative.rst
 
 When an adjective is used to compare its noun to another noun, it is functioning
 as a **comparative** adjective. Comparatives are formed by adding -τερος
@@ -317,7 +298,7 @@ as a **comparative** adjective. Comparatives are formed by adding -τερος
 *a servant is not* **greater** *than his master*   
 
 .. _adjective-intensive:
-.. include:: includes/adjective-intensive.rst
+.. include:: en_uhg/content/includes/adjective-intensive.rst
 
 Both comparative and superlative adjectives may be used with an *elative* sense.  
 When an adjective is used as an *elative* the quality expressed by the adjective is intensified, but no comparison is intended.
@@ -341,7 +322,7 @@ When an adjective is used as an *elative* the quality expressed by the adjective
 **most excellent** *Theophilus*
 
 .. _adjective-superlative:
-.. include:: includes/adjective-superlative.rst
+.. include:: en_uhg/content/includes/adjective-superlative.rst
 
 An adjective that compares a noun to two or more other nouns is a **superlative**
 adjective. The suffixes that show the superlative form are:
