@@ -31,6 +31,7 @@ Most adjectives in Koiné Greek use one of the following sets of suffix endings.
 However, there are more sets of word endings for adjectives in Greek than are listed here.
 See `adjective_paradigms <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_ for more.
 See especially Master Table 1 and Master Table 2 :ref:`Master Tables<paradigms>`.
+
 .. csv-table:: ἀγαθός, "good"
   :header-rows: 1
 
@@ -107,7 +108,7 @@ Examples
   ho,eulogēsas,hēmas,en,**pasē**,**eulogia**,**pneumatikē**
   who,has blessed,us,with,**every**,**blessing**,**spiritual**
 
-In this example the adjectives πάςῃ and πνευματικῇ are in feminine singular form.
+In the above example the adjectives πάςῃ and πνευματικῇ are in feminine singular form.
 They agree with the noun εὐλογιᾳ in gender and number.  
 These adjectives are both attributive.
 Therefore, they also agree in case.
@@ -119,30 +120,14 @@ Therefore, they also agree in case.
   Egō,eimi,ho,**poimēn**,ho,**kalos.**
   I,I am,the,**shepherd**,the,**good**
   
-The adjective alway appears in the form that represents the true gender of the noun.
-This is a statement of Jesus, who was a man.
+The adjective always appears in the form that represents the true gender of the noun.
+The above example is a statement of Jesus, who was a man.
 The pronoun ἐγώ ("I") is in masculine singular form.
 Therefore, any adjective describing ἐγώ must also appear in masculine singular form.
 In this example, the adjective ποίμην appears to be feminine because it ends with “ην”.
 However, the adjective ποίμην uses a different set of word endings than listed above. 
 In this example, both ποιμήν and καλός are nominative masculine singular.
 
-Restrictive adjectives
-~~~~~~~~~~~~~~~~~~~~~~
-Restrictive adjectives are definite adjectives that describe definite nouns.
-Restrictive adjectives appear in one of the following two patterns:
-
-EITHER
-
-.. csv-table:: 
-
-definite article,noun,definite article,**adjective**
-
-OR
-
-.. csv-table:: 
-
-noun,definite article,**adjective**
 
 Function
 --------
