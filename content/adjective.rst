@@ -156,11 +156,7 @@ Describes a noun
 ~~~~~~~~~~~~~~~~
 .. _adjective-attributive:
 .. include:: en_uhg/content/includes/adjective-attributive.rst
-
-This is the most common use of an adjective.
-In Koiné Greek, an attributive adjective may come either before or after the noun it describes.
-Attributive adjectives are usually paired with the definite article, but not always. 
-As state above, attributive adjectives must agree with the noun they describe in gender, case, and number.
+.. include:: includes/adjective-attributive-greek.rst
 
 .. csv-table::  Matthew 12:35, "The **good man** from the **good treasure**"
   :header-rows: 0
