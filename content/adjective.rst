@@ -117,7 +117,7 @@ Therefore, they also agree in case.
   I,I am,the,**shepherd**,the,**good**
   
 The adjective always appears in the form that represents the true gender of the noun.
-The above example is a statement of Jesus, who was a man.
+The above example is a statement of Jesus (a man).
 The pronoun ἐγώ ("I") is in masculine singular form.
 Therefore, any adjective describing ἐγώ must also appear in masculine singular form.
 In this example, the adjective ποίμην appears to be feminine because it ends with “ην”.
@@ -199,20 +199,15 @@ Describes a noun
 .. _adjective-nominal:
 .. include:: en_uhg/content/includes/adjective-nominal.rst
 
+When an adjective itself functions as a noun in a sentence, then it is not describing some other noun in the sentence.
+The adjective is describing some unnamed person of object.
+It is NOT describing some other noun in the sentence.
+Therefore, there is no other noun with which the adjective can agree in gender, case, or number.
+When an adjective functions as a noun, its case word ending is determined by how the word functions within the sentence.
+Furthermore, its gender and number word ending is determined by the actual unnamed person or object to which the adjective refers.
+In Koiné Greek, nominal adjectives are often paired with the definite article, but not always.
+
 .. note:: Adjectives that function as nominal adjectives are classified as nouns ("NS") in the UGNT.
-
-
-Sometimes, an adjective is used, but there is no noun nearby that it agrees
-with in case, number,and gender.  There is therefore no noun that
-it could be modifying.  When this occurs the adjective is functioning as a noun. 
-In this case, the reader understands that the writer is referring to some unnamed person or
-object in the sentence.  The unnamed person or object is simply identified by the adjective. 
-An adjective functioning in this way is called a **substantive** (because the substance of a noun is implied by the
-adjective). A substantive adjective will **usually** have an article immediately preceding the adjective.
-
-If an adjective is functioning as a **substantive** , its **case** will be
-determined by its function within the clause.
-Its **number** and **gender** will be determined by the person or thing it represents.
 
 .. csv-table:: Romans 1:17, "as it has been written, 'But the **righteous** will live by faith.'"
   :header-rows: 0
