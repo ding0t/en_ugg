@@ -199,12 +199,11 @@ Describes a noun
 .. _adjective-nominal:
 .. include:: en_uhg/content/includes/adjective-nominal.rst
 
-When an adjective itself functions as a noun in a sentence, then it is not describing some other noun in the sentence.
-The adjective is describing some unnamed person of object.
+When an adjective itself functions as a noun in a sentence, the adjective is describing some unnamed person or object.
 It is NOT describing some other noun in the sentence.
 Therefore, there is no other noun with which the adjective can agree in gender, case, or number.
 When an adjective functions as a noun, its case word ending is determined by how the word functions within the sentence.
-Furthermore, its gender and number word ending is determined by the actual unnamed person or object to which the adjective refers.
+Its gender and number word ending is determined by the actual unnamed person or object to which the adjective refers.
 In Koiné Greek, nominal adjectives are often paired with the definite article, but not always.
 
 .. note:: Adjectives that function as nominal adjectives are classified as nouns ("NS") in the UGNT.
@@ -219,9 +218,16 @@ In Koiné Greek, nominal adjectives are often paired with the definite article, 
 .. _adjective-adverbial:
 .. include:: en_uhg/content/includes/adjective-adverbial.rst
 
-Some adjectives can be used as an adverb.  In this case the adjective will usually be in the neuter gender and accusative (or dative) case.
-The most common adjectives used as an adverb are:  βραχύ (short), ἲδιον (one's own), μίκρον (small), ὀλίγον (little),
-μόνον (alone), πολύ (many), πρῶτον (first), ὕστερον (second).
+When an adjective is used as an adverb, usually the adjective will have the neuter accusative (or sometimes neuter dative) word ending.
+The most common of these adjectives that used adverbs include:  
+βραχύ ("short"), 
+ἲδιον ("one's own"), 
+μίκρον ("small"), 
+ὀλίγον ("little"),
+μόνον ("alone"), 
+πολύ ("many"), 
+πρῶτον ("first"), 
+ὕστερον "(second").
 
 .. csv-table:: Matthew 6:33, "But seek **first** his kingdom"
   :header-rows: 0
@@ -237,16 +243,15 @@ Other uses of adjectives
 .. _adjective-comparative:
 .. include:: en_uhg/content/includes/adjective-comparative.rst
 
-When an adjective is used to compare its noun to another noun, it is functioning
-as a **comparative** adjective. Comparatives are formed by adding -τερος
-(masc.), -τερα (fem.), or -τερον (neut.) to the end of the adjective.
+In Koiné Greek, a comparative adjective is often formed by adding a specific kind of word ending to the base form of that adjective.
+These comparative adjective word endings differ according to gender:
+-τερος (masculine), 
+-τερα (feminine), or 
+-τερον (neuter).
+
 (Some irregular adjectives take the suffixes -(ι)ων or -ον instead.)
 
-**Caution:** 
-  •	Some adjectives use the *positive form* to indicate a comparative degree.  
-  •	Some adjectives use a *comparative form* to indicate a superlative degree.  
-*Therefore the translator must be observant of the context and take the context into account when translating the text.*
-
+.. note:: Some adjectives use the comparative word ending to indicate a superlative adjective instead. You must always be observant of the context and take it into account when translating an adjective with a comparative word ending.
 
 .. csv-table:: John 13:16, "a servant is not **greater** than his master"
   :header-rows: 0
@@ -259,8 +264,7 @@ as a **comparative** adjective. Comparatives are formed by adding -τερος
 .. _adjective-intensive:
 .. include:: en_uhg/content/includes/adjective-intensive.rst
 
-Both comparative and superlative adjectives may be used with an *elative* sense.  
-When an adjective is used as an *elative* the quality expressed by the adjective is intensified, but no comparison is intended.
+.. note:: Sometime both/either comparative and/or superlative word endings can be used to express an intensive meaning to that particular adjective rather than either a comparative meaning or a superlative meaning.
 
 .. csv-table:: Mark 4:1, "and a **large** crowd gathered around him"
   :header-rows: 0
@@ -279,24 +283,22 @@ When an adjective is used as an *elative* the quality expressed by the adjective
 .. _adjective-superlative:
 .. include:: en_uhg/content/includes/adjective-superlative.rst
 
-An adjective that compares a noun to two or more other nouns is a **superlative**
-adjective. The suffixes that show the superlative form are:
-*-τατος* (masculine), *-τατη* (feminine), and *-τατον* (neuter), or
+In Koiné Greek, a comparative adjective is often formed by adding a specific kind of word ending to the base form of that adjective.
+These comparative adjective word endings differ according to gender:
+*-τατος* (masculine), *-τατη* (feminine), and *-τατον* (neuter), 
+OR
 *-ιστος* (masculine), *-ιστη* (feminine), and *-ιστον* (neuter).
 
-Caution:
+.. note:: Some adjectives use the superlative word ending to indicate a comparative adjective instead. You must always be observant of the context and take it into account when translating an adjective with a comparative word ending.
 
-  •	Sometimes adjectives use the *comparative form*  of an adjective to express a superlative quality.  
-  •	At other times the *superlative form* may be used to simply make a comparison
-
-.. csv-table::
-
-  1 Corinthians 15:9
+.. csv-table:: 1 Corinthians 15:9, *For I am the* **least** *of the apostles.*
+  :header-rows: 0
+  
   ἐγὼ,γάρ,εἰμι,ὁ,**ἐλάχιστος**,τῶν,ἀποστόλων
   egō,gar,eimi,ho,**elachistos**,tōn,apostolōn
   I,for,I am,the,**least**,of the,apostles
 
-*For I am the* **least** *of the apostles.*
+
 
 
 
