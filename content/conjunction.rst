@@ -7,8 +7,8 @@ Conjunction
 
 Summary
 -------
-.. include:: includes/conjunction-summary.rst
-.. include:: includes/hebrew/conjunction-summary-hebrew.rst
+.. include:: en_uhg/content/includes/conjunction-summary.rst
+.. include:: en_uhg/content/includes/hebrew/conjunction-summary-hebrew.rst
 
 Article
 -------
