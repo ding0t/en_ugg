@@ -42,6 +42,7 @@ The :ref:`Tense<tense>` of a verb is used to indicate the speaker’s perspectiv
 
     *  Aorist tense- In the aorist tense, aspect is used to express an unspecified kind of action (merely that it has occurred or occurs), without reference to its duration or completeness. It therefore may be used to refer to action that occurred in:
 
+
       *	 a moment (punctiliar action), or
 	  *	 action that occurred over a period of time (continuous), or
 	  *	 repeated action.
