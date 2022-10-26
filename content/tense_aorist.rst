@@ -53,12 +53,17 @@ The :ref:`Tense<tense>` of a verb is used to indicate the speaker’s perspectiv
 
 •	Aorist  tense:
 
-•	The principle use of the Aorist tense in the indicative mood and with participles is to refer to unspecified action (aspect) that occurred in the past. 
 
-•	Time - The use of the Aorist tense in the indicative mood and with participles generally refers to an event or events that have occurred in the past.   However, it can be used to describe an event:
-•	that is occurring in the present, or has just been completed.  This would also include what is sometimes referred to as an epistolary aorist - where the writer describes his letter as already having been completed and delivered,  or
-•	 an event that will occur in the future, or
-•	What is called a Gnomic aorist which is used to present a timeless general fact that occurs regularly and so can be assumed to have occurred.
+  •  The principle use of the Aorist tense in the indicative mood and with participles is to refer to unspecified action (aspect) that occurred in the past. 
+
+  •	 Time - The use of the Aorist tense in the indicative mood and with participles generally refers to an event or events that have occurred in the past.   However, it can be used to describe an event:
+
+  •	 that is occurring in the present, or has just been completed.  
+  
+    *  This would also include what is sometimes referred to as an epistolary aorist - where the writer describes his letter as already having been completed and delivered,  or
+    •  an event that will occur in the future, or
+
+  •  What is called a Gnomic aorist which is used to present a timeless general fact that occurs regularly and so can be assumed to have occurred.
 
 Form:
 The basic form for a verb in the indicative Aorist tense is given in Tables 4 (Primary and Secondary Endings of Verbs) and 7 (Master Verb Tense Chart - The Aorist Tenses) of the 
