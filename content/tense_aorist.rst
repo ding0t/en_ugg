@@ -38,7 +38,7 @@ Overview
 
 The :ref:`Tense<tense>` of a verb is used to indicate the speaker’s perspective or viewpoint of:
 
-  1.  Aspect - the kind of action of the verb. The kind of action may be unspecified ( also known as simple or simply completed), continuous (also described as imperfective), or completed with an ongoing effect.
+  1.  **Aspect** - the kind of action of the verb. The kind of action may be unspecified ( also known as simple or simply completed), continuous (also described as imperfective), or completed with an ongoing effect.
 
     *  Aorist tense- In the aorist tense, aspect is used to express an unspecified kind of action (merely that it has occurred or occurs), without reference to its duration or completeness. It therefore may be used to refer to action that occurred in:
 
@@ -48,20 +48,17 @@ The :ref:`Tense<tense>` of a verb is used to indicate the speaker’s perspectiv
 	  
       *  repeated action.
 
-  2.  Time - the time of action 
-
-
-•	Aorist  tense:
+  2.  **Time** - the time of action in the Aorist Tense
 
 
   •  The principle use of the Aorist tense in the indicative mood and with participles is to refer to unspecified action (aspect) that occurred in the past. 
 
   •	 Time - The use of the Aorist tense in the indicative mood and with participles generally refers to an event or events that have occurred in the past.   However, it can be used to describe an event:
 
-  •	 that is occurring in the present, or has just been completed.  
+    •  that is occurring in the present, or has just been completed.  
   
-    *  This would also include what is sometimes referred to as an epistolary aorist - where the writer describes his letter as already having been completed and delivered,  or
-    •  an event that will occur in the future, or
+      *  This would also include what is sometimes referred to as an epistolary aorist - where the writer describes his letter as already having been completed and delivered,  or
+      •  an event that will occur in the future, or
 
   •  What is called a Gnomic aorist which is used to present a timeless general fact that occurs regularly and so can be assumed to have occurred.
 
