@@ -44,9 +44,9 @@ The :ref:`Tense<tense>` of a verb is used to indicate the speaker’s perspectiv
 
       *	 a moment (punctiliar action), or
 
-	  *	 action that occurred over a period of time (continuous), or
+*  action that occurred over a period of time (continuous), or
 	  
-	  *	 repeated action.
+*  repeated action.
 
   2.  Time - the time of action 
 
