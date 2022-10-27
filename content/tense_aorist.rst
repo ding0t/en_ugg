@@ -51,9 +51,8 @@ The :ref:`Tense<tense>` of a verb is used to indicate the speaker’s perspectiv
   2.  **Time** - the time of action in the Aorist Tense
 
 
-  •  The principle use of the Aorist tense in the indicative mood and with participles is to refer to unspecified action (aspect) that occurred in the past. 
-
-  •	 Time - The use of the Aorist tense in *the indicative mood and with participles* generally refers to an event or events that have occurred in the past.   However, it can be used to describe an event:
+  •  The principle use of the Aorist tense in the **indicative mood** and with **participles** is to refer to unspecified action (aspect) that occurred in the past. 
+     However, it can be used to describe an event:
 
     •  that is occurring in the present, or has just been completed.  
   
