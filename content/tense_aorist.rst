@@ -264,6 +264,13 @@ The 1st Aorist Active Indicative for a verb is formed by using:
   *  The Secondary Active personal endings are shown in the upper right quadrant (Quadrant 3) of the Verb Master Chart Table 4.  (see below)
 
 
+[Note]  In table V-TA-2 above
+
+  a)  1st person singular (ἔλυσα) - Where one would expect a nu (ν), the personal ending is dropped and so the tense formative stands by itself.
+  b)  3rd person singular [ἔλυσε (ν)] – The nu (ν) is dropped and the alpha (α) of the tense formative is changed to an epsilon (ε).  If the following word begins with a vowel a moveable nu (ν) is added. 
+
+
+
 **Table 4**  Primary and Secondary Endings of Verbs
 ^^^^^^^^^^^^^
 
@@ -512,12 +519,6 @@ The 1st Aorist Active Indicative for a verb is formed by using:
 
 
 
-
-
-[Note]  In table V-TA-2 above
-
-  a)  1st person singular (ἔλυσα) - Where one would expect a nu (ν), the personal ending is dropped and so the tense formative stands by itself.
-  b)  3rd person singular [ἔλυσε (ν)] – The nu (ν) is dropped and the alpha (α) of the tense formative is changed to an epsilon (ε).  If the following word begins with a vowel a moveable nu (ν) is added. 
 
 
 
