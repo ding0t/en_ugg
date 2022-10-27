@@ -85,17 +85,18 @@ See Paradigms:
 
   *  Verbs Subjunctive `Tables V-ST-3a through 3c <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-st-3a-aorist-active-subjunctive-contracted-verbs>`_,
   *  verbs Imperative, `Table V-MT-1a <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-mt-1a-active-imperative-verbs-thematic-uncontracted>`_, `Table V-MT-2a <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-mt-2a-middle-passive-uncontracted-verbs>`_, and `Table V-MT-3 <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-mt-3-aorist-passive-imperative-verbs>`_
-  *  Verbs Infinitives,
-  *  and Participles
+  *  `Verbs Infinitives <https://ugg.readthedocs.io/en/latest/paradigms.html#verbs-infinitive>`_,
+  *  and Participles, `Tables V-P-T2 and T3 <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-p-t2-aorist-active-and-middle-participles>`_
 
 In this section we will describe the formation of Verbs with a theme vowel in:
-•	The 1st and 2nd Aorist Active Indicative
-•	1st and 2nd Aorist Middle Indicative, and
-•	1st and 2nd Aorist Passive indicative
+
+  •  The 1st and 2nd Aorist Active Indicative
+  •  1st and 2nd Aorist Middle Indicative, and
+  •  1st and 2nd Aorist Passive indicative
 
 The Koine Greek language has two ways of forming the Aorist Tense. 
-•	1st Aorist, and
-•	2nd Aorist
+  •  1st Aorist, and
+  •  2nd Aorist
 
 There is no difference in meaning between a 1st Aorist verb and a 2nd Aorist Verb.   They are both aorist verbs.   If it helps, you may think of it as a room (the Aorist room) and the Aorist room has two doors.  It does not matter which door you use to enter the room.  In both cases the word is now in the Aorist room.
 
