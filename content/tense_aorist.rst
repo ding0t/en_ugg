@@ -106,7 +106,7 @@ A 2nd Aorist verb is first formed by making a change to the present tense stem f
 
 
 
-Form – First Aorist Active Indicative for Thematic Verbs
+Table V-2A-2   First Aorist Active Indicative for Thematic Verbs
 ^^^^^
 
 	Built on the verb  **λύω** (*I loose*) and **κρίνω** (*I judge*)
@@ -180,35 +180,63 @@ Form – First Aorist Active Indicative for Thematic Verbs
     </table> </br>
 
 
-Indicative Verbs with a Theme Vowel
-Based on the Aorist Active Tense Stem
-Table V-TA-2
+Table V-TA-2a  Formation of First Aorist Active Indicative Thematic Verbs
+^^^^^
 
-	1st Aorist	Liquid Aorist
-Singular  		
-1 person	ἔλυσα	ἔκρινα
-2 person	ἔλυσας	ἔκρινας
-3 person	ἔλυσε (ν)	ἔκρινε (ν)
-Plural		
-1 person	ἐλύσαμεν	ἐκρίναμεν
-2 person	ἐλύσατε	ἐκρίνατε
-3 person	ἔλυσαν	ἔκριναν
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-hafo" colspan="9">Table V-TA-2a<br><span style="font-weight:normal">Formation of 1st Aorist Active Indicative</span><br><br><span style="font-weight:normal">for Thematic Verbs</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-7btt">Augment</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-7btt">1st Aorist<br> Active<br>Tense Stem</td>
+        <td class="tg-amwm">+</td>
+        <td class="tg-amwm">* Tense<br>Formative</td>
+        <td class="tg-amwm">+</td>
+        <td class="tg-amwm">Secondary<br>Active<br>Personal Ending</td>
+        <td class="tg-y6fn"></td>
+        <td class="tg-0lax"></td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">ε</td>
+        <td class="tg-3xi5">+</td>
+        <td class="tg-3xi5">λυ</td>
+        <td class="tg-baqh">+</td>
+        <td class="tg-baqh">σα</td>
+        <td class="tg-baqh">+</td>
+        <td class="tg-baqh">μεν</td>
+        <td class="tg-baqh">-&gt;</td>
+        <td class="tg-baqh">ἐλύσαμεν</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf" colspan="9">We loosed</td>
+      </tr>
+    </tbody>
+    </table></br>
 
 
-Table V-TA-2a
-Formation of
-(First)  Aorist Active Indicative
-for Thematic Verbs
-Augment	+	1st  Aorist active
-Tense
-Stem	+	*Tense
-Formative	+	Secondary
-Active
-Personal Ending
-ε		λυ	+	σα	+	μεν	->	ἐλύσαμεν
-We loosed
-
-[ Note]  * The Aorist tense formative for liquid aorist verbs is “ α  ”.  The sigma is dropped.  Liquid verbs are verbs whose stem ends with a λ,μ.ν, or ρ.
+[Note]  * The Aorist tense formative for liquid aorist verbs is “ α  ”.  The sigma is dropped.  Liquid verbs are verbs whose stem ends with a λ,μ.ν, or ρ.
 
 The 1st Aorist Active Indicative for a verb is formed by using:
 1)	Augment – 
