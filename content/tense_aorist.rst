@@ -143,7 +143,7 @@ Table V-2A-2   First Aorist Active Indicative for Thematic Verbs
       </tr>
       <tr>
         <td class="tg-f8tv">1 person</td>
-        <td class="tg-0pky">ἔλυσα</td>
+        <td class="tg-0pky">* ἔλυσα</td>
         <td class="tg-0pky">ἔκρινα</td>
       </tr>
       <tr>
@@ -178,6 +178,8 @@ Table V-2A-2   First Aorist Active Indicative for Thematic Verbs
       </tr>
     </tbody>
     </table> </br>
+
+[Note]  * The Aorist tense formative for liquid aorist verbs is “ α  ”.  The sigma is dropped.    
 
 
 Table V-TA-2a  Formation of First Aorist Active Indicative Thematic Verbs
@@ -236,8 +238,6 @@ Table V-TA-2a  Formation of First Aorist Active Indicative Thematic Verbs
     </table></br>
 
 
-[Note]  * The Aorist tense formative for liquid aorist verbs is “ α  ”.  The sigma is dropped.  Liquid verbs are verbs whose stem ends with a λ,μ.ν, or ρ.
-
 The 1st Aorist Active Indicative for a verb is formed by using:
 
   1)  **Augment**
@@ -252,18 +252,21 @@ The 1st Aorist Active Indicative for a verb is formed by using:
         *  ε  -> η
         *  ο  -> ω
 
-  2)  plus the aorist tense stem   (usually the same as the present tense stem)
+  2)  **plus the aorist tense stem**   (usually the same as the present tense stem)
   
-  3)  plus the aorist tense formative – “σα” (or “α” with liquid verbs).  Because the 1st aorist tense formative ends with a vowel no connecting vowel is required before adding the secondary personal ending.
+  3)  **plus the aorist tense formative** – “σα” (or “α” with liquid verbs).  Because the 1st aorist tense formative ends with a vowel no connecting vowel is required before adding the secondary personal ending.
 
-  4)  plus the appropriate secondary personal ending.
+  4)  **plus the appropriate secondary personal ending**.
 
 
-[Note]   
-•	The Secondary Active personal endings are shown in the upper right quadrant (Quadrant 3) of the Verb Master Chart Table 4.  (see below)
+[Note]
+  *  *Liquid verbs* are verbs whose stem ends with a λ,μ.ν, or ρ.]   
+  *  The Secondary Active personal endings are shown in the upper right quadrant (Quadrant 3) of the Verb Master Chart Table 4.  (see below)
+
 [Note]  In table V-TA-2 above
-1.	1st person singular (ἔλυσα) - Where one would expect a nu (ν), the personal ending is dropped and so the tense formative stands by itself.
-2.	3rd person singular [ἔλυσε (ν)] – The nu (ν) is dropped and the alpha (α) of the tense formative is changed to an epsilon (ε).  If the following word begins with a vowel a moveable nu (ν) is added. 
+
+  a)  1st person singular (ἔλυσα) - Where one would expect a nu (ν), the personal ending is dropped and so the tense formative stands by itself.
+  b)  3rd person singular [ἔλυσε (ν)] – The nu (ν) is dropped and the alpha (α) of the tense formative is changed to an epsilon (ε).  If the following word begins with a vowel a moveable nu (ν) is added. 
 
 
 
