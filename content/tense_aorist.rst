@@ -241,7 +241,7 @@ Table V-TA-2a  Formation of First Aorist Active Indicative Thematic Verbs
 The 1st Aorist Active Indicative for a verb is formed by using:
 
   1)  **Augment**
-   – 
+
     *  for vowels that begin with a consonant the augment is ε
     *  for vowels that begin with a vowel the beginning vowel lengthens  and becomes:
 
@@ -252,9 +252,9 @@ The 1st Aorist Active Indicative for a verb is formed by using:
         *  ε  -> η
         *  ο  -> ω
 
-  2)  **plus the aorist tense stem**   (usually the same as the present tense stem)
+  2)  **plus the 1st aorist active tense stem**   (usually the same as the present tense stem)
   
-  3)  **plus the aorist tense formative** – “σα” (or “α” with liquid verbs).  Because the 1st aorist tense formative ends with a vowel no connecting vowel is required before adding the secondary personal ending.
+  3)  **plus the aorist tense formative**   (“σα” or “α” with liquid verbs).  Because the 1st aorist tense formative ends with a vowel no connecting vowel is required before adding the secondary personal ending.
 
   4)  **plus the appropriate secondary personal ending**.
 
