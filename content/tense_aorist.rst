@@ -239,19 +239,26 @@ Table V-TA-2a  Formation of First Aorist Active Indicative Thematic Verbs
 [Note]  * The Aorist tense formative for liquid aorist verbs is “ α  ”.  The sigma is dropped.  Liquid verbs are verbs whose stem ends with a λ,μ.ν, or ρ.
 
 The 1st Aorist Active Indicative for a verb is formed by using:
-1)	Augment – 
-•	for vowels that begin with a consonant the augment is ε
-•	for vowels that begin with a vowel the beginning vowel lengthens  and becomes:
-o	 an eta (η)  for verbs beginning with an alpha (α) or an epsilon (ε), or 
-o	an omega (ω) for verbs beginning with an omicron (ο)
 
-α -> η
-ε  -> η
-ο  -> ω
+  1)  **Augment**
+   – 
+    *  for vowels that begin with a consonant the augment is ε
+    *  for vowels that begin with a vowel the beginning vowel lengthens  and becomes:
 
-2)	plus the aorist tense stem   (usually the same as the present tense stem)
-3)	plus the aorist tense formative – “σα” (or “α” with liquid verbs).  Because the 1st aorist tense formative ends with a vowel no connecting vowel is required before adding the secondary personal ending.
-4)	plus the appropriate secondary personal ending.
+      *	 an eta (η)  for verbs beginning with an alpha (α) or an epsilon (ε), or 
+      *  an omega (ω) for verbs beginning with an omicron (ο)
+
+        *  α -> η
+        *  ε  -> η
+        *  ο  -> ω
+
+  2)  plus the aorist tense stem   (usually the same as the present tense stem)
+  
+  3)  plus the aorist tense formative – “σα” (or “α” with liquid verbs).  Because the 1st aorist tense formative ends with a vowel no connecting vowel is required before adding the secondary personal ending.
+
+  4)  plus the appropriate secondary personal ending.
+
+
 [Note]   
 •	The Secondary Active personal endings are shown in the upper right quadrant (Quadrant 3) of the Verb Master Chart Table 4.  (see below)
 [Note]  In table V-TA-2 above
