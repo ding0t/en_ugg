@@ -72,12 +72,12 @@ See also:
   *  `Table V-IT-3 (Indicative Verbs built on the Aorist Active Stem) <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-it-3-indicative-verbs-built-on-the-aorist-active-stem>`_
   *  `Table V-IT-5α (Indicative Verbs built on the Aorist Active Stem) <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-it-5-indicative-verbs-built-on-the-aorist-active-stem>`_
   *  `Table V-IT-5b Aorist Passive (and Future Passive Verbs built on the Aorist Passive Tense stem) <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-it-5b-aorist-passive-and-future-passive-verbs-built-on-the-aorist-passive-tense-stem>`_
-  *  Table V-AT-D1 δίδωμι (Active Indicative)
-  *  Table V-AT-D1a δίδομι Middle/passive indicative
-  *  Table V-AT-D2 ἵστημι (Active Indicative)
-  *  Table V-AT-D2a ἵστημι middle/passive indicative
-  *  Table V-AT-D3 τίθημι (Active Indicative)
-  *  Table V-AT-D3a τίθημι middle/passive indicative
+  *  `Table V-AT-D1 δίδωμι (Active Indicative) <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d1-active-indicative>`_
+  *  `Table V-AT-D1a δίδομι Middle/passive indicative <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d1a-middle-passive-indicative>`_
+  *  `Table V-AT-D2 ἵστημι (Active Indicative) <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d2-active-indicative>`_
+  *  `Table V-AT-D2a ἵστημι middle/passive indicative <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d2a-middle-passive-indicative>`_
+  *  `Table V-AT-D3 τίθημι (Active Indicative) <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d3-active-indicative>`_
+  *  `Table V-AT-D3a τίθημι middle/passive indicative <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d3a-middle-passive-indicative>`_
 
 The Paradigms also contain forms of verbs in the aorist tense for the subjunctive mood, imperative mood, participles, and infinitives.    See Paradigms – Verbs Subjunctive, verbs Imperative, Verbs Infinitives, and Participles
 
