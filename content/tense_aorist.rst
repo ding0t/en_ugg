@@ -266,247 +266,248 @@ The 1st Aorist Active Indicative for a verb is formed by using:
 
 **Table 4**  Primary and Secondary Endings of Verbs
 ^^^^^^^^^^^^^
-.. raw:: html
-    <style type="text/css">
-    .tg  {border-collapse:collapse;border-spacing:0;}
-    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-      overflow:hidden;padding:10px 5px;word-break:normal;}
-    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-    .tg .tg-baqh{text-align:center;vertical-align:top}
-    .tg .tg-4erg{border-color:inherit;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
-    .tg .tg-ihln{font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
-    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
-    .tg .tg-yk7f{background-color:#ffffff;border-color:#000000;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
-    .tg .tg-f7v4{background-color:#c0c0c0;border-color:#000000;text-align:left;vertical-align:top}
-    .tg .tg-wovw{background-color:#fffc9e;border-color:#000000;text-align:center;vertical-align:top}
-    .tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
-    .tg .tg-0lax{text-align:left;vertical-align:top}
-    .tg .tg-6t3r{font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
-    .tg .tg-q44m{background-color:#ffffff;border-color:#000000;font-style:italic;text-align:left;vertical-align:top}
-    .tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
-    .tg .tg-c6of{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:top}
-    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
-    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-    .tg .tg-hvas{font-size:xx-small;text-align:left;vertical-align:top}
-    .tg .tg-d1y0{background-color:#c0c0c0;font-size:xx-small;text-align:left;vertical-align:top}
-    .tg .tg-8zwo{font-style:italic;text-align:left;vertical-align:top}
-    </style>
-    <table class="tg">
-    <thead>
-      <tr>
-        <th class="tg-wovw" colspan="10"><span style="font-weight:bold">Primary and Secondary Endings of Verbs</span><br><span style="font-weight:bold">Table 4</span></th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td class="tg-ihln" colspan="5">Primary personal endings</td>
-        <td class="tg-y6fn"></td>
-        <td class="tg-0lax" colspan="4"><span style="font-weight:bold;font-style:italic">Secondary personal endings</span></td>
-      </tr>
-      <tr>
-        <td class="tg-0lax"></td>
-        <td class="tg-ihln" colspan="3">regular</td>
-        <td class="tg-6t3r">alternate</td>
-        <td class="tg-y6fn"></td>
-        <td class="tg-ihln" colspan="3">regular</td>
-        <td class="tg-ihln">alternate</td>
-      </tr>
-      <tr>
-        <td class="tg-yk7f">Active</td>
-        <td class="tg-f7v4"></td>
-        <td class="tg-llyw">c.v.</td>
-        <td class="tg-llyw">p.e.</td>
-        <td class="tg-y6fn"></td>
-        <td class="tg-y6fn"></td>
-        <td class="tg-y6fn"></td>
-        <td class="tg-y6fn">c.v.</td>
-        <td class="tg-y6fn">p.e.</td>
-        <td class="tg-y6fn"></td>
-      </tr>
-      <tr>
-        <td class="tg-q44m">1 singular</td>
-        <td class="tg-iks7">λύω</td>
-        <td class="tg-c6of">ο</td>
-        <td class="tg-3xi5">-</td>
-        <td class="tg-baqh">μι</td>
-        <td class="tg-y6fn"></td>
-        <td class="tg-0lax">ἔλυον</td>
-        <td class="tg-0lax">ο</td>
-        <td class="tg-0lax">ν</td>
-        <td class="tg-0lax"></td>
-      </tr>
-      <tr>
-        <td class="tg-f8tv">2 singular</td>
-        <td class="tg-0pky">λύεις</td>
-        <td class="tg-0pky">ε</td>
-        <td class="tg-0pky">ς</td>
-        <td class="tg-0lax"></td>
-        <td class="tg-y6fn"></td>
-        <td class="tg-0lax">ἔλυες</td>
-        <td class="tg-0lax">ε</td>
-        <td class="tg-0lax">ς</td>
-        <td class="tg-0lax"></td>
-      </tr>
-      <tr>
-        <td class="tg-f8tv">3 singular</td>
-        <td class="tg-0pky">λύει</td>
-        <td class="tg-0pky">ε</td>
-        <td class="tg-0pky">ι</td>
-        <td class="tg-0lax">σι (ν)</td>
-        <td class="tg-y6fn"></td>
-        <td class="tg-0lax">ἔλυε (ν)</td>
-        <td class="tg-0lax">ε</td>
-        <td class="tg-0lax">-</td>
-        <td class="tg-0lax"></td>
-      </tr>
-      <tr>
-        <td class="tg-hvas"></td>
-        <td class="tg-hvas"></td>
-        <td class="tg-hvas"></td>
-        <td class="tg-hvas"></td>
-        <td class="tg-hvas"></td>
-        <td class="tg-d1y0"></td>
-        <td class="tg-hvas"></td>
-        <td class="tg-hvas"></td>
-        <td class="tg-hvas"></td>
-        <td class="tg-hvas"></td>
-      </tr>
-      <tr>
-        <td class="tg-8zwo">1 plural</td>
-        <td class="tg-0lax">λύομεν</td>
-        <td class="tg-0lax">ο</td>
-        <td class="tg-0lax">μεν</td>
-        <td class="tg-0lax"></td>
-        <td class="tg-y6fn"></td>
-        <td class="tg-0lax">ἐλυόμεν</td>
-        <td class="tg-0lax">ο</td>
-        <td class="tg-0lax">μεν</td>
-        <td class="tg-0lax"></td>
-      </tr>
-      <tr>
-        <td class="tg-8zwo">2 plural</td>
-        <td class="tg-0lax">λύετε</td>
-        <td class="tg-0lax">ε</td>
-        <td class="tg-0lax">τε</td>
-        <td class="tg-0lax"></td>
-        <td class="tg-y6fn"></td>
-        <td class="tg-0lax">ἐλύετε</td>
-        <td class="tg-0lax">ε</td>
-        <td class="tg-0lax">τε</td>
-        <td class="tg-0lax"></td>
-      </tr>
-      <tr>
-        <td class="tg-8zwo">3 plural</td>
-        <td class="tg-0lax">λύουσι(ν)</td>
-        <td class="tg-0lax">ο</td>
-        <td class="tg-0lax">νσι (ν)</td>
-        <td class="tg-0lax">ασι (ν)</td>
-        <td class="tg-y6fn"></td>
-        <td class="tg-0lax">ἔλυον</td>
-        <td class="tg-0lax">ο</td>
-        <td class="tg-0lax">ν</td>
-        <td class="tg-0lax">σαν</td>
-      </tr>
-      <tr>
-        <td class="tg-4erg">Middle/<br>passive</td>
-        <td class="tg-llyw"></td>
-        <td class="tg-llyw"></td>
-        <td class="tg-llyw"></td>
-        <td class="tg-y6fn"></td>
-        <td class="tg-y6fn"></td>
-        <td class="tg-y6fn"></td>
-        <td class="tg-y6fn"></td>
-        <td class="tg-y6fn"></td>
-        <td class="tg-y6fn"></td>
-      </tr>
-      <tr>
-        <td class="tg-f8tv">1 singular</td>
-        <td class="tg-0pky">λύομαι</td>
-        <td class="tg-0pky">ο</td>
-        <td class="tg-0pky">μαι</td>
-        <td class="tg-0lax"></td>
-        <td class="tg-y6fn"></td>
-        <td class="tg-0lax">ἐλυόμην</td>
-        <td class="tg-0lax">ο</td>
-        <td class="tg-0lax">μην</td>
-        <td class="tg-0lax"></td>
-      </tr>
-      <tr>
-        <td class="tg-f8tv">2 singular</td>
-        <td class="tg-0pky">λύῃ</td>
-        <td class="tg-0pky">ε</td>
-        <td class="tg-0pky">σαι</td>
-        <td class="tg-0lax"></td>
-        <td class="tg-y6fn"></td>
-        <td class="tg-0lax">ἐλύου</td>
-        <td class="tg-0lax">ε</td>
-        <td class="tg-0lax">σο</td>
-        <td class="tg-0lax"></td>
-      </tr>
-      <tr>
-        <td class="tg-f8tv">3 singular</td>
-        <td class="tg-0pky">λύεται</td>
-        <td class="tg-0pky">ε</td>
-        <td class="tg-0pky">ται</td>
-        <td class="tg-0lax"></td>
-        <td class="tg-y6fn"></td>
-        <td class="tg-0lax">ἐλύετο</td>
-        <td class="tg-0lax">ε</td>
-        <td class="tg-0lax">το</td>
-        <td class="tg-0lax"></td>
-      </tr>
-      <tr>
-        <td class="tg-hvas"></td>
-        <td class="tg-hvas"></td>
-        <td class="tg-hvas"></td>
-        <td class="tg-hvas"></td>
-        <td class="tg-hvas"></td>
-        <td class="tg-d1y0"></td>
-        <td class="tg-hvas"></td>
-        <td class="tg-hvas"></td>
-        <td class="tg-hvas"></td>
-        <td class="tg-hvas"></td>
-      </tr>
-      <tr>
-        <td class="tg-8zwo">1 plural</td>
-        <td class="tg-0lax">λυόμεθα</td>
-        <td class="tg-0lax">ο</td>
-        <td class="tg-0lax">μεθα</td>
-        <td class="tg-0lax"></td>
-        <td class="tg-y6fn"></td>
-        <td class="tg-0lax">ἐλυόμεθα</td>
-        <td class="tg-0lax">ο</td>
-        <td class="tg-0lax">μεθα</td>
-        <td class="tg-0lax"></td>
-      </tr>
-      <tr>
-        <td class="tg-8zwo">2 plural</td>
-        <td class="tg-0lax">λύεσθε</td>
-        <td class="tg-0lax">ε</td>
-        <td class="tg-0lax">σθε</td>
-        <td class="tg-0lax"></td>
-        <td class="tg-y6fn"></td>
-        <td class="tg-0lax">ἐλύεσθε</td>
-        <td class="tg-0lax">ε</td>
-        <td class="tg-0lax">σθε</td>
-        <td class="tg-0lax"></td>
-      </tr>
-      <tr>
-        <td class="tg-8zwo">3 plural</td>
-        <td class="tg-0lax">λύονται</td>
-        <td class="tg-0lax">ο</td>
-        <td class="tg-0lax">νται</td>
-        <td class="tg-0lax"></td>
-        <td class="tg-y6fn"></td>
-        <td class="tg-0lax">ἐλύοντο</td>
-        <td class="tg-0lax">ο</td>
-        <td class="tg-0lax">ντο</td>
-        <td class="tg-0lax"></td>
-      </tr>
-    </tbody>
-    </table></br>
+
+    .. raw:: html
+        <style type="text/css">
+        .tg  {border-collapse:collapse;border-spacing:0;}
+        .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+          overflow:hidden;padding:10px 5px;word-break:normal;}
+        .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+          font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+        .tg .tg-baqh{text-align:center;vertical-align:top}
+        .tg .tg-4erg{border-color:inherit;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+        .tg .tg-ihln{font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
+        .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+        .tg .tg-yk7f{background-color:#ffffff;border-color:#000000;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+        .tg .tg-f7v4{background-color:#c0c0c0;border-color:#000000;text-align:left;vertical-align:top}
+        .tg .tg-wovw{background-color:#fffc9e;border-color:#000000;text-align:center;vertical-align:top}
+        .tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
+        .tg .tg-0lax{text-align:left;vertical-align:top}
+        .tg .tg-6t3r{font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+        .tg .tg-q44m{background-color:#ffffff;border-color:#000000;font-style:italic;text-align:left;vertical-align:top}
+        .tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
+        .tg .tg-c6of{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:top}
+        .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+        .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+        .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+        .tg .tg-hvas{font-size:xx-small;text-align:left;vertical-align:top}
+        .tg .tg-d1y0{background-color:#c0c0c0;font-size:xx-small;text-align:left;vertical-align:top}
+        .tg .tg-8zwo{font-style:italic;text-align:left;vertical-align:top}
+        </style>
+        <table class="tg">
+        <thead>
+          <tr>
+            <th class="tg-wovw" colspan="10"><span style="font-weight:bold">Primary and Secondary Endings of Verbs</span><br><span style="font-weight:bold">Table 4</span></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="tg-ihln" colspan="5">Primary personal endings</td>
+            <td class="tg-y6fn"></td>
+            <td class="tg-0lax" colspan="4"><span style="font-weight:bold;font-style:italic">Secondary personal endings</span></td>
+          </tr>
+          <tr>
+            <td class="tg-0lax"></td>
+            <td class="tg-ihln" colspan="3">regular</td>
+            <td class="tg-6t3r">alternate</td>
+            <td class="tg-y6fn"></td>
+            <td class="tg-ihln" colspan="3">regular</td>
+            <td class="tg-ihln">alternate</td>
+          </tr>
+          <tr>
+            <td class="tg-yk7f">Active</td>
+            <td class="tg-f7v4"></td>
+            <td class="tg-llyw">c.v.</td>
+            <td class="tg-llyw">p.e.</td>
+            <td class="tg-y6fn"></td>
+            <td class="tg-y6fn"></td>
+            <td class="tg-y6fn"></td>
+            <td class="tg-y6fn">c.v.</td>
+            <td class="tg-y6fn">p.e.</td>
+            <td class="tg-y6fn"></td>
+          </tr>
+          <tr>
+            <td class="tg-q44m">1 singular</td>
+            <td class="tg-iks7">λύω</td>
+            <td class="tg-c6of">ο</td>
+            <td class="tg-3xi5">-</td>
+            <td class="tg-baqh">μι</td>
+            <td class="tg-y6fn"></td>
+            <td class="tg-0lax">ἔλυον</td>
+            <td class="tg-0lax">ο</td>
+            <td class="tg-0lax">ν</td>
+            <td class="tg-0lax"></td>
+          </tr>
+          <tr>
+            <td class="tg-f8tv">2 singular</td>
+            <td class="tg-0pky">λύεις</td>
+            <td class="tg-0pky">ε</td>
+            <td class="tg-0pky">ς</td>
+            <td class="tg-0lax"></td>
+            <td class="tg-y6fn"></td>
+            <td class="tg-0lax">ἔλυες</td>
+            <td class="tg-0lax">ε</td>
+            <td class="tg-0lax">ς</td>
+            <td class="tg-0lax"></td>
+          </tr>
+          <tr>
+            <td class="tg-f8tv">3 singular</td>
+            <td class="tg-0pky">λύει</td>
+            <td class="tg-0pky">ε</td>
+            <td class="tg-0pky">ι</td>
+            <td class="tg-0lax">σι (ν)</td>
+            <td class="tg-y6fn"></td>
+            <td class="tg-0lax">ἔλυε (ν)</td>
+            <td class="tg-0lax">ε</td>
+            <td class="tg-0lax">-</td>
+            <td class="tg-0lax"></td>
+          </tr>
+          <tr>
+            <td class="tg-hvas"></td>
+            <td class="tg-hvas"></td>
+            <td class="tg-hvas"></td>
+            <td class="tg-hvas"></td>
+            <td class="tg-hvas"></td>
+            <td class="tg-d1y0"></td>
+            <td class="tg-hvas"></td>
+            <td class="tg-hvas"></td>
+            <td class="tg-hvas"></td>
+            <td class="tg-hvas"></td>
+          </tr>
+          <tr>
+            <td class="tg-8zwo">1 plural</td>
+            <td class="tg-0lax">λύομεν</td>
+            <td class="tg-0lax">ο</td>
+            <td class="tg-0lax">μεν</td>
+            <td class="tg-0lax"></td>
+            <td class="tg-y6fn"></td>
+            <td class="tg-0lax">ἐλυόμεν</td>
+            <td class="tg-0lax">ο</td>
+            <td class="tg-0lax">μεν</td>
+            <td class="tg-0lax"></td>
+          </tr>
+          <tr>
+            <td class="tg-8zwo">2 plural</td>
+            <td class="tg-0lax">λύετε</td>
+            <td class="tg-0lax">ε</td>
+            <td class="tg-0lax">τε</td>
+            <td class="tg-0lax"></td>
+            <td class="tg-y6fn"></td>
+            <td class="tg-0lax">ἐλύετε</td>
+            <td class="tg-0lax">ε</td>
+            <td class="tg-0lax">τε</td>
+            <td class="tg-0lax"></td>
+          </tr>
+          <tr>
+            <td class="tg-8zwo">3 plural</td>
+            <td class="tg-0lax">λύουσι(ν)</td>
+            <td class="tg-0lax">ο</td>
+            <td class="tg-0lax">νσι (ν)</td>
+            <td class="tg-0lax">ασι (ν)</td>
+            <td class="tg-y6fn"></td>
+            <td class="tg-0lax">ἔλυον</td>
+            <td class="tg-0lax">ο</td>
+            <td class="tg-0lax">ν</td>
+            <td class="tg-0lax">σαν</td>
+          </tr>
+          <tr>
+            <td class="tg-4erg">Middle/<br>passive</td>
+            <td class="tg-llyw"></td>
+            <td class="tg-llyw"></td>
+            <td class="tg-llyw"></td>
+            <td class="tg-y6fn"></td>
+            <td class="tg-y6fn"></td>
+            <td class="tg-y6fn"></td>
+            <td class="tg-y6fn"></td>
+            <td class="tg-y6fn"></td>
+            <td class="tg-y6fn"></td>
+          </tr>
+          <tr>
+            <td class="tg-f8tv">1 singular</td>
+            <td class="tg-0pky">λύομαι</td>
+            <td class="tg-0pky">ο</td>
+            <td class="tg-0pky">μαι</td>
+            <td class="tg-0lax"></td>
+            <td class="tg-y6fn"></td>
+            <td class="tg-0lax">ἐλυόμην</td>
+            <td class="tg-0lax">ο</td>
+            <td class="tg-0lax">μην</td>
+            <td class="tg-0lax"></td>
+          </tr>
+          <tr>
+            <td class="tg-f8tv">2 singular</td>
+            <td class="tg-0pky">λύῃ</td>
+            <td class="tg-0pky">ε</td>
+            <td class="tg-0pky">σαι</td>
+            <td class="tg-0lax"></td>
+            <td class="tg-y6fn"></td>
+            <td class="tg-0lax">ἐλύου</td>
+            <td class="tg-0lax">ε</td>
+            <td class="tg-0lax">σο</td>
+            <td class="tg-0lax"></td>
+          </tr>
+          <tr>
+            <td class="tg-f8tv">3 singular</td>
+            <td class="tg-0pky">λύεται</td>
+            <td class="tg-0pky">ε</td>
+            <td class="tg-0pky">ται</td>
+            <td class="tg-0lax"></td>
+            <td class="tg-y6fn"></td>
+            <td class="tg-0lax">ἐλύετο</td>
+            <td class="tg-0lax">ε</td>
+            <td class="tg-0lax">το</td>
+            <td class="tg-0lax"></td>
+          </tr>
+          <tr>
+            <td class="tg-hvas"></td>
+            <td class="tg-hvas"></td>
+            <td class="tg-hvas"></td>
+            <td class="tg-hvas"></td>
+            <td class="tg-hvas"></td>
+            <td class="tg-d1y0"></td>
+            <td class="tg-hvas"></td>
+            <td class="tg-hvas"></td>
+            <td class="tg-hvas"></td>
+            <td class="tg-hvas"></td>
+          </tr>
+          <tr>
+            <td class="tg-8zwo">1 plural</td>
+            <td class="tg-0lax">λυόμεθα</td>
+            <td class="tg-0lax">ο</td>
+            <td class="tg-0lax">μεθα</td>
+            <td class="tg-0lax"></td>
+            <td class="tg-y6fn"></td>
+            <td class="tg-0lax">ἐλυόμεθα</td>
+            <td class="tg-0lax">ο</td>
+            <td class="tg-0lax">μεθα</td>
+            <td class="tg-0lax"></td>
+          </tr>
+          <tr>
+            <td class="tg-8zwo">2 plural</td>
+            <td class="tg-0lax">λύεσθε</td>
+            <td class="tg-0lax">ε</td>
+            <td class="tg-0lax">σθε</td>
+            <td class="tg-0lax"></td>
+            <td class="tg-y6fn"></td>
+            <td class="tg-0lax">ἐλύεσθε</td>
+            <td class="tg-0lax">ε</td>
+            <td class="tg-0lax">σθε</td>
+            <td class="tg-0lax"></td>
+          </tr>
+          <tr>
+            <td class="tg-8zwo">3 plural</td>
+            <td class="tg-0lax">λύονται</td>
+            <td class="tg-0lax">ο</td>
+            <td class="tg-0lax">νται</td>
+            <td class="tg-0lax"></td>
+            <td class="tg-y6fn"></td>
+            <td class="tg-0lax">ἐλύοντο</td>
+            <td class="tg-0lax">ο</td>
+            <td class="tg-0lax">ντο</td>
+            <td class="tg-0lax"></td>
+          </tr>
+        </tbody>
+        </table></br>
 
 
 
