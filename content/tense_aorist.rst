@@ -79,7 +79,14 @@ See also:
   *  `Table V-AT-D3 τίθημι (Active Indicative) <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d3-active-indicative>`_
   *  `Table V-AT-D3a τίθημι middle/passive indicative <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d3a-middle-passive-indicative>`_
 
-The Paradigms also contain forms of verbs in the aorist tense for the subjunctive mood, imperative mood, participles, and infinitives.    See Paradigms – Verbs Subjunctive, verbs Imperative, Verbs Infinitives, and Participles
+The Paradigms also contain forms of verbs in the aorist tense for the subjunctive mood, imperative mood, participles, and infinitives.    
+
+See Paradigms:
+
+  *  Verbs Subjunctive `Tables V-ST-3a through 3c <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-st-3a-aorist-active-subjunctive-contracted-verbs>`_,
+  *  verbs Imperative, `Table V-MT-1a <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-mt-1a-active-imperative-verbs-thematic-uncontracted>`_, `Table V-MT-2a <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-mt-2a-middle-passive-uncontracted-verbs>`_, and `Table V-MT-3 <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-mt-3-aorist-passive-imperative-verbs>`_
+  *  Verbs Infinitives,
+  *  and Participles
 
 In this section we will describe the formation of Verbs with a theme vowel in:
 •	The 1st and 2nd Aorist Active Indicative
