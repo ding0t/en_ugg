@@ -267,7 +267,8 @@ The 1st Aorist Active Indicative for a verb is formed by using:
 **Table 4**  Primary and Secondary Endings of Verbs
 ^^^^^^^^^^^^^
 
-    .. raw:: html
+.. raw:: html
+
         <style type="text/css">
         .tg  {border-collapse:collapse;border-spacing:0;}
         .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
