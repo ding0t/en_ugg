@@ -163,7 +163,7 @@ The Koine Greek language has two ways of forming the Aorist Tense.
 •	1st Aorist, and
 •	2nd Aorist
 
-There is no difference in meaning between a 1st Aorist verb and a 2nd Aorist Verb.   They are both aorist verbs.   If it helps, you may think of it as a room (the Aorist room) and the Aorist room has two doors.  It does not matter which door you use to enter the room.  In both cases the word is now in the Aorist room.
+There is **no difference in meaning** between a 1st Aorist verb and a 2nd Aorist Verb.   They are both aorist verbs.   If it helps, you may think of it as a room (the Aorist room) and the Aorist room has two doors.  It does not matter which door you use to enter the room.  In both cases the word is now in the Aorist room.
 
 A 1st Aorist verb uses the same verbal stem that is used in the present tense.
 
@@ -172,8 +172,77 @@ A 2nd Aorist verb is first formed by making a change to the present tense stem f
 
 
 Form – First Aorist Active Indicative for Thematic Verbs
+^^^^^
 
-	Built on the verb  λύω (I loose) and κρίνω (I judge)
+	Built on the verb  **λύω** (*I loose*) and **κρίνω** (*I judge*)
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-hafo" colspan="3"><span style="font-weight:bold">Indicative Verbs (with a theme vowel)</span><br><span style="font-weight:normal">Based on an Aorist Active Tense Stem</span><br>Table V-TA-2</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-0pky"></td>
+        <td class="tg-0pky">1st Aorist</td>
+        <td class="tg-0pky">Liquid Aorist</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Singular</td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">1 person</td>
+        <td class="tg-0pky">ἔλυσα</td>
+        <td class="tg-0pky">ἔκρινα</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">2 person</td>
+        <td class="tg-0pky">ἔλυσας</td>
+        <td class="tg-0pky">ἔκρινας</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">3 person</td>
+        <td class="tg-0pky">ἔλυσε(ν)</td>
+        <td class="tg-0pky">ἔκρινε(ν)</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Plural</td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">1 person</td>
+        <td class="tg-0pky">ἐλύσαμεν</td>
+        <td class="tg-0pky">ἐκρίναμεν</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">2 person</td>
+        <td class="tg-0pky">ἐλύσατε</td>
+        <td class="tg-0pky">ἐκρίνατε</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">3 person</td>
+        <td class="tg-0pky">ἔλυσαν</td>
+        <td class="tg-0pky">ἔκριναν</td>
+      </tr>
+    </tbody>
+    </table> </br>
 
 
 Indicative Verbs with a Theme Vowel
