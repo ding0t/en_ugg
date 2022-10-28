@@ -8,17 +8,16 @@ Conjunction
 Summary
 -------
 .. include:: en_uhg/content/includes/conjunction-summary.rst
-.. include:: en_uhg/content/includes/hebrew/conjunction-summary-hebrew.rst
 
 Article
 -------
 Koiné Greek contains many conjunctions, but the two most common conjunctions in the New Testament are και ("and, also") and δε ("but, and").
-Sometimes in Koiné Greek conjunctions are combined with other words (called "krasis") to form compound words. 
+Sometimes in Koiné Greek conjunctions are combined with other words (called "krasis") to form compound terms. 
+These are not the same as compound conjunctions.
 These compounds should not be considered merely as the sum of the component terms.
 Rather, they should be considered as a single grammatical entity with its own range of meanings which may or may not be different than the individual component terms.
 
-.. include:: includes/conjunction-categories.rst
-.. include:: includes/hebrew/conjunction-categories-hebrew.rst
+.. include:: en_uhg/content/includes/conjunction-categories.rst
 
 Form
 ~~~~
@@ -30,6 +29,11 @@ Conjunctions in Koiné Greek can appear as stand-alone words or be combined with
 Compound conjunctions
 ^^^^^^^^^^^^^^^^^^^^^
 .. include:: includes/notes/conjunction-compound.rst
+
+A compound conjunction is formed from two separate conjunctions that appear together at the beginning of a sentence.
+These compound conjunctions should not be considered merely as the sum of the component conjunctions.
+Rather, they should be considered as a single grammatical entity with its own range of meanings which may or may not be different than the individual component terms.
+
 
 Function
 ~~~~~~~~
