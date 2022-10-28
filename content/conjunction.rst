@@ -30,7 +30,7 @@ Compound conjunctions
 .. include:: includes/notes/conjunction-compound.rst
 
 A compound conjunction is formed from two separate conjunctions that appear together at the beginning of a sentence.
-.. include:: includes/compound_terms.rst
+.. include:: en_uhg/content/includes/compound_terms.rst
 
 These compound conjunctions should not be considered merely as the sum of the component conjunctions.
 Rather, they should be considered as a single grammatical entity with its own range of meanings which may or may not be different than the individual component terms.
