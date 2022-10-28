@@ -22,7 +22,6 @@ Form
 ~~~~
 Conjunctions in Koiné Greek can appear as stand-alone words or be combined with other words to form a compound term.
 
-
 .. _conjunction-compound:
 Compound conjunctions
 ^^^^^^^^^^^^^^^^^^^^^
@@ -36,37 +35,37 @@ Conjunctions can express any of the following connective relationships.
 This is not a complete list, but it represents the major categories of meaning for conjunctions in Koiné Greek.
 
 .. _conjunction-conjunctive:
-.. include:: includes/conjunction-conjunctive.rst
+.. include:: en_uhg/content/includes/conjunction-conjunctive.rst
 
 .. _conjunction-alternative:
-.. include:: includes/conjunction-alternative.rst
+.. include:: en_uhg/content/includes/conjunction-alternative.rst
 
 .. _conjunction-contrastive:
-.. include:: includes/conjunction-contrastive.rst
+.. include:: en_uhg/content/includes/conjunction-contrastive.rst
 
 .. _conjunction-causal:
-.. include:: includes/conjunction-causal.rst
+.. include:: en_uhg/content/includes/conjunction-causal.rst
 
 .. _causal-result:
-.. include:: includes/causal-result.rst
+.. include:: en_uhg/content/includes/causal-result.rst
 
 .. _causal-purpose:
-.. include:: includes/causal-purpose.rst
+.. include:: en_uhg/content/includes/causal-purpose.rst
 
 .. _conjunction-conditional:
-.. include:: includes/conjunction-conditional.rst
+.. include:: en_uhg/content/includes/conjunction-conditional.rst
 
 .. _conditional-hypothetical:
-.. include:: includes/conditional-hypothetical.rst
+.. include:: en_uhg/content/includes/conditional-hypothetical.rst
 
 .. _conditional-actual:
-.. include:: includes/conditional-actual.rst
+.. include:: en_uhg/content/includes/conditional-actual.rst
 
 .. _conjunction-simultaneous:
-.. include:: includes/conjunction-simultaneous.rst
+.. include:: en_uhg/content/includes/conjunction-simultaneous.rst
 
 .. _conjunction-explicative:
-.. include:: includes/conjunction-explicative.rst
+.. include:: en_uhg/content/includes/conjunction-explicative.rst
 
 .. _conjunction-concessive:
 
