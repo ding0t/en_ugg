@@ -8,7 +8,7 @@ Noun
 Summary
 -------
 
-.. include:: includes/noun_summary.txt
+.. include:: en_uhg/content/includes/noun-summary.rst
 
 Article
 -------
@@ -35,7 +35,7 @@ preposition (e.g., The *man* drank *water* from *Jerusalem*).
 Article
 -------
 
-Example image inclue:
+Example image include:
 
 .. image:: images/MC1_2.jpg
 
