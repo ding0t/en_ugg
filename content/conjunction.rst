@@ -78,13 +78,10 @@ compound conjunction.
 
 
 .. _conjunction-restrictive:
-.. include:: includes/conjunction-restrictive.rst
-
-
-
+.. include:: en_uhg/content/includes/conjunction-restrictive.rst
 
 .. _conjunction-asseverative
-
+.. include:: en_uhg/content/includes/conjunction-concessive.rst
 
 .. csv-table:: Example: ROM 15:25
 
@@ -92,15 +89,3 @@ compound conjunction.
   nyni de poreuomai eis Ierousalēm
   now but I am going into Jerusalem
   but now I am going to Jerusalem
-
-
-
-
-
-
-
-
-
-
-
-
