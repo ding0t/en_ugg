@@ -2,15 +2,17 @@
 
 .. _noun_predicate_adj:
 
-Noun predicate\_adj
-===================
+Noun (predicate adjective)
+==========================
 
-Glossary
---------
-
-A predicate adjective describes the subject of the sentence. It can
-exist with or without a linking verb. A predicate adjective is never
-immediately preceded by an article.
+Summary
+-------
+In Koiné Greek, a predicate adjective is an adjective that functions as a noun in a sentence and appears in the predicate position.
 
 Article
 -------
+.. include:: en_uhg/content/includes/adjective-predicative.rst
+
+Examples
+--------
+
