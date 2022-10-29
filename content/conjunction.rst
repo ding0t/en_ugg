@@ -68,20 +68,13 @@ This is not a complete list, but it represents the major categories of meaning f
 .. include:: en_uhg/content/includes/conjunction-explicative.rst
 
 .. _conjunction-concessive:
-
-
-Sometimes the words כִּי and אִם are paired together to form a compound conjunction that functions most often as a strong contrastive
-or a strong *concessive* ("except"). In English, it is usually translated as "but",
-"but if", or "except". It is recommended to always consult a dictionary
-or lexicon for the exact meaning of any specific occurrence of this
-compound conjunction.
-
+.. include:: en_uhg/content/includes/conjunction-concessive.rst
 
 .. _conjunction-restrictive:
 .. include:: en_uhg/content/includes/conjunction-restrictive.rst
 
 .. _conjunction-asseverative
-.. include:: en_uhg/content/includes/conjunction-concessive.rst
+.. include:: en_uhg/content/includes/conjunction-asseverative.rst
 
 .. csv-table:: Example: ROM 15:25
 
