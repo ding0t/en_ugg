@@ -38,11 +38,11 @@ Differential Determiner
 
 Quantifying Determiner
 ~~~~~~~~~~~~~~~~~~~~~~
-.. include:: includes/determiner-quantifying-summary.rst
+.. include:: includes/determiner-quantifier-summary.rst
 
 Numeral Determiner
 ~~~~~~~~~~~~~~~~~~
-All cardinal numerals in Koiné Greek are considered ``numeral determiners`` in this grammar.  
+.. include:: includes/determiner-numeral-summary.rst  
 
 Ordinal Determiner
 ~~~~~~~~~~~~~~~~~~
