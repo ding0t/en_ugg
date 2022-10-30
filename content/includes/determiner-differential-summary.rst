@@ -1,0 +1,1 @@
+A ``differential determiner`` is an adjective that distinguishes one thing from another thing within a sentence.
