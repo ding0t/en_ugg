@@ -26,11 +26,11 @@ Definite Article
 
 Demonstrative Determiner
 ~~~~~~~~~~~~~~~~~~~~~~~~
-
+.. include:: includes/determiner-demonstrative.rst
 
 Possessive Determiner
 ~~~~~~~~~~~~~~~~~~~~~
-A ``possessive determiner`` is a personal pronoun that functions as a possessive adjective within a sentence.
+.. include:: includes/determiner-possessive.rst
 
 Differential Determiner
 ~~~~~~~~~~~~~~~~~~~~~~~
