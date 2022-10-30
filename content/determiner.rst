@@ -26,7 +26,7 @@ Definite Article
 
 Demonstrative Determiner
 ~~~~~~~~~~~~~~~~~~~~~~~~
-A ``demonstrative determiner`` is a demonstrative pronoun that functions as an adjective within a sentence.
+
 
 Possessive Determiner
 ~~~~~~~~~~~~~~~~~~~~~
