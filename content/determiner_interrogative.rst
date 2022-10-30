@@ -5,8 +5,13 @@
 Determiner interrogative
 ========================
 
-Glossary
---------
+Summary
+-------
+.. include:: includes/determiner-interrogative-summary.rst
+
+Article
+-------
+.. include:: includes/determiner-interrogative-article.rst
 
 Determiners are words that identify or quantify a noun. Interrogative
 determiners ask a question to identify or quantify the object. (example:
@@ -18,6 +23,3 @@ determiners ask a question to identify or quantify the object. (example:
   touto de elegen sēmainōn poiō thanatō ēmellen apothnēskein
   This but he said signifying what kind of death he was destined to die
   He said this to indicate what kind of death he would die
-
-Article
--------
