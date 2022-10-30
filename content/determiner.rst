@@ -34,8 +34,7 @@ Possessive Determiner
 
 Differential Determiner
 ~~~~~~~~~~~~~~~~~~~~~~~
-A ``differential determiner`` is an adjective that distinguishes one thing from another thing within a sentence.
-Some common different determiners in Koiné Greek include αλλος, ετερος, μονος, some instances of ιδιος.
+.. include:: includes/determiner-differential.rst
 
 Quantifying Determiner
 ~~~~~~~~~~~~~~~~~~~~~~
