@@ -54,8 +54,7 @@ Relative Determiner
 
 Interrogative Determiner
 ~~~~~~~~~~~~~~~~~~~~~~~~
-Some common ``interrogative determiners`` include ποσος, ποιος, ποταπος, and some instances of τίς.
-
+.. include:: includes/determiner-interrogative-summary.rst
 
 .. csv-table:: Example: John 6:44
 
