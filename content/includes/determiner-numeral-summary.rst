@@ -1,0 +1,1 @@
+All cardinal numerals in Koiné Greek are considered ``numeral determiners`` in this grammar.
