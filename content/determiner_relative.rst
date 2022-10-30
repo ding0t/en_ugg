@@ -5,8 +5,13 @@
 Determiner relative
 ===================
 
-Glossary
---------
+Summary
+-------
+.. include:: includes/determiner-relative-summary.rst
+
+Article
+-------
+.. include:: includes/determiner-relative-article.rst
 
 Determiners are words that identify or quantify a noun. Relative
 determiners **express a relationship** or **quantify the noun** by
@@ -28,6 +33,3 @@ eyes.
 **ῇ** is a relative personal pronoun that is a determiner. It determines
 or identifies the day in which Jesus opened the blind man's eyes. It was
 the Sabbath day.
-
-Article
--------
