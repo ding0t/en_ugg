@@ -1,0 +1,1 @@
+Some common ``relative determiners`` include οσος, οιος, οποιος, and some instances of ος and τις.
