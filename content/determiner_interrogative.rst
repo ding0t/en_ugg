@@ -13,10 +13,6 @@ Article
 -------
 .. include:: includes/determiner-interrogative-article.rst
 
-Determiners are words that identify or quantify a noun. Interrogative
-determiners ask a question to identify or quantify the object. (example:
-“\ *How large?*\ ”, “\ *of what kind?*\ ” , “\ *How many?*\ ” )
-
 .. csv-table:: Example: John 12:33
 
   τοῦτο δὲ ἔλεγεν σημαίνων ποίῳ θανάτῳ ἤμελλεν ἀποθνῄσκειν
