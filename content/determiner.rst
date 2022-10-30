@@ -63,6 +63,3 @@ Interrogative Determiner
   kagō anastēsō auton en tē eschatē hēmera
   and I will raise him on the last day
   and I will raise him up on the last day
-
-Article
--------
