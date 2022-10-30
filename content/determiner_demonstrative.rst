@@ -27,6 +27,3 @@ one*\ ”, “\ *that one*\ ”, or “\ *one of this kind*\ ”.
      three days I will raise it"
   "Jesus replied, ""Destroy this temple, and in three days I will raise
      it up."""
-
-Article
--------
