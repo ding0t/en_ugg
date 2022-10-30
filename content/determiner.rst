@@ -23,6 +23,7 @@ Types of Determiners
 
 Definite Article
 ~~~~~~~~~~~~~~~~
+.. include:: includes/determiner-article-summary.rst
 
 Demonstrative Determiner
 ~~~~~~~~~~~~~~~~~~~~~~~~
