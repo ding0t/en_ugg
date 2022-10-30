@@ -1,1 +1,1 @@
-Some common different determiners in Koiné Greek include αλλος, ετερος, μονος, some instances of ιδιος.
+Some common different determiners in Koiné Greek include αλλος, ετερος, μονος, and some instances of ιδιος.
