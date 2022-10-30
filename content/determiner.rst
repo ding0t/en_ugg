@@ -26,39 +26,37 @@ Definite Article
 
 Demonstrative Determiner
 ~~~~~~~~~~~~~~~~~~~~~~~~
-A demonstrative determiner is a demonstrative pronoun that functions as an adjective within a sentence.
+A ``demonstrative determiner`` is a demonstrative pronoun that functions as an adjective within a sentence.
 
 Possessive Determiner
 ~~~~~~~~~~~~~~~~~~~~~
-A possessive determiner is a personal pronoun that functions as a possessive adjective within a sentence.
+A ``possessive determiner`` is a personal pronoun that functions as a possessive adjective within a sentence.
 
 Differential Determiner
 ~~~~~~~~~~~~~~~~~~~~~~~
-A differential determiner is an adjective that distinguishes one thing from another thing within a sentence.
+A ``differential determiner`` is an adjective that distinguishes one thing from another thing within a sentence.
 Some common different determiners in Koiné Greek include αλλος, ετερος, μονος, some instances of ιδιος.
 
 Quantifying Determiner
 ~~~~~~~~~~~~~~~~~~~~~~
-A quantitative determiner expressses how much (or how many) of a thing is in view within a sentence.
+A ``quantitative determiner`` expressses how much (or how many) of a thing is in view within a sentence.
 Some common quantifying determiners in Koiné Greek include πας, ολος, and πολυς.
 
 Numeral Determiner
 ~~~~~~~~~~~~~~~~~~
-All cardinal numerals in Koiné Greek are considered numeral determiners in this grammar.  
+All cardinal numerals in Koiné Greek are considered ``numeral determiners`` in this grammar.  
 
 Ordinal Determiner
 ~~~~~~~~~~~~~~~~~~
-All ordinal numerals in Koiné Greek are considered ordinal determiners in this grammar.
+All ordinal numerals in Koiné Greek are considered ``ordinal determiners`` in this grammar.
 
 Relative Determiner
 ~~~~~~~~~~~~~~~~~~~
-
-Some common relative ordinals include οσος, οιος, οποιος, and some instances of ος and τις.
+Some common ``relative determiners`` include οσος, οιος, οποιος, and some instances of ος and τις.
 
 Interrogative Determiner
 ~~~~~~~~~~~~~~~~~~~~~~~~
-
-Some common interrogative determiners include ποσος, ποιος, ποταπος, and some instances of τίς.
+Some common ``interrogative determiners`` include ποσος, ποιος, ποταπος, and some instances of τίς.
 
 
 .. csv-table:: Example: John 6:44
