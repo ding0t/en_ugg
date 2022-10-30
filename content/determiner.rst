@@ -50,7 +50,7 @@ Ordinal Determiner
 
 Relative Determiner
 ~~~~~~~~~~~~~~~~~~~
-Some common ``relative determiners`` include οσος, οιος, οποιος, and some instances of ος and τις.
+.. include:: includes/determiner-relative-summary.rst
 
 Interrogative Determiner
 ~~~~~~~~~~~~~~~~~~~~~~~~
