@@ -26,11 +26,11 @@ Definite Article
 
 Demonstrative Determiner
 ~~~~~~~~~~~~~~~~~~~~~~~~
-.. include:: includes/determiner-demonstrative.rst
+.. include:: includes/determiner-demonstrative-summary.rst
 
 Possessive Determiner
 ~~~~~~~~~~~~~~~~~~~~~
-.. include:: includes/determiner-possessive.rst
+.. include:: includes/determiner-possessive-summary.rst
 
 Differential Determiner
 ~~~~~~~~~~~~~~~~~~~~~~~
