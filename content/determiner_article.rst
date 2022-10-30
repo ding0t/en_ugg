@@ -37,46 +37,55 @@ it modifies.
 
 The **article** can have the following functions:
 
-1.  It can indicate that the noun is *definite* or *specific*.
+Marks a noun as definite
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+ the noun is *definite* or *specific*.
 
     Ὡς δὲ ἔμελλον **αἱ** ἑπτὰ ἡμέραι συντελεῖσθαι, (Act 21:27)
 
     Now when **the** seven days were almost over
 
-2.  It can indicate a *category*, rather than a specific person or item.
+Indicates a specific category of noun
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+It can indicate a *category*, rather than a specific person or item.
 
     ἄξιος γὰρ **ὁ ἐργάτης** τοῦ μισθοῦ αὐτοῦ (Luk 10:7)
 
     for **the laborer** is worthy of his wages (This is a general
     principle applying to *all* laborers [the entire category].)
 
-3.  An adjective can have an article to show that it functions nominally
-    (i.e., as a noun)
+Indicates that an adjective or participle is functioning as a noun
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     σὺν **τοῖς ἁγίοις** πᾶσιν (2Co 1:1)
 
     with all **the saints** (lit., "the holy)
 
-4.  A participle can have an article to show that it functions nominally
-    (i.e., as a noun).
 
     ἔρχεται **ὁ** ἰσχυρότερός μου ὀπίσω μου, (Mrk 1:7)
 
     **one who is stronger** than me is coming after me,
 
-5.  The article can be used alone like a personal pronoun.
+Functions as a personal pronoun
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     **οἱ** δὲ ἐξ ἐριθείας °τὸν Χριστὸν καταγγέλλουσιν (Php 1:17)
 
     But **they** from envy preach Christ.
 
-6.  The article can be used like a possessive pronoun.
+Functions as a possessive pronoun
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The article can be used like a possessive pronoun.
 
     τί γὰρ οἶδας, γύναι, εἰ **τὸν** ἄνδρα σώσεις; (1Co 7:16)
 
     For how do you know, woman, if you will save **your** husband?
 
-7.  The article can be used like a relative pronoun.
+Functions as a relative pronoun
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The article can be used like a relative pronoun.
 
     οὕτως γὰρ ἐδίωξαν τοὺς προφήτας **τοὺς** πρὸ ὑμῶν (Mat 5:12)
 
@@ -90,14 +99,18 @@ The **article** can have the following functions:
 
     Then **Jesus** came from **Galilee** to **the Jordan** to **John**
 
-9.  The article can be used with infinitives and indicate temporality.
+Indicates temporality when paired with an infinitive
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The article can be used with infinitives and indicate temporality.
 
     καὶ ἐγένετο ἐν **τῷ** σπείρειν ὃ μὲν ἔπεσεν παρὰ τὴν ὁδόν (Mar 4:4)
 
     and it happened **when he sowed** (lit. in **the** to sow), some
     fell by the roadside
 
-10. The article can be used with infinitives to indicate the subject of
+Indicates the subject when paired with the accusative of an infinitive
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The article can be used with infinitives to indicate the subject of
     the action which is given in the accusative. (It is sometimes called
     an *accusative of general reference*).
 
@@ -108,9 +121,8 @@ The **article** can have the following functions:
     before **the** me to suffer). (The idea is that the suffering has
     reference to "me", i.e. Christ).
 
-11. If two substantives are joined by the verb εἰμί (*to be*), the one
-    with the article is the subject and the one without the article is
-    the predicate.
+Indicates the subject of the verb εἰμί (*to be*)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     καὶ θεὸς ἦν **ὁ λόγος** (Jhn 1:1)
 
@@ -119,22 +131,26 @@ The **article** can have the following functions:
     .. rubric:: Intermediate
        :name: intermediate
 
-12. The article can be used to refer back to something previously
-    referenced. This is called *anaphoric* (meaning "refers to again").
+Refers back to a specific thing mentioned previously
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This is called the *anaphoric* (meaning "refers to again") use of the definite article.
 
     πόθεν οὖν ἔχεις **τὸ** ὕδωρ **τὸ** ζῶν; (Jhn 4:11)
 
     Where, then, do you get **that** living water? (referring back to
     ὕδωρ ζῶν in 4:10)
 
-13. The article can be used like a demonstrative pronoun. This is called
-    *deictic* (meaning "pointing").
+Functions as a demonstrative pronoun
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This is called the *deictic* (meaning "pointing") use of the definite article.
 
     ἰδοὺ **ὁ** ἄνθρωπος. (Jhn 19:5)
 
     "Behold, **the** man! (meaning "this man", standing here)
 
-14. The article can be used to indicate that a substantive is the very
+Functions as a adjective *par excellence*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The article can be used to indicate that a substantive is the very
     best (or worst) of its kind, or *"in a class by itself"*. This is
     called *par excellence*.
 
@@ -143,17 +159,15 @@ The **article** can have the following functions:
     Are you **the** Prophet? (referring to the prophet which Moses said
     would come after him [Deu 18:15, 18])
 
-15. The article can be used to indicate that a substantive is *unique*.
-    This is called *monadic* (meaning "one of a kind"). (This is very
-    similar to the previous usage and thus there is debate over which
-    usages are *par excellence* and which are *monadic*.)
+Functions as a monadic adjective
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The article can be used to indicate that a noun is *unique* or *one of a kind*.
+This is very similar to the previous usage and thus there is debate over which usages are *par excellence* and which are *monadic*.)
 
     καὶ ἀκριβέστερον αὐτῷ ἐξέθεντο **τὴν** ὁδὸν τοῦ θεοῦ (Act 18:26)
 
     and more clearly explained to him **the** way of God
 
-    .. rubric:: Advanced
-       :name: advanced
 
 16. In the construction ὁ δέ or ὁ μὲν … ὁ δέ, the article indicates a
     change of subject and is used as a third person personal pronoun in
