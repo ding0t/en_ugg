@@ -1,0 +1,1 @@
+Some common ``interrogative determiners`` include ποσος, ποιος, ποταπος, and some instances of τίς.
