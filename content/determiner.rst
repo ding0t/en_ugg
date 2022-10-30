@@ -34,12 +34,11 @@ Possessive Determiner
 
 Differential Determiner
 ~~~~~~~~~~~~~~~~~~~~~~~
-.. include:: includes/determiner-differential.rst
+.. include:: includes/determiner-differential-summary.rst
 
 Quantifying Determiner
 ~~~~~~~~~~~~~~~~~~~~~~
-A ``quantitative determiner`` expressses how much (or how many) of a thing is in view within a sentence.
-Some common quantifying determiners in Koiné Greek include πας, ολος, and πολυς.
+.. include:: includes/determiner-quantifying-summary.rst
 
 Numeral Determiner
 ~~~~~~~~~~~~~~~~~~
