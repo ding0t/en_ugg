@@ -13,13 +13,6 @@ Article
 -------
 .. include:: includes/determiner-differential-article.rst
 
-
-Determiners are words that identify or quantify a noun. Differential
-determiners identify a noun by distinguishing (or differentiating)
-between nouns by indicating “\ *another of the same kind*\ ”,
-“\ *another of a different kind*\ ”, “\ *alone*\ ”, “\ *pertaining to
-oneself*\ ” , or “\ *belonging to another*\ ” .
-
 .. csv-table:: Example: John 14:16
 
   κἀγὼ ἐρωτήσω τὸν πατέρα καὶ ἄλλον παράκλητον δώσει ὑμῖν
