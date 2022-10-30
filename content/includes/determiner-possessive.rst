@@ -1,0 +1,1 @@
+A ``possessive determiner`` is a personal pronoun that functions as a possessive adjective within a sentence.
