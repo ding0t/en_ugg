@@ -1,0 +1,1 @@
+Some common quantifying determiners in Koiné Greek include πας, ολος, and πολυς.
