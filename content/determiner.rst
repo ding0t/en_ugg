@@ -46,7 +46,7 @@ Numeral Determiner
 
 Ordinal Determiner
 ~~~~~~~~~~~~~~~~~~
-All ordinal numerals in Koiné Greek are considered ``ordinal determiners`` in this grammar.
+.. include:: includes/determiner-ordinal-summary.rst
 
 Relative Determiner
 ~~~~~~~~~~~~~~~~~~~
