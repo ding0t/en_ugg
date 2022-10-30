@@ -5,13 +5,13 @@
 Determiner article
 ==================
 
-Determiners are words that identify or quantify a noun. The definite
-article quantifies the noun by making it distinct from others of its
-kind. The object of the article is definite whenever the article is
-used. [e.g. *the* book as opposed to any book]. The absence of the
-definite article stresses the basic quality or character of the object
-as opposed to any particular object. . The object may still be definite
-even though the definite article is absence.
+Summary
+-------
+.. include:: includes/determiner-article-summary.rst
+
+Article
+-------
+.. include:: includes/determiner-article-article.rst
 
 .. csv-table:: Example: Matthew 1:2
 
@@ -25,11 +25,12 @@ even though the definite article is absence.
    and Jacob are omitted in the smooth translation as the name of an
    individual is already definite in English.]
 
-Article
--------
+Form
+----
 
-Beginner's
-~~~~~~~~~~
+
+Function
+--------
 
 The article must always agree in case, number and gender with the noun
 it modifies.
