@@ -5,8 +5,14 @@
 Determiner differential
 =======================
 
-Glossary
---------
+Summary
+-------
+.. include:: includes/determiner-differential-summary.rst
+
+Article
+-------
+.. include:: includes/determiner-differential-article.rst
+
 
 Determiners are words that identify or quantify a noun. Differential
 determiners identify a noun by distinguishing (or differentiating)
@@ -20,6 +26,3 @@ oneself*\ ” , or “\ *belonging to another*\ ” .
   kagō erōtēsō ton patera kai allon paraklēton dōsei hymin
   and I I will ask the father and another comforter he will give to you
   "and I will pray to the Father, and he will give you another Comforter"
-
-Article
--------
