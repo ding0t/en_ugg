@@ -31,6 +31,3 @@ in **him** life it was
 In **him** was life
 
 \*\* αὐτῷ\*\* is a taking the place of the noun "λόγος".
-
-Article
--------
