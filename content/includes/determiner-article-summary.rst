@@ -1,0 +1,1 @@
+The definite article is the most common kind of determiner in Koiné Greek.

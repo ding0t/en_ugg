@@ -5,8 +5,13 @@
 Determiner demonstrative
 ========================
 
-Glossary
+Summary
+-------
+.. include:: includes/determiner-demonstrative-summary.rst
+
+Article
 --------
+.. include:: includes/determiner-demonstrative-article.rst
 
 Determiners are words that identify or quantify a noun. Demonstrative
 Determiners point to a specific object by identifying it as “\ *this
@@ -22,6 +27,3 @@ one*\ ”, “\ *that one*\ ”, or “\ *one of this kind*\ ”.
      three days I will raise it"
   "Jesus replied, ""Destroy this temple, and in three days I will raise
      it up."""
-
-Article
--------

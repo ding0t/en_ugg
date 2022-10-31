@@ -5,8 +5,13 @@
 Determiner ordinal
 ==================
 
-Glossary
---------
+Summary
+-------
+.. include:: includes/determiner-ordinal-summary.rst
+
+Article
+-------
+.. include:: includes/determiner-ordinal-article.rst
 
 Determiners are words that identify or quantify a noun. Ordinal
 determiners identify a noun by giving the position of an item in a list.
@@ -21,6 +26,3 @@ determiners identify a noun by giving the position of an item in a list.
      marketplace idle"
   "He went out again about the third hour and saw other workers standing
      idle in the marketplace."
-
-Article
--------

@@ -5,14 +5,13 @@
 Determiner differential
 =======================
 
-Glossary
---------
+Summary
+-------
+.. include:: includes/determiner-differential-summary.rst
 
-Determiners are words that identify or quantify a noun. Differential
-determiners identify a noun by distinguishing (or differentiating)
-between nouns by indicating “\ *another of the same kind*\ ”,
-“\ *another of a different kind*\ ”, “\ *alone*\ ”, “\ *pertaining to
-oneself*\ ” , or “\ *belonging to another*\ ” .
+Article
+-------
+.. include:: includes/determiner-differential-article.rst
 
 .. csv-table:: Example: John 14:16
 
@@ -20,6 +19,3 @@ oneself*\ ” , or “\ *belonging to another*\ ” .
   kagō erōtēsō ton patera kai allon paraklēton dōsei hymin
   and I I will ask the father and another comforter he will give to you
   "and I will pray to the Father, and he will give you another Comforter"
-
-Article
--------

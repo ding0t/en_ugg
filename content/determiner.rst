@@ -23,41 +23,39 @@ Types of Determiners
 
 Definite Article
 ~~~~~~~~~~~~~~~~
+.. include:: includes/determiner-article-summary.rst
 
 Demonstrative Determiner
 ~~~~~~~~~~~~~~~~~~~~~~~~
-A ``demonstrative determiner`` is a demonstrative pronoun that functions as an adjective within a sentence.
+.. include:: includes/determiner-demonstrative-summary.rst
 
 Possessive Determiner
 ~~~~~~~~~~~~~~~~~~~~~
-A ``possessive determiner`` is a personal pronoun that functions as a possessive adjective within a sentence.
+.. include:: includes/determiner-possessive-summary.rst
 
 Differential Determiner
 ~~~~~~~~~~~~~~~~~~~~~~~
-A ``differential determiner`` is an adjective that distinguishes one thing from another thing within a sentence.
-Some common different determiners in Koiné Greek include αλλος, ετερος, μονος, some instances of ιδιος.
+.. include:: includes/determiner-differential-summary.rst
 
 Quantifying Determiner
 ~~~~~~~~~~~~~~~~~~~~~~
-A ``quantitative determiner`` expressses how much (or how many) of a thing is in view within a sentence.
-Some common quantifying determiners in Koiné Greek include πας, ολος, and πολυς.
+.. include:: includes/determiner-quantifier-summary.rst
 
 Numeral Determiner
 ~~~~~~~~~~~~~~~~~~
-All cardinal numerals in Koiné Greek are considered ``numeral determiners`` in this grammar.  
+.. include:: includes/determiner-numeral-summary.rst  
 
 Ordinal Determiner
 ~~~~~~~~~~~~~~~~~~
-All ordinal numerals in Koiné Greek are considered ``ordinal determiners`` in this grammar.
+.. include:: includes/determiner-ordinal-summary.rst
 
 Relative Determiner
 ~~~~~~~~~~~~~~~~~~~
-Some common ``relative determiners`` include οσος, οιος, οποιος, and some instances of ος and τις.
+.. include:: includes/determiner-relative-summary.rst
 
 Interrogative Determiner
 ~~~~~~~~~~~~~~~~~~~~~~~~
-Some common ``interrogative determiners`` include ποσος, ποιος, ποταπος, and some instances of τίς.
-
+.. include:: includes/determiner-interrogative-summary.rst
 
 .. csv-table:: Example: John 6:44
 
@@ -65,6 +63,3 @@ Some common ``interrogative determiners`` include ποσος, ποιος, ποτ
   kagō anastēsō auton en tē eschatē hēmera
   and I will raise him on the last day
   and I will raise him up on the last day
-
-Article
--------

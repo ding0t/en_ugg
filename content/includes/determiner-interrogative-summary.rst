@@ -1,0 +1,1 @@
+An ``interrogative determiner`` introduces a question that identifies or quantifies something in a sentence.

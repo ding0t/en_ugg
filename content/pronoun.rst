@@ -5,14 +5,36 @@
 Pronoun
 =======
 
-Glossary
+Summary
+-------
+.. include:: en_uhg/content/includes/pronoun-summary.rst
+
+Article
+-------
+.. include:: en_uhg/content/includes/pronoun-summary.rst
+
+Form
+----
+
+.. csv-table::  ὁ,ἡ,τό  (*he,she,it*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Singular*,,,
+  Nominative,ὁ,ἡ,τό
+  Genitive,τοῦ,τῆς,τοῦ
+  Dative,τῷ,τῇ,τῷ
+  Accusative,τόν,τήν,τό
+  *Plural*,,,
+  Nominative,οἱ,αἱ,τά
+  Genitive,τῶν,τῶν,τῶν
+  Dative,τοῖς,ταῖς,τοῖς
+  Accusative,τούς,τάς,τά
+
+Function
 --------
 
-| A is a word that takes the place of (or represents) a noun. It can do
-  anything a noun can do. For example, it can be the subject of a
-  sentence (or the direct object, the indirect object, or the object of
-  a preposition).
-| Examples: "he", "she", "me", "those"
+
 
 ἐν **αὐτῷ** ζωὴ ἦν John 1:3
 
@@ -23,6 +45,3 @@ in **him** life it was
 In **him** was life
 
 \*\* αὐτῷ\*\* is a taking the place of the noun "λόγος".
-
-Article
--------

@@ -5,8 +5,13 @@
 Determiner number
 =================
 
-Glossary
---------
+Summary
+-------
+.. include:: includes/determiner-numeral-summary.rst
+
+Article
+-------
+.. include:: includes/determiner-numeral-article.rst
 
 Determiners are words that identify or quantify a noun. Number
 determiners are cardinal numbers which quantify or say how many there
@@ -18,6 +23,3 @@ are of something. (for example “\ *five*\ ” books)
   eiden dyo adelphous
   he saw two brothers
   he saw two brothers
-
-Article
--------

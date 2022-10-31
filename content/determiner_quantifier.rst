@@ -5,10 +5,15 @@
 Determiner quantifier
 =====================
 
-Glossary
-~~~~~~~~
+Summary
+-------
+.. include:: includes/determiner-quantifier-summary.rst
 
-i. Determiners are words that identify or quantify a noun.
+Article
+-------
+.. include:: includes/determiner-quantifer-article.rst
+
+Determiners are words that identify or quantify a noun.
    Quantifier determiners are words that express a general quantity of
    the object of reference. (example: both, all, double, remaining, few,
    every, nobody, entire, many)
@@ -19,6 +24,3 @@ i. Determiners are words that identify or quantify a noun.
   kai legei auto Pas anthrōpos prōton ton kalon oinon tithēsin
   and he says to him every man first the good wine he serves
   "and said to him,""Every man serves the good wine first."""
-
-Article
--------

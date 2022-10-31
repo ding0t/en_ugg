@@ -1,0 +1,1 @@
+A ``quantitative determiner`` expressses how much (or how many) of a thing is in view within a sentence.
