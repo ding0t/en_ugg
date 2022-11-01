@@ -14,6 +14,7 @@ Article
 .. include:: en_uhg/content/includes/particle-interjection-article.rst
 
 A directive interjection expresses a command such as "look!" (reference) or "come!" (John 1:29).
+Some common directive interjections in Koiné Greek include the terms ιδου, δευτε, δευρο (perhaps others?).
 
 
     Ἴδε              ὁ  ἀμνὸς τοῦ    θεοῦ    ὁ      αἴρων        τὴν ἁμαρτίαν  τοῦ   κόσμου
