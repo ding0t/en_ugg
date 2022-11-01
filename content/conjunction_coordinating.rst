@@ -5,10 +5,14 @@
 Conjunction coordinating
 ========================
 
-Glossary
---------
+Summary
+-------
+.. include:: includes/conjunction-coordinating-summary.rst
 
-Coordinating conjunctions connect two words, two phrases, or two clauses
+Article
+-------
+
+
 of equal grammatical emphasis. [Examples: "I like apples ***and***
 bananas"; or "He went to the store ***and*** to the library."]
 
@@ -21,5 +25,3 @@ bananas"; or "He went to the store ***and*** to the library."]
   Arise you take the child and the mother of him and flee into Egypt
   "Get up, take the young child and his mother, and flee to Egypt."
 
-Article
--------
