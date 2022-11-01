@@ -5,8 +5,12 @@
 Interjection directive
 ======================
 
-Glossary
---------
+Summary
+-------
+A ``directive interjection`` is an interjection that expresses a direct command.
+
+Article
+-------
 
 Interjections are short expressions of emotion. A *directive
 interjection* includes a directive such as "look!", "come!" John 1:29
