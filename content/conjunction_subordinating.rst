@@ -5,14 +5,13 @@
 Conjunction subordinating
 =========================
 
-Glossary
---------
+Summary
+-------
+.. include:: includes/conjunction-subordinating-summary.rst
 
-A subordinating conjunction is a conjunction that combines an
-independent clause with a dependent clause. A dependent clause cannot
-stand on its own. [example: The boy received a present **because** it
-was his birthday.] Typical subordinating conjunctions are **since**,
-**because**, **before**, and **until**.
+Article
+-------
+Some common subordinating conjunctions include **since**, **because**, **before**, and **until**.
 
 .. csv-table:: Example: Mark 12:34
 
