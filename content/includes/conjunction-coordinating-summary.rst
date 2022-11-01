@@ -1,0 +1,1 @@
+``Coordinating conjunctions`` connect two or more words, phrases, clauses, or sentences that are equally salient within a portion of text.

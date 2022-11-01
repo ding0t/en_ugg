@@ -5,14 +5,13 @@
 Adverb correlative
 ==================
 
-Glossary
---------
+Summary
+-------
+A ``correlative adverb`` is an adverbial particle used with a correlative conjunction to join together two different words, phrases, or clauses.
 
-Correlative adverbs modify a verb by correlating (or corresponding) two
-or more aspects or descriptors of the verb. The correlative adverb is
-followed by a correlative conjunction or conjunctions. Example:
-"**whether** we are awake **or** asleep"; "**either** of Sin... **or**
-of death"
+Article
+-------
+.. include:: includes/particle-correlative-article.rst
 
 .. csv-table:: Example: 1 Thessalonians 5:10
 
@@ -22,5 +21,3 @@ of death"
      live"
   "..whether we are awake or asleep, we may live together with him."
 
-Article
--------
