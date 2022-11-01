@@ -5,18 +5,18 @@
 Interjection response
 =====================
 
-Glossary
---------
+Summary
+-------
+A ``response interjection`` is an interjection that is in reply to a question, usually either "yes" or "no."
 
-Interjections are short expressions of emotion. A response interjection
-is in reply to a question (e.g. "yes", "no").
+Article
+-------
+.. include:: en_uhg/content/includes/particle-interjection-article.rst
 
-::
+
 
                         ἡ   δὲ   εἶπεν    **Ναί**, κύριε       Matthew 15:27
                         hē  de   eipen    **Nai**, kyrie
                         she but  she said **yes**  Lord
                                  she said **yes**  Lord
 
-Article
--------
