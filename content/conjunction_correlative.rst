@@ -9,13 +9,12 @@ Summary
 -------
 
 Correlative particles are used as a pair to join together two different words, phrases, or clauses.
-The first particle is called a *correlative adverb*.
+The first particle is called a correlative adverb.
 The second particle is a ``correlative conjunction``.
-[example: "You may *either* choose this book **or** that book."
 
 Article
 -------
-
+[example: "You may *either* choose this book **or** that book."
 .. csv-table:: Example: Matthew 4:4
 
   "γέγραπται οὐκ> ἐπ’ ἄρτῳ μόνῳ ζήσεται ὁ ἄνθρωπος ἀλλ’ ἐπὶ παντὶ ῥήματι
