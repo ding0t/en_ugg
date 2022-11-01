@@ -18,6 +18,10 @@ determiners identify an object by indicating a possessive relationship
 between the object and another entity. (example: “my book”, “their
 book”)
 
+Form
+----
+.. include:: includes/paradigms/pronoun-personal.rst
+
 .. csv-table:: Example: John 10:27
 
   τὰ πρόβατα τὰ ἐμὰ τῆς φωνῆς μου ἀκούουσιν
