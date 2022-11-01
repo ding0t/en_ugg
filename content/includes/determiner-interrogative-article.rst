@@ -1,2 +1,0 @@
-Some common ``interrogative determiners`` include ποσος, ποιος, ποταπος, and some instances of τίς.
-Interrogative determiners are translated into English uses phrases such as *"How large?"* or *"of what kind?"* or *"How many?"*, etc.
