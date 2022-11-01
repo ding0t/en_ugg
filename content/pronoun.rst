@@ -25,44 +25,17 @@ When a pronoun functions as an adjective, this grammar classifies it as a determ
 
 .. _pronoun-personal:
 Personal Pronoun
-.. include:: includes/paradigm-pronoun-personal.rst
+.. include:: includes/paradigm_pronoun-personal.rst
 
 
 .. _pronoun-demonstrative:
 Demonstrative Pronoun
-
-.. csv-table:: r5 (2-1-2) (οὗτος -  *this*)
-  :header-rows: 1
-
-  ,Masculine,Feminine,Neuter
-  *Singular*,,,
-  Nominative,οὗτος,αὗτη,τοῦτο
-  Genitive,τούτου,ταύτης,τούτου
-  Dative,τούτῳ,ταύτῃ,τούτῳ
-  Accusative,τοῦτον,ταύτην,τοῦτο
-  *Plural*,,,
-  Nominative,οὗτοι,αὗται,ταῦτα
-  Genitive,τούτων,τούτων,τούτων
-  Dative,τούτοις,ταύταις,τούτοις
-  Accusative,τούτους,ταύτας,ταῦτα
-
-.. csv-table:: r6 (2-1-2) (ἐκεῖνος  *that*)
-  :header-rows: 1
-
-  ,Masculine,Feminine,Neuter
-  *Singular*,,,
-  Nominative,ἐκεῖνος,ἐκείνη,ἐκεῖνο
-  Genitive,ἐκείνου,ἐκείνης,ἐκείνου
-  Dative,ἐκείνῳ,ἐκείνῃ,ἐκείνῳ
-  Accusative,ἐκεῖνον,ἐκείνην,ἐκεῖνο
-  *Plural*,,,
-  Nominative,ἐκεῖνοι,ἐκεῖναι,ἐκεῖνα
-  Genitive,ἐκείνων,ἐκείνων,ἐκείνων
-  Dative,ἐκείνοις,ἐκείναις,ἐκείνοις
-  Accusative,ἐκείνους,ἐκείνας,ἐκεῖνα
+.. include:: includes/paradigm_pronoun-demonstrative.rst
 
 .. _pronoun-relative:
 Relative Pronoun
+.. include:: includes/paradigm_pronoun-relative.rst
+
 
 .. csv-table:: r2 (2-1-2) (ὅς  *who,which*)
   :header-rows: 1
