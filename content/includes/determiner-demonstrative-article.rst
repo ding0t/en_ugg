@@ -10,9 +10,9 @@ In the examples above, the word "this" is a "near" demonstrative determiner.
 The word "that" is a "far" demonstrative determiner.
 
 However, sometimes "near" and "far" demonstrative determiners do not necessarily indicate distance from the speaker.
-Sometimes a speaker uses both a "near" and "far" demonstrative determiner to indicate two different items that are the same distance.
+Sometimes a speaker uses both a "near" and a "far" demonstrative determiner to indicate two different items that are the same distance.
 Consider the example above.
-If a person is buying a basket in a shop, they may say to the shopkeeper, "I want this basket, but I don't want that basket."
+If a person is buying a basket in a shop, he may say to the shopkeeper, "I want this basket, but I don't want that basket."
 In cases like this, the "near" and "far" demonstrative determiners may not indicate distance.
 The "near" and "far" demonstrative determiners may be a way a simply distinguishing the basket that is wanted from the basket that is not wanted.
 This is a very common use of demonstrative determiners.
