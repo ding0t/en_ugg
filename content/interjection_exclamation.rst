@@ -13,7 +13,8 @@ Article
 -------
 .. include:: en_uhg/content/includes/particle-interjection-article.rst
 
-Some examples of common interjections in the New Testament (for example, "Woe!" or "Amen" or "Hosanna")
+Some common exclamation interjections in Koiné Greek include the terms αμην, ουαι, ωσαννα, χαιρη (perhaps others?).
+examples of common interjections in the New Testament (for example, "Woe!" or "Amen" or "Hosanna")
 
 
          **ἀμὴν**   γὰρ  λέγω   ὑμῖν          Matthew 5:18
