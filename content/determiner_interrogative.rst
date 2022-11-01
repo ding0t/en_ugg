@@ -13,6 +13,10 @@ Article
 -------
 .. include:: includes/determiner-interrogative-article.rst
 
+Form
+----
+.. include:: includes/paradigms/pronoun-interrogative.rst
+
 .. csv-table:: Example: John 12:33
 
   τοῦτο δὲ ἔλεγεν σημαίνων ποίῳ θανάτῳ ἤμελλεν ἀποθνῄσκειν
