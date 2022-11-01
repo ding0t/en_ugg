@@ -5,9 +5,14 @@
 Adverb correlative
 ==================
 
-Glossary
---------
+Summary
+-------
+Correlative particles are used as a pair to join together two different words, phrases, or clauses.
+The first particle is a ``correlative adverb```.
+The second particle is a correlative conjunction.
 
+Article
+-------
 Correlative adverbs modify a verb by correlating (or corresponding) two
 or more aspects or descriptors of the verb. The correlative adverb is
 followed by a correlative conjunction or conjunctions. Example:
@@ -22,5 +27,3 @@ of death"
      live"
   "..whether we are awake or asleep, we may live together with him."
 
-Article
--------
