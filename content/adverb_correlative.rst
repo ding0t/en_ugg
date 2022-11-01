@@ -7,7 +7,7 @@ Adverb correlative
 
 Summary
 -------
-A ``correlative adverbs`` is used with a correlative conjunction to join together two different words, phrases, or clauses.
+A ``correlative adverb`` is an adverbial particle used with a correlative conjunction to join together two different words, phrases, or clauses.
 
 Article
 -------
