@@ -13,9 +13,7 @@ Article
 -------
 .. include:: includes/determiner-ordinal-article.rst
 
-Determiners are words that identify or quantify a noun. Ordinal
-determiners identify a noun by giving the position of an item in a list.
-(for example “first”, “second”, “third”…)
+
 
 .. csv-table:: Example: Matthew 20:3
 

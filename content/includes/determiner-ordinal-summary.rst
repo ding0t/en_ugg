@@ -1,1 +1,1 @@
-All ordinal numerals in Koiné Greek are considered ``ordinal determiners`` in this grammar.
+``Ordinal determiners`` are ordinal numbers that indicate the position of something in a sequence.
