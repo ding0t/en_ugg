@@ -64,19 +64,7 @@ Interrogative Pronoun
 
 .. _pronoun-reflexive:
 Reflexive Pronoun
-
-.. csv-table:: r8 (2-1) (ἐμαυτοῦ - *of myself*, σεαυτοῦ - *of yourself* )
-  :header-rows: 1
-
-  ,Masculine,Feminine,,Masculine,Feminine
-  *Singular*,ἐμαυταῦ,,,σεαυτοῦ,
-  Genitive,ἐμαυτοῦ,ἐμαυτῆς,,σεαυτοῦ,σεαυτῆς
-  Dative,ἐμαυτῷ,ἐμαυτῇ,,σεαυτῷ,σεαυτῇ
-  Accusative,ἐμαυτόν,ἐμαυτήν,,σεαυτόν,σεαυτήν
-  *Plural*,,,,
-   Genitive,ἑαυτῶν,ἑαυτῶν,,σεαυτῶν,σεαυτῶν
-  Dative,ἑαυτοῖς,ἑαυταῖς,,σεαυτοῖς,σεαυταῖς
-  Accusative,ἑαυτούς,ἑαυτάς,,σεαυτούς,σεαυτάς
+.. include:: includes/paradigms/pronoun-reflexive.rst
 
 Note:  
 -	Reflexive pronouns do not appear in the nominative case because they reflect back on the subject of the sentence.
