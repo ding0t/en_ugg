@@ -7,7 +7,7 @@ Conjunction correlative
 
 Summary
 -------
-A ``correlative conjunction`` is used with a correlative adverb to join together two different words, phrases, or clauses.
+A ``correlative conjunction`` is a conjunctive particle used with a correlative adverb to join together two different words, phrases, or clauses.
 
 Article
 -------
