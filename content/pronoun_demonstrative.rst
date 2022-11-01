@@ -24,6 +24,14 @@ A "far" demonstrative pronoun indicates something at a distance from the speaker
 In the examples above, the word "this" is a "near" demonstrative pronoun.
 The word "that" is a "far" demonstrative pronoun.
 
+However, sometimes "near" and "far" demonstrative pronouns do not necessarily indicate distance from the speaker.
+Sometimes a speaker uses both a "near" and "far" demonstrative pronoun to indicate two different items that are the same distance.
+Consider the example above.
+If a person is buying a basket in a shop, they may say to the shopkeeper, "I want this, but I don't want that."
+In cases like this, the "near" and "far" demonstrative pronouns may not indicate distance.
+The "near" and "far" demonstrative pronouns may be a way a simply distinguishing the basket that is wanted from the basket that is not wanted.
+This is a very common use of demonstrative pronouns.
+
 1. A **demonstrative pronoun** can refer to a noun which is *near*
    (οὗτος, *this*).
 
