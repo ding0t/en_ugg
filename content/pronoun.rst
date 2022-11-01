@@ -25,16 +25,16 @@ When a pronoun functions as an adjective, this grammar classifies it as a determ
 
 .. _pronoun-personal:
 Personal Pronoun
-.. include:: includes/paradigm_pronoun-personal.rst
+.. include:: includes/paradigms/pronoun-personal.rst
 
 
 .. _pronoun-demonstrative:
 Demonstrative Pronoun
-.. include:: includes/paradigm_pronoun-demonstrative.rst
+.. include:: includes/paradigms/pronoun-demonstrative.rst
 
 .. _pronoun-relative:
 Relative Pronoun
-.. include:: includes/paradigm_pronoun-relative.rst
+.. include:: includes/paradigms/pronoun-relative.rst
 
 
 .. csv-table:: r2 (2-1-2) (ὅς  *who,which*)
@@ -59,21 +59,8 @@ Indefinite Pronoun
 
 .. _pronoun-interrogative:
 Interrogative Pronoun
+.. include:: includes/paradigms/pronoun-interrogative.rst
 
-.. csv-table:: r7 (3-3-3) (τίς  *Who?What?Which?Why?*)
-  :header-rows: 1
-
-  ,Masculine,Feminine,Neuter
-  *Singular*,,,
-  Nominative,τίς,τίς,τί
-  Genitive,τίνος,τίνος,τίνος
-  Dative,τίνι,τίνι,τίνι
-  Accusative,τίνα,τίνα,τί
-  *Plural*,,,
-  Nominative,τίνες,τίνες,τίνα
-  Genitive,τίνων,τίνων,τίνων
-  Dative,τίσι(ν),τίσι(ν),τίσι(ν)
-  Accusative,τίνας,τίνας,τίνα
 
 .. _pronoun-reflexive:
 Reflexive Pronoun
