@@ -11,8 +11,6 @@ Summary
 
 Article
 -------
-.. include:: includes/determiner-possessive-article.rst
-
 Possessive determiners indicate an association between an object/thing and a person/entity.
 For example, consider the sentence: "John loves his son."
 The word "my" is a possessive determiner.
