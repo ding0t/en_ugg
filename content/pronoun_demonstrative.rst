@@ -5,7 +5,7 @@
 Pronoun demonstrative
 =====================
 
-Glossary
+Summary
 --------
 
 A **demonstrative pronoun** points to another noun (e.g., *this*,
@@ -13,6 +13,12 @@ A **demonstrative pronoun** points to another noun (e.g., *this*,
 
 Article
 -------
+
+Demonstrative pronouns are classified as either "near" or "far."
+A "near" demonstrative pronoun indicates something near the speaker.
+A "far" demonstrative pronoun indicates something at a distance from the speaker.
+In the examples above, the word "this" is a "near" demonstrative determiner.
+The word "that" is a "far" demonstrative determiner.
 
 1. A **demonstrative pronoun** can refer to a noun which is *near*
    (οὗτος, *this*).
