@@ -13,12 +13,16 @@ A **demonstrative pronoun** points to another noun (e.g., *this*,
 
 Article
 -------
+Demonstrative determiners indicate a specific object or thing by means of a verbal gesture.
+For example, consider the sentences, "I want this," or "I want that."
+The words "this" and "that" are demonstrative pronouns.
+They indicate what is wanted.
 
 Demonstrative pronouns are classified as either "near" or "far."
 A "near" demonstrative pronoun indicates something near the speaker.
 A "far" demonstrative pronoun indicates something at a distance from the speaker.
-In the examples above, the word "this" is a "near" demonstrative determiner.
-The word "that" is a "far" demonstrative determiner.
+In the examples above, the word "this" is a "near" demonstrative pronoun.
+The word "that" is a "far" demonstrative pronoun.
 
 1. A **demonstrative pronoun** can refer to a noun which is *near*
    (οὗτος, *this*).
