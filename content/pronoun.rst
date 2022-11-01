@@ -22,14 +22,17 @@ When a pronoun functions as an adjective, this grammar classifies it as a determ
 
 .. _pronoun-personal:
 Personal Pronoun
+~~~~~~~~~~~~~~~~
 .. include:: includes/paradigms/pronoun-personal.rst
 
 .. _pronoun-demonstrative:
 Demonstrative Pronoun
+~~~~~~~~~~~~~~~~~~~~~
 .. include:: includes/paradigms/pronoun-demonstrative.rst
 
 .. _pronoun-relative:
 Relative Pronoun
+~~~~~~~~~~~~~~~~
 .. include:: includes/paradigms/pronoun-relative.rst
 
 .. csv-table:: r2 (2-1-2) (ὅς  *who,which*)
@@ -49,13 +52,16 @@ Relative Pronoun
 
 .. _pronoun-indefinite:
 Indefinite Pronoun
+~~~~~~~~~~~~~~~~~~
 
 .. _pronoun-interrogative:
 Interrogative Pronoun
+~~~~~~~~~~~~~~~~~~~~~
 .. include:: includes/paradigms/pronoun-interrogative.rst
 
 .. _pronoun-reflexive:
 Reflexive Pronoun
+~~~~~~~~~~~~~~~~~
 .. include:: includes/paradigms/pronoun-reflexive.rst
 
 Note:  
@@ -65,6 +71,7 @@ Note:
 
 .. _pronoun-reciprocal:
 Reciprocal Pronoun
+~~~~~~~~~~~~~~~~~~
 
 αλληλων
 
