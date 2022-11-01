@@ -10,12 +10,16 @@ Summary
 .. include:: includes/determiner-demonstrative-summary.rst
 
 Article
---------
+-------
 .. include:: includes/determiner-demonstrative-article.rst
 
 Determiners are words that identify or quantify a noun. Demonstrative
 Determiners point to a specific object by identifying it as “\ *this
 one*\ ”, “\ *that one*\ ”, or “\ *one of this kind*\ ”.
+
+Form
+----
+.. include:: includes/paradigms/pronoun-demonstrative.rst
 
 .. csv-table:: Example: John 2:19
 
