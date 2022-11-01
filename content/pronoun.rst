@@ -13,11 +13,8 @@ Article
 -------
 .. include:: en_uhg/content/includes/pronoun-article.rst
 
-
-
 Types
 --------
-
 There are several different kinds of pronouns in Koiné Greek.
 Most pronouns can function either as nouns or adjectives in a sentence.
 When a pronoun functions as a noun, this grammar classifies it as a pronoun.
@@ -27,7 +24,6 @@ When a pronoun functions as an adjective, this grammar classifies it as a determ
 Personal Pronoun
 .. include:: includes/paradigms/pronoun-personal.rst
 
-
 .. _pronoun-demonstrative:
 Demonstrative Pronoun
 .. include:: includes/paradigms/pronoun-demonstrative.rst
@@ -35,7 +31,6 @@ Demonstrative Pronoun
 .. _pronoun-relative:
 Relative Pronoun
 .. include:: includes/paradigms/pronoun-relative.rst
-
 
 .. csv-table:: r2 (2-1-2) (ὅς  *who,which*)
   :header-rows: 1
@@ -55,12 +50,9 @@ Relative Pronoun
 .. _pronoun-indefinite:
 Indefinite Pronoun
 
-
-
 .. _pronoun-interrogative:
 Interrogative Pronoun
 .. include:: includes/paradigms/pronoun-interrogative.rst
-
 
 .. _pronoun-reflexive:
 Reflexive Pronoun
