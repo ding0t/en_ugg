@@ -5,14 +5,15 @@
 Conjunction correlative
 =======================
 
-Glossary
---------
+Summary
+-------
 
-Correlative conjunctions consist of *two particles used as a pair* to
-join different words or clauses together. The first particle is a
-*correlative adverb*. The second particle is a **correlative
-conjunction**. [example: "You may *either* choose this book **or** that
+Correlative particles are used as a pair to join together two different words, phrases, or clauses.
+The first particle is called a *correlative adverb*. The second particle is a ``correlative conjunction``. [example: "You may *either* choose this book **or** that
 book."
+
+Article
+-------
 
 .. csv-table:: Example: Matthew 4:4
 
@@ -25,5 +26,4 @@ book."
   """It is written, 'Man shall not live on bread alone, but by every word
      that comes out of the mouth of God.'"""
 
-Article
--------
+
