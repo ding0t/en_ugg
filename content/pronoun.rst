@@ -16,24 +16,37 @@ Article
 Form
 ----
 
-.. csv-table::  ὁ,ἡ,τό  (*he,she,it*)
-  :header-rows: 1
 
-  ,Masculine,Feminine,Neuter
-  *Singular*,,,
-  Nominative,ὁ,ἡ,τό
-  Genitive,τοῦ,τῆς,τοῦ
-  Dative,τῷ,τῇ,τῷ
-  Accusative,τόν,τήν,τό
-  *Plural*,,,
-  Nominative,οἱ,αἱ,τά
-  Genitive,τῶν,τῶν,τῶν
-  Dative,τοῖς,ταῖς,τοῖς
-  Accusative,τούς,τάς,τά
-
-Function
+Types
 --------
 
+There are several different kinds of pronouns in Koiné Greek.
+Most pronouns can function either as nouns or adjectives in a sentence.
+When a pronoun functions as a noun, this grammar classifies it as a pronoun.
+When a pronoun functions as an adjective, this grammar classifies it as a determiner.
+
+.. _pronoun-personal:
+Personal Pronoun
+
+
+
+.. _pronoun-demonstrative:
+Demonstrative Pronoun
+
+.. _pronoun-relative:
+Relative Pronoun
+
+.. _pronoun-indefinite:
+Indefinite Pronoun
+
+.. _pronoun-interrogative:
+Interrogative Pronoun
+
+.. _pronoun-reflexive:
+Reflexive Pronoun
+
+.. _pronoun-reciprocal:
+Reciprocal Pronoun
 
 
 ἐν **αὐτῷ** ζωὴ ἦν John 1:3
