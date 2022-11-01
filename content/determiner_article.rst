@@ -13,6 +13,10 @@ Article
 -------
 .. include:: includes/determiner-article-article.rst
 
+Form
+----
+.. include:: includes/paradigms/definite-article.rst
+
 .. csv-table:: Example: Matthew 1:2
 
   Ἀβραὰμ ἐγέννησεν τὸν Ἰσαάκ Ἰσαὰκ δὲ ἐγέννησεν τὸν Ἰακώβ
@@ -24,10 +28,6 @@ Article
    [Note: In this example the definite article before the names Isaac
    and Jacob are omitted in the smooth translation as the name of an
    individual is already definite in English.]
-
-Form
-----
-
 
 Function
 --------

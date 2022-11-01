@@ -13,6 +13,10 @@ Article
 -------
 .. include:: includes/determiner-relative-article.rst
 
+Form
+----
+.. include:: includes/paradigms/pronoun-relative.rst
+
 Determiners are words that identify or quantify a noun. Relative
 determiners **express a relationship** or **quantify the noun** by
 comparing the noun with another object. (example: “of what sort”, “as
