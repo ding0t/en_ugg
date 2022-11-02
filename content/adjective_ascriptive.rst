@@ -12,7 +12,10 @@ Summary
 
 Article
 -------
+In this grammar, an adjective is classified as "ascriptive" if it is an indefinite adjective (i.e. does NOT take the definite article) and functions attributively.
 
+
+--------------------
 Adjectives occur in five basic patterns when modifying a noun:
 
   #. Noun-article adjective or with an article before the noun (article-noun-article-adjective)
