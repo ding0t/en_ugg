@@ -1,0 +1,1 @@
+A ``restrictive adjective`` is an adjective that functions as an attributive adjective and IS paired with the definite article
