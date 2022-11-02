@@ -139,8 +139,9 @@ The noun being described by an ascriptive adjective may or may not be paired wit
 
 Restrictive adjectives
 ~~~~~~~~~~~~~~~~~~~~~~
-A ``restrictive adjective`` is an adjective that functions as an attributive adjective and IS paired with the definite article.
-The noun being described by a restrictive adjective may or may not be paired with the definite article but is always be a definite noun.
+.. include:: includes/adjective-restrictive-summary.rst
+
+The noun being described by a restrictive adjective may or may not be paired with the definite article but is always a definite noun.
 
 .. csv-table:: John 2:1, "and there was a wedding on **the third day**"
   :header-rows: 0
