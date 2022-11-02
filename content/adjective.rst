@@ -126,7 +126,8 @@ In this example, both ποιμήν and καλός are nominative masculine singu
 
 Ascriptive adjectives
 ~~~~~~~~~~~~~~~~~~~~~
-An ``ascriptive adjective`` is an adjective that functions as an attributive adjective and is NOT paired with the definite article.
+.. include:: includes/adjective-ascriptive-summary.rst
+
 The noun being described by an ascriptive adjective may or may not be paired with the definite article.
 
 .. csv-table:: 1 John 2:7, "I am not writing a **new commandment** to you, but an **old commandment...**"

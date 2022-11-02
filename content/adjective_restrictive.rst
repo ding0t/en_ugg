@@ -5,13 +5,9 @@
 Adjective restrictive
 =====================
 
-Glossary
---------
-
-For the Unlocked Greek Grammar, Restrictive Adjectives are adjectives that are NOT classified as a noun, and 
-DO follow the pattern **Noun-Article-Adjective**.
-
-
+Summary
+-------
+.. include:: includes/adjective-restrictive-summary.rst
 
 Article
 -------

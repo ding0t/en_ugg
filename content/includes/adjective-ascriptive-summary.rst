@@ -1,0 +1,1 @@
+An ``ascriptive adjective`` is an adjective that functions as an attributive adjective and is NOT paired with the definite article.
