@@ -618,7 +618,7 @@ Table V-TA-3a  Formation of Indicative Verbs with a Theme Vowel Based on the Aor
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-hafo" colspan="9">Table V-TA-3a<br><span style="font-weight:normal">Formation of 2nd Aorist Active Indicative</br><span style="font-weight:normal">for Thematic Verbs</th>
+        <th class="tg-hafo" colspan="9"><span style="font-weight:bold">Table V-TA-3a<br><span style="font-weight:normal">Formation of 2nd Aorist Active Indicative</br><span style="font-weight:normal">for Thematic Verbs</th>
       </tr>
     </thead>
     <tbody>
