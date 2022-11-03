@@ -631,7 +631,7 @@ Plural
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-hafo" colspan="9">Table V-TA-3a<br><span style="font-weight:normal">Formation of 2nd Aorist Active Indicative</span><br><br><span style="font-weight:normal">for Thematic Verbs</span></th>
+        <th class="tg-hafo" colspan="9">Table V-TA-3a<br><span style="font-weight:normal">Formation of 2nd Aorist Active Indicative</span><br><span style="font-weight:normal">for Thematic Verbs</span></th>
       </tr>
     </thead>
     <tbody>
@@ -665,20 +665,7 @@ Plural
 
     
 
-Table VTA-3a
-Formation of
-(Second)  Aorist Active Indicative
-for Thematic Verbs
-[Note] Augment	+	2nd Aorist active
-Tense
-Stem	+	Connecting
-vowel	+	Secondary
-Active
-Personal Ending
-ε		λαβ	+	ο/ε	+	μεν	->	ἐλάβομεν
-We took   or We received
-
-Note:  The present tense stem for λἀμβανω (λαμβαν-)  has been changed to λαβ- to form the second aorist tense stem. 
+**Note:**  The present tense stem for λἀμβανω (λαμβαν-)  has been changed to λαβ- to form the second aorist tense stem. 
 
 Because the second aorist active stem ends with a consonant, a connecting vowel is required.   No tense formative is required, because the change in the stem notifies the reader that this is a second aorist verb.
 
