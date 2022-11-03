@@ -798,20 +798,63 @@ Form:  1st Aorist Middle Indicative Verb is formed by:
     
 
 
+Table V-TA-4b Formation of 2nd  Aorist Middle Indicative Verb
+^^^^^
 
-		Table V-TA-4a
-Formation of
-1st Aorist Middle Indicative
-for Thematic Verbs
-Augment	+	Active Aorist Tense Stem	+	Tense
-formative	+	Secondary
-Middle/Passive
-Personal Ending		
-ε		λυ	+	σα	+	μεθα	->	ἐλύσαμεθα
-		We loosed  ourselves
+Table V-TA-4b shows how a Second Aorist Middle indicative verb is formed.
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-8xib{background-color:#fffc9e;text-align:center;vertical-align:top}
+    .tg .tg-8zwo{font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-5frq{font-style:italic;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-8xib" colspan="9"><span style="font-weight:bold">Table V-TA-4b</span><br>Formation of 2ne&nbsp;&nbsp;Aorist Middle Indicative Verbs<br>with a Theme Vowel</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-8zwo">Augment</td>
+        <td class="tg-0lax">+</td>
+        <td class="tg-8zwo">Active Aorist<br>Tense Stem</td>
+        <td class="tg-0lax">+</td>
+        <td class="tg-8zwo">Tense<br>Formative</td>
+        <td class="tg-0lax">+</td>
+        <td class="tg-8zwo">Secondary<br>Middle/Passive<br>Personal Ending</td>
+        <td class="tg-0lax"></td>
+        <td class="tg-0lax"></td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">ε</td>
+        <td class="tg-0lax">+</td>
+        <td class="tg-0lax">γεν</td>
+        <td class="tg-0lax">+</td>
+        <td class="tg-0lax">ο</td>
+        <td class="tg-0lax">+</td>
+        <td class="tg-0lax">μεθα</td>
+        <td class="tg-0lax">-&gt;</td>
+        <td class="tg-0lax">ἐγενόμεθα</td>
+      </tr>
+      <tr>
+        <td class="tg-5frq" colspan="9">We became</td>
+      </tr>
+    </tbody>
+    </table></br>
 
 
-Form:  2nd  Aorist Middle Indicative Verb is formed by:
+
+
+
 
 		Table V-TA-6
 Formation of
