@@ -853,22 +853,8 @@ Table V-TA-4b shows how a Second Aorist Middle indicative verb is formed.
 
 
 
-
-
-
-		Table V-TA-6
-Formation of
-2nd  Aorist Middle Indicative
-for Thematic Verbs
-Augment	+	Active Aorist Tense Stem	+	Connecting
-vowel	+	Secondary
-Middle/Passive
-Personal Ending		
-ε		γεν	+	ο	+	μεθα	->	ἐγενόμεθα
-		We became
-
-
 Form – Aorist Passive indicative verb 
+^^^^^
 
 	Built on the verb λύω - I loose/untie/destroy; χαίρω - I rejoice
 
