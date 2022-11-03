@@ -667,6 +667,80 @@ Form – Aorist  Middle indicative verb
 
 	Built on the verb *λύω* I loose) and *γίνομαι* (I become, I exist)
 
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-34fe{background-color:#c0c0c0;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-hafo" colspan="3"><span style="font-weight:bold">Table V-TA-4</span><br><span style="font-weight:bold">Middle Voice</span><br><span style="font-weight:normal">Aorist Indicative verbs with a theme vowel</span><br>Based or Aorist Active Tense stem</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-7btt"></td>
+        <td class="tg-7btt">1st&nbsp;&nbsp;Aorist</td>
+        <td class="tg-7btt">2nd Aorist</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">Singular</td>
+        <td class="tg-34fe"></td>
+        <td class="tg-0pky"></td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">1 person</td>
+        <td class="tg-0pky">ἐλυσάμην</td>
+        <td class="tg-0pky">ἐγενόμην</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">2 person</td>
+        <td class="tg-0pky">ἐλύσω</td>
+        <td class="tg-0pky">ἐγένου</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">3 person</td>
+        <td class="tg-0pky">ἐλύσατο</td>
+        <td class="tg-0pky">ἐγένετο</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">Plural</td>
+        <td class="tg-llyw"></td>
+        <td class="tg-0pky"></td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">1 person</td>
+        <td class="tg-0pky">ἐλυσάμεθα</td>
+        <td class="tg-0pky">ἐγενόμεθα</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">2 person</td>
+        <td class="tg-0pky">ἐλύσασθε</td>
+        <td class="tg-0pky">ἐγένεσθε</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">3 person</td>
+        <td class="tg-0pky">ἐλύσαντο</td>
+        <td class="tg-0pky">ἐγένοντο</td>
+      </tr>
+    </tbody>
+    </table></br></br>
+
+
+
+
 Middle Voice
 Indicative Verbs with a Theme Vowel
 Based on the Aorist Active Tense Stem
