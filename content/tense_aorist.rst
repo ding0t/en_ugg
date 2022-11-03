@@ -596,6 +596,7 @@ Build on the verb *λάμβανω* (I take, I receive)
 
 
 Table V-TA-3a  Formation of Indicative Verbs with a Theme Vowel Based on the Aorist Active Tense Stem
+^^^^^
 
 
 
@@ -636,7 +637,7 @@ Table V-TA-3a  Formation of Indicative Verbs with a Theme Vowel Based on the Aor
       <tr>
         <td class="tg-8bgf">ε</td>
         <td class="tg-3xi5">+</td>
-        <td class="tg-3xi5">λαβ</td>
+        <td class="tg-3xi5">* λαβ</td>
         <td class="tg-c3ow">+</td>
         <td class="tg-c3ow">ο/ε</td>
         <td class="tg-c3ow">+</td>
@@ -652,18 +653,19 @@ Table V-TA-3a  Formation of Indicative Verbs with a Theme Vowel Based on the Aor
 
     
 
-**Note:**  The present tense stem for λἀμβανω (λαμβαν-)  has been changed to λαβ- to form the second aorist tense stem. 
+**Note:**  * The present tense stem for λἀμβανω (λαμβαν-)  has been changed to λαβ- to form the second aorist tense stem. 
 
-Because the second aorist active stem ends with a consonant, a connecting vowel is required.   No tense formative is required, because the change in the stem notifies the reader that this is a second aorist verb.
+  *  Because the second aorist active stem ends with a consonant, a connecting vowel is required.   No tense formative is required, because the change in the stem notifies the reader that this is a second aorist verb.
 
-The second aorist uses the same connecting vowels as the present active indicative.
+  *  The second aorist uses the same connecting vowels as the present active indicative.
 
 
 
  
-Form – Aorist  Middle indicative verb 
+Form – Aorist  Middle indicative verb
+^^^^^
 
-	Built on the verb λύω I loose) and γίνομαι (I become, I exist)
+	Built on the verb *λύω* I loose) and *γίνομαι* (I become, I exist)
 
 Middle Voice
 Indicative Verbs with a Theme Vowel
