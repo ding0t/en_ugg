@@ -590,25 +590,12 @@ Build on the verb *λάμβανω* (I take, I receive)
         <td class="tg-0lax">ἐλάβοντο</td>
       </tr>
     </tbody>
-    </table></br>
+    </table></br></br>
 
     
 
 
-Indicative Verbs with a Theme Vowel
-Based on the Aorist Active Tense Stem
-Table V-TA-3
-	2nd Aorist
-Singular  	
-1 person	ἐλαβόμην
-2 person	ἐλάβου
-3 person	ἐλάβετο
-Plural	
-1 person	ἐλαβόμεθα
-2 person	ἐλάβεσθε
-3 person	ἐλάβοντο
-
-
+Table V-TA-3a  Formation of Indicative Verbs with a Theme Vowel Based on the Aorist Active Tense Stem
 
 
 
@@ -631,7 +618,7 @@ Plural
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-hafo" colspan="9">Table V-TA-3a<br><span style="font-weight:normal">Formation of 2nd Aorist Active Indicative</span><br><span style="font-weight:normal">for Thematic Verbs</span></th>
+        <th class="tg-hafo" colspan="9">Table V-TA-3a<br><span style="font-weight:normal">Formation of 2nd Aorist Active Indicative</br><span style="font-weight:normal">for Thematic Verbs</th>
       </tr>
     </thead>
     <tbody>
