@@ -665,6 +665,8 @@ Table V-TA-3a  Formation of Indicative Verbs with a Theme Vowel Based on the Aor
 Form – Aorist  Middle indicative verb
 ^^^^^
 
+Table V-TA-4 illustrates the formation of typical Middle Aorist Active verbs with a Theme Vowel
+
 	Built on the verb *λύω* I loose) and *γίνομαι* (I become, I exist)
 
 .. raw:: html
@@ -739,29 +741,65 @@ Form – Aorist  Middle indicative verb
     </table></br></br>
 
 
-
-
-Middle Voice
-Indicative Verbs with a Theme Vowel
-Based on the Aorist Active Tense Stem
-Table V-TA- 4
-	Aorist
-Middle
-	1st Aorist	2nd Aorist
-Singular  		
-1 person	ἐλυσάμην	ἐγενόμην
-2 person	ἐλύσω	ἐγένου
-3 person	ἐλύσατο	ἐγένετο
-Plural		
-1 person	ἐλυσάμεθα	ἐγενόμεθα
-2 person	ἐλύσασθε	ἐγένεσθε
-3 person	ἐλύσαντο	ἐγένοντο
+Table V-TA-4a  Formation of  1st Aorist Middle Indicative Thematic Verbs
+^^^^^^
 
 
 Form:  1st Aorist Middle Indicative Verb is formed by:
 
+.. raw:: html
 
-		Table V-TA-5
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-8xib{background-color:#fffc9e;text-align:center;vertical-align:top}
+    .tg .tg-8zwo{font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-5frq{font-style:italic;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-8xib" colspan="9"><span style="font-weight:bold">Table V-TA-4a</span><br>Formation of 1st Aorist Middle Indicative Verbs<br>with a Theme Vowel</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-8zwo">Augment</td>
+        <td class="tg-0lax">+</td>
+        <td class="tg-8zwo">Active Aorist<br>Tense Stem</td>
+        <td class="tg-0lax">+</td>
+        <td class="tg-8zwo">Tense<br>Formative</td>
+        <td class="tg-0lax">+</td>
+        <td class="tg-8zwo">Secondary<br>Middle/Passive<br>Personal Ending</td>
+        <td class="tg-0lax"></td>
+        <td class="tg-0lax"></td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">ε</td>
+        <td class="tg-0lax">+</td>
+        <td class="tg-0lax">λυ</td>
+        <td class="tg-0lax">+</td>
+        <td class="tg-0lax">σα</td>
+        <td class="tg-0lax">+</td>
+        <td class="tg-0lax">μεθα</td>
+        <td class="tg-0lax">-&gt;</td>
+        <td class="tg-0lax">ἐλυσάμεθα</td>
+      </tr>
+      <tr>
+        <td class="tg-5frq" colspan="9">We loosed ourselves</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+    
+
+
+
+		Table V-TA-4a
 Formation of
 1st Aorist Middle Indicative
 for Thematic Verbs
