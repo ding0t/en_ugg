@@ -15,9 +15,9 @@ has occurred or occurs), without reference to its duration or completeness.
 In the indicative mood and aorist participles, the aorist tense generally refers to an unspecified kind of action that occurred
 in the past. The action is described as a whole (e.g., he wrote).
 
-Example:  Table VTA-1  General example of Aorist tense
+Example:  Table V-TA-1  General example of Aorist tense
 
-.. csv-table:: VTA-1  Example Aorist tense
+.. csv-table:: V-TA-1  Example Aorist tense
   :header-rows:  1
  
   John 1:3
@@ -106,7 +106,7 @@ A 2nd Aorist verb is first formed by making a change to the present tense stem f
 
 
 
-Table V-2A-2   First Aorist Active Indicative for Thematic Verbs
+Table V-TA-2   First Aorist Active Indicative for Thematic Verbs
 ^^^^^
 
 	Built on the verb  **λύω** (*I loose*) and **κρίνω** (*I judge*)
@@ -523,9 +523,13 @@ The 1st Aorist Active Indicative for a verb is formed by using:
 
 
 
-Form – Second Aorist Active Indicative
+Table V-TA-3 – Second Aorist Active Indicative
+^^^^^
 
-Build on the verb λάμβανω (I take, I receive)
+Build on the verb *λάμβανω* (I take, I receive)
+
+
+
 
 Indicative Verbs with a Theme Vowel
 Based on the Aorist Active Tense Stem
@@ -542,6 +546,60 @@ Plural
 
 
 
+
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-hafo" colspan="9">Table V-TA-3a<br><span style="font-weight:normal">Formation of 2nd Aorist Active Indicative</span><br><br><span style="font-weight:normal">for Thematic Verbs</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-7btt">Augment</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-7btt">1st Aorist<br> Active<br>Tense Stem</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-7btt">* Tense<br>Formative</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-7btt">Secondary<br>Active<br>Personal Ending</td>
+        <td class="tg-llyw"></td>
+        <td class="tg-0pky"></td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">ε</td>
+        <td class="tg-3xi5">+</td>
+        <td class="tg-3xi5">λαβ</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">ο/ε</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">μεν</td>
+        <td class="tg-c3ow">-&gt;</td>
+        <td class="tg-c3ow">ἐλάβομεν</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf" colspan="9">We took<span style="font-style:italic">    or We received</span></td>
+      </tr>
+    </tbody>
+    </table></br>
+
+    
 
 Table VTA-3a
 Formation of
