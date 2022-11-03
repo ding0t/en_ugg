@@ -528,7 +528,71 @@ Table V-TA-3 – Second Aorist Active Indicative
 
 Build on the verb *λάμβανω* (I take, I receive)
 
+.. raw:: html
 
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-34fe{background-color:#c0c0c0;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
+    .tg .tg-5frq{font-style:italic;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-hafo" colspan="2"><span style="font-weight:bold">Table V-TA-3</span><br><span style="font-weight:normal">2nd Aorist Indicative verbs with a theme vowel</span><br>Based or Aorist Active Tense stem</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-7btt"></td>
+        <td class="tg-7btt">2nd Aorist</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">Singular</td>
+        <td class="tg-34fe"></td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">1 person</td>
+        <td class="tg-0pky">ἐλαβόμην</td>
+      </tr>
+      <tr>
+        <td class="tg-baqh">2 person</td>
+        <td class="tg-0lax">ἐλάβου</td>
+      </tr>
+      <tr>
+        <td class="tg-baqh">3 person</td>
+        <td class="tg-0lax">ἐλάβετο</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">Plural</td>
+        <td class="tg-y6fn"></td>
+      </tr>
+      <tr>
+        <td class="tg-5frq">1 person</td>
+        <td class="tg-0lax">ἐλαβόμεθα</td>
+      </tr>
+      <tr>
+        <td class="tg-5frq">2 person</td>
+        <td class="tg-0lax">ἐλάβεσθε</td>
+      </tr>
+      <tr>
+        <td class="tg-5frq">3 person</td>
+        <td class="tg-0lax">ἐλάβοντο</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+    
 
 
 Indicative Verbs with a Theme Vowel
