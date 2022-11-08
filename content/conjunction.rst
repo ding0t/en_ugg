@@ -37,41 +37,119 @@ This is not a complete list, but it represents the major categories of meaning f
 .. _conjunction-conjunctive:
 .. include:: en_uhg/content/includes/conjunction-conjunctive.rst
 
+#1
+
+#2
+
+#3
+
 .. _conjunction-alternative:
 .. include:: en_uhg/content/includes/conjunction-alternative.rst
+
+#1
+
+#2
+
+#3
 
 .. _conjunction-contrastive:
 .. include:: en_uhg/content/includes/conjunction-contrastive.rst
 
+#1
+
+#2
+
+#3
+
 .. _conjunction-causal:
 .. include:: en_uhg/content/includes/conjunction-causal.rst
+
+#1
+
+#2
+
+#3
 
 .. _causal-result:
 .. include:: en_uhg/content/includes/causal-result.rst
 
+#1
+
+#2
+
+#3
+
 .. _causal-purpose:
 .. include:: en_uhg/content/includes/causal-purpose.rst
+
+#1
+
+#2
+
+#3
 
 .. _conjunction-conditional:
 .. include:: en_uhg/content/includes/conjunction-conditional.rst
 
+#1
+
+#2
+
+#3
+
 .. _conditional-hypothetical:
 .. include:: en_uhg/content/includes/conditional-hypothetical.rst
+
+#1
+
+#2
+
+#3
 
 .. _conditional-actual:
 .. include:: en_uhg/content/includes/conditional-actual.rst
 
+#1
+
+#2
+
+#3
+
 .. _conjunction-simultaneous:
 .. include:: en_uhg/content/includes/conjunction-simultaneous.rst
+
+#1
+
+#2
+
+#3
 
 .. _conjunction-explicative:
 .. include:: en_uhg/content/includes/conjunction-explicative.rst
 
+#1
+
+#2
+
+#3
+
 .. _conjunction-concessive:
 .. include:: en_uhg/content/includes/conjunction-concessive.rst
 
+#1
+
+#2
+
+#3
+
 .. _conjunction-restrictive:
 .. include:: en_uhg/content/includes/conjunction-restrictive.rst
+
+#1
+
+#2
+
+#3
 
 .. _conjunction-asseverative
 .. include:: en_uhg/content/includes/conjunction-asseverative.rst
