@@ -13,6 +13,9 @@ Article
 -------
 Some common subordinating conjunctions include **since**, **because**, **before**, and **until**.
 
+Examples
+--------
+
 .. csv-table:: Example: Mark 12:34
 
   "ὁ Ἰησοῦς ἰδὼν αὐτὸν ὅτι νουνεχῶς ἀπεκρίθη εἶπεν αὐτῷ οὐ μακρὰν εἶ ἀπὸ
@@ -24,5 +27,3 @@ Some common subordinating conjunctions include **since**, **because**, **before*
   "When Jesus saw that he had given a wise answer, he said to him, ""You
      are not far from the kingdom of God."""
 
-Article
--------
