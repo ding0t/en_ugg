@@ -16,16 +16,13 @@ Article
 Examples
 --------
 
-.. csv-table:: Example: Matthew 4:4
+.. csv-table:: Example: 1 Thessalonians 5:10
 
-  "γέγραπται οὐκ> ἐπ’ ἄρτῳ μόνῳ ζήσεται ὁ ἄνθρωπος ἀλλ’ ἐπὶ παντὶ ῥήματι
-     ἐκπορευομένῳ διὰ στόματος Θεοῦ"
-  "gegraptai ouk ep’ artō monō zēsetai ho anthrōpos all’ epi panti
-     rhēmati ekporeuomenō dia stomatos Theou"
-  "It is written not by bread alone he will live the man, but by every
-     word which comes out of mouth of God"
-  """It is written, 'Man shall not live on bread alone, but by every word
-     that comes out of the mouth of God.'"""
+  ..εἴτε γρηγορῶμεν εἴτε καθεύδωμεν ἅμα σὺν αὐτῷ ζήσωμεν
+  ..eite grēgorōmen eite katheudōmen hama syn autō zēsōmen
+  "..whether we are awake or we are asleep together with him we will
+     live"
+  "..whether we are awake or asleep, we may live together with him."
 
 #2
 
