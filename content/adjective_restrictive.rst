@@ -11,7 +11,20 @@ Summary
 
 Article
 -------
+In this grammar, an adjective is classified as "restrictive" if it is definite (i.e. takes a definite article) and describes a definite noun.
+The noun may or may not take the definite article.
 
+Examples
+--------
+
+#1
+
+#2
+
+#3
+
+TO BE DELETED
+-------------
 Adjectives occur in five basic patterns when modifying a noun:
   #. Noun-article-adjective or with the article before the noun (article-noun-article-adjective)
   #. Article-adjective-noun
@@ -19,10 +32,8 @@ Adjectives occur in five basic patterns when modifying a noun:
   #. Adjective-noun
   #. Noun-adjective
 
-Pattern 1 is classified as restrictive in the Unlocked Greek Grammar and the 
- `Unfolding_Word_Greek_New_Testament <https://klappy.github.io/translation-helps/?owner=door43-catalog&rc=/en/ult/>`_.
-
-Patterns 2, 3, 4, and 5, are classified as ascriptive in the Unlocked Greek Grammar and the Unfolding Word Greek New Testament.
+Pattern 1 is classified as restrictive in the UGNT and UGG.
+Patterns 2, 3, 4, and 5, are classified as ascriptive in the UGG and the UGNT.
 
 
 INCORRECT DEFINITION OF RESTRICTIVE ADJECTIVE **FOR UNLOCKED GREEK GRAMMAR**
