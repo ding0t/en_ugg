@@ -13,6 +13,9 @@ Article
 -------
 .. include:: includes/particle-correlative-article.rst
 
+Examples
+--------
+
 .. csv-table:: Example: Matthew 4:4
 
   "γέγραπται οὐκ> ἐπ’ ἄρτῳ μόνῳ ζήσεται ὁ ἄνθρωπος ἀλλ’ ἐπὶ παντὶ ῥήματι
@@ -24,4 +27,6 @@ Article
   """It is written, 'Man shall not live on bread alone, but by every word
      that comes out of the mouth of God.'"""
 
+#2
 
+#3
