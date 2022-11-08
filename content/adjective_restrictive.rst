@@ -14,8 +14,17 @@ Article
 In this grammar, an adjective is classified as "restrictive" if it is definite (i.e. takes a definite article) and describes a definite noun.
 The noun may or may not take the definite article.
 
+Examples
+--------
 
-----------------------------
+#1
+
+#2
+
+#3
+
+TO BE DELETED
+-------------
 Adjectives occur in five basic patterns when modifying a noun:
   #. Noun-article-adjective or with the article before the noun (article-noun-article-adjective)
   #. Article-adjective-noun
