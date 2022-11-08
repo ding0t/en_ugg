@@ -11,7 +11,19 @@ Summary
 
 Article
 -------
-Some common subordinating conjunctions include **since**, **because**, **before**, and **until**.
+In English, some common subordinating conjunctions include the words "since," "because," "before," and "until."
+These conjunctions are often to connect phrases that, logically, are NOT equally salient to the text.
+For example, consider the sentence: "I like apples because they are juicy."
+In the above sentence, the word "because" is a subordinating conjunction.
+It indicates the reason why the speaker likes apples.
+It does NOT indicate why apples are juicy.
+The second clause ("they are juicy") is NOT as logically salient to the text as the first clause ("I like apples").
+For another example, consider the sentence: "John went to the store until it closed."]
+In the above sentence, the word "until" is a subordinating conjunction.
+It indicates how long John went to the store.
+It does NOT indicate how long the store stayed open.
+The second clause ("it close") is NOT as logically salient to the text as the first clause ("John went to the store").
+
 
 Examples
 --------
