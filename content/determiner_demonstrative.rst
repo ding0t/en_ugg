@@ -47,3 +47,7 @@ Examples
      three days I will raise it"
   "Jesus replied, ""Destroy this temple, and in three days I will raise
      it up."""
+
+#2
+
+#3
