@@ -956,9 +956,7 @@ Table V-TA-5  Aorist Passive Verbs with a theme vowel
 
 
 
-Form:  1st Aorist Passive Indicative Verb is formed by:
-
-Table V-TA-5a  Formation of 1st Aorist Passive Indicative for Thematic Verbs
+Form: Table V-TA-5a  Formation of 1st Aorist Passive Indicative for Thematic Verbs
 
 
 .. raw:: html
@@ -1010,7 +1008,6 @@ Table V-TA-5a  Formation of 1st Aorist Passive Indicative for Thematic Verbs
 
 The First Aorist Passive Indicative verb is formed by:
 
-
   #.  an **Augment**
 
   #.  plus the **First Aorist Active tense stem**
@@ -1028,16 +1025,63 @@ The First Aorist Passive Indicative verb is formed by:
 Form:  2nd  Aorist Passive Indicative Verb is formed by:
 
 	  Based on χαίρω (I rejoice)
-		Table V-TA-8a
-Formation of
-2nd  Aorist Passive Indicative
-for Thematic Verbs
-Augment	+	Active Aorist Tense Stem	+	Tense
-formative	+	Secondary
-Active
-Personal Ending		
-ε		χαρ	+	η	+	ν	->	ἐχάρην
-		I was glad 
+
+Table V-TA-5b Formation of 2nd  Aorist Passive Indicative for Thematic Verbs
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-kt43{background-color:#fffc9e;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-rvyq{border-color:inherit;font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-7g6k{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-kt43" colspan="9">Table V-TA-5b<br>Formation of 2nd Aorist Passive Indicative Verbs<br>with a Theme Vowel</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-c3ow"><span style="font-weight:bold;font-style:italic">Augment</span></td>
+        <td class="tg-1wig">+</td>
+        <td class="tg-1wig">Aorist Passive<br>Tense Stem</td>
+        <td class="tg-0lax"><span style="font-weight:bold">+</span></td>
+        <td class="tg-1wig">Tense<br>Formative</td>
+        <td class="tg-1wig">+</td>
+        <td class="tg-1wig">Secondary<br>Active<br>Personal<br>Ending</td>
+        <td class="tg-7btt"></td>
+        <td class="tg-rvyq"></td>
+      </tr>
+      <tr>
+        <td class="tg-rvyq"><span style="font-weight:normal">ε</span></td>
+        <td class="tg-1wig">+</td>
+        <td class="tg-baqh">χαρ</td>
+        <td class="tg-1wig">+</td>
+        <td class="tg-baqh">η</td>
+        <td class="tg-1wig">+</td>
+        <td class="tg-0lax">ν</td>
+        <td class="tg-7g6k">-&gt;</td>
+        <td class="tg-3xi5">ἐχάρην</td>
+      </tr>
+      <tr>
+        <td class="tg-rvyq" colspan="9">I was glad</td>
+      </tr>
+    </tbody>
+    </table></br/>
+
+
 
 [Note] The  θ is dropped from the tense formative.
 [Note]   The aorist passive uses Secondary Active endings instead of the expected middle and passive endings. 
