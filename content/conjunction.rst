@@ -101,7 +101,7 @@ Luke 16:31
 .. _conditional-hypothetical:
 .. include:: en_uhg/content/includes/conditional-hypothetical.rst
 
-#1
+λυσιτελεῖ αὐτῷ εἰ [d]λίθος μυλικὸς περίκειται περὶ τὸν τράχηλον αὐτοῦ καὶ ἔρριπται εἰς τὴν θάλασσαν ἢ ἵνα σκανδαλίσῃ [e]τῶν μικρῶν τούτων ἕνα.
 
 #2
 
