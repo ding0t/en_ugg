@@ -1022,9 +1022,7 @@ The First Aorist Passive Indicative verb is formed by:
 [Note] – The aorist passive uses Secondary **Active** personal endings instead of the expected middle and passive endings.
 
 
-Form:  2nd  Aorist Passive Indicative Verb is formed by:
-
-	  Based on χαίρω (I rejoice)
+Form:  2nd  Aorist Passive Indicative Verb  [Based on χαίρω (I rejoice)]
 
 Table V-TA-5b Formation of 2nd  Aorist Passive Indicative for Thematic Verbs
 
@@ -1084,7 +1082,13 @@ Table V-TA-5b Formation of 2nd  Aorist Passive Indicative for Thematic Verbs
 
 
 [Note] The  θ is dropped from the tense formative.
-[Note]   The aorist passive uses Secondary Active endings instead of the expected middle and passive endings. 
+[Note]   The aorist passive uses Secondary **Active** endings instead of the expected middle and passive endings. 
+
+
+
+
+
+
 
 
 •	The Secondary middle/passive personal endings are shown in the lower right quadrant (Quadrant 4) of Verb Master Chart Table 4.
