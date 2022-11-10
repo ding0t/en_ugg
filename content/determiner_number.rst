@@ -82,3 +82,6 @@ One follows a 3-1-3 pattern but only occurs in the singular.   The numbers two t
   eiden dyo adelphous
   he saw two brothers
   he saw two brothers
+
+Luke 16:28
+ἔχω γὰρ πέντε ἀδελφούς
