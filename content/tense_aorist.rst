@@ -825,7 +825,7 @@ Table V-TA-4b shows how a Second Aorist Middle indicative verb is formed.
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-8xib" colspan="9"><span style="font-weight:bold">Table V-TA-4b</span><br>Formation of 2ne&nbsp;&nbsp;Aorist Middle Indicative Verbs<br>with a Theme Vowel</th>
+        <th class="tg-8xib" colspan="9"><span style="font-weight:bold">Table V-TA-4b</span><br>Formation of 2nd Aorist Middle Indicative Verbs<br>with a Theme Vowel</th>
       </tr>
     </thead>
     <tbody>
