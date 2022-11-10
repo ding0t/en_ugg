@@ -48,6 +48,7 @@ Examples
   "Jesus replied, ""Destroy this temple, and in three days I will raise
      it up."""
 
-#2
+Matthew 7:24
+Πᾶς οὖν ὅστις ἀκούει μου τοὺς λόγους τούτους
 
 #3
