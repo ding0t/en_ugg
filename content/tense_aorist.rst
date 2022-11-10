@@ -792,7 +792,7 @@ Form:  1st Aorist Middle Indicative Verb is formed by:
     </tbody>
     </table></br>
 
- [Note]:  The First Aorist Middle  Indicative verb is formed by:
+[Note]:  The First Aorist Middle  Indicative verb is formed by:
 
 
   #.  an **Augment**
