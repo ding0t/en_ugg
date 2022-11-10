@@ -39,3 +39,6 @@ Examples
   "When Jesus saw that he had given a wise answer, he said to him, ""You
      are not far from the kingdom of God."""
 
+#2
+
+#3
