@@ -801,7 +801,7 @@ Form:  1st Aorist Middle Indicative Verb is formed by:
 
   #.  plus the **Aorist Tense Formative**,
   
-  #.  plus the appropriate secondary middle/passive personal ending
+  #.  plus the **appropriate secondary middle/passive personal ending**
 
 
 Table V-TA-4b Formation of 2nd  Aorist Middle Indicative Verb
@@ -834,7 +834,7 @@ Table V-TA-4b shows how a Second Aorist Middle indicative verb is formed.
         <td class="tg-0lax">+</td>
         <td class="tg-8zwo">Active Aorist<br>Tense Stem</td>
         <td class="tg-0lax">+</td>
-        <td class="tg-8zwo">Tense<br>Formative</td>
+        <td class="tg-8zwo">Connecting<br>Vowel</td>
         <td class="tg-0lax">+</td>
         <td class="tg-8zwo">Secondary<br>Middle/Passive<br>Personal Ending</td>
         <td class="tg-0lax"></td>
@@ -858,11 +858,24 @@ Table V-TA-4b shows how a Second Aorist Middle indicative verb is formed.
     </table></br>
 
 
+[Note]:  The Second Aorist Middle  Indicative verb is formed by:
+
+
+  #.  an **Augment**
+
+  #.  plus the **Second Aorist Active tense stem**
+
+  #.  plus the **Connecting Vowel**,(a tense formative is not needed because of the change in the stem from the present tense)
+  
+  #.  plus the **appropriate secondary middle/passive personal ending**
+
+
+
 
 Form – Aorist Passive indicative verb 
 ^^^^^
 
-	Built on the verb λύω - I loose/untie/destroy; χαίρω - I rejoice
+Built on the verb λύω - I loose/untie/destroy; χαίρω - I rejoice
 
 
 Table V-TA-7
