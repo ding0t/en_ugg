@@ -143,8 +143,8 @@ Table V-TA-2   First Aorist Active Indicative for Thematic Verbs
       </tr>
       <tr>
         <td class="tg-f8tv">1 person</td>
-        <td class="tg-0pky">* ἔλυσα</td>
-        <td class="tg-0pky">ἔκρινα</td>
+        <td class="tg-0pky">ἔλυσα</td>
+        <td class="tg-0pky">*  ἔκρινα</td>
       </tr>
       <tr>
         <td class="tg-f8tv">2 person</td>
@@ -179,7 +179,10 @@ Table V-TA-2   First Aorist Active Indicative for Thematic Verbs
     </tbody>
     </table> </br>
 
-[Note]  * The Aorist tense formative for liquid aorist verbs is “ α  ”.  The sigma is dropped.    
+[Note]  * The Aorist tense formative for liquid aorist verbs is “ α  ”.  The sigma is dropped.
+  *  a)  1st person singular (ἔλυσα) - Where one would expect a nu (ν), the personal ending is dropped and so the tense formative stands by itself.
+  *  b)  3rd person singular [ἔλυσε (ν)] – The nu (ν) is dropped and the alpha (α) of the tense formative is changed to an epsilon (ε).  If the following word begins with a vowel a moveable nu (ν) is added. 
+
 
 
 Table V-TA-2a  Formation of First Aorist Active Indicative Thematic Verbs
