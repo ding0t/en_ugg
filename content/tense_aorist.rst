@@ -792,7 +792,12 @@ Form:  1st Aorist Middle Indicative Verb is formed by:
     </tbody>
     </table></br>
 
-    
+ [Note]:  The First Aorist Middle  Indicative verb is formed by:
+
+   *  (1) an **Augment**
+   *  (2) plus the **First Aorist Active tense stem**
+   *  (3) plus the **Aorist Tense Formative**,
+   *  (4) plus the appropriate secondary middle/passive personal ending
 
 
 Table V-TA-4b Formation of 2nd  Aorist Middle Indicative Verb
