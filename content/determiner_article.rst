@@ -28,9 +28,6 @@ Form
      Jacob"
   "Abraham was the father of Isaac, and Isaac the father of Jacob"
 
-   [Note: In this example the definite article before the names Isaac
-   and Jacob are omitted in the smooth translation as the name of an
-   individual is already definite in English.]
 
 Function
 --------
