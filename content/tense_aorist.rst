@@ -895,10 +895,59 @@ Plural
 
 Form:  1st Aorist Passive Indicative Verb is formed by:
 
-		Table V-TA-8
-Formation of
-1st Aorist Passive Indicative
-for Thematic Verbs
+Table V-TA-8  Formation of 1st Aorist Passive Indicative for Thematic Verbs
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-hafo" colspan="9"><span style="font-weight:bold">Table V-TA-5a</span><br>Formation of 1st  Aorist Passive Indicative Verbs<br>with a Theme Vowel</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-8bgf">Augment</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-8bgf">Aorist Passive<br>Tense Stem</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-8bgf">Tense<br>Formative</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-8bgf">Secondary<br>Active<br>Personal Ending</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">λυ</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">θη</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">ν</td>
+        <td class="tg-c3ow">-&gt;</td>
+        <td class="tg-c3ow">ἐλύθην</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf" colspan="9">I was loosed</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+    
+
+
+
 Augment	+	Active Aorist Tense Stem	+	Tense
 formative	+	Secondary
 Active
