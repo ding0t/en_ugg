@@ -39,6 +39,8 @@ Examples
   "When Jesus saw that he had given a wise answer, he said to him, ""You
      are not far from the kingdom of God."""
 
-#2
+Matthew 12:17
+Μετανοεῖτε, ἤγγικεν γὰρ ἡ βασιλεία τῶν οὐρανῶν.
 
-#3
+MAtthew 7:1
+Μὴ κρίνετε, ἵνα μὴ κριθῆτε·
