@@ -34,6 +34,8 @@ Examples
   Arise you take the child and the mother of him and flee into Egypt
   "Get up, take the young child and his mother, and flee to Egypt."
 
-#2
+Matthew 3:3
+οὗτος γάρ ἐστιν ὁ ῥηθεὶς [b]διὰ Ἠσαΐου τοῦ προφήτου λέγοντος
 
-#3
+Matthew 3:4
+αὐτὸς δὲ ὁ Ἰωάννης εἶχεν τὸ ἔνδυμα αὐτοῦ ἀπὸ τριχῶν καμήλου
