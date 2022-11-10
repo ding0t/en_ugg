@@ -17,7 +17,8 @@ The noun may or may not take the definite article.
 Examples
 --------
 
-#1
+John 10:11
+Ἐγώ εἰμι ὁ ποιμὴν ὁ καλός
 
 #2
 
