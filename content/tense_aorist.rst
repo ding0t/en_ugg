@@ -878,9 +878,83 @@ Form – Aorist Passive indicative verb
 Built on the verb λύω - I loose/untie/destroy; χαίρω - I rejoice
 
 
-Table V-TA-7
-Verbs with a Theme Vowel
-Based on the Aorist Passive Tense Stem
+Table V-TA-5  Aorist Passive Verbs with a theme vowel
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-34fe{background-color:#c0c0c0;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-ihln{font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-rvyq{border-color:inherit;font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-hafo" colspan="3"><span style="font-weight:bold">Table V-TA-5</span><br><span style="font-weight:bold">Aorist Passive Verbs</span><br>with a Theme Vowel<br>based on the Aorist Passive Tense Stem</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-8bgf"></td>
+        <td class="tg-7btt">1st Aorist</td>
+        <td class="tg-rvyq">2nd Aorist</td>
+      </tr>
+      <tr>
+        <td class="tg-rvyq">Singular</td>
+        <td class="tg-34fe"></td>
+        <td class="tg-34fe"></td>
+      </tr>
+      <tr>
+        <td class="tg-7btt">1 person</td>
+        <td class="tg-0pky">ἐλύθην</td>
+        <td class="tg-0pky">ἐχάρην</td>
+      </tr>
+      <tr>
+        <td class="tg-ihln">2 person</td>
+        <td class="tg-0lax">ἐλύθης</td>
+        <td class="tg-0lax">ἐχάρης</td>
+      </tr>
+      <tr>
+        <td class="tg-ihln">3 person</td>
+        <td class="tg-0lax">ἐλύθη</td>
+        <td class="tg-0lax">ἐχάρη</td>
+      </tr>
+      <tr>
+        <td class="tg-ihln">Plural</td>
+        <td class="tg-y6fn"></td>
+        <td class="tg-y6fn"></td>
+      </tr>
+      <tr>
+        <td class="tg-ihln">1 person</td>
+        <td class="tg-0lax">ἐλύθημεν</td>
+        <td class="tg-0lax">ἐχάρημεν</td>
+      </tr>
+      <tr>
+        <td class="tg-ihln">2 person</td>
+        <td class="tg-0lax">ἐλύθητε</td>
+        <td class="tg-0lax">ἐχάρητε</td>
+      </tr>
+      <tr>
+        <td class="tg-ihln">3 person</td>
+        <td class="tg-0lax">ἐλύθησαν</td>
+        <td class="tg-0lax">ἐχάρησαν</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+
+
 
 	1st Aorist	2nd Aorist
 Singular  		
