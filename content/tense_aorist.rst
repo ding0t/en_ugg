@@ -879,6 +879,7 @@ Built on the verb λύω - I loose/untie/destroy; χαίρω - I rejoice
 
 
 Table V-TA-5  Aorist Passive Verbs with a theme vowel
+#####
 
 .. raw:: html
 
@@ -955,21 +956,10 @@ Table V-TA-5  Aorist Passive Verbs with a theme vowel
 
 
 
-
-	1st Aorist	2nd Aorist
-Singular  		
-1 person	ἐλύθην	ἐχάρην
-2 person	ἐλύθης	ἐχάρης
-3 person	ἐλύθη	ἐχάρη
-Plural		
-1 person	ἐλύθημεν	ἐχάρημεν
-2 person	ἐλύθητε	ἐχάρητε
-3 person	ἐλύθησαν	ἐχάρησαν
-
-
 Form:  1st Aorist Passive Indicative Verb is formed by:
 
-Table V-TA-8  Formation of 1st Aorist Passive Indicative for Thematic Verbs
+Table V-TA-5a  Formation of 1st Aorist Passive Indicative for Thematic Verbs
+#####
 
 .. raw:: html
 
