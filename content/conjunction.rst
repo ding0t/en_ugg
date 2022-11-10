@@ -91,7 +91,8 @@ This is not a complete list, but it represents the major categories of meaning f
 .. _conjunction-conditional:
 .. include:: en_uhg/content/includes/conjunction-conditional.rst
 
-#1
+Luke 16:31
+Εἰ Μωϋσέως καὶ τῶν προφητῶν οὐκ ἀκούουσιν, οὐδ’ ἐάν τις ἐκ νεκρῶν ἀναστῇ πεισθήσονται.
 
 #2
 
