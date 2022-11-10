@@ -18,7 +18,8 @@ In this grammar, an adjective is classified as "ascriptive" if it is an indefini
 Examples
 --------
 
-#1
+Matthew 7:17
+οὕτως πᾶν δένδρον ἀγαθὸν καρποὺς καλοὺς ποιεῖ
 
 #2
 
