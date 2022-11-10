@@ -21,6 +21,7 @@ Article
      live"
   "..whether we are awake or asleep, we may live together with him."
 
-#2
+Matthew 9:37
+τότε λέγει τοῖς μαθηταῖς αὐτοῦ· Ὁ μὲν θερισμὸς πολύς, οἱ δὲ ἐργάται ὀλίγοι·
 
 #3
