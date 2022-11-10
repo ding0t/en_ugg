@@ -879,7 +879,7 @@ Built on the verb λύω - I loose/untie/destroy; χαίρω - I rejoice
 
 
 Table V-TA-5  Aorist Passive Verbs with a theme vowel
-#####
+
 
 .. raw:: html
 
@@ -959,7 +959,7 @@ Table V-TA-5  Aorist Passive Verbs with a theme vowel
 Form:  1st Aorist Passive Indicative Verb is formed by:
 
 Table V-TA-5a  Formation of 1st Aorist Passive Indicative for Thematic Verbs
-#####
+
 
 .. raw:: html
 
@@ -1008,20 +1008,21 @@ Table V-TA-5a  Formation of 1st Aorist Passive Indicative for Thematic Verbs
     </tbody>
     </table></br>
 
-    
+The First Aorist Passive Indicative verb is formed by:
 
 
+  #.  an **Augment**
 
-Augment	+	Active Aorist Tense Stem	+	Tense
-formative	+	Secondary
-Active
-Personal Ending		
-ε		λυ	+	θη	+	ν	->	ἐλύθην
-		I was loosed
+  #.  plus the **First Aorist Active tense stem**
+
+  #.  plus the **Tense Formative**,
+  
+  #.  plus the **appropriate secondary active personal ending**
+   
 
 [Note]  - There is no need for a connecting vowel because the tense formative ends in eta (η).
 
-[Note] – The aorist passive uses Secondary Active endings instead of the expected middle and passive endings.
+[Note] – The aorist passive uses Secondary **Active** personal endings instead of the expected middle and passive endings.
 
 
 Form:  2nd  Aorist Passive Indicative Verb is formed by:
