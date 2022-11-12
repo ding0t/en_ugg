@@ -163,3 +163,6 @@ Luke 17:6
   nyni de poreuomai eis Ierousalēm
   now but I am going into Jerusalem
   but now I am going to Jerusalem
+
+  Matthew 26:65
+  τότε ὁ ἀρχιερεὺς διέρρηξεν τὰ ἱμάτια αὐτοῦ
