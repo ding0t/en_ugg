@@ -19,3 +19,9 @@ Article
   kagō erōtēsō ton patera kai allon paraklēton dōsei hymin
   and I I will ask the father and another comforter he will give to you
   "and I will pray to the Father, and he will give you another Comforter"
+
+  Matthew 8:21
+  ἕτερος δὲ τῶν [m]μαθητῶν εἶπεν αὐτῷ
+
+  Luke 9:36
+  καὶ ἐν τῷ γενέσθαι τὴν φωνὴν [ak]εὑρέθη Ἰησοῦς μόνος
