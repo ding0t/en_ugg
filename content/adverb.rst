@@ -23,20 +23,26 @@ There are several different ways that an adverb can describe a verb.
 .. _adverb-locative:
 .. include:: en_uhg/content/includes/adverb-locative.rst
 
-#1
+Matthew 8:29
+ἦλθες ὧδε πρὸ καιροῦ βασανίσαι ἡμᾶς;
 
-#2
+Matthew 2:15
+καὶ ἦν ἐκεῖ ἕως τῆς τελευτῆς Ἡρῴδου
 
-#3
+Mark 15:38
+καὶ τὸ καταπέτασμα τοῦ ναοῦ ἐσχίσθη εἰς δύο ἀπ’ ἄνωθεν ἕως κάτω.
 
 .. _adverb-temporal:
 .. include:: en_uhg/content/includes/adverb-temporal.rst
 
-#1
+Mark 10:30
+ἐὰν μὴ λάβῃ ἑκατονταπλασίονα νῦν ἐν τῷ καιρῷ τούτῳ
 
-#2
+Matthew 4:17
+Ἀπὸ τότε ἤρξατο ὁ Ἰησοῦς κηρύσσειν καὶ λέγειν
 
-#3
+Matthew 3:15
+ἀποκριθεὶς δὲ ὁ Ἰησοῦς εἶπεν [k]πρὸς αὐτόν· Ἄφες ἄρτι
 
 .. _adverb-quantitative:
 .. include:: en_uhg/content/includes/adverb-quantitative.rst
