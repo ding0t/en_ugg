@@ -89,7 +89,8 @@ There are several different ways that an adverb can describe a verb.
 Matthew 7:5
 καὶ τότε διαβλέψεις ἐκβαλεῖν τὸ κάρφος ἐκ τοῦ ὀφθαλμοῦ τοῦ ἀδελφοῦ σου
 
-#2
+Matthew 26:65
+ἴδε νῦν ἠκούσατε τὴν [as]βλασφημίαν
 
 #3
 
