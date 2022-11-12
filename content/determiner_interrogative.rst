@@ -18,9 +18,3 @@ Form
 ----
 .. include:: includes/paradigms/pronoun-interrogative.rst
 
-.. csv-table:: Example: John 12:33
-
-  τοῦτο δὲ ἔλεγεν σημαίνων ποίῳ θανάτῳ ἤμελλεν ἀποθνῄσκειν
-  touto de elegen sēmainōn poiō thanatō ēmellen apothnēskein
-  This but he said signifying what kind of death he was destined to die
-  He said this to indicate what kind of death he would die
