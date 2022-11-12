@@ -86,8 +86,12 @@ There are several different ways that an adverb can describe a verb.
 .. _adverb-sentential:
 .. include:: en_uhg/content/includes/adverb-sentential.rst
 
-#1
+Matthew 7:5
+καὶ τότε διαβλέψεις ἐκβαλεῖν τὸ κάρφος ἐκ τοῦ ὀφθαλμοῦ τοῦ ἀδελφοῦ σου
 
 #2
 
 #3
+
+Matthew 7:5
+ἔκβαλε πρῶτον [b]ἐκ τοῦ ὀφθαλμοῦ σοῦ τὴν δοκόν
