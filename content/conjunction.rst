@@ -91,7 +91,8 @@ This is not a complete list, but it represents the major categories of meaning f
 .. _conjunction-conditional:
 .. include:: en_uhg/content/includes/conjunction-conditional.rst
 
-#1
+Luke 16:31
+Εἰ Μωϋσέως καὶ τῶν προφητῶν οὐκ ἀκούουσιν, οὐδ’ ἐάν τις ἐκ νεκρῶν ἀναστῇ πεισθήσονται.
 
 #2
 
@@ -100,9 +101,11 @@ This is not a complete list, but it represents the major categories of meaning f
 .. _conditional-hypothetical:
 .. include:: en_uhg/content/includes/conditional-hypothetical.rst
 
-#1
+Luke 17:2
+λυσιτελεῖ αὐτῷ εἰ [d]λίθος μυλικὸς περίκειται περὶ τὸν τράχηλον αὐτοῦ καὶ ἔρριπται εἰς τὴν θάλασσαν ἢ ἵνα σκανδαλίσῃ [e]τῶν μικρῶν τούτων ἕνα.
 
-#2
+Luke 17:6
+Εἰ ἔχετε πίστιν ὡς κόκκον σινάπεως, ἐλέγετε ἂν τῇ συκαμίνῳ ταύτῃ·
 
 #3
 

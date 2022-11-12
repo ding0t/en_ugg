@@ -47,3 +47,8 @@ Examples
      three days I will raise it"
   "Jesus replied, ""Destroy this temple, and in three days I will raise
      it up."""
+
+Matthew 7:24
+Πᾶς οὖν ὅστις ἀκούει μου τοὺς λόγους τούτους
+
+#3

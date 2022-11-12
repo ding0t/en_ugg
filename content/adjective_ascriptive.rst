@@ -18,11 +18,14 @@ In this grammar, an adjective is classified as "ascriptive" if it is an indefini
 Examples
 --------
 
-#1
+Matthew 7:17
+οὕτως πᾶν δένδρον ἀγαθὸν καρποὺς καλοὺς ποιεῖ
 
-#2
+Luke 16:19
+Ἄνθρωπος δέ τις ἦν πλούσιος
 
-#3
+Luke 16:11
+εἰ οὖν ἐν τῷ ἀδίκῳ μαμωνᾷ πιστοὶ οὐκ ἐγένεσθε
 
 
 TO BE DELETED

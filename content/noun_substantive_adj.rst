@@ -13,3 +13,11 @@ article is used, it will immediately precede the adjective.
 
 Article
 -------
+
+
+Examples
+--------
+
+Matthew 7:11
+ὁ πατὴρ ὑμῶν ὁ ἐν τοῖς οὐρανοῖς δώσει ἀγαθὰ τοῖς αἰτοῦσιν αὐτόν
+
