@@ -43,54 +43,56 @@ Matthew 16:5
 Matthew 16:13
 Ἐλθὼν δὲ ὁ Ἰησοῦς εἰς τὰ μέρη Καισαρείας τῆς Φιλίππου
 
-Romans 3:28
-λογιζόμεθα [k]γὰρ [l]δικαιοῦσθαι πίστει ἄνθρωπον χωρὶς ἔργων νόμου.
-
 .. _conjunction-alternative:
 .. include:: en_uhg/content/includes/conjunction-alternative.rst
 
 Matthew 5:35
 ὅτι πόλις ἐστὶν τοῦ μεγάλου βασιλέως
 
-#2
+Mark 12:14
+ἔξεστιν [p]δοῦναι κῆνσον Καίσαρι ἢ οὔ; δῶμεν ἢ μὴ δῶμεν;
 
-#3
+Mark 13:35
+οὐκ οἴδατε γὰρ πότε ὁ κύριος τῆς οἰκίας ἔρχεται, [au]ἢ ὀψὲ ἢ [av]μεσονύκτιον ἢ ἀλεκτοροφωνίας ἢ πρωΐ
 
 .. _conjunction-contrastive:
 .. include:: en_uhg/content/includes/conjunction-contrastive.rst
 
-#1
+Matthew 6:6
+σὺ δὲ ὅταν προσεύχῃ, εἴσελθε εἰς τὸ ταμεῖόν σου καὶ κλείσας τὴν θύραν σου
 
-#2
-
-#3
+Acts 1:8
+ἀλλὰ λήμψεσθε δύναμιν ἐπελθόντος τοῦ ἁγίου πνεύματος ἐφ’ ὑμᾶς
 
 .. _conjunction-causal:
 .. include:: en_uhg/content/includes/conjunction-causal.rst
 
-#1
+Romans 3:28
+λογιζόμεθα [k]γὰρ [l]δικαιοῦσθαι πίστει ἄνθρωπον χωρὶς ἔργων νόμου.
 
-#2
-
-#3
+Acts 1:5
+ὅτι Ἰωάννης μὲν ἐβάπτισεν ὕδατι, ὑμεῖς δὲ [b]ἐν πνεύματι βαπτισθήσεσθε ἁγίῳ
 
 .. _causal-result:
 .. include:: en_uhg/content/includes/causal-result.rst
 
-#1
+Matthew 1:22
+τοῦτο δὲ ὅλον γέγονεν ἵνα πληρωθῇ τὸ ῥηθὲν [k]ὑπὸ κυρίου διὰ τοῦ προφήτου
 
-#2
-
-#3
+Romans 1:11
+ἐπιποθῶ γὰρ ἰδεῖν ὑμᾶς, ἵνα τι μεταδῶ χάρισμα ὑμῖν πνευματικὸν
 
 .. _causal-purpose:
 .. include:: en_uhg/content/includes/causal-purpose.rst
 
-#1
+Luke 1:44
+Μὴ φοβοῦ, Μαριάμ, εὗρες γὰρ χάριν παρὰ τῷ θεῷ·
 
-#2
+Matthew 2:18
+Ῥαχὴλ κλαίουσα τὰ τέκνα αὐτῆς, καὶ οὐκ ἤθελεν παρακληθῆναι ὅτι οὐκ εἰσίν
 
-#3
+Luke 1:13
+Μὴ φοβοῦ, Ζαχαρία, διότι εἰσηκούσθη ἡ δέησίς σου
 
 .. _conjunction-conditional:
 .. include:: en_uhg/content/includes/conjunction-conditional.rst
