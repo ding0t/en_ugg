@@ -28,3 +28,6 @@ Examples
   This but he said signifying what kind of death he was destined to die
   He said this to indicate what kind of death he would die
 
+
+Matthew 12:29
+ἢ πῶς δύναταί τις εἰσελθεῖν εἰς τὴν οἰκίαν τοῦ ἰσχυροῦ καὶ τὰ σκεύη αὐτοῦ [o]ἁρπάσαι, ἐὰν μὴ πρῶτον δήσῃ τὸν ἰσχυρόν
