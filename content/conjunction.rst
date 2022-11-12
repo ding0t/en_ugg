@@ -82,6 +82,9 @@ Matthew 1:22
 Romans 1:11
 ἐπιποθῶ γὰρ ἰδεῖν ὑμᾶς, ἵνα τι μεταδῶ χάρισμα ὑμῖν πνευματικὸν
 
+Luke 1:34
+Πῶς ἔσται τοῦτο, ἐπεὶ ἄνδρα οὐ γινώσκω;
+
 .. _causal-purpose:
 .. include:: en_uhg/content/includes/causal-purpose.rst
 
@@ -113,25 +116,29 @@ Luke 17:2
 Luke 17:6
 Εἰ ἔχετε πίστιν ὡς κόκκον σινάπεως, ἐλέγετε ἂν τῇ συκαμίνῳ ταύτῃ·
 
-#3
+Matthew 11:21
+ὅτι εἰ ἐν Τύρῳ καὶ Σιδῶνι ἐγένοντο αἱ δυνάμεις αἱ γενόμεναι ἐν ὑμῖν, πάλαι ἂν ἐν σάκκῳ καὶ σποδῷ μετενόησαν.
 
 .. _conditional-actual:
 .. include:: en_uhg/content/includes/conditional-actual.rst
 
-#1
+Matthew 4:3
+Εἰ υἱὸς εἶ τοῦ θεοῦ, εἰπὲ ἵνα οἱ λίθοι οὗτοι ἄρτοι γένωνται.
 
-#2
+Mark 11:25
+ἀφίετε εἴ τι ἔχετε κατά τινος
 
-#3
+Romans 2:25
+ἐὰν δὲ παραβάτης νόμου ᾖς, ἡ περιτομή σου ἀκροβυστία γέγονεν
 
 .. _conjunction-simultaneous:
 .. include:: en_uhg/content/includes/conjunction-simultaneous.rst
 
-#1
+Luke 1:32
+οὗτος ἔσται μέγας καὶ υἱὸς Ὑψίστου κληθήσεται
 
-#2
-
-#3
+Luke 1:41
+καὶ ἐγένετο ὡς ἤκουσεν [t]τὸν ἀσπασμὸν τῆς Μαρίας ἡ Ἐλισάβετ, ἐσκίρτησεν τὸ βρέφος ἐν τῇ κοιλίᾳ αὐτῆς
 
 .. _conjunction-explicative:
 .. include:: en_uhg/content/includes/conjunction-explicative.rst
