@@ -37,16 +37,20 @@ This is not a complete list, but it represents the major categories of meaning f
 .. _conjunction-conjunctive:
 .. include:: en_uhg/content/includes/conjunction-conjunctive.rst
 
-#1
+Matthew 16:5
+Καὶ ἐλθόντες οἱ [d]μαθηταὶ εἰς τὸ πέραν ἐπελάθοντο ἄρτους λαβεῖν.
 
-#2
+Matthew 16:13
+Ἐλθὼν δὲ ὁ Ἰησοῦς εἰς τὰ μέρη Καισαρείας τῆς Φιλίππου
 
-#3
+Romans 3:28
+λογιζόμεθα [k]γὰρ [l]δικαιοῦσθαι πίστει ἄνθρωπον χωρὶς ἔργων νόμου.
 
 .. _conjunction-alternative:
 .. include:: en_uhg/content/includes/conjunction-alternative.rst
 
-#1
+Matthew 5:35
+ὅτι πόλις ἐστὶν τοῦ μεγάλου βασιλέως
 
 #2
 
