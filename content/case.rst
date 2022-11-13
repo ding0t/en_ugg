@@ -5,45 +5,36 @@
 Case
 ====
 
-Glossary
---------
-
-The Greek language uses a system called **Case**  to indicate the function or relationship of nouns, pronouns, adjectives, articles,
-and participles to other words in the sentence.  Case endings (or suffixes) are added to the end of the noun, pronoun, adjective,
-article, or participle to indicate its function or relationship to the other words in the sentence.  There are five cases in the Greek
-language;  Nominative, Vocative, Genitive, Dative, and Accusative.
+Summary
+-------
+In Koiné Greek, the ``case`` ending of a word indicates how that term functions within the sentence.
 
 Article
 -------
+Koiné Greek uses various kinds of word endings. 
+The term "case" in Koiné refers to one of these varieties of word endings.
+Case endings in Koiné Greek indicate the function of a word in a sentence.
+Nouns, adjectives, pronouns, participles, and definite articles all require a case ending.
+Verbs and adverbs do not require a case ending.
 
-Languages such as Greek, Japanese, German, and Russian have a case system.   English for the most part does not use a case system
-except for pronouns.  Instead English mostly uses word order to indicate the function of nouns, pronouns, and adjectives within a
-sentence.  In the example below, the first person singular pronoun changes depending on its function in the sentence.
+There are five different case endings in Koiné Greek: nominative, genitive, dative, accusative, and vocative.
 
-.. csv-table::
+Generally, the :ref:`Nominative<case_nominative>` case indicates the subject of a sentence and other words that describe the subject, such as a predicate nominative or predicate adjective.
+It is also used for adjectives and participles modifying the subject of the sentence.
 
-  Subject case,,**I** am speaking
-  Possessive case,,It is **my** ball
-  Object case,,The ball hit **me**.
-    
-Other languages, such as Hebrew, do not use a case system.
+Generally, the :ref:`Genitive<case_genitive>` case indicates possession.
+However, the genitive can also be used to indicate many other kinds of relationships between two entities in a sentence. separation or relation.  In limited situations, it can also
+Some prepositions take their complement in the genitive case.
 
-The **Nominative case** is used to indicate the subject of the sentence, but it can also indicate a  predicate nominative,
-and can be used to indicate apposition.  It is also used for adjectives and participles modifying the subject of the sentence.
-See :ref:`Nominative case<case_nominative>` for more detail.
+Generally, the :ref:`Dative<case_dative>` case indicates the indirect object of a verb.
+However, the dative case is also commonly used to express location, means, or agency.
+Some prepositions take their object in the dative case.
 
-The **Vocative case** is the case of Direct Address.  See :ref:`Vocative Case<case_vocative>` for more detail.
+Generally, the :ref:`Accusative<case_accusative>` case indicates the Direct Object of a verb.  
+However, the accusative case is also commonly used to express the object of an infinitive.
+Some prepositions take their object in the accusative case.
 
-The **Genitive case** indicates possession, but can also be used to indicate separation or relation.  In limited situations, it can also
-indicate the subject or the object of the verb in the sentence among other uses.  Adjectives and participles modifying an object in the
-genitive case will also be in the genitive case. Some prepositions take their object in the genitive case.  See :ref:`Genitive case<case_genitive>` for more details.
-
-The **Dative case** is used to indicate, location, means, agency, or the indirect object.  Adjectives and participles modifying an object
-in the dative case will also be in the dative case.  Some prepositions take their object in the dative case.  See :ref:`Dative Case<case_dative>` for more details.
-
-The **Accusative case** is the case for the Direct Object among other uses.  Adjectives and participles modifying an object in the accusative
-case will also be in the accusative case.  Some prepositions take their object in the accusative case.  See :ref:`Accusative case<case_accusative>` 
-for more details.
+The :ref:`Vocative<case_vocative>` case indicates the addressee of a speech, that is, the person being spoken to.
 
 Form
 ~~~~
