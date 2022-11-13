@@ -7,7 +7,7 @@ Gender
 
 Summary
 -------
-
+In Koiné Greek, the ``gender`` ending of a word indicates the grammatical gender of that word, whether it is masculine, feminine, or neuter.
 
 Article
 -------
