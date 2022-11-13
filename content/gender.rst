@@ -20,9 +20,12 @@ Verbs and adverbs do not require a case ending.
 
 There are three different kinds of gender endings: masculine, feminine, or neuter.
 
+The :ref:`Masculine<gender_masculine>` ending indicates that the grammatical gender of that word is masculine.
 
-Substantives will have one of three *grammatical* **genders**:
-*masculine*, *feminine*, or *neuter*.
+The :ref:`Feminine<gender_feminine>` ending indicates that the grammatical gender of that word is feminine.
+
+The :ref:`Neuter<gender_neuter>` ending indicates that the grammatical gender of that word is neuter.
+
 
 .. csv-table:: Example: ITH 5:23
 
