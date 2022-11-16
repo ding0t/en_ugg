@@ -7,11 +7,9 @@ Case dative
 
 Summary  
 -------
-
 In Koiné Greek, the ``dative`` case ending can serve a wide range of functions.
 It can indicate the indirect object (or recipient) of a verbal action.
-It can also indicate a variety of adverbial senses, include location, instruction, manner, or relation.
-
+It can also express a variety of adverbial meanings, including location, instrument, manner, or relation.
 
 Article   
 -------
