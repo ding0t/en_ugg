@@ -5,22 +5,13 @@
 Case dative
 ===========
 
-Glossary  
---------
+Summary  
+-------
 
-**Dative** is a case which has a wide range of uses. It can indicate the *recipient*
-or *reference* of a verbal action.  The dative case also is 
-used to indicate the  *location, instrument, relation, or manner* in which 
-something occurs.  Some verbs take their object in the dative case.
+In Koiné Greek, the ``dative`` case ending can serve a wide range of functions.
+It can indicate the indirect object (or recipient) of a verbal action.
+It can also indicate a variety of adverbial senses, include location, instruction, manner, or relation.
 
-
-.. csv-table:: Example: Luke 24:42
-
-  οἱ,δὲ,ἐπέδωκαν,**αὐτῷ**,ἰχθύος,ὀπτοῦ,μέρος
-  hoi,de,epedōkan,**autō**,ichthyos,optou,meros
-  They,and,they gave,**to him**,of a fish,broiled,part
-  
-*They gave* **him** *a piece of a broiled fish*
 
 Article   
 -------
@@ -39,6 +30,15 @@ The Dative case serves three primary functions. It may also indicate the direct 
 
 Form
 ~~~~
+
+.. csv-table:: Example: Luke 24:42
+
+  οἱ,δὲ,ἐπέδωκαν,**αὐτῷ**,ἰχθύος,ὀπτοῦ,μέρος
+  hoi,de,epedōkan,**autō**,ichthyos,optou,meros
+  They,and,they gave,**to him**,of a fish,broiled,part
+  
+*They gave* **him** *a piece of a broiled fish*
+
 The Dative case is formed by adding the Dative case ending to the stem of a word (often with a connecting vowel).  
 
 .. raw:: html
