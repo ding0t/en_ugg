@@ -8,28 +8,17 @@ Case genitive
 Glossary 
 --------
 
-**Genitive** is a case which has many uses. It expresses a relationship with the substantive it modifies by indicating a
-*description*, *kinship*, *possession*, *apposition*, *a part of a whole*, *separation from the substantive it modifies*, 
-*or the subject  (or object) of a verbal idea implied by the noun*.
-	
-.. csv-table::
-
-  John 1:19
-  καὶ,αὕτη,ἐστὶν,ἡ,μαρτυρία,**τοῦ**,**Ἰωάννου**
-  kai,hautē,estin,hē,martyria,**tou**,**Iōannou**
-  and,this,it is,the,testimony,**of the**,**John**
-
-
-*This is the testimony of John*; or
-*This is* **John’s** *testimony*
-
-In this example, the relationship expressed is that of possession and/or source.
-
-
+In Koiné Greek, the ``genitive`` case ending serves a wide variety of functions.
+Most commonly, it expresses possession, that is, the term containing the genitive case ending *possesses* (in some way) the word it describes.
+However, it can also express other meanings as well.
 
 Article  
 -------
-
+In Koiné Greek, the genitive case ending has potential to express the widest range of meanings of all the various case endings.
+The genitive case ending can express possession, description, kinship, apposition, separation, the subject of a verbal idea, the object of a verbal idea, and others.
+Often, a specific word with a genitive case ending may seem to fit into more than one category.
+In these cases, the final determination by the translator must be based upon context.
+	
 The **Genitive case** is primarily the case of description.  
 
   1. The Genitive case may be used to attribute   
@@ -46,13 +35,24 @@ The **Genitive case** is primarily the case of description.
       
   3. A word in the genitive case may also serve as the subject or object of the head noun. [see `Genitive_Subject/Object <https://ugg.readthedocs.io/en/latest/case_genitive.html#id2>`_]
 
-The translator may observe that sometimes a specific word in the Genitive case may seem to fit into more than one of the above categories.
-There is often no clear single category and the final determination by the translator must be based upon context.
+
+.. csv-table::
+
+  John 1:19
+  καὶ,αὕτη,ἐστὶν,ἡ,μαρτυρία,**τοῦ**,**Ἰωάννου**
+  kai,hautē,estin,hē,martyria,**tou**,**Iōannou**
+  and,this,it is,the,testimony,**of the**,**John**
+
+
+*This is the testimony of John*; or
+*This is* **John’s** *testimony*
+
+In this example, the relationship expressed is that of possession and/or source.
 
 Form
 ~~~~
 The Genitive case is formed by adding the *Genitive case ending* to the stem of a word (often with a connecting vowel).  
-The word in the Genitive case usually follows the word that it is modifying. When the word in the Genitive case occurs before the word it is modifying, the word in the Genitive case is being given more attention by the author.
+Usually, the word in the Genitive case usually follows the word that it is modifying. When the word in the Genitive case occurs before the word it is modifying, the word in the Genitive case is being given more attention by the author.
 
 .. raw:: html
   	
@@ -125,20 +125,34 @@ The word in the Genitive case usually follows the word that it is modifying. Whe
 See `NounParadigm <https://ugg.readthedocs.io/en/latest/paradigms.html#nouns>`_  for a complete listing of the noun paradigms and 
 `AdjectiveParadigm <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_ for the adjective paradigms.
 
+Possession
+~~~~~~~~~~
+A word with a ``possession`` genitive case ending owns or possesses (in some way) the object that is being described.
+This kind of genitive is often translated into English using the word "of."  
 
-Genitive – Attributive
-######################
 
-The Genitive case restricts (or limits) the head noun (or substantive) by describing the head noun.  The limitation is generally 
-as to “kind” and not to “extent or result.”   The effect of the description is that it separates the head noun from other similar 
-items that do not possess the described attribute.  For example if I were to say a “book of the law;”  the phrase *"of the law”* 
-describes the book. The phrase also separates this book from all the other books which are not law books.  
+However, the most common way a speaker/writer expresses possession is by using a personal pronoun in the genitive case.
+In these cases, the personal pronoun is translated into English using English possessive pronouns ("my," "your," "their," etc.).
 
-The **Genitive-attributive** functions like an adjective and gives a general attribute (or description) of the head noun.  
-If none of the other categories for the Genitive case make sense, then this overall “Basic Attributive” serves to describe 
-the overall function for the Genitive case.    
+Sometimes a possessive pronoun is used to express possession.
+Some common possessive pronouns in Koiné Greek include *ἐμός* ("my"), *σός* ("your"), *ἡμέτερος* ("our"), *ὑμέτερος* ("your"), or *ἵδιος* ("his") are sometimes used 
+In these cases, the possessive pronouns will look like any other adjective and will agree with the noun they are describing in case and gender.
 
-The keyword “**of**” is often included in the translation.
+
+.. csv-table::
+
+  John 20:28
+  ἀπεκρίθη,Θωμᾶς,καὶ,εἶπεν,αὐτῷ,ὁ,Κύριός,**μου**,καὶ,ὁ,Θεός,**μου!**
+  apekrithē,Thōmas,kai,eipen,autō,ho,Kyrios,**mou**,kai,ho,Theos,**mou!**
+  he answered,Thomas,and,he said,to him,the,Lord,**my**,and,the,God,**my**
+
+*Thomas answered and said to him,* “**My** *Lord and* **my** *God.”*
+
+Attributive
+~~~~~~~~~~~
+A word with an ``attributive`` genitive case ending functions very much like a typical adjective.
+The word with the genitive case ending expresses some general attribute (or description) of the word it is describing.
+This kind of genitive is often translated into English using the word "of."
 
 
 .. csv-table::
@@ -150,16 +164,13 @@ The keyword “**of**” is often included in the translation.
   
 *John came, ... preaching a baptism* **of repentance** *for the forgiveness of sins.*
 
-Genitive – of Material
-######################
+Material
+~~~~~~~~~~~~~~~~~~~~
+A word with a ``material`` genitive case ending indicates either (1) the substance of which an object is made or (2) something which an object contains.
+In both cases, the "object" is the word being described by the term containing the genitive case ending.
+This kind of genitive is often translated into English using the word "of."
 
-The **Genitive of Material** describes an object that is *“made from, consisting of, or containing”* something.  
-The Genitive of Material may be used to:
 
-  #.  describe an object “made from a certain material or thing”, or  
-  #.  may be used to describe something the object “contains”.   
-
-In this instance the *item (or thing) that is used to create the object* or *that the object contains* will be in the Genitive case.   
 
 .. csv-table::
 
@@ -210,30 +221,6 @@ In the following example the “kinship relationship” (mother of) is implied b
   and,Mary,the,**(mother of)**,**James**
 
 *and Mary the* **mother of James**
-
-Genitive – of Possession
-########################
-
-
-The Genitive of Possession is used to indicate ownership or possession of the object that it is modifying.
-The ownership may be an indication of a legal right to ownership or physical possession of an item.  
-
-It may also refer to an emotional attachment to the object. When referring to an emotional attachment the ownership is like that of 
-a child to his father, a dog to his master, or a person to his church.  This is my father. This is my master. This is my church.  
-In each of these cases an emotional attachment is being expressed.
-
-Possessive pronouns such as *ἐμός* (my), *σός* (your), *ἡμέτερος* (our), *ὑμέτερος* (your), or *ἵδιος* (his) are sometimes used
-instead of the Genitive-of-Possession.  When this occurs the possessive pronouns will decline like any other adjective and will agree with
-the noun they are modifying in case and gender. In Biblical Greek the most common way a speaker/writer shows possession is by using a personal pronoun in the genitive Case.
-
-.. csv-table::
-
-  John 20:28
-  ἀπεκρίθη,Θωμᾶς,καὶ,εἶπεν,αὐτῷ,ὁ,Κύριός,**μου**,καὶ,ὁ,Θεός,**μου!**
-  apekrithē,Thōmas,kai,eipen,autō,ho,Kyrios,**mou**,kai,ho,Theos,**mou!**
-  he answered,Thomas,and,he said,to him,the,Lord,**my**,and,the,God,**my**
-
-*Thomas answered and said to him,* “**My** *Lord and* **my** *God.”*
 
 
 Genitive of Apposition
