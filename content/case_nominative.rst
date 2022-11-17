@@ -5,8 +5,11 @@
 Case nominative
 ===============
 
-Glossary
+Summary
 --------
+In Koiné Greek, nominative case ending usually indicates the subject of the sentence.
+However, the nominative case ending can also indicate a predicate nominative or predicate adjective. 
+
 
 Nominative is the case used to identify the subject. Because verbs include the subject, the nominative case is used in apposition 
 (or placed next) to the subject of the verb to add further identification.   The nominative case is also used as a predicate nominative to 
