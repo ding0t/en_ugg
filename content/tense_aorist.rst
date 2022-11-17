@@ -1086,12 +1086,8 @@ The First Aorist Passive Indicative verb is formed by:
 
 
 
-
-
-
-
-•	The Secondary middle/passive personal endings are shown in the lower right quadrant (Quadrant 4) of Verb Master Chart Table 4.
-:ref:`Table_VTP-4_Secondary_Endings_Verbs<tense_aorist.html#table-4-verb-master-chart-table-4-primary-and-secondary-endings-of-verbs>`_
+•	The Secondary middle/passive personal endings are shown in the lower right quadrant (Quadrant 4) of Verb Master Chart Table 4 toward the beginning of this article;
+`Table VTP-4 Secondary Endings Verbs <https://ugg.readthedocs.io/en/latest/tense_aorist.html#table-4-verb-master-chart-table-4-primary-and-secondary-endings-of-verbs>`_
 
 
 Table VTP-4
