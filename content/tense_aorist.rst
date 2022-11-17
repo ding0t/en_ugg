@@ -1268,8 +1268,9 @@ Table V-TA-6a  Lower Right Hand Quadrant of Verb Master Chart 4
 
 
 [Note]
-•	The “-” in Table V-TA-6 indicates there is no personal ending.
-•	The (σ) in the second person singular middle/passive endings in Table V-TA-6a is in parenthesis because it often is intervocalic (between two vowels) and therefore drops out.  The resulting two vowels will then contract. “ε” and  “ο” contract to  “ου” as in ἐλύου.
+
+  *  The “-” in Table V-TA-6 indicates there is no personal ending.
+  *  The (σ) in the second person singular middle/passive endings in Table V-TA-6a is in parenthesis because it often is intervocalic (between two vowels) and therefore drops out.  The resulting two vowels will then contract. “ε” and  “ο” contract to  “ου” as in ἐλύου.
 
   *  ε + λυ + ε + σο then becomes
       ε + λυ + ε + ο  (the sigma drops out)
