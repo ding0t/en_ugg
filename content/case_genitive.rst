@@ -8,7 +8,7 @@ Case genitive
 Summary 
 --------
 In Koiné Greek, the ``genitive`` case ending serves a wide variety of functions.
-Most commonly, it expresses possession, that is, the term containing the genitive case ending *possesses* (in some way) the word it describes.
+Most commonly, it expresses possession, meaning that the term containing the genitive case ending *possesses* (in some way) the word it describes.
 However, it can also express other meanings as well.
 
 Article  
