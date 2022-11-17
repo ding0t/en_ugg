@@ -1273,7 +1273,7 @@ Table V-TA-6a  Lower Right Hand Quadrant of Verb Master Chart 4
   *  The (σ) in the second person singular middle/passive endings in Table V-TA-6a is in parenthesis because it often is intervocalic (between two vowels) and therefore drops out.  The resulting two vowels will then contract. “ε” and  “ο” contract to  “ου” as in ἐλύου.
 
   *  ε + λυ + ε + σο then becomes
-      ε + λυ + ε + ο  (the sigma drops out)
+      ε + λυ + ε + ο  (the sigma drops out) and then
         ε + λυ + ου  (the ε and ο contract to form ου)
 
 
@@ -1283,24 +1283,32 @@ Examples:
 Aorist as an indication of events having occurred in the past
 ^^^^^^
 
-•	Aorist indicative- 50 percent of the aorist verbs in the New Testament are Aorist indicative verbs.  Aorist verbs in the indicative mood generally represent an event that has occurred in the past with an unspecified aspect. 
+•	Aorist indicative- 50 percent of the aorist verbs in the New Testament are Aorist indicative verbs.  
+*  Aorist verbs in the indicative mood generally represent an event that has occurred in the past with an unspecified aspect. 
 
 
 Example
 
-John 4:18
-πέντε γὰρ ἄνδρας ἔσχες
-pente gar andras esches,
-five    for husbands  you had
+.. csv-table:: Table V-AT-7
+  :header-rows: 1
 
-for you have had five husbands
+John 4:18
+πέντε,γὰρ,ἄνδρας,**ἔσχες**
+pente,gar,andras,**esches**
+five,for,husbands,**you had**
+
+*for* **you have had** *five husbands*
+
+</br>
+
+.. csv-table:: Table V-AT 7a
 
 Rm 10:9
-ὁ Θεὸς αὐτὸν ἤγειρεν ἐκ νεκρῶν
-ho Theos auton ēgeiren ek nekrōn
-The God him    he raised from/out of   dead
+ὁ,Θεὸς,αὐτὸν,**ἤγειρεν**,ἐκ,νεκρῶν
+ho,Theos,auton,**ēgeiren**,ek,nekrōn
+The,God,him,**he raised**,from/out of,dead
 
-God raised him from the dead
+*God* **raised him** *from the dead*
 
 
 Aorist Participles in the indicative
