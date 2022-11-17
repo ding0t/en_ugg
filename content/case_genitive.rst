@@ -5,9 +5,8 @@
 Case genitive
 =============
 
-Glossary 
+Summary 
 --------
-
 In Koiné Greek, the ``genitive`` case ending serves a wide variety of functions.
 Most commonly, it expresses possession, that is, the term containing the genitive case ending *possesses* (in some way) the word it describes.
 However, it can also express other meanings as well.
@@ -17,7 +16,7 @@ Article
 In Koiné Greek, the genitive case ending has potential to express the widest range of meanings of all the various case endings.
 The genitive case ending can express possession, description, kinship, apposition, separation, the subject of a verbal idea, the object of a verbal idea, and others.
 Often, a specific word with a genitive case ending may seem to fit into more than one category.
-In these cases, the final determination by the translator must be based upon context.
+In these cases, the final determination of the meaning must be based upon context.
 	
 The **Genitive case** is primarily the case of description.  
 
@@ -130,14 +129,10 @@ Possession
 A word with a ``possession`` genitive case ending owns or possesses (in some way) the object that is being described.
 This kind of genitive is often translated into English using the word "of."  
 
+need example here
 
 However, the most common way a speaker/writer expresses possession is by using a personal pronoun in the genitive case.
 In these cases, the personal pronoun is translated into English using English possessive pronouns ("my," "your," "their," etc.).
-
-Sometimes a possessive pronoun is used to express possession.
-Some common possessive pronouns in Koiné Greek include *ἐμός* ("my"), *σός* ("your"), *ἡμέτερος* ("our"), *ὑμέτερος* ("your"), or *ἵδιος* ("his") are sometimes used 
-In these cases, the possessive pronouns will look like any other adjective and will agree with the noun they are describing in case and gender.
-
 
 .. csv-table::
 
@@ -145,8 +140,13 @@ In these cases, the possessive pronouns will look like any other adjective and w
   ἀπεκρίθη,Θωμᾶς,καὶ,εἶπεν,αὐτῷ,ὁ,Κύριός,**μου**,καὶ,ὁ,Θεός,**μου!**
   apekrithē,Thōmas,kai,eipen,autō,ho,Kyrios,**mou**,kai,ho,Theos,**mou!**
   he answered,Thomas,and,he said,to him,the,Lord,**my**,and,the,God,**my**
+  *Thomas answered and said to him,* “**My** *Lord and* **my** *God.”*
 
-*Thomas answered and said to him,* “**My** *Lord and* **my** *God.”*
+
+Sometimes a possessive pronoun is used to express possession.
+Some common possessive pronouns in Koiné Greek include *ἐμός* ("my"), *σός* ("your"), *ἡμέτερος* ("our"), *ὑμέτερος* ("your"), or *ἵδιος* ("his") are sometimes used 
+In these cases, the possessive pronouns will look like any other adjective and will agree with the noun they are describing in case and gender.
+
 
 Attributive
 ~~~~~~~~~~~
@@ -154,23 +154,19 @@ A word with an ``attributive`` genitive case ending functions very much like a t
 The word with the genitive case ending expresses some general attribute (or description) of the word it is describing.
 This kind of genitive is often translated into English using the word "of."
 
-
 .. csv-table::
 
   Mark 1:4
   ἐγένετο,Ἰωάννης,...,κηρύσσων,βάπτισμα,**μετανοίας**,εἰς,ἄφεσιν,ἁμαρτιῶν
   egeneto,Iōannēs,...,kēryssōn,baptisma,**metanoias**,eis,aphesin,hamartiōn
   he came,John,,preaching,a baptism,**of repentance**,into/for,forgiveness,of sin
-  
-*John came, ... preaching a baptism* **of repentance** *for the forgiveness of sins.*
+  *John came, ... preaching a baptism* **of repentance** *for the forgiveness of sins.*
 
 Material
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~
 A word with a ``material`` genitive case ending indicates either (1) the substance of which an object is made or (2) something which an object contains.
 In both cases, the "object" is the word being described by the term containing the genitive case ending.
-This kind of genitive is often translated into English using the word "of."
-
-
+This kind of genitive is often translated into English using the words "of," "with," or "by."
 
 .. csv-table::
 
@@ -181,26 +177,15 @@ This kind of genitive is often translated into English using the word "of."
 
 *They were all filled* **with** *the Holy* **Spirit**
 
-Note:   The preposition *with* is used because it better conveys the concept of the "content an object contains."
-If the translator interpreted this passage as a Genitive of separation they would use the preposition "from" or if they interpreted it as a Genitive of source,
-they would use the preposition "by".   These determinations are being made based on context in order to accurately convey the concept
-intended by the text.
 
-Genitive – of Kinship
-#####################
-
-The Genitive Case may be used to describe a kinship relationship.  In most cases The Genitive of Kinship is used to describe 
-someone who is the physical descendent (son or daughter) of someone.  However, it can be used to refer to anyone who is a descendent 
-in a “spiritual sense” or  someone who is a descendent several generations later in time.  Therefore in Luke 13:16  the woman is called a 
-daughter of Abraham even though over a thousand years had passed.  The woman is still considered to be a daughter of Abraham.  
-The Genitive of Kinship may also be used to describe the parent of someone or a relationship by marriage to someone.
-
-*Note:* Some grammars make a distinction between when the noun describing the kinship relationship (“Son”) is present and 
-when it is absent.  In this grammar we are not making that fine of a distinction.  When the noun that describes the kinship relationship
-is absent, the “kinship relationship”  is implied by the Genitive of Kinship.  The definite article may (or may not) be present.
-This implied relationship is then included in the translation.   
-
-The key word “of” may be used in the translation.
+Kinship
+~~~~~~~
+A word with a ``kinship`` genitive case ending describes some kind of kinship relationship.
+In most cases, this kind of genitive refers someone who is the physical descendent (son or daughter) of another person.
+However, it can refer to someone who is a descendant several generations later, or even someone who is a descendant in a relational sense and not a physical sense.
+For example, in Luke 13:16 the woman is called a "daughter of Abraham" even though many centuries had passed since Abraham died.  
+The woman was still considered to be a daughter of Abraham.
+This kind of genitive is often translated into English using the word "of."
 
 .. csv-table::
 
@@ -208,10 +193,8 @@ The key word “of” may be used in the translation.
   Ἰάκωβον,τὸν,,**τοῦ**,**Ζεβεδαίου**
   Iakōbon,ton,,**tou**,Zebedaiou
   James,the,(son),**of**,**Zebedee**
+  *James the* **son of Zebedee**	
 
-*James the* **son of Zebedee**	
-
-In the following example the “kinship relationship” (mother of) is implied by the Genitive of Kinship.
 
 .. csv-table::
 
@@ -219,18 +202,18 @@ In the following example the “kinship relationship” (mother of) is implied b
   καὶ,Μαρία,ἡ,,**Ἰακώβου**
   kai,Maria,hē,,**Iakōbou**
   and,Mary,the,**(mother of)**,**James**
+  *and Mary the* **mother of James**
 
-*and Mary the* **mother of James**
 
-
-Genitive of Apposition
-######################
-
-Apposition means *“next to”* or *“beside.”*  Sometimes a second noun is placed next to a noun to add additional information 
-(to further describe the head noun). The noun in apposition  may be in the nominative case (Nominative of Apposition) or may be 
-in the Genitive case (Genitive of Apposition).  A word is probably standing in apposition to another noun if the translator could 
-use the phrase  “who is," or the phrase "which is," or the phrase "namely” followed by the noun in apposition. In the example below, “his mother” 
-is in apposition to Mary.   The phrase could be translated “They saw the young child with Mary (who is his mother).  
+Apposition
+~~~~~~~~~~
+A word with an ``apposition`` genitive case ending describes in some way the preceding word (which also has a genitive case ending).
+It functions very much like an adjective, except it is usually not an adjective, but a noun instead.
+Apposition is the term used when a noun describes (or gives more information about) another noun.
+This kind of genitive can be translated into English a variety of different ways, depending on the specific context.
+Some common ways of translation an apposition genitive into English include "who is," "which is," "namely," a simple comma, or sometimes not translated at all.
+In the example below, the noun "mother" is in genitive case and is in apposition to the noun "Mary."
+The apposition genitive indicates that Mary is the mother of the child specified in the sentence. 
 
 .. csv-table::
 
@@ -238,21 +221,21 @@ is in apposition to Mary.   The phrase could be translated “They saw the young
   εἶδον,τὸ,παιδίον,μετὰ,Μαρίας,**τῆς**,**μητρὸς**,αὐτοῦ
   eidon,to,paidion,meta,Marias,**tēs**,**mētros**,autou
   they saw,the,child,with,Mary,**the**,**mother**,of him.
-
-*They saw the young child with* **Mary his mother**. 
-
+  *They saw the young child with* **Mary his mother**. 
 
 
-Genitive – Separation (or Source)
-#################################
 
-The Genitive Case may be used to indicate separation from or the source of an object. Therefore, the prepositions *έκ* and *ἀπό* 
-naturally take their object in the Genitive case.
+Separation/Source (or Ablative)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A word with a ``separation/source`` genitive case ending indicates some kind of separation from, movement away from, or the source of some object. 
 
-Some grammars describe eight cases and refer to this usage as “Ablative case.”  There is no difference in form for a word in the 
-Genitive Case and a word in the Ablative Case.  Both terms ( the Genitive – Separation and  Ablative) case refer to the same function 
-indicating separation, or source.  The Genitive Case may also be used for comparison, because a comparison of two objects indicates a 
-separation of the two objects.
+
+Naturally, the prepositions *έκ* ("out of") and *ἀπό* ("from") require their object to have the genitive case ending.
+
+Some grammars describe eight cases and refer to this usage as “Ablative case.” 
+There is no difference in form for a word in the Genitive Case and a word in the Ablative Case.  
+Both terms ( the Genitive – Separation and  Ablative) case refer to the same function indicating separation, or source.  
+The Genitive Case may also be used for comparison, because a comparison of two objects indicates a separation of the two objects.
 
 .. csv-table::
 
