@@ -228,14 +228,11 @@ The apposition genitive indicates that Mary is the mother of the child specified
 Separation/Source (or Ablative)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 A word with a ``separation/source`` genitive case ending indicates some kind of separation from, movement away from, or the source of some object. 
-
-
-Naturally, the prepositions *έκ* ("out of") and *ἀπό* ("from") require their object to have the genitive case ending.
-
-Some grammars describe eight cases and refer to this usage as “Ablative case.” 
-There is no difference in form for a word in the Genitive Case and a word in the Ablative Case.  
-Both terms ( the Genitive – Separation and  Ablative) case refer to the same function indicating separation, or source.  
-The Genitive Case may also be used for comparison, because a comparison of two objects indicates a separation of the two objects.
+Some grammars call this specific kind of genitive case ending the "ablative" case ending.
+However, there is no difference in form between the "genitive" case ending and the "ablative" case ending.
+They appear exactly the same.
+As might be expected, the prepositions *έκ* ("out of") and *ἀπό* ("from") require their object to have the genitive case ending.
+This kind of genitive can also be used to express a comparison between two objects (as a function of a "separation" of the two objects in view).
 
 .. csv-table::
 
@@ -261,11 +258,9 @@ The Genitive Case may also be used for comparison, because a comparison of two o
   τὰ,ἡμίσιά,μου,**τῶν**,**ὑπαρχόντων**,Κύριε,τοῖς,πτωχοῖς,δίδωμι
   ta,hēmisia,mou,**tōn**,**hyparchontōn**,Kyrie,tois,ptōchois,didōmi
   the,half,of my,**of**,**possessions/goods**,Lord,to the,poor,I give
-
-*Lord, the half of my* **goods** *I give to the poor*
+  *Lord, the half of my* **goods** *I give to the poor*
 
 Note: In this example  “of goods” is a Genitive of Source.   “My” is a Genitive of possession.
-
 
 .. csv-table::
 
@@ -273,19 +268,16 @@ Note: In this example  “of goods” is a Genitive of Source.   “My” is a G
   οὐκ,ἔστιν,δοῦλος,μείζων,**τοῦ**,**κυρίου**,αὐτοῦ
   ouk,estin,doulos,meizōn,**tou**,**kyriou**,autou
   not,he is,a slave,greater,**than**,**lord**,his
+  *a servant is not greater* **than his master**
 
-*a servant is not greater* **than his master**
 Note:  In this example we see the comparative function for the Genitive of Separation.
   
-Genitive – Subject/Object
-#########################
-
-A word in the genitive case may also serve as the subject or object of the head noun.  This can occur when the head noun contains a 
-verbal idea such as witness, love, or hope.  
-
-Some verbs that involve the senses (ἀκούω), feelings (ἐπιύμέω), memory (μνημονεὐω), and 
-verbs prefixed with ἀπό, ἐκ, or κατά will take their object in the Genitive case.
-
+Subject/Object
+~~~~~~~~~~~~~~
+A word with a ``subject/object`` genitive case ending indicates either the subject or object of a verbal idea.
+In the example below, the word παρουσία ("coming") refers to a verbal idea.
+The subject of this verbal idea is τοῦ Υἱοῦ ("the Son").
+The genitive case ending for the term τοῦ Υἱοῦ indicates that "the Son" is the one who is "coming."
 
 .. csv-table::
 
@@ -293,11 +285,11 @@ verbs prefixed with ἀπό, ἐκ, or κατά will take their object in the Ge
   οὕτως,ἔσται,ἡ,παρουσία,**τοῦ**,**Υἱοῦ**,τοῦ,Ἀνθρώπου
   houtōs,estai,hē,parousia,**tou**,**Huiou**,tou,Anthrōpou
   thus,it will be,the,coming,**of the**,**Son**,of,Man
+  *so will be the coming* **of the Son** *of Man*
 
-*so will be the coming* **of the Son** *of Man*
-
-[In this example, the word  παρουσία (or coming) contains a verbal idea.  The subject of this verbal idea is τοῦ Υἱοῦ.   
-It is referring to the Son’s coming.  The writer could have said, “The son will come just like..”]
+In the example below, the term τὸ μαρτύριον refers to the verbal idea of "testifying."
+The object of this verbal idea is τοῦ Χριστοῦ ("the Christ").
+The genitive case ending for the term indicates the "the Christ" is the one about whom someone is "testifying."
 
 .. csv-table::
 
@@ -305,10 +297,6 @@ It is referring to the Son’s coming.  The writer could have said, “The son w
   καθὼς,τὸ,μαρτύριον,**τοῦ**,**Χριστοῦ**,ἐβεβαιώθη,ἐν,ὑμῖν
   kathōs,to,martyrion,**tou**,**Christou**,ebebaiōthē,en,hymin
   just as,the,testimony,**of**,**Christ**,has been confirmed,in,you
-
-*just as the testimony* **about Christ** *has been confirmed [as true] among you*
-
-Note:  In this case “Christ” is the recipient of the testimony.  Therefore the smooth translation uses the term “about Christ.”
-		We have placed the words "as true" in brackets because these words are not in the Greek text, but they are implied by ἐβεβαιώθη.
+  *just as the testimony* **about Christ** *has been confirmed [as true] among you*
 
 
