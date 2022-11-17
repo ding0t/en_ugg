@@ -5,16 +5,6 @@
 Case nominative
 ===============
 
-In Koiné Greek, the ``genitive`` case ending serves a wide variety of functions.
-Most commonly, it expresses possession, meaning that the term containing the genitive case ending *possesses* (in some way) the word it describes.
-However, it can also express other meanings as well.
-
-
-In Koiné Greek, the genitive case ending has potential to express the widest range of meanings of all the various case endings.
-The genitive case ending can express possession, description, kinship, apposition, separation, the subject of a verbal idea, the object of a verbal idea, and others.
-Often, a specific word with a genitive case ending may seem to fit into more than one category.
-In these cases, the final determination of the meaning must be based upon context.
-
 Summary
 --------
 In Koiné Greek, the ``nominative`` case ending usually indicates the subject of the sentence.
