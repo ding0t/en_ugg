@@ -1088,6 +1088,9 @@ The First Aorist Passive Indicative verb is formed by:
 
 •	The Secondary middle/passive personal endings are shown in the lower right quadrant (Quadrant 4) of Verb Master Chart Table 4; `Table 4 Primary and Secondary Endings of Verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#table-4-primary-and-secondary-endings-of-verbs>`_
 
+Table V-TA-6 Upper Right Hand Quadrant of Verb Master Chart 4
+^^^^^
+
 
 .. raw:: html
 
@@ -1173,6 +1176,96 @@ The First Aorist Passive Indicative verb is formed by:
       </tr>
     </tbody>
     </table></br>
+
+Table V-TA-6a  Lower Right Hand Quadrant of Verb Master Chart 4
+^^^^
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-ycr8{background-color:#ffffff;text-align:left;vertical-align:top}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-kt43{background-color:#fffc9e;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-6t3r{font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-6qw1{background-color:#c0c0c0;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-kt43" colspan="5">Table V-TA-6a<br>Quadrant 4 of<br>Master Verb Chart 4</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-baqh" colspan="5">Middle/Passive</td>
+      </tr>
+      <tr>
+        <td class="tg-6t3r">Singular</td>
+        <td class="tg-y6fn"></td>
+        <td class="tg-ycr8">Connecting<br>Vowel</td>
+        <td class="tg-ycr8">Primary<br>Personal<br>Ending</td>
+        <td class="tg-ycr8">Alternative<br>Personal<br>Ending</td>
+      </tr>
+      <tr>
+        <td class="tg-6t3r">1 person</td>
+        <td class="tg-0lax">ἐλύομην</td>
+        <td class="tg-baqh">ο</td>
+        <td class="tg-baqh">μην</td>
+        <td class="tg-baqh"></td>
+      </tr>
+      <tr>
+        <td class="tg-6t3r">2 person</td>
+        <td class="tg-0lax">ἐλύου</td>
+        <td class="tg-baqh">ε</td>
+        <td class="tg-baqh">(σ)ο</td>
+        <td class="tg-baqh"></td>
+      </tr>
+      <tr>
+        <td class="tg-6t3r">3 person</td>
+        <td class="tg-0lax">ἐλύετο</td>
+        <td class="tg-baqh">ε</td>
+        <td class="tg-baqh">το</td>
+        <td class="tg-baqh"></td>
+      </tr>
+      <tr>
+        <td class="tg-6t3r">Plural</td>
+        <td class="tg-y6fn"></td>
+        <td class="tg-6qw1"></td>
+        <td class="tg-6qw1"></td>
+        <td class="tg-6qw1"></td>
+      </tr>
+      <tr>
+        <td class="tg-6t3r">1 Person</td>
+        <td class="tg-0lax">ἐλυόμεθα</td>
+        <td class="tg-baqh">ο</td>
+        <td class="tg-baqh">μεθα</td>
+        <td class="tg-baqh"></td>
+      </tr>
+      <tr>
+        <td class="tg-6t3r">2 Person</td>
+        <td class="tg-0lax">ἐλύεσθε</td>
+        <td class="tg-baqh">ε</td>
+        <td class="tg-baqh">σθε</td>
+        <td class="tg-baqh"></td>
+      </tr>
+      <tr>
+        <td class="tg-6t3r">3 Person</td>
+        <td class="tg-0lax">ἐλύοντο</td>
+        <td class="tg-baqh">ο</td>
+        <td class="tg-baqh">ντο</td>
+        <td class="tg-baqh"></td>
+      </tr>
+    </tbody>
+    </table></br>
+
+
 
 
 
