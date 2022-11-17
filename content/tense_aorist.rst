@@ -1289,7 +1289,7 @@ Aorist as an indication of events having occurred in the past
 
 Example
 
-.. csv-table:: Table V-AT-7  John 4:18
+.. csv-table:: V-AT-7  John 4:18
   :header-rows: 1
 
   πέντε,γὰρ,ἄνδρας,**ἔσχες**
@@ -1299,7 +1299,7 @@ Example
 *for* **you have had** *five husbands*
 
 
-.. csv-table:: Table V-AT 7a  Rm 10:9
+.. csv-table:: V-AT 7a  Rm 10:9
 
   ὁ,Θεὸς,αὐτὸν,**ἤγειρεν**,ἐκ,νεκρῶν
   ho,Theos,auton,**ēgeiren**,ek,nekrōn
@@ -1315,7 +1315,7 @@ Participles in the Aorist indicative generally represent events that have occurr
 
 Example:
 
-.. csv-table:: Table V-AT 8  Acts 21:7
+.. csv-table:: V-AT 8  Acts 21:7
 
   καὶ,**ἀσπασάμενοι**,τοὺς,ἀδελφοὺς,ἐμείναμεν,ἡμέραν,μίαν,παρ’,αὐτοῖς.
   kai,**aspasamenoi**,tous,adelphous,emeinamen,hēmeran,mian,par’,autois.
@@ -1334,31 +1334,36 @@ Aorist tense used for punctiliar action:
 	The Aorist tense may be used for action that occurs in an instant or moment.
 Example:
 
-When the High Priest asked Jesus if He was the Christ, the Son of the Blessed one, Jesus responded with a  simple “I am”.  He also added a comment that they would see the Son of Man sitting at the right hand of power.  The High Priest then responds.
+Background for Mark 14:64: 
+When the High Priest asked Jesus if He was the Christ, the Son of the Blessed one, Jesus responded with a  simple “I am”.
+He also added a comment that they would see the Son of Man sitting at the right hand of power.  The High Priest then responds.
 
-Mark 14:64
-ἠκούσατε τῆς βλασφημίας
-ēkousate tēs blasphēmias
-you heard the blasphemy
+.. csv-table:: V-AT-9  Mark 14:64
 
-You heard the blasphemy.
+  **ἠκούσατε**,τῆς,βλασφημίας
+  **ēkousate**,tēs,blasphēmias
+  **you heard**,the,blasphemy
 
-The time frame for this action was very short.   It was over in a second.  That was all the time it took to say Ἐγώ εἰμι  (I am).
+**You heard** *the blasphemy.*
+
+The time frame for this action was very short.   It was over in a second.  That was all the time it took for Jesus to say Ἐγώ εἰμι  (I am).
 
 
 Aorist tense - action occurring over period of time
+^^^^^
 
 The aorist tense may also be used for events that occurred over a long period of time.
 Οἰκοδομήθη  (it was built) is an aorist passive indicative verb.
 
 Example:
 
-John 2:20
-τεσσεράκοντα καὶ ἓξ ἔτεσιν οἰκοδομήθη ὁ ναὸς οὗτος
-tesserakonta kai hex etesin oikodomēthē ho naos houtos
-forty             and six years  was built        the temple this
+.. csv-table:: V-AT-10  John 2:20
 
-This temple was built in 46 years
+  τεσσεράκοντα,καὶ,ἓξ,ἔτεσιν,**οἰκοδομήθη**,ὁ,ναὸς,οὗτος
+  tesserakonta,kai,hex,etesin,**oikodomēthē**,ho,naos,houtos
+  forty,and,six,years,**was built**,the,temple,this
+
+*This temple* **was built** *in 46 years*
 
 Aorist Tense - repeated action.
 
