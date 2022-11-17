@@ -1413,18 +1413,24 @@ Example:
 
   οὓς,δὲ,ἐδικαίωσεν,τούτους,καὶ,**ἐδόξασεν**
   hous,de,edikaiōsen,toutous,kai,**edoxasen**
-	 whom,and,he,justified,these,also,**he glorified**
+	 whom,and,he justified,these,also,**he glorified**
 
 *And those whom he justified, these he also* **glorified.**
 
-Gnomic aorist:
-The Gnomic Aorist  describes a generally accepted truth or fact that occurs regularly and so can be assumed to have occurred.
-James 1:11
-ἀνέτειλεν γὰρ ὁ ἥλιος .. καὶ ἐξήρανεν τὸν χόρτον
-aneteilen gar ho hēlios .. kai exēranen ton chorton
-it rises  for the sun   …    and it dries up the grass
+Gnomic aorist
+^^^^^
 
-For the sun rose … and dried up the grass,
+The Gnomic Aorist  describes a generally accepted truth or fact that occurs regularly and so can be assumed to have occurred.
+
+Example
+
+.. csv-table::   V-AT-14    James 1:11
+
+  **ἀνέτειλεν**,γὰρ,ὁ,ἥλιος,...,καὶ,**ἐξήρανεν**,τὸν,χόρτον
+  **aneteilen**,gar,ho,hēlios,...,kai,**exēranen**,ton,chorton
+  **it rises**,for,the,sun,…,and,**it dries up**,the,grass
+
+*For the sun* **rose** … *and* **dried up** *the grass,*
 
 Note:  [Or this can be translated “For the sun rises… and dries up the grass”  It is not describing a single event that occurred one time in the past but just as this happens on a regular basis, “Thus also the rich will wither…”  ]
 
