@@ -1292,18 +1292,15 @@ Example
 .. csv-table:: Table V-AT-7  John 4:18
   :header-rows: 1
 
-  John 4:18
   πέντε,γὰρ,ἄνδρας,**ἔσχες**
   pente,gar,andras,**esches**
   five,for,husbands,**you had**
 
 *for* **you have had** *five husbands*
 
-</br>
 
-.. csv-table:: Table V-AT 7a
+.. csv-table:: Table V-AT 7a  Rm 10:9
 
-  Rm 10:9
   ὁ,Θεὸς,αὐτὸν,**ἤγειρεν**,ἐκ,νεκρῶν
   ho,Theos,auton,**ēgeiren**,ek,nekrōn
   The,God,him,**he raised**,from/out of,dead
@@ -1312,21 +1309,23 @@ Example
 
 
 Aorist Participles in the indicative
+^^^^
 
-Participles in the Aorist indicative also generally represent events that have occurred in the past.            
+Participles in the Aorist indicative generally represent events that have occurred in the past.            
 
 Example:
 
-Acts 21:7
-καὶ ἀσπασάμενοι τοὺς ἀδελφοὺς, ἐμείναμεν ἡμέραν μίαν παρ’ αὐτοῖς.
-kai aspasamenoi tous adelphous, emeinamen hēmeran mian par’ autois.
-And after we had greeted the brothers, we remained day         one    with them.
+.. csv-table:: Table V-AT 8  Acts 21:7
 
-and having greeted the brothers, we stayed with them for one day
+  καὶ,**ἀσπασάμενοι**,τοὺς,ἀδελφοὺς,ἐμείναμεν,ἡμέραν,μίαν,παρ’,αὐτοῖς.
+  kai,**aspasamenoi**,tous,adelphous,emeinamen,hēmeran,mian,par’,autois.
+  And,**after we had greeted**,the,brothers,we,remained,day,one,with them.
 
-[Note]  This verse could also be translated “… after greeting the brothers, we stayed with them one day.”
+*and* **having greeted** *the brothers, we stayed with them for one day*
 
-In this example, ἀσπασάμενοι is an aorist middle participle; and ἐμείναμεν is an aorist active indicative.
+[Note]  This verse could also be translated “… **after greeting** the brothers, we stayed with them one day.”
+
+In this example, *ἀσπασάμενοι* is an aorist middle participle; and ἐμείναμεν is an aorist active indicative.
 
 It should also be remembered that the aspect is undefined. The greeting could have been short in duration or prolonged.   In this case we know the duration of the stay.  It was one day, because we are given this as additional information.  
 
