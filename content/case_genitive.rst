@@ -18,23 +18,6 @@ The genitive case ending can express possession, description, kinship, appositio
 Often, a specific word with a genitive case ending may seem to fit into more than one category.
 In these cases, the final determination of the meaning must be based upon context.
 	
-The **Genitive case** is primarily the case of description.  
-
-  1. The Genitive case may be used to attribute   
-  
-      * a basic quality to the noun, or [see `Genitive-Attributive <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-attributive>`_ ]
-      *	to show the material from which it was formed or material that it contains.  [see `Genitive_Material <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-of-material>`_]
-      
-  2. The Genitive case may also express a relationship to the subject noun (or substantive-a substantive is a noun or any word or group of words functioning like a noun) 
-      
-      *	of kinship, [see `Genitive_Kinship <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-of-kinship>`_]
-      * possession, [see `Genitive_Possession <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-of-possession>`_]
-      * apposition, or [see `Genitive_Apposition <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-of-apposition>`_]
-      * separation (or source). [see `Genitive_Separation <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-separation-or-source>`_]
-      
-  3. A word in the genitive case may also serve as the subject or object of the head noun. [see `Genitive_Subject/Object <https://ugg.readthedocs.io/en/latest/case_genitive.html#id2>`_]
-
-
 .. csv-table::
 
   John 1:19
@@ -298,5 +281,24 @@ The genitive case ending for the term indicates the "the Christ" is the one abou
   kathōs,to,martyrion,**tou**,**Christou**,ebebaiōthē,en,hymin
   just as,the,testimony,**of**,**Christ**,has been confirmed,in,you
   *just as the testimony* **about Christ** *has been confirmed [as true] among you*
+
+--------------------
+TO BE DELETED
+
+The **Genitive case** is primarily the case of description.  
+
+  1. The Genitive case may be used to attribute   
+  
+      * a basic quality to the noun, or [see `Genitive-Attributive <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-attributive>`_ ]
+      *	to show the material from which it was formed or material that it contains.  [see `Genitive_Material <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-of-material>`_]
+      
+  2. The Genitive case may also express a relationship to the subject noun (or substantive-a substantive is a noun or any word or group of words functioning like a noun) 
+      
+      *	of kinship, [see `Genitive_Kinship <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-of-kinship>`_]
+      * possession, [see `Genitive_Possession <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-of-possession>`_]
+      * apposition, or [see `Genitive_Apposition <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-of-apposition>`_]
+      * separation (or source). [see `Genitive_Separation <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-separation-or-source>`_]
+      
+  3. A word in the genitive case may also serve as the subject or object of the head noun. [see `Genitive_Subject/Object <https://ugg.readthedocs.io/en/latest/case_genitive.html#id2>`_]
 
 
