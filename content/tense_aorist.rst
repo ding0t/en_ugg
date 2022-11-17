@@ -1292,10 +1292,10 @@ Example
 .. csv-table:: Table V-AT-7  John 4:18
   :header-rows: 1
 
-John 4:18
-πέντε,γὰρ,ἄνδρας,**ἔσχες**
-pente,gar,andras,**esches**
-five,for,husbands,**you had**
+  John 4:18
+  πέντε,γὰρ,ἄνδρας,**ἔσχες**
+  pente,gar,andras,**esches**
+  five,for,husbands,**you had**
 
 *for* **you have had** *five husbands*
 
@@ -1303,10 +1303,10 @@ five,for,husbands,**you had**
 
 .. csv-table:: Table V-AT 7a
 
-Rm 10:9
-ὁ,Θεὸς,αὐτὸν,**ἤγειρεν**,ἐκ,νεκρῶν
-ho,Theos,auton,**ēgeiren**,ek,nekrōn
-The,God,him,**he raised**,from/out of,dead
+  Rm 10:9
+  ὁ,Θεὸς,αὐτὸν,**ἤγειρεν**,ἐκ,νεκρῶν
+  ho,Theos,auton,**ēgeiren**,ek,nekrōn
+  The,God,him,**he raised**,from/out of,dead
 
 *God* **raised him** *from the dead*
 
