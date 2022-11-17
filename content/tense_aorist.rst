@@ -1267,44 +1267,20 @@ Table V-TA-6a  Lower Right Hand Quadrant of Verb Master Chart 4
 
 
 
-
-
-Table VTP-4
-Quadrants 2 and 4 of
-Master Verb Chart 4
-Quadrant 2
-Active
-		Connecting
-Vowel	Primary
-Personal
-Ending	Alternative
-Personal
-Ending
-1 singular	ἔλυον	ο	ν	
-2 singular	ἔλυες	ε	ς	
-3 singular	ἔλυε (ν)	ε	-	
-				
-1 plural	ἐλυόμεν	ο	μεν	
-2 plural	ἐλύετε	ε	τε	
-3 plural	ἔλυον	ο	ν	σαν
-Quadrant 4
-Middle/Passive
-1 singular	ἐλύομην	ο	μην	
-2 singular	ἐλύου	ε	(σ)ο	
-3 singular	ἐλύετο	ε	το	
-				
-1 plural	ἐλυόμεθα	ο	μεθα	
-2 plural	ἐλύεσθε	ε	σθε	
-3 plural	ἐλύοντο	ο	ντο	
-
-
 [Note]
-•	The “-” indicates there is no personal ending.
-•	The (σ) in the second person singular middle/passive endings in quadrant 4 is in parenthesis because it often is intervocalic (between two vowels) and therefore drops out.  The resulting two vowels will then contract. “ε” and  “ο” contract to  “ου” as in ἐλύου.
-ε + λυ + ε + σο then becomes
-ε + λυ + ε + ο  (the sigma drops out)
-ε + λυ + ου  (the ε and ο contract to form ου)
-Aorist as an indication of events having occurred in the past.
+•	The “-” in Table V-TA-6 indicates there is no personal ending.
+•	The (σ) in the second person singular middle/passive endings in Table V-TA-6a is in parenthesis because it often is intervocalic (between two vowels) and therefore drops out.  The resulting two vowels will then contract. “ε” and  “ο” contract to  “ου” as in ἐλύου.
+
+  *  ε + λυ + ε + σο then becomes
+      ε + λυ + ε + ο  (the sigma drops out)
+        ε + λυ + ου  (the ε and ο contract to form ου)
+
+
+Examples:
+~~~~~~~~
+
+Aorist as an indication of events having occurred in the past
+^^^^^^
 
 •	Aorist indicative- 50 percent of the aorist verbs in the New Testament are Aorist indicative verbs.  Aorist verbs in the indicative mood generally represent an event that has occurred in the past with an unspecified aspect. 
 
