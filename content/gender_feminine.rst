@@ -5,11 +5,9 @@
 Gender feminine
 ===============
 
-Glossary
---------
-
-Nominals are marked for *grammatical* **gender**, one of which is
-*feminine*.
+Summary
+-------
+.. include:: en_uhg/content/includes/gender_feminine-summary.rst
 
 Article
 -------

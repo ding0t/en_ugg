@@ -8,8 +8,8 @@ Case accusative
 Glossary              
 --------
 
-**Accusative** is the case used to indicate the object of a verb (including participles) and of some prepositions.  
-It also is used to indicate the subject of infinitives.
+In Koiné Greek, the ``accusative`` case ending of a word indicates either the object of a verb (including participles) of the object of a preposition.  
+It can also be used to indicate the subject of an infinitive verb.
 
 .. csv-table::  Example Mark 1:3 
 
@@ -26,12 +26,12 @@ Article
 
 The accusative case is sometimes referred to as the case of “limitation.”  
 It limits the verb as to extent, direction, or end (the goal) of an action.  
-The principle uses of the accusative case are to:
+The primary uses of the accusative case are to:
 
   #.	Indicate the direct object of a verb (or participle)  [see `Accusative_Direct_Object <https://ugg.readthedocs.io/en/latest/case_accusative.html#id2>`_ ] 
   #.	Indicate the object of certain prepositions [See `Object_of_Prepositions <https://ugg.readthedocs.io/en/latest/case_accusative.html#object-of-certain-prepositions>`_ ] 
   #.	Indicate the subject of an infinitive [See `Subject_of_Infinitive <https://ugg.readthedocs.io/en/latest/case_accusative.html#subject-of-infinitives>`_ ] 
-  #.	Adverbial accusative [See `Adverbial_Accusative <https://ugg.readthedocs.io/en/latest/case_accusative.html#id5>`_ ]
+  #.	Express an adverbial accusative [See `Adverbial_Accusative <https://ugg.readthedocs.io/en/latest/case_accusative.html#id5>`_ ]
 
 
 
