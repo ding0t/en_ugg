@@ -1365,42 +1365,57 @@ Example:
 
 *This temple* **was built** *in 46 years*
 
-Aorist Tense - repeated action.
+Aorist Tense - repeated action
+^^^^^
 
 The Aorist tense can be used for action that is repeated.
 
 Example:
 
-In the day of judgment, seeking to justify themselves, many will say to Jesus…
-The implication is that they had performed these actions on more than one occasion.
 
-Matthew 7:22
-Κύριε‘, Κύριε, οὐ τῷ σῷ ὀνόματι ἐπροφητεύσαμεν
-Kyrie‘, Kyrie, ou tō sō onomati eprophēteusamen
-Lord, Lord,   not in your name  we prophesied.
+.. csv:: V-AT-11    Matthew 7:22
 
-Lord, Lord, did we not prophesy in your name
+  Κύριε‘,Κύριε,οὐ,τῷ,σῷ,ὀνόματι,**ἐπροφητεύσαμεν**
+  Kyrie‘,Kyrie,ou,tō,sō,onomati,**eprophēteusamen**
+  Lord,Lord,not,in,your,name,**we prophesied.**
+
+*Lord, Lord, did we not prophesy in your name*
 
 
 Aoristic  - present
+^^^^^
+
 The aorist tense may be used to describe an  event occurring in the present, or just completed.  This also includes an Epistolary aorist where the writer describes his letter as already having been completed and delivered. 
+
 Example:
-John the Baptist tells his followers while they are at the river being baptized.
-Mark 1:8
-ἐγὼ ἐβάπτισα ὑμᾶς ὕδατι
-egō ebaptisa hymas hydati
-I      I baptized    you  with water
-I baptized you with water
-Aoristic – future  
+
+  John the Baptist tells his followers while they are at the river being baptized.
+
+.. csv-table:: V-AT-12    Mark 1:8 
+
+  ἐγὼ,**ἐβάπτισα**,ὑμᾶς,ὕδατι
+  egō,**ebaptisa**,hymas,hydati
+  I,**I baptized**,you,with water
+
+*I* **baptized** you with water
+
+
+Aoristic – future
+^^^^^
+
 The Aorist tense may be used to describe action that will occur in the future. 
 Some have referred to this as the prophetic future (or an event that is so certain that it is described as if it had already occurred.)  This may be overstating the case as the aorist tense simply presents an event as a completed action. Yet, using the aorist tense, which describes completed action, for something to occur in the future instead of the future tense does add a sense of certainty to the event.
-Example:
-	Romans 8:30
-	οὓς δὲ ἐδικαίωσεν, τούτους καὶ ἐδόξασεν
-	hous de edikaiōsen, toutous kai edoxasen
-	whom and he justified these  also he glorified
 
-	And those whom he justified, these he also glorified.
+Example:
+
+
+.. csv-table:: V-AT-13  	Romans 8:30
+
+  οὓς,δὲ,ἐδικαίωσεν,τούτους,καὶ,**ἐδόξασεν**
+  hous,de,edikaiōsen,toutous,kai,**edoxasen**
+	 whom,and,he,justified,these,also,**he glorified**
+
+*And those whom he justified, these he also* **glorified.**
 
 Gnomic aorist:
 The Gnomic Aorist  describes a generally accepted truth or fact that occurs regularly and so can be assumed to have occurred.
