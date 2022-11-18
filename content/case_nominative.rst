@@ -112,8 +112,7 @@ When the subject is paired with the definite article, the definite article will 
   he wept,the,**Jesus**
   **Jesus**  *wept.*
 
-
-.. csv-table:: 
+.. csv-table::
 
   John 3:35 
   **ὁ**,**Πατὴρ**,ἀγαπᾷ,τὸν,Υἱόν
@@ -193,15 +192,13 @@ The **Nominative-Predicate** (also referred to as Predicate Nominative) construc
 	
 Indicates apposition	
 ~~~~~~~~~~~~~~~~~~~~
-
-Apposition means “*next to*” or “*beside*.”
-Sometimes a second noun is placed next to the subject of the sentence (or clause) to add 
-additional information (to further describe the subject of the sentence).
-This is the Nominative of Apposition. 
-The **Nominative-Apposition** sometimes will modify the subject of the sentence, or it may modify a noun that is not the subject and is not in the nominative case.
-However, the Nominative-Apposition will still be in the nominative case because it is **identifying or designating the noun**.
-In the example below  *ὁ μάρτυς* and *ὁ προτότοκος* are both in the nominative case and are in apposition to Ἰησοῦ χριστοῦ which is in the genitive case. 
-
+In Koiné Greek, the nominative case ending can be used to indicate a term that is in apposition to another word (usually a noun).
+It functions very much like an adjective, except it is usually not an adjective, but a noun instead.
+"Apposition" is the term used when a noun describes (or gives more information about) another noun.
+Appositions can be translated into English a variety of different ways, depending on the specific context.
+Some common ways of translating an apposition into English include "who is," "which is," "namely," a simple comma, or sometimes not translated at all.
+In the example below, the terms *ὁ μάρτυς* and *ὁ προτότοκος* both take the nominative case ending and are in apposition to Ἰησοῦ χριστοῦ (even though Ἰησοῦ χριστοῦ takes the genitive case ending).
+The apposition indicates that Jesus Christ is the person whom the writer indicates is the faithful witness and the firstborn from the dead.
 
 .. csv-table::
 
