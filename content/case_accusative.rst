@@ -138,8 +138,7 @@ The direct object refers to the person(s) or thing(s) upon which the verb is act
 
 Note:  In this example, *ἁμαρτίαν * is the dirct object of the participle *αἴρων*. 
 
-.. note:: There are some verbs that can take their direct object either in the :ref:`genitive<case_genitive>` [see `Genitive Case <https://ugg.readthedocs.io/en/latest/case_genitive.html#id3>`_ ] 
-or in the dative case `Dative_Direct_Object <https://ugg.readthedocs.io/en/latest/case_dative.html#id3>`_ .]
+.. note:: There are some verbs that can take their direct object either in the :ref:`genitive<case_genitive>` or in the :ref:`dative<case_dative>` case.
 
 Double Accusative
 #################
