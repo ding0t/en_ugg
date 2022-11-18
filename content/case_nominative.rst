@@ -18,16 +18,6 @@ In a sentence with a linking verb, the nominative case ending can indicate the p
 
 The nominative case ending is the standard form used for dictionary entries in a Greek lexicon.
 
-.. csv-table::
-
-  John 11:35
-  ἐδάκρυσεν,**ὁ**,**Ἰησοῦς**
-  edakrysen,**ho**,**Iēsous**
-  he wept,the,**Jesus**
-  **Jesus**  *wept.*
-
-
-
 Form
 ----
 
@@ -114,6 +104,15 @@ Indicates the subject of a sentence
 The primary use of the nominative case ending is to identify the subject of the sentence.
 When the subject is paired with the definite article, the definite article will also take the nominative case ending.
 
+.. csv-table::
+
+  John 11:35
+  ἐδάκρυσεν,**ὁ**,**Ἰησοῦς**
+  edakrysen,**ho**,**Iēsous**
+  he wept,the,**Jesus**
+  **Jesus**  *wept.*
+
+
 .. csv-table:: 
 
   John 3:35 
@@ -187,19 +186,44 @@ Unlike in English, a linking verb in Koiné Greek can be implied and not explici
 are completed with an object in nominative case.
 The **Nominative-Predicate** (also referred to as Predicate Nominative) construction can take different forms but consists of a **subject + a linking verb +** **an object in the nominative case.**   
 [The linking verb may be implied and not actually present in the text.]
-Care must be used in the translation of a *Nominative-Predicate* because the object may not be in the last position and is often not an exact equivalent of the subject. 
-The Predicate Nominative is generally the larger class of objects, while the subject is the smaller class.
-Therefore, the translator must clearly understand which word (or phrase) is the subject of the sentence and which word (or phrase) is the predicate nominative.
-The translator must use equal care in the translation so that the reader will be able to distinguish between the subject and the predicate nominative.
-  
-  Consider the sentence, “Paul is a man.”   “Paul” is the subject and “man” is the Nominative-Predicate.   The translator must be careful 
-  to first understand the passage and then take equal care in the translation to make sure the reader understands that Paul is the subject
-  and man is the Nominative-Predicate.  English uses word order to indicate which word is the subject and which word is the Predicate 
-  Nominative. Therefore reversing   the word order in English to say “a man is Paul” would lead the reader to think that all men are 
-  “Paul” which is not true.   The more   definite of the two words (or clauses) in the nominative case will be the subject of the sentence. 
 
-Greek, for the most part, does not use position to distinguish between subject and the predicate nominative.  In Greek the predicate
-nominative may be moved in front of the subject to place an emphasis on the predicate nominative. 
+.. note:: Use caution when translating sentences with predicate nominatives.  It is often difficult to tell which term is the subject and which term is the predicate nominative, but they are not the same thing. They must be distinguished from one another.Care must be used in the translation of a *Nominative-Predicate* because the object may not be in the last position and is often not an exact equivalent of the subject. Koiné Greek does not use position to distinguish between the subject and the predicate nominative. The predicate nominative may appear either before or after the subject. The predicate nNominative is generally the larger class of objects, while the subject is the smaller class.
+  
+  
+	
+Indicates apposition	
+~~~~~~~~~~~~~~~~~~~~
+
+Apposition means “*next to*” or “*beside*.”
+Sometimes a second noun is placed next to the subject of the sentence (or clause) to add 
+additional information (to further describe the subject of the sentence).
+This is the Nominative of Apposition. 
+The **Nominative-Apposition** sometimes will modify the subject of the sentence, or it may modify a noun that is not the subject and is not in the nominative case.
+However, the Nominative-Apposition will still be in the nominative case because it is **identifying or designating the noun**.
+In the example below  *ὁ μάρτυς* and *ὁ προτότοκος* are both in the nominative case and are in apposition to Ἰησοῦ χριστοῦ which is in the genitive case. 
+
+
+.. csv-table::
+
+  Revelation 1:5
+  καὶ,ἀπὸ,Ἰησοῦ,Χριστοῦ,**ὁ**,**μάρτυς**,ὁ,πιστός,**ὁ**,**πρωτότοκος**,τῶν,νεκρῶν...
+  kai,apo,Iēsou,Christou,**ho**,**martys**,ho,pistos,**ho**,**prōtotokos**,tōn,nekrōn...
+  and,from,Jesus,Christ,the,**witness**,the,faithful,the,**firstborn**,from the,dead...
+  *and from Jesus Christ, the faithful* **witness**, *the* **firstborn** *from the dead...*
+
+
+
+---------------------
+TO BE DELETED OR MOVED?
+
+Consider the sentence, “Paul is a man.”
+  “Paul” is the subject and “man” is the Nominative-Predicate.
+  The translator must be careful 
+  to first understand the passage and then take equal care in the translation to make sure the reader understands that Paul is the subject
+  and man is the Nominative-Predicate.
+  English uses word order to indicate which word is the subject and which word is the Predicate Nominative.
+  Therefore reversing   the word order in English to say “a man is Paul” would lead the reader to think that all men are 
+  “Paul” which is not true.   The more   definite of the two words (or clauses) in the nominative case will be the subject of the sentence.  
 
 **The following basic rules will help to clarify which word (or clause) is the subject of the sentence and which word (or clause)**
 **is the predicate nominative for the sentence in Koine Greek.**  
@@ -316,26 +340,4 @@ translated.    [D R A F T]
   and,they will become,the,two,,**flesh**,one 
 
 *and the two will become one* **flesh**
-	
-Indicates apposition	
-~~~~~~~~~~~~~~~~~~~~
-
-Apposition means “*next to*” or “*beside*.”
-Sometimes a second noun is placed next to the subject of the sentence (or clause) to add 
-additional information (to further describe the subject of the sentence).
-This is the Nominative of Apposition. 
-The **Nominative-Apposition** sometimes will modify the subject of the sentence, or it may modify a noun that is not the subject and is not in the nominative case.
-However, the Nominative-Apposition will still be in the nominative case because it is **identifying or designating the noun**.
-In the example below  *ὁ μάρτυς* and *ὁ προτότοκος* are both in the nominative case and are in apposition to Ἰησοῦ χριστοῦ which is in the genitive case. 
-
-
-.. csv-table::
-
-  Revelation 1:5
-  καὶ,ἀπὸ,Ἰησοῦ,Χριστοῦ,**ὁ**,**μάρτυς**,ὁ,πιστός,**ὁ**,**πρωτότοκος**,τῶν,νεκρῶν...
-  kai,apo,Iēsou,Christou,**ho**,**martys**,ho,pistos,**ho**,**prōtotokos**,tōn,nekrōn...
-  and,from,Jesus,Christ,the,**witness**,the,faithful,the,**firstborn**,from the,dead...
-  *and from Jesus Christ, the faithful* **witness**, *the* **firstborn** *from the dead...*
-
-
 
