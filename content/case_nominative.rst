@@ -5,38 +5,21 @@
 Case nominative
 ===============
 
-Glossary
+Summary
 --------
+In Koiné Greek, the ``nominative`` case ending usually indicates the subject of the sentence.
+However, the nominative case ending can also indicate a predicate nominative or predicate adjective. 
 
-Nominative is the case used to identify the subject. Because verbs include the subject, the nominative case is used in apposition 
-(or placed next) to the subject of the verb to add further identification.   The nominative case is also used as a predicate nominative to 
-**equate or describe** the subject when used with a linking verb. The **nominative** is normally the form listed as the
-headword in a dictionary entry (as the lemma).
-
-.. csv-table::
-
-  John 11:35
-  ἐδάκρυσεν,**ὁ**,**Ἰησοῦς**
-  edakrysen,**ho**,**Iēsous**
-  he wept,the,**Jesus**
-
-**Jesus**  *wept.*
-
-
-Article 
+Article  
 -------
+In Koiné Greek, the nominative case ending indicates the subject of a sentence. 
+Any adjectives or participles that describe the subject of the sentence also take the nominative case ending.
+In a sentence with a linking verb, the nominative case ending can indicate the predicate nominative or predicate adjective.
 
-
-The nominative case is the case of designation or identity. It is used to:
-
-  #.	identify, designate or name the subject of the sentence,
-  #.	used in apposition to the subject of the sentence or another noun,
-  #.	used as a predicate nominative, or
-  #.	may stand alone without a verb for emphasis.
-
+The nominative case ending is the standard form used for dictionary entries in a Greek lexicon.
 
 Form
-^^^^
+----
 
 The nominative case is formed by adding the nominative case ending to the stem of a word (often with a connecting vowel).
 
@@ -116,55 +99,28 @@ See `NounParadigm <https://ugg.readthedocs.io/en/latest/paradigms.html#nouns>`_ 
 `AdjectiveParadigm <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_ for the adjective paradigms.
 
 	
-Nominative-Subject
-~~~~~~~~~~~~~~~~~~
+Indicates the subject of a sentence
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The primary use of the nominative case ending is to identify the subject of the sentence.
+When the subject is paired with the definite article, the definite article will also take the nominative case ending.
 
-The primary use of the nominative case is to identify the subject of the sentence. The definite article will also be in the nominative 
-case when it is modifying the subject of the sentence as can be seen in the example below.
+.. csv-table::
 
-.. csv-table:: 
+  John 11:35
+  ἐδάκρυσεν,**ὁ**,**Ἰησοῦς**
+  edakrysen,**ho**,**Iēsous**
+  he wept,the,**Jesus**
+  **Jesus**  *wept.*
+
+.. csv-table::
 
   John 3:35 
   **ὁ**,**Πατὴρ**,ἀγαπᾷ,τὸν,Υἱόν
   **ho**,**Patēr**,agapa,ton,huion
   **the**,**Father**,he loves,the,Son
+  **The Father** *loves the Son.*
 
-**The Father** *loves the Son.*
-
-The reader will notice that the verb includes the subject of the sentence “he” as part of a third person singular verb.  **ὁ Πατὴρ** 
-identifies the subject by pointing specifically to the Father.  Therefore the nominative-subject also stands in *apposition* (or next to)
-the subject that is included as a part of the verb, but helps to clarify the subject of the verb with the additional information.
-
-The **nominative case** is also used for *adjectives* and *participles* modifying the subject.  This is because adjectives and participles 
-use the same case of the noun they are modifying.  (They also have the same :ref:`gender<gender>` and :ref:`number<number>` as the word 
-they are modifying)  See :ref:`Adjectives<adjective>` .   
-
-
-
-Example – The adjective (καλός) and the noun (ποιμὴν) are both in the nominative case.
-
-.. csv-table::
-
-  John 10:11
-  ὁ,ποιμὴν,**ὁ**,**καλὸς**,τὴν,ψυχὴν,αὐτοῦ,τίθησιν,ὑπὲρ,τῶν,προβάτων
-  ho,poimēn,**ho**,**kalos**,tēn,psychēn,autou,tithēsin,hyper,tōn,probatōn
-  the,shepherd,**the**,**good**,the,life,of him,he lays down,in behalf of,the,sheep
-
-**The good** *shepherd lays down his life for the sheep.*
-
-Example – The participle (βλέπων) and the noun (Πατήρ) being modified are both in the nominative case. (Like adjectives, participles agree with the noun they 
-modify in case, number, and gender). See :ref:`Participles<participle>`.
-
-.. csv-table::
-
-  Matthew 6:6
-  ὁ,Πατήρ,σου,**ὁ**,**βλέπων**,ἐν,τῷ,κρυπτῷ,ἀποδώσει,σοι.
-  ho,patēr,sou,**ho**,**blepōn**,en,tō,kryptō,apodōsei,soi.
-  the,Father,of you,**who**,**is seeing**,in,the,secret,he will reward,to you
-
-*your Father* **who sees** *in secret will reward you*
-
-If an adjective or participle is serving as the subject of the sentence, they will be in the nominative case.
+When an adjective or participle functions as the subject of the sentence, it will take the nominative case ending.
 
 .. csv-table::
 
@@ -172,20 +128,77 @@ If an adjective or participle is serving as the subject of the sentence, they wi
   ὁ,δὲ,**δίκαιος**,ἐκ,πίστεως,ζήσεται.
   ho,de,**dikaios**,ek,pisteōs,zēsetai.
   the,indeed,**righteous**,by,faith,he will live.
+  *But, the* **righteous** *will live by faith.*
 
-*But, the* **righteous** *will live by faith.*
+Any adjectives or participles that describe the subject of a sentence will also take the nominative case ending.
+This is because adjectives and participles must agree with the term that they describe in :ref:`case<case>` as well as :ref:`gender<gender>` and :ref:`number<number>`.   
+In the example below, the adjective (καλός) and the noun (ποιμὴν) both take the nominative case ending.
+
+.. csv-table::
+
+  John 10:11
+  ὁ,ποιμὴν,**ὁ**,**καλὸς**,τὴν,ψυχὴν,αὐτοῦ,τίθησιν,ὑπὲρ,τῶν,προβάτων
+  ho,poimēn,**ho**,**kalos**,tēn,psychēn,autou,tithēsin,hyper,tōn,probatōn
+  the,shepherd,**the**,**good**,the,life,of him,he lays down,in behalf of,the,sheep
+  **The good** *shepherd lays down his life for the sheep.*
+
+In the example below, the participle (βλέπων) and the noun (Πατήρ) both take the nominative case ending. 
+
+.. csv-table::
+
+  Matthew 6:6
+  ὁ,Πατήρ,σου,**ὁ**,**βλέπων**,ἐν,τῷ,κρυπτῷ,ἀποδώσει,σοι.
+  ho,patēr,sou,**ho**,**blepōn**,en,tō,kryptō,apodōsei,soi.
+  the,Father,of you,**who**,**is seeing**,in,the,secret,he will reward,to you
+  *your Father* **who sees** *in secret will reward you*
+
+Sometimes a writer may not intend to form a complete sentence.
+This may occur in titles, headings, the greeting of a letter, or when a writer wishes to express strong emotion.
+In cases like these, there is often a subject to the sentence fragment but no predicate and no verb.
+The subject of these kinds of sentence fragments will take the nominative case ending.
+
+.. csv-table::
+
+  Jude 1
+  Ἰούδας,Ἰησοῦ,Χριστοῦ,δοῦλος,ἀδελφὸς,δὲ,Ἰακώβου
+  Ioudas,Iēsou,Christou,doulos,adelphos,de,Iakōbou
+  Jude,of Jesus,of Christ,a slave,brother,and,of James
+  **Jude**, *a servant of Jesus Christ, and brother of James*
 
 
-Nominative – Apposition	
-~~~~~~~~~~~~~~~~~~~~~~~
+.. csv-table::
 
-Apposition means “*next to*” or “*beside*.”  Sometimes a second noun is placed next to the subject of the sentence (or clause) to add 
-additional information (to further describe the subject of the sentence).  This is the Nominative of Apposition. The **Nominative-Apposition** sometimes will modify the subject of the sentence, 
-or it may modify a noun that is not the subject and is not in the nominative case.  However, the Nominative-Apposition will still be in 
-the nominative case because it is **identifying or designating the noun**. In the example below  *ὁ μάρτυς* and *ὁ προτότοκος* are both in 
-the nominative case and are in apposition to Ἰησοῦ χριστοῦ which is in the genitive case. 
+  Romans 11:33
+  ὦ,**βάθος**,πλούτου,καὶ,σοφίας,καὶ,γνώσεως,Θεοῦ
+  ō,**bathos**,ploutou,kai,sophias,kai,gnōseōs,theou
+  Oh,**depth**,of riches,both,of wisdom,and,of knowledge,of God. 
+  *Oh*, **the depth** *of the riches both of the wisdom and the knowledge of God!*
 
-Example:
+Indicates a predicate nominative or predicate adjective
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sentences with linking verbs (such as **εἰμί, γίνομαι, and ὑπάρχω**) do not take a typical predicate containing an active verb with a direct object, etc.
+When a linking verb requires a predicate, that predicate will contain some kind of predicate nominative (either a noun or a participle functioning as a noun) or predicate adjective (either an adjective or a participle functioning as an adjective).
+In these cases, the predicate nominative or predicate adjective will take the nominative case ending.
+
+Unlike in English, a linking verb in Koiné Greek can be implied and not explicitly stated.
+
+are completed with an object in nominative case.
+The **Nominative-Predicate** (also referred to as Predicate Nominative) construction can take different forms but consists of a **subject + a linking verb +** **an object in the nominative case.**   
+[The linking verb may be implied and not actually present in the text.]
+
+.. note:: Use caution when translating sentences with predicate nominatives.  It is often difficult to tell which term is the subject and which term is the predicate nominative, but they are not the same thing. They must be distinguished from one another.Care must be used in the translation of a *Nominative-Predicate* because the object may not be in the last position and is often not an exact equivalent of the subject. Koiné Greek does not use position to distinguish between the subject and the predicate nominative. The predicate nominative may appear either before or after the subject. The predicate nNominative is generally the larger class of objects, while the subject is the smaller class.
+  
+  
+	
+Indicates apposition	
+~~~~~~~~~~~~~~~~~~~~
+In Koiné Greek, the nominative case ending can be used to indicate a term that is in apposition to another word (usually a noun).
+It functions very much like an adjective, except it is usually not an adjective, but a noun instead.
+"Apposition" is the term used when a noun describes (or gives more information about) another noun.
+Appositions can be translated into English a variety of different ways, depending on the specific context.
+Some common ways of translating an apposition into English include "who is," "which is," "namely," a simple comma, or sometimes not translated at all.
+In the example below, the terms *ὁ μάρτυς* and *ὁ προτότοκος* both take the nominative case ending and are in apposition to Ἰησοῦ χριστοῦ (even though Ἰησοῦ χριστοῦ takes the genitive case ending).
+The apposition indicates that Jesus Christ is the person whom the writer indicates is the faithful witness and the firstborn from the dead.
 
 .. csv-table::
 
@@ -193,30 +206,21 @@ Example:
   καὶ,ἀπὸ,Ἰησοῦ,Χριστοῦ,**ὁ**,**μάρτυς**,ὁ,πιστός,**ὁ**,**πρωτότοκος**,τῶν,νεκρῶν...
   kai,apo,Iēsou,Christou,**ho**,**martys**,ho,pistos,**ho**,**prōtotokos**,tōn,nekrōn...
   and,from,Jesus,Christ,the,**witness**,the,faithful,the,**firstborn**,from the,dead...
+  *and from Jesus Christ, the faithful* **witness**, *the* **firstborn** *from the dead...*
 
-*and from Jesus Christ, the faithful* **witness**, *the* **firstborn** *from the dead...*
 
 
-Nominative-Predicate
-~~~~~~~~~~~~~~~~~~~~
+---------------------
+TO BE DELETED OR MOVED?
 
-Linking verbs such as **εἰμί, γίνομαι, and ὑπάρχω** are completed with an object in nominative case.  The **Nominative-Predicate** 
-(also referred to as Predicate Nominative) construction can take different forms but consists of a **subject + a linking verb +**
-**an object in the nominative case.**   [The linking verb may be implied and not actually present in the text.]  Care must be used in 
-the translation of a *Nominative-Predicate* because the object may not be in the last position and is often not an exact equivalent of 
-the subject.   The Predicate Nominative is generally the larger class of objects, while the subject is the smaller class.  Therefore, the 
-translator must clearly understand which word (or phrase) is the subject of the sentence and which word (or phrase) is the predicate 
-nominative. The translator must use equal care in the translation so that the reader will be able to distinguish between the subject 
-and the predicate nominative.
-  
-  Consider the sentence, “Paul is a man.”   “Paul” is the subject and “man” is the Nominative-Predicate.   The translator must be careful 
+Consider the sentence, “Paul is a man.”
+  “Paul” is the subject and “man” is the Nominative-Predicate.
+  The translator must be careful 
   to first understand the passage and then take equal care in the translation to make sure the reader understands that Paul is the subject
-  and man is the Nominative-Predicate.  English uses word order to indicate which word is the subject and which word is the Predicate 
-  Nominative. Therefore reversing   the word order in English to say “a man is Paul” would lead the reader to think that all men are 
-  “Paul” which is not true.   The more   definite of the two words (or clauses) in the nominative case will be the subject of the sentence. 
-
-Greek, for the most part, does not use position to distinguish between subject and the predicate nominative.  In Greek the predicate
-nominative may be moved in front of the subject to place an emphasis on the predicate nominative. 
+  and man is the Nominative-Predicate.
+  English uses word order to indicate which word is the subject and which word is the Predicate Nominative.
+  Therefore reversing   the word order in English to say “a man is Paul” would lead the reader to think that all men are 
+  “Paul” which is not true.   The more   definite of the two words (or clauses) in the nominative case will be the subject of the sentence.  
 
 **The following basic rules will help to clarify which word (or clause) is the subject of the sentence and which word (or clause)**
 **is the predicate nominative for the sentence in Koine Greek.**  
@@ -333,35 +337,4 @@ translated.    [D R A F T]
   and,they will become,the,two,,**flesh**,one 
 
 *and the two will become one* **flesh**
-	
-
-Nominative–Stand_alone
-~~~~~~~~~~~~~~~~~~~~~~
-
-A word or clause may appear in the nominative case without a verb or a direct object.  This may occur in the greeting of a letter, 
-titles, headings, or to make something a heading by giving it special emphasis.  A word or clause may also appear in the nominative case 
-to express the emotion of the writer.   In these cases, there is no intent of the writer to form a complete sentence.
-
-For example see the greeting of the book of Jude.
-
-.. csv-table::
-
-  Jude 1
-  Ἰούδας,Ἰησοῦ,Χριστοῦ,δοῦλος,ἀδελφὸς,δὲ,Ἰακώβου
-  Ioudas,Iēsou,Christou,doulos,adelphos,de,Iakōbou
-  Jude,of Jesus,of Christ,a slave,brother,and,of James
-
-**Jude**, *a servant of Jesus Christ, and brother of James*
-
-
-In Romans 11:33, Paul cries out with emotion
-
-.. csv-table::
-
-  Romans 11:33
-  ὦ,**βάθος**,πλούτου,καὶ,σοφίας,καὶ,γνώσεως,Θεοῦ
-  ō,**bathos**,ploutou,kai,sophias,kai,gnōseōs,theou
-  Oh,**depth**,of riches,both,of wisdom,and,of knowledge,of God
-
-*Oh*, **the depth** *of the riches both of the wisdom and the knowledge of God!*
 

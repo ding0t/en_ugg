@@ -5,35 +5,20 @@
 Case accusative
 ===============
 
-Glossary              
+Summary              
 --------
-
-In Koiné Greek, the ``accusative`` case ending of a word indicates either the object of a verb (including participles) of the object of a preposition.  
+In Koiné Greek, the ``accusative`` case ending of a word indicates either the direct object of a verb (including participles) or the object of a preposition.  
 It can also be used to indicate the subject of an infinitive verb.
-
-.. csv-table::  Example Mark 1:3 
-
-  ἑτοιμάσατε,τὴν,**ὁδὸν**,Κυρίου 
-  hetoimasate,tēn,**hodon**,Kyriou
-  prepare,the,**way**,of the Lord
-
-*make ready the* **way** *of the Lord*
-
-
 
 Article               
 -------
-
-The accusative case is sometimes referred to as the case of “limitation.”  
-It limits the verb as to extent, direction, or end (the goal) of an action.  
-The primary uses of the accusative case are to:
-
-  #.	Indicate the direct object of a verb (or participle)  [see `Accusative_Direct_Object <https://ugg.readthedocs.io/en/latest/case_accusative.html#id2>`_ ] 
-  #.	Indicate the object of certain prepositions [See `Object_of_Prepositions <https://ugg.readthedocs.io/en/latest/case_accusative.html#object-of-certain-prepositions>`_ ] 
-  #.	Indicate the subject of an infinitive [See `Subject_of_Infinitive <https://ugg.readthedocs.io/en/latest/case_accusative.html#subject-of-infinitives>`_ ] 
-  #.	Express an adverbial accusative [See `Adverbial_Accusative <https://ugg.readthedocs.io/en/latest/case_accusative.html#id5>`_ ]
-
-
+In Koiné Greek, the accusative case ending indicates the direct object of a verb.
+This includes both infinitives and participles.
+Thus, when a participle requires a direct object, that term takes the accusative case ending.
+The accusative case ending can also indicate the object (or complement) of a preposition.
+Some infinitives in Koiné Greek take a subject.
+In these cases, the subject of an infinitive verb takes the accusative case ending.
+The accusative case ending can also indicate that that word is functioning as an adverb describing the verb.
 
 Form
 ~~~~
@@ -117,42 +102,43 @@ Note:  The hyphen (-) indicates that there is no case ending for the third decle
 See `NounParadigm <https://ugg.readthedocs.io/en/latest/paradigms.html#nouns>`_  for a complete listing of the noun paradigms and
 `AdjectiveParadigm <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_ for the adjective paradigms.
 
+.. csv-table::  Example Mark 1:3 
 
-Accusative_Direct Object
-########################
+  ἑτοιμάσατε,τὴν,**ὁδὸν**,Κυρίου 
+  hetoimasate,tēn,**hodon**,Kyriou
+  prepare,the,**way**,of the Lord
 
-The accusative case is used to indicate the direct object of the transitive verb.  
-A direct object is the person(s) or thing(s) which receive the action of transitive verbs.  Because most verbs are transitive almost every 
-sentence will have the object of the verb in the accusative case. 
-However, there are a few verbs that can take their object in the Genitive Case [see `Genitive Case <https://ugg.readthedocs.io/en/latest/case_genitive.html#id3>`_ ] 
-or `Dative_Direct_Object <https://ugg.readthedocs.io/en/latest/case_dative.html#id3>`_ .]  
+*make ready the* **way** *of the Lord*
 
+Indicates the direct object
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The accusative case most commonly indicates the direct object of a transitive verb.  
+The direct object refers to the person(s) or thing(s) upon which the verb is acting. 
 
-.. csv-table::   Example: John 3:16
+.. csv-table::   John 3:16
 
   οὕτως,γὰρ,ἠγάπησεν,ὁ,Θεὸς,τὸν,**κόσμον**
   houtōs,gar,ēgapēsen,ho,Theos,ton,**kosmon**
   thus/so,for,he loved,the,God,the,**world**
+  *For God so loved the* **world**
 
-*For God so loved the* **world**
-
-.. csv-table:: Example:  Matthew 11:10
+.. csv-table:: Matthew 11:10
 
   ἀποστέλλω,τὸν,**ἄγγελόν**,μου
   apostellō,ton,**angelon**,mou
   I am sending,the,**messenger**,my
+  *I am sending my* **messenger**
 
-*I am sending my* **messenger**
-
-.. csv-table::  Example John 1:29
+.. csv-table::  John 1:29
 
   ἴδε,ὁ,Ἀμνὸς,τοῦ,Θεοῦ,ὁ,αἴρων,τὴν,**ἁμαρτίαν**,τοῦ,κόσμου
   ide,ho,Amnos,tou,Theou,ho,airōn,tēn,**hamartian**,tou,kosmou
   Behold,the,Lamb,of,God,who,is taking away,the,**sin**,of the,world
-  
-*Look, there is the Lamb of God, who takes away the* **sin** *of the world!*
+  *Look, there is the Lamb of God, who takes away the* **sin** *of the world!*
 
 Note:  In this example, *ἁμαρτίαν * is the dirct object of the participle *αἴρων*. 
+
+.. note:: There are some verbs that can take their direct object either in the :ref:`genitive<case_genitive>` or in the :ref:`dative<case_dative>` case.
 
 Double Accusative
 #################
