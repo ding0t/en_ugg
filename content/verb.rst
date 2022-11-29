@@ -35,76 +35,6 @@ They are added in certain circumstances depending on the form of the verb used i
 
 .. note:: Koiné Greek contains many irregular verbs that do not follow strictly the patterns of form described above. If you are ever uncertain about the form of any particular verb, consult a lexicon.
 
-Form
-----
-Verbs are made up of six basic components:
-
-  *	The **root** which carries the basic meaning of the verb. 
-  *	The :ref:`Tense<tense>` which indicates the speaker’s perspective or viewpoint *of the time of action* and the *kind of action* of the verb. The kind of action may be *continuous*, *completed*, or *completed with an ongoing effect.*
-  
-  *	The :ref:`Voice<voice>` which indicates whether the subject performs the action (active voice), whether the action is performed on the subject (passive voice), or indicates that the subject does the action of the verb but also is somehow affected by the action of the verb or is participating in the action of the verb (middle voice).  Many verbs are said to be deponent.  A deponent verb is a verb whose stem is middle or passive in form, but active in meaning.   The definitions of many verbs that are classified as deponent have a meaning that implies the participation of the person doing the action.
-
-  *	The :ref:`Mood<mood>` which indicates the speaker’s viewpoint of the verbal action in relation to reality. Greek has four moods: indicative, imperative, subjunctive, and optative.
-  *	:ref:`Number<number>` which signifies whether one (singular) or more (plural) participants are indicated by a word.
-  *	:ref:`Gender<Gender>` which indicates if the subject of the verb is masculine, feminine, or neuter.
-
-Verbs must agree with the subject of the verb in both number and person.
-Therefore, the pronoun (I, you, he, she, or it) is included in the verb itself and it is not necessary for it to be restated as a separate word. 
-
-**Parts**
-~~~~~~~~~
-
-Verbs are made up of :
-  1.	The *root* is the most basic part of a word.  The root conveys the basic meaning of the word.  The root may be modified to make the word a noun, an adjective, a verb, or to indicate the tense of the verb.   
-  2.	The *stem* is the form of the root in a particular verbal tense. For some verbs, the present tense stem is identical to the root, but this is not always the case.  
-  3.	*Prefix* -  A prefix may be added to the stem of a verb to change its tense or the meaning of the root.
-  4.	*Suffixes* and connecting vowels (and sometimes with a prefix) are added to the end of the stem to change the person, number, tense, mood, or voice of a verb.
-  5.	*Connecting vowels* are often added before the suffix to aid in pronunciation, but may also be used to change the mood of the verb.
-
-
-
-
-In Biblical Hebrew, the root of a verb consists of three consonants,
-sometimes called the tri-literal (meaning "three letters") root. In
-"strong" verbs, the three root consonants always stay the same and are
-easy to recognize, but "weak" verbs have one or more consonants that
-disappear in certain forms.
-
-Verbs in Biblical Hebrew change form according to both conjugation
-(:ref:`Perfect<verb_perfect>`,
-:ref:`Imperfect<verb_imperfect>`,
-:ref:`Infinitive Absolute<infinitive_absolute>`,
-etc.) and stem formation
-(:ref:`Niphal<stem_niphal>`,
-:ref:`Hiphil<stem_hiphil>`,
-etc.). Generally speaking, changes in verb forms happen by adding
-prefixes/suffixes, by changing the vowels, or both. These changes in
-form show the
-:ref:`stem formation<stem>`
-of a verb with its conjugation, which includes the person
-(:ref:`first<person_first>`, :ref:`second<person_second>`,
-or
-:ref:`third<person_third>`),
-the gender
-(:ref:`masculine<gender_masculine>`
-or
-:ref:`feminine<gender_feminine>`),
-the number
-(:ref:`singular<number_singular>`
-or
-:ref:`plural<number_plural>`),
-and sometimes the state
-(:ref:`absolute<state_absolute>`
-or
-:ref:`construct<state_construct>`).
-The person, gender, and number of a verb always agree with the subject.
-
-Unlike English (but similar to other languages like Spanish), verbs in
-Biblical Hebrew do not require a separate :ref:`personal pronoun<pronoun_personal>`
-if the subject is not identified; this is because the form of the verb
-itself includes the subject. A :ref:`pronominal suffix<suffix_pronominal>`
-attached to a verb can function as its object.
-
 .. _verb-finite:
 
 Finite verbs
@@ -133,10 +63,7 @@ way that the word functions like a :ref:`noun <noun>`.
 
 Types
 -----
-
-Grammarians often distinguish between different types of verbs. When
-considering the best way to translate a sentence, it is helpful to
-understand what kind of verb is being used in any given instance.
+.. include:: en_uhg/content/includes/verb-types.rst
 
 .. _verb-dynamic:
 
