@@ -39,6 +39,7 @@ They are added in certain circumstances depending on the form of the verb used i
 
 Finite verbs
 ~~~~~~~~~~~~
+.. include:: en_uhg/content/includes/verb-finite.rst
 
 Finite verbs are verbs that have a subject and do not require any verbal
 complement to form a complete sentence. Their form shows tense as well as person and number. 
@@ -50,6 +51,7 @@ Biblical Hebrew has 7 finite verb forms: :ref:`Perfect<verb_perfect>`, :ref:`Imp
 
 Non-finite verbs
 ~~~~~~~~~~~~~~~~
+.. include:: en_uhg/content/includes/verb-non-finite.rst
 
 Properly speaking, non-finite verbs are verbal complements that require
 a finite verb to form a complete sentence. The non-finite verb forms in Biblical Hebrew include
