@@ -7,10 +7,12 @@ Verb
 
 Summary
 --------
+
 .. include:: en_uhg/content/includes/verb-summary.rst
 
 Article
 -------
+
 .. include:: en_uhg/content/includes/verb-article.rst
 
 In Koiné Greek, the base form of the verb communicates the basic meaning of that term.
