@@ -36,19 +36,14 @@ They are added in certain circumstances depending on the form of the verb used i
 .. note:: Koiné Greek contains many irregular verbs that do not follow strictly the patterns of form described above. If you are ever uncertain about the form of any particular verb, consult a lexicon.
 
 .. _verb-finite:
-
 Finite verbs
 ~~~~~~~~~~~~
 .. include:: en_uhg/content/includes/verb-finite.rst
 
-Finite verbs are verbs that have a subject and do not require any verbal
-complement to form a complete sentence. Their form shows tense as well as person and number. 
-Biblical Hebrew has 7 finite verb forms: :ref:`Perfect<verb_perfect>`, :ref:`Imperfect<verb_imperfect>`,
-:ref:`Sequential Perfect<verb_sequential_perfect>`, :ref:`Sequential Imperfect<verb_sequential_imperfect>`, 
-:ref:`Imperative<verb_imperative>`, :ref:`Jussive<verb_jussive>`, and :ref:`Cohortative<verb_cohortative>`.
+The finite verb forms in Koiné Greek are marked for :ref:`tense<tense>`,
+whether that be :ref:`present<verb_perfect>`, aorist, future, :ref:`imperfect<verb_imperfect>`, :ref:`perfect<verb_perfect>`, or pluperfect.
 
 .. _verb-non-finite:
-
 Non-finite verbs
 ~~~~~~~~~~~~~~~~
 .. include:: en_uhg/content/includes/verb-non-finite.rst
@@ -66,57 +61,21 @@ way that the word functions like a :ref:`noun <noun>`.
 Types
 -----
 .. include:: en_uhg/content/includes/verb-types.rst
-
 .. _verb-dynamic:
-
 Dynamic (or action) verbs
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Dynamic verbs describe a subject performing an action. The subject is
-*doing* something.
-
-.. csv-table:: Example: 2KI 1:5
-
-  וַיָּשׁ֥וּבוּ הַמַּלְאָכִ֖ים אֵלָ֑יו
-  **wayyashuvu** hammal'akhim 'elayw
-  **And-they-returned** the-messangers to-him
-  When the messengers **returned** to him
-
-.. csv-table:: Example: JON 1:4
-
-  וַֽיהוָ֗ה **הֵטִ֤יל** רֽוּחַ־גְּדֹולָה֙ אֶל־הַיָּ֔ם
-  wayhwah **hetil** ruah-gedowlah 'el-hayyam
-  And-Yahweh **cast** wind-great on-the-sea
-  But Yahweh **sent** out a great wind on the sea
+Dynamic verbs describe a subject performing an action.
+The subject is *doing* something.
 
 .. _verb-stative:
-
 Stative (or non-action) verbs
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Rather than describing a specific action, stative verbs describe the
-subject's state of being (the way the subject is). The subject is *not*
-doing anything.
-
-.. csv-table:: Example: GEN 48:10 –– stative verb "to be heavy"
-
-  וְעֵינֵ֤י יִשְׂרָאֵל֙ **כָּבְד֣וּ** מִזֹּ֔קֶן
-  we'ene yisra'el **kovdu** mizzoqen
-  And-the-eyes-of Israel **were-heavy** from-age
-  Now Israel's eyes **were failing** because of his age
-
-.. csv-table:: Example: NUM 13:33 –– stative verb "to be"
-
-  וַנְּהִ֤י בְעֵינֵ֨ינוּ֙ כַּֽחֲגָבִ֔ים
-  **wannehi** ve'enenu kahagavim
-  **And-we-were** in-our-eyes like-grashoppers
-  In our own sight **we were** like grasshoppers
+Rather than describing a specific action, stative verbs describe the subject's state of being (the way the subject is).
+The subject is *not* doing anything.
 
 .. _verb-transitive:
-
 Transitive verbs
 ~~~~~~~~~~~~~~~~
-
 A transitive verb is a dynamic verb that requires an object that
 receives the verbal action. A sentence with a transitive verb is not
 complete without the object. Stative verbs are never transitive.
@@ -134,42 +93,17 @@ They lifted up...\ *what?*, for example:
 The phrase "[you must] keep" is unclear without an object.
 You must keep...\ *what?*, for example:
 
-.. csv-table:: Example: PRO 7:1
-
-  שְׁמֹ֣ר אֲמָרָ֑י
-  **shemor** 'amaray
-  **keep** my-words
-  **keep** my words
-
 .. _verb-intransitive:
-
 Intransitive verbs
 ~~~~~~~~~~~~~~~~~~
-
 An intransitive verb is a verb that does NOT require an object to
 receive the verbal action. A sentence with an intransitive verb is
 complete without an object. Dynamic verbs can be either transitive or
 intransitive, but stative verbs are always intransitive.
 
-.. csv-table:: Example: EXO 11:1
-
-  וַיֹּ֨אמֶר יְהוָ֜ה אֶל־מֹשֶׁ֗ה
-  **wayyomer** yehwah 'el-mosheh
-  **And-he-said** Yahweh to\_Moses
-  Then Yahweh **said** to Moses
-
-.. csv-table:: Example: DAN 9:4
-
-  וָֽאֶתְפַּֽלְלָ֛ה לַיהוָ֥ה אֱלֹהַ֖י
-  **wa'ethpalelah** layhwah 'elohay
-  **And-I-prayed** to-Yahweh my-God
-  **I prayed** to Yahweh my God
-
 .. _verb-linking-verbs:
-
 Linking verbs
 ~~~~~~~~~~~~~
-
 Linking verbs are verbs that link two
 :ref:`noun<noun>`,
 or a noun and an
@@ -177,27 +111,13 @@ or a noun and an
 Hebrew has very few linking verbs, so often a linking verb has to be
 supplied in English.
 
-.. csv-table:: Example: RUT 2:6 –– linking verb "is", not present in the Hebrew text
-
-  נַעֲרָ֤ה מֹֽואֲבִיָּה֙ הִ֔יא
-  na'arah mow'aviyyah hi
-  Young-woman Moabite she
-  She **is** the young Moabite woman
-
-.. csv-table:: Example: 1SA 11:10 –– linking verb "seems", not present in the Hebrew text
-
-  כְּכָל־הַטֹּ֖וב בְּעֵינֵיכֶֽם׃
-  kekhol-hattowv be'enekhem
-  like-all\_the-good in-your-eyes.
-  whatever **seems** good to you.
-
 .. _verb-helping-verb:
-
 Helping verbs
 ~~~~~~~~~~~~~
-
-Helping verbs are extra verbs that "help" express the meaning of the main verb.  Biblical Hebrew does not use helping verbs,
-but English does. Often, it is necessary to supply a helping verb in English to express the meaning of a Hebrew verb.
+Helping verbs are extra verbs that "help" express the meaning of the main verb.
+As a general rule, Koiné Greek does not use helping verbs.
+However, English uses many different kinds of helping verbs. 
+Often, it is necessary to supply a helping verb in English to express the meaning of a Greek verb.
 
 helping verbs in questions and negations
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -205,22 +125,6 @@ helping verbs in questions and negations
 The following example in English adds the helping verb "have"
 (not present in the Hebrew text):
 
-.. csv-table:: Example: 1SA 13:11
-
-  מֶ֣ה עָשִׂ֑יתָ
-  meh 'asitha
-  What you-did?
-  What **have** you done?
-
-The following example in English adds the helping verb "did"
-(not present in the Hebrew text):
-
-.. csv-table:: Example: EZR 5:5
-
-  וְלָא־בַטִּ֣לוּ הִמֹּ֔ו
-  wela-vattilu himmow
-  and-not\_they-stopped them
-  and they **did** not stop them
 
 helping verbs to express possibility or desirability
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -237,34 +141,3 @@ itself.
 
 The following examples in English add the helping verb "may"
 (not present in the Hebrew text):
-
-.. csv-table:: Example: GEN 3:16
-
-  מִכֹּ֥ל עֵֽץ־הַגָּ֖ן אָכֹ֥ל תֹּאכֵֽל׃
-  mikkol 'ets-haggan 'akhol tokhel
-  from-every tree-of\_the-garden eating you-eat
-  From every tree in the garden you **may** freely eat
-
-.. csv-table:: JOB 38:34
-
-  וְֽשִׁפְעַת־מַ֥יִם תְּכַסֶּֽךָּ׃
-  weshif'ath-mayim tekhassekka
-  and-large-amount-of\_water cover-you
-  so that an abundance of rainwater **may** cover you
-
-
-
-Article    
--------
-
-As stated in the Glossary, a verb is a word used to describe an action, event, or state of being.
-
-The action of the verb may require an object to complete the action of the verb.  Verbs that require a direct object to complete the action
-are :ref:`Transitive_Verbs<verb_transitive>` .  Verbs that do not require a direct object to complete the action are
-:ref:`Intransitive_Verbs<verb_intransitive>` .  A few verbs can be used both as a transitive verb and as
-an intransitive verb.
-
-A :ref:`Linking_Verb<verb_linking>`  does not express an action but connects the subject of the verb to additional information
-in the predicate.
-
-
