@@ -216,7 +216,7 @@ Table V-TA-2a  Formation of First Aorist Active Indicative Thematic Verbs
         <td class="tg-7btt">+</td>
         <td class="tg-7btt">1st Aorist<br> Active<br>Tense Stem</td>
         <td class="tg-amwm">+</td>
-        <td class="tg-amwm">* Tense<br>Formative</td>
+        <td class="tg-amwm">Tense<br>Formative</td>
         <td class="tg-amwm">+</td>
         <td class="tg-amwm">Secondary<br>Active<br>Personal Ending</td>
         <td class="tg-y6fn"></td>
@@ -227,7 +227,7 @@ Table V-TA-2a  Formation of First Aorist Active Indicative Thematic Verbs
         <td class="tg-3xi5">+</td>
         <td class="tg-3xi5">λυ</td>
         <td class="tg-baqh">+</td>
-        <td class="tg-baqh">σα</td>
+        <td class="tg-baqh">σα  (α)</td>
         <td class="tg-baqh">+</td>
         <td class="tg-baqh">μεν</td>
         <td class="tg-baqh">-&gt;</td>
