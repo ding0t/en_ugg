@@ -1282,14 +1282,13 @@ Examples:
 Aorist as an indication of events having occurred in the past
 ^^^^^
 
-•	Aorist indicative- 50 percent of the aorist verbs in the New Testament are Aorist indicative verbs.  
-*  Aorist verbs in the indicative mood generally represent an event that has occurred in the past with an unspecified aspect. 
+  *  Aorist indicative- 50 percent of the aorist verbs in the New Testament are Aorist indicative verbs.  
+  *  Aorist verbs in the indicative mood generally represent an event that has occurred in the past with an unspecified aspect. 
 
 
 Example
 
 .. csv-table:: V-AT-7  John 4:18
-  :header-rows: 1
 
   πέντε,γὰρ,ἄνδρας,**ἔσχες**
   pente,gar,andras,**esches**
