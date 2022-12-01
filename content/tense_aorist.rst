@@ -1288,7 +1288,7 @@ Aorist as an indication of events having occurred in the past
 
 Example
 
-.. csv-table:: V-AT-7  John 4:18
+.. csv-table:: V-TA-7  John 4:18
 
   πέντε,γὰρ,ἄνδρας,**ἔσχες**
   pente,gar,andras,**esches**
@@ -1297,7 +1297,7 @@ Example
 *for* **you have had** *five husbands*
 
 
-.. csv-table:: V-AT 7a  Rm 10:9
+.. csv-table:: V-TA 7a  Rm 10:9
 
   ὁ,Θεὸς,αὐτὸν,**ἤγειρεν**,ἐκ,νεκρῶν
   ho,Theos,auton,**ēgeiren**,ek,nekrōn
@@ -1313,11 +1313,11 @@ Participles in the Aorist indicative generally represent events that have occurr
 
 Example:
 
-.. csv-table:: V-AT 8  Acts 21:7
+.. csv-table:: V-TA 8  Acts 21:7
 
   καὶ,**ἀσπασάμενοι**,τοὺς,ἀδελφοὺς,ἐμείναμεν,ἡμέραν,μίαν,παρ’,αὐτοῖς.
   kai,**aspasamenoi**,tous,adelphous,emeinamen,hēmeran,mian,par’,autois.
-  And,**after we had greeted**,the,brothers,we,remained,day,one,with them.
+  And,**after we had greeted**,the,brothers,we remained,day,one,with them.
 
 *and* **having greeted** *the brothers, we stayed with them for one day*
 
@@ -1336,7 +1336,7 @@ Background for Mark 14:64:
 When the High Priest asked Jesus if He was the Christ, the Son of the Blessed one, Jesus responded with a  simple “I am”.
 He also added a comment that they would see the Son of Man sitting at the right hand of power.  The High Priest then responds.
 
-.. csv-table:: V-AT-9  Mark 14:64
+.. csv-table:: V-TA-9  Mark 14:64
 
   **ἠκούσατε**,τῆς,βλασφημίας
   **ēkousate**,tēs,blasphēmias
@@ -1355,7 +1355,7 @@ The aorist tense may also be used for events that occurred over a long period of
 
 Example:
 
-.. csv-table:: V-AT-10  John 2:20
+.. csv-table:: V-TA-10  John 2:20
 
   τεσσεράκοντα,καὶ,ἓξ,ἔτεσιν,**οἰκοδομήθη**,ὁ,ναὸς,οὗτος
   tesserakonta,kai,hex,etesin,**oikodomēthē**,ho,naos,houtos
@@ -1371,7 +1371,7 @@ The Aorist tense can be used for action that is repeated.
 Example:
 
 
-.. csv:: V-AT-11    Matthew 7:22
+.. csv:: V-TA-11    Matthew 7:22
 
   Κύριε‘,Κύριε,οὐ,τῷ,σῷ,ὀνόματι,**ἐπροφητεύσαμεν**
   Kyrie‘,Kyrie,ou,tō,sō,onomati,**eprophēteusamen**
@@ -1389,7 +1389,7 @@ Example:
 
   John the Baptist tells his followers while they are at the river being baptized.
 
-.. csv-table:: V-AT-12    Mark 1:8 
+.. csv-table:: V-TA-12    Mark 1:8 
 
   ἐγὼ,**ἐβάπτισα**,ὑμᾶς,ὕδατι
   egō,**ebaptisa**,hymas,hydati
@@ -1407,7 +1407,7 @@ Some have referred to this as the prophetic future (or an event that is so certa
 Example:
 
 
-.. csv-table:: V-AT-13  	Romans 8:30
+.. csv-table:: V-TA-13  	Romans 8:30
 
   οὓς,δὲ,ἐδικαίωσεν,τούτους,καὶ,**ἐδόξασεν**
   hous,de,edikaiōsen,toutous,kai,**edoxasen**
@@ -1422,7 +1422,7 @@ The Gnomic Aorist  describes a generally accepted truth or fact that occurs regu
 
 Example
 
-.. csv-table::   V-AT-14    James 1:11
+.. csv-table::   V-TA-14    James 1:11
 
   **ἀνέτειλεν**,γὰρ,ὁ,ἥλιος,...,καὶ,**ἐξήρανεν**,τὸν,χόρτον
   **aneteilen**,gar,ho,hēlios,...,kai,**exēranen**,ton,chorton
