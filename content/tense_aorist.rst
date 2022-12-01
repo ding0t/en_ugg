@@ -1371,7 +1371,7 @@ The Aorist tense can be used for action that is repeated.
 Example:
 
 
-.. csv:: V-TA-11    Matthew 7:22
+.. csv-table:: V-TA-11    Matthew 7:22
 
   Κύριε‘,Κύριε,οὐ,τῷ,σῷ,ὀνόματι,**ἐπροφητεύσαμεν**
   Kyrie‘,Kyrie,ou,tō,sō,onomati,**eprophēteusamen**
