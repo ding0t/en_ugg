@@ -1317,7 +1317,7 @@ Example:
 
   καὶ,**ἀσπασάμενοι**,τοὺς,ἀδελφοὺς,ἐμείναμεν,ἡμέραν,μίαν,παρ’,αὐτοῖς.
   kai,**aspasamenoi**,tous,adelphous,emeinamen,hēmeran,mian,par’,autois.
-  And,**after we had greeted**,the,brothers,we remained,day,one,with them.
+  And,**after we had greeted**,the,brothers,we remained,day,one,with,them.
 
 *and* **having greeted** *the brothers, we stayed with them for one day*
 
