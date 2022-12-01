@@ -63,7 +63,7 @@ The :ref:`Tense<tense>` of a verb is used to indicate the speaker’s perspectiv
 Form:
 ~~~~~
 
-The basic form for a verb in the indicative Aorist tense is given in `Tables 4 (Primary and Secondary Endings of Verbs) <https://ugg.readthedocs.io/en/latest/paradigms.html#table-4-primary-and-secondary-endings-of-verbs>`_ , and `Table 7 (Master Verb Tense Chart - The Aorist Tenses) <https://ugg.readthedocs.io/en/latest/paradigms.html#table-7-master-verb-tense-chart-the-aorist-tenses>`_ of the 
+The basic form for a verb in the indicative Aorist tense is given in `Table 4 (Primary and Secondary Endings of Verbs) <https://ugg.readthedocs.io/en/latest/paradigms.html#table-4-primary-and-secondary-endings-of-verbs>`_ , and `Table 7 (Master Verb Tense Chart - The Aorist Tenses) <https://ugg.readthedocs.io/en/latest/paradigms.html#table-7-master-verb-tense-chart-the-aorist-tenses>`_ of the 
 Master paradigm.
 
 See also:
