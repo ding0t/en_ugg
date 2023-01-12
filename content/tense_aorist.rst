@@ -2,7 +2,7 @@
 
 .. _tense_aorist:
 
-Tense aorist    [**DRAFT - UNDER CONSTRUCTION**]
+Tense aorist    
 ============
 
 Glossary    
