@@ -26,8 +26,238 @@ V-TI-1  Example of Imperfect Tense
 *Now a great crowd* **was following** *him*
 
 
-
-
-
 Article
 -------
+
+Overview
+~~~~~~~
+
+The Tense of a verb is used to indicate the speaker’s perspective or viewpoint of an action or event:
+
+**Imperfect tense**
+
+	The imperfect only occurs in the Indicative mood. 
+	Generally, it refers to continuous (or incomplete) action in past time.		
+
+  *  The continuous aspect may be used to portray an event that has occurred in the past as it was in the process of occurring.
+  *  The continuous aspect may refer to an event that occurs on an iterative basis in the past, or
+  *  The imperfect may be used to describe an event that generally occurs (or may be reasonably expected to occur), or
+  *  Occurs over a long period of time , or
+    *  even to an action that never occurs but is only contemplated.
+  *  The Inceptive imperfect describes an event as it begins to occur.
+
+
+Form:
+~~~~
+
+The basic form for a verb in the Imperfect indicative tense is given in Table 4 - Primary and Secondary Endings of Verbs , and Table 5 - Master Verb Tense Chart - Present and Imperfect Tenses of the Master Verb paradigms .
+
+See also:
+
+Table V-IT-1c Imperfect Active Tense verbs
+Table V-IT-1d Imperfevt Middle/Passive Verbs
+Table V-AT-1 εἰμί Indicative
+Table V-AT-D1 δίδωμι (Active Indicative)
+Table V-AT-D1a δίδομι Middle/passive indicative
+Table V-AT-D2 ἵστημι (Active Indicative)
+Table V-AT-D2a ἵστημι Middle/passive indicative
+Table V-AT-D3 τίθημι (Active Indicative)
+Table V-AT-D3a τίθημι Middle/passive indicative
+
+
+Formation of Verbs with a theme vowel in the Imperfect Tense:
+
+•	The Imperfect Active Indicative
+•	Imperfect Middle/passive Indicative, and
+•	The Imperfect Tense of εἴμι (I am) 
+
+
+Form – Imperfect Active Indicative for Thematic Verbs
+The Imperfect Active Indicative for a verb is formed by using:
+
+Table V-TI-2
+
+Formation of Imperfect Active Indicative for Thematic Verbs
+
+Table V-TI-2
+Formation of Imperfect Active Indicative
+For Thematic Verbs
+Augment	+	Present Active
+Stem	+	Connecting 
+Vowel	+	Secondary 
+Active
+Personal Ending	->	
+ε	+	λυ	+	ο	+	ν	->	ἔλυον
+I was loosing  (or They were loosing)
+
+
+
+Table V-TI-2a
+Formation of Imperfect Middle/passive Active Indicative
+For Thematic Verbs
+Augment	+	Present Active
+Stem	+	Connecting 
+Vowel	+	Secondary 
+Middle/passive
+Personal Ending	->	
+ε	+	λυ	+	ο	+	μην	->	ἐλυόμην
+I was being loosed
+
+The connecting vowel (omicron, or epsilon) and the Secondary personal endings for the Imperfect indicative are shown in the right two quadrants of the Verb Master chart Table 4 under the column labeled as Secondary Personal endings:
+
+The present tense stem for a verb may be determined by deleting the connecting vowel and personal ending from a present tense verb. If a verb has a prefix or an augment such as in the imperfect tense, the prefix or augment must also be deleted.
+
+The Secondary Active personal endings are shown the chart below and in the upper right quadrant (Quadrant 2) of the Verb Master Chart Table 4.
+The Primary middle/passive personal endings are shown the chart below and the lower right quadrant (Quadrant 4) of Verb Master Chart Table 4.
+
+
+
+Table V-TI – 3  -Quadrant 2 of the Master Chart Table 4
+
+
+
+
+
+
+
+Primary and Secondary endings of Verbs
+Table 4 (Quadrant 2)
+	Quadrant 2
+Active	Secondary Personal Endings
+	Regular	Connecting
+vowel	Personal
+Ending	Alternate
+Ending
+Singular				
+1 person	ἔλυον	ο	ν	
+2 person	ἔλυες	ε	ς	
+3 person	ἔλυε (ν)	ε	-	
+Plural				
+1 person	ἐλύομεν	ο	μεν	
+2 person	ἐλύετε	ε	τε	
+3 person	ἔλυον	ο	ν	σαν
+
+[Note]  The “-” in the 3 person singular indicates that no personal ending is used.
+
+Table V-TI-3b -  Quadrant 4 of the Master Chart Table 4
+
+Primary and Secondary endings of Verbs
+Table 4 (Quadrant 4)
+	Quadrant 4
+Middle/passive	Secondary Personal Endings
+	Regular	Connecting
+vowel	Personal
+Ending	Alternate
+Ending
+Singular				
+1 person	ἐλυόμην	ο	μην	
+2 person	ἐλύου	ε	* σο 	
+3 person	ἐλύετο	ε	το	
+Plural				
+1 person	ἐλυόμεθα	ο	μεθα	
+2 person	ἐλύεσθε	ε	σθε	
+3 person	ἐλύοντο	ο	ντο	
+
+[Note]  * In almost every case the sigma (σ) drops out because it is between two vowels and the vowels contract.
+
+
+Formation of The Imperfect Tense of εἴμι (I am)
+
+Table V-TI-4- εἴμι Imperfect  Indicative
+
+εἴμι
+Imperfect Tense
+Indicative Mood
+1 singular	ἤμην
+2 singular	ἦς
+3 singular	ἦν
+1 plural	ἦμεν, ἤμεθα
+2 plural	ἦτε
+3 plural	ἦσαν
+
+
+Imperfect tense – 
+
+•	The continuous aspect may be used to portray an event that has occurred in the past as it was in the process of occurring.
+
+The most frequent use of the imperfect tense is to describe action in process that occurred in the past.  It is therefore described as continuous (or imperfective). Continuous action is action that is viewed as ongoing, continuous, or as a process from the speaker’s point of view. 
+
+Example:  V-TI-5
+
+John 7:30
+ἐζήτουν οὖν αὐτὸν πιάσαι
+ezētoun oun auton piasai
+They were seeking, therefore, him, to seize/arrest
+Therefore, they were seeking to arrest him
+
+Therefore, they were seeking to arrest him
+
+
+•	The continuous aspect may refer to an event that occurs on an iterative basis in the past
+
+The iterative imperfect describes repeated action occurring in the past.  These repeated actions may have been repeated by a single person (or agent) or multiple persons (or agents).
+
+Example V-TI-6
+
+Acts 3:2
+
+καί τις ἀνὴρ,…, ὃν ἐτίθουν καθ’ ἡμέραν πρὸς τὴν θύραν
+kai tis anēr,…, hon etithoun kath’ hēmeran pros tēn thyran
+and a certain man,…, whom they were placing every day before the  door/entrance
+
+
+And a certain man … whom each day they placed at the gate
+
+
+•	The imperfect may be used to describe an event that generally occurs (or may be reasonably expected to occur)
+
+Similar to the iterative imperfect, the imperfect may also be used to describe an event that generally occurs (or may be reasonably expected to occur.)
+
+Example V-TI-7
+
+Mark 15:6
+κατὰ δὲ ἑορτὴν, ἀπέλυεν αὐτοῖς ἕνα δέσμιον
+kata de heortēn, apelyen autois hena desmion
+according to/during, and, festival, he usually released to them one prisoner.
+
+Now during the festival, he usually released to them one prisoner,
+
+
+
+•	The Imperfect tense used to describe an event that occurs over a long period of time
+
+The imperfect tense may be used to describe an event that occurs over an extended period of time.  
+
+Example V- TI-8
+
+Romans 6:17
+
+ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας, ὑπηκούσατε δὲ ἐκ καρδίας
+hoti ēte douloi tēs hamartias, hypēkousate de ek kardias
+because you were continually slaves of sin, you obeyed but from the heart
+
+For you were slaves of sin, but you listened from {the} heart.
+
+•	Imperfect tense may be used for an event that is only thought about, but that never occurs.
+
+Example V-TI-9 
+
+Lk 1:59
+
+καὶ ἐκάλουν αὐτὸ ἐπὶ τῷ ὀνόματι τοῦ πατρὸς αὐτοῦ, Ζαχαρίαν
+kai ekaloun auto epi tō onomati tou patros autou, Zacharian
+and, they were going to call, him, after, the,name, of, father,his, Zacharia 
+
+they were going to call him after the name of his father, Zechariah.
+
+
+•	The Inceptive imperfect describes an event as it begins to occur.
+
+Matt 5:2
+
+καὶ ἀνοίξας τὸ στόμα αὐτοῦ, ἐδίδασκεν αὐτοὺς
+kai anoixas to stoma autou, edidasken autous
+and, having opened the mouth his, he began teaching them
+
+
+And having opened his mouth, he taught them
