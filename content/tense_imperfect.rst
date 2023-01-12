@@ -55,22 +55,22 @@ and `Table 5 - Master Verb Tense Chart - Present and Imperfect Tenses of the Mas
 
 See also:
 
-Table V-IT-1c Imperfect Active Tense verbs
-Table V-IT-1d Imperfevt Middle/Passive Verbs
-Table V-AT-1 εἰμί Indicative
-Table V-AT-D1 δίδωμι (Active Indicative)
-Table V-AT-D1a δίδομι Middle/passive indicative
-Table V-AT-D2 ἵστημι (Active Indicative)
-Table V-AT-D2a ἵστημι Middle/passive indicative
-Table V-AT-D3 τίθημι (Active Indicative)
-Table V-AT-D3a τίθημι Middle/passive indicative
+  *  `Table V-IT-1c Imperfect Active Tense verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-it-1c-imperfect-active-tense-verbs>`_
+  *  `Table V-IT-1d Imperfevt Middle/Passive Verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-it-1d-imperfect-middle-passive-verbs>`_
+  *  `Table V-AT-1 εἰμί Indicative <https://ugg.readthedocs.io/en/latest/paradigms.html#id7>`_
+  *  `Table V-AT-D1 δίδωμι (Active Indicative) <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d1-active-indicative>`_
+  *  `Table V-AT-D1a δίδομι Middle/passive indicative <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d1a-middle-passive-indicative>`_
+  *  `Table V-AT-D2 ἵστημι (Active Indicative) <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d2-active-indicative>`_
+  *  `Table V-AT-D2a ἵστημι Middle/passive indicative <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d2a-middle-passive-indicative>`_
+  *  `Table V-AT-D3 τίθημι (Active Indicative) <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d3-active-indicative>`_
+  *  `Table V-AT-D3a τίθημι Middle/passive indicative <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d3a-middle-passive-indicative>`_
 
 
 Formation of Verbs with a theme vowel in the Imperfect Tense:
 
-•	The Imperfect Active Indicative
-•	Imperfect Middle/passive Indicative, and
-•	The Imperfect Tense of εἴμι (I am) 
+  *  The Imperfect Active Indicative
+  *  Imperfect Middle/passive Indicative, and
+  *  The Imperfect Tense of εἴμι (I am) 
 
 
 Form – Imperfect Active Indicative for Thematic Verbs
