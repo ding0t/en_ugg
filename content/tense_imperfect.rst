@@ -73,16 +73,64 @@ Formation of Verbs with a theme vowel in the Imperfect Tense:
   *  The Imperfect Tense of εἴμι (I am) 
 
 
-Form – Imperfect Active Indicative for Thematic Verbs
+Form
+~~~~
+
 The Imperfect Active Indicative for a verb is formed by using:
 
-Table V-TI-2
+Table V-TI-2 Formation of Imperfect Active Indicative for Thematic Verbs
+^^^^^^^
 
-Formation of Imperfect Active Indicative for Thematic Verbs
+.. raw:: html 
 
-Table V-TI-2
-Formation of Imperfect Active Indicative
-For Thematic Verbs
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-7ygo{background-color:#fffe65;text-align:center;vertical-align:top}
+    .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-5frq{font-style:italic;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-7ygo" colspan="9"><span style="font-weight:bold">Table V-TI-2Formation of Imperfect</span><br><span style="font-weight:bold">Active Indicative for</span><br><span style="font-weight:bold">Thematic Verbs</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-1wig">Augment</td>
+        <td class="tg-1wig">+</td>
+        <td class="tg-amwm">Present<br>Active<br>Stem</td>
+        <td class="tg-1wig">+</td>
+        <td class="tg-1wig">Connecting<br>Vowel</td>
+        <td class="tg-1wig">+</td>
+        <td class="tg-amwm">Secondary<br>Active<br>Personal<br>Ending</td>
+        <td class="tg-1wig">-&gt;</td>
+        <td class="tg-1wig"></td>
+      </tr>
+      <tr>
+        <td class="tg-baqh">ε</td>
+        <td class="tg-baqh">+</td>
+        <td class="tg-baqh">λυ</td>
+        <td class="tg-baqh">+</td>
+        <td class="tg-baqh">ο</td>
+        <td class="tg-baqh">+</td>
+        <td class="tg-baqh">ν</td>
+        <td class="tg-baqh">-&gt;</td>
+        <td class="tg-baqh">ἔλυον</td>
+      </tr>
+      <tr>
+        <td class="tg-5frq" colspan="9">I was loosing&nbsp;&nbsp;(or They were loosing</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+
 Augment	+	Present Active
 Stem	+	Connecting 
 Vowel	+	Secondary 
