@@ -98,7 +98,7 @@ Table V-TI-2 Formation of Imperfect Active Indicative for Thematic Verbs
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-7ygo" colspan="9"><span style="font-weight:bold">Table V-TI-2Formation of Imperfect</span><br><span style="font-weight:bold">Active Indicative for</span><br><span style="font-weight:bold">Thematic Verbs</span></th>
+        <th class="tg-7ygo" colspan="9"><span style="font-weight:bold">Table V-TI-2  Formation of Imperfect</span><br><span style="font-weight:bold">Active Indicative for</span><br><span style="font-weight:bold">Thematic Verbs</span></th>
       </tr>
     </thead>
     <tbody>
@@ -131,13 +131,6 @@ Table V-TI-2 Formation of Imperfect Active Indicative for Thematic Verbs
     </table></br>
 
 
-Augment	+	Present Active
-Stem	+	Connecting 
-Vowel	+	Secondary 
-Active
-Personal Ending	->	
-ε	+	λυ	+	ο	+	ν	->	ἔλυον
-I was loosing  (or They were loosing)
 
 
 
