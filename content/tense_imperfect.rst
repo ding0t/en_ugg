@@ -50,7 +50,8 @@ The Tense of a verb is used to indicate the speaker’s perspective or viewpoint
 Form:
 ~~~~
 
-The basic form for a verb in the Imperfect indicative tense is given in Table 4 - Primary and Secondary Endings of Verbs , and Table 5 - Master Verb Tense Chart - Present and Imperfect Tenses of the Master Verb paradigms .
+The basic form for a verb in the Imperfect indicative tense is given in `Table 4 - Primary and Secondary Endings of Verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#table-4-primary-and-secondary-endings-of-verbs>`_ ,
+and `Table 5 - Master Verb Tense Chart - Present and Imperfect Tenses of the Master Verb paradigms <https://ugg.readthedocs.io/en/latest/paradigms.html#table-5-master-verb-tense-chart-present-and-imperfect-tenses>`_.
 
 See also:
 
