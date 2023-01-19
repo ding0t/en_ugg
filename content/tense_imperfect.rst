@@ -21,7 +21,7 @@ V-TI-1  Example of Imperfect Tense
 
   **ἠκολούθει**,δὲ,αὐτῷ,ὄχλος,πολύς
   **ēkolouthei**,de,auto,ochlos,polys
-  **They were following**,and,him,crowd,large
+  **It was following**,and,him,crowd,large
 
 *Now a great crowd* **was following** *him*
 
