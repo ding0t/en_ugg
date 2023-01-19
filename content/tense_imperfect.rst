@@ -150,6 +150,7 @@ The connecting vowel (omicron, or epsilon) and the Secondary personal endings fo
 The present tense stem for a verb may be determined by deleting the connecting vowel and personal ending from a present tense verb. If a verb has a prefix or an augment such as in the imperfect tense, the prefix or augment must also be deleted.
 
 The Secondary Active personal endings are shown the chart below and in the upper right quadrant  `Quadrant 2 <https://ugg.readthedocs.io/en/latest/tense_imperfect.html#table-v-ti-3-quadrant-2-of-the-master-chart-table-4>`_ of the Verb Master Chart Table 4.
+
 The Primary middle/passive personal endings are shown the chart below and the lower right quadrant (Quadrant 4) of Verb Master Chart Table 4.
 
 
