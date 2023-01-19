@@ -591,7 +591,7 @@ Build on the verb *λάμβανω* (I take, I receive)
     
 
 
-Table V-TA-3a  Formation of Indicative Verbs with a Theme Vowel Based on the Aorist Active Tense Stem
+Table V-TA-3a  Formation of Indicative Verbs with a Theme Vowel Based on the Second Aorist Active Tense Stem
 ^^^^^
 
 
@@ -622,7 +622,7 @@ Table V-TA-3a  Formation of Indicative Verbs with a Theme Vowel Based on the Aor
       <tr>
         <td class="tg-7btt">Augment</td>
         <td class="tg-7btt">+</td>
-        <td class="tg-7btt">1st Aorist<br> Active<br>Tense Stem</td>
+        <td class="tg-7btt">2nd Aorist<br> Active<br>Tense Stem</td>
         <td class="tg-7btt">+</td>
         <td class="tg-7btt">* Tense<br>Formative</td>
         <td class="tg-7btt">+</td>
