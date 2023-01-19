@@ -20,4 +20,4 @@ Article
 Overview
 ^^^^^^^^
 
-See `Aorist Overview <https://ugg.readthedocs.io/en/latest/tense_aorist.html#overview>_ 
+See `Aorist Overview <https://ugg.readthedocs.io/en/latest/tense_aorist.html#overview>`_ 
