@@ -10,6 +10,14 @@ Glossary
 
 **Second aorist** is a verb **tense-form** with the same meaning as the
 *aorist* but which is formed on a different stem and without adding σ.
+
 [See `Aorist <https://ugg.readthedocs.io/en/latest/tense_aorist.html>`_ ]
+
+
 Article
 -------
+
+Overview
+^^^^^^^^
+
+See `Aorist Overview <https://ugg.readthedocs.io/en/latest/tense_aorist.html#overview>_ 
