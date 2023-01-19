@@ -155,6 +155,102 @@ The Primary middle/passive personal endings are shown the chart below and the lo
 
 
 Table V-TI – 3  -Quadrant 2 of the Master Chart Table 4
+^^^^^^^^^^
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-34fe{background-color:#c0c0c0;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-c82p{background-color:#fffe65;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-8zwo{font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-6qw1{background-color:#c0c0c0;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-c82p" colspan="5"><span style="font-weight:bold">Table V-TI-3</span><br><span style="font-weight:bold">Master Chart 4 - Quadrant 2</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-fymr"></td>
+        <td class="tg-fymr" colspan="4">Secondary Personal Endings</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow"><span style="font-style:italic">Active</span></td>
+        <td class="tg-7btt">Regular</td>
+        <td class="tg-7btt">Connecting<br>Vowel</td>
+        <td class="tg-7btt">Personal<br>Ending</td>
+        <td class="tg-7btt">Alternate<br>Ending</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">Singular</td>
+        <td class="tg-34fe"></td>
+        <td class="tg-34fe"></td>
+        <td class="tg-34fe"></td>
+        <td class="tg-34fe"></td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">1 person</td>
+        <td class="tg-baqh">ἔλυον</td>
+        <td class="tg-baqh">ο</td>
+        <td class="tg-baqh">ν</td>
+        <td class="tg-baqh"></td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">2 person</td>
+        <td class="tg-baqh">ἔλυες</td>
+        <td class="tg-baqh">ε</td>
+        <td class="tg-baqh">ς</td>
+        <td class="tg-baqh"></td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">3 person</td>
+        <td class="tg-baqh">ἔλυε (ν)</td>
+        <td class="tg-baqh">ε</td>
+        <td class="tg-baqh">-</td>
+        <td class="tg-baqh"></td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">Plural</td>
+        <td class="tg-6qw1"></td>
+        <td class="tg-6qw1"></td>
+        <td class="tg-6qw1"></td>
+        <td class="tg-6qw1"></td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">1 person</td>
+        <td class="tg-baqh">ἐλύομεν</td>
+        <td class="tg-baqh">ο</td>
+        <td class="tg-baqh">μεν</td>
+        <td class="tg-baqh"></td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">2 person</td>
+        <td class="tg-baqh">ἐλύετε</td>
+        <td class="tg-baqh">ε</td>
+        <td class="tg-baqh">τε</td>
+        <td class="tg-baqh"></td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">3 person</td>
+        <td class="tg-baqh">ἔλυον</td>
+        <td class="tg-baqh">ο</td>
+        <td class="tg-baqh">ν</td>
+        <td class="tg-baqh">σαν</td>
+      </tr>
+    </tbody>
+    </table></br>
 
 
 
