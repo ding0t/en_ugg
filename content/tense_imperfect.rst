@@ -125,25 +125,67 @@ Table V-TI-2 Formation of Imperfect Active Indicative for Thematic Verbs
         <td class="tg-baqh">ἔλυον</td>
       </tr>
       <tr>
-        <td class="tg-5frq" colspan="9">I was loosing&nbsp;&nbsp;(or They were loosing</td>
+        <td class="tg-5frq" colspan="9">I was loosing&nbsp;&nbsp;(or They were loosing)</td>
       </tr>
     </tbody>
     </table></br>
 
 
+Table V-TI-2a Formation of Imperfect Middle/Passive Active Indicative
+^^^^^^
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-m9x0{background-color:#ffffff;border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-c82p{background-color:#fffe65;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-c82p" colspan="9"><span style="font-weight:bold">Table V-TI-2a</span><br><span style="font-weight:bold">Formation of Imperfect Middle/Passive Active Indicative</span><br><span style="font-weight:bold">for Thematic Verbs</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-7btt">Augment</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-c3ow"><span style="font-weight:bold">Present</span><br><span style="font-weight:bold">Active</span><br><span style="font-weight:bold">Stem</span></td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-7btt">Connecting<br>Vowel</td>
+        <td class="tg-baqh">+</td>
+        <td class="tg-baqh"><span style="font-weight:bold">Secondary</span><br><span style="font-weight:bold">Middle/passive</span><br><span style="font-weight:bold">Personal</span><br><span style="font-weight:bold">Ending</span></td>
+        <td class="tg-baqh"><span style="font-weight:bold">-&gt;</span></td>
+        <td class="tg-amwm"></td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-7btt">λυ</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-7btt">ο</td>
+        <td class="tg-0lax">+</td>
+        <td class="tg-0lax">μην</td>
+        <td class="tg-0lax">-&gt;</td>
+        <td class="tg-0lax">ἐλυόμην</td>
+      </tr>
+      <tr>
+        <td class="tg-m9x0" colspan="9">I was being loosed</td>
+      </tr>
+    </tbody>
+    </table></br>
 
 
-
-Table V-TI-2a
-Formation of Imperfect Middle/passive Active Indicative
-For Thematic Verbs
-Augment	+	Present Active
-Stem	+	Connecting 
-Vowel	+	Secondary 
-Middle/passive
-Personal Ending	->	
-ε	+	λυ	+	ο	+	μην	->	ἐλυόμην
-I was being loosed
 
 The connecting vowel (omicron, or epsilon) and the Secondary personal endings for the Imperfect indicative are shown in the right two quadrants of the Verb Master chart Table 4 under the column labeled as Secondary Personal endings:
 
