@@ -197,7 +197,7 @@ The Secondary middle/passive personal endings are shown in `Table V-TI-3b <https
 
 
 
-Table V-TI – 3  -Quadrant 2 of the Master Chart Table 4
+Table V-TI – 3  -Quadrant 2 of the Master Chart Table 4 Secondary Active endings
 ^^^^^^^^^^
 
 .. raw:: html
@@ -227,7 +227,7 @@ Table V-TI – 3  -Quadrant 2 of the Master Chart Table 4
     <tbody>
       <tr>
         <td class="tg-fymr"></td>
-        <td class="tg-fymr" colspan="4">Secondary Personal Endings</td>
+        <td class="tg-fymr" colspan="4">Secondary Active Personal Endings</td>
       </tr>
       <tr>
         <td class="tg-c3ow"><span style="font-style:italic">Active</span></td>
@@ -298,7 +298,7 @@ Table V-TI – 3  -Quadrant 2 of the Master Chart Table 4
 
 [Note]  The “-” in the 3 person singular indicates that no personal ending is used.
 
-Table V-TI-3b -  Quadrant 4 of the Master Chart Table 4
+Table V-TI-3b -  Quadrant 4 of the Master Chart Table 4 Secondary Middle/Passive endings
 ^^^^^^
 
 
