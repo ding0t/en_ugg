@@ -299,28 +299,109 @@ Table V-TI – 3  -Quadrant 2 of the Master Chart Table 4
 [Note]  The “-” in the 3 person singular indicates that no personal ending is used.
 
 Table V-TI-3b -  Quadrant 4 of the Master Chart Table 4
+^^^^^^
 
-Primary and Secondary endings of Verbs
-Table 4 (Quadrant 4)
-	Quadrant 4
-Middle/passive	Secondary Personal Endings
-	Regular	Connecting
-vowel	Personal
-Ending	Alternate
-Ending
-Singular				
-1 person	ἐλυόμην	ο	μην	
-2 person	ἐλύου	ε	* σο 	
-3 person	ἐλύετο	ε	το	
-Plural				
-1 person	ἐλυόμεθα	ο	μεθα	
-2 person	ἐλύεσθε	ε	σθε	
-3 person	ἐλύοντο	ο	ντο	
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-34fe{background-color:#c0c0c0;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-c82p{background-color:#fffe65;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-5frq{font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-6qw1{background-color:#c0c0c0;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-c82p" colspan="5"><span style="font-weight:bold">Table V-TI-3b</span><br><span style="font-weight:bold">Quadrant 4</span><br><span style="font-weight:bold">Secondary Middle/Passive</span><br><span style="font-weight:bold">Endings of Verbs</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-7btt">Middle/Passive</td>
+        <td class="tg-7btt" colspan="4">Secondary <br>Personal Endings</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow"></td>
+        <td class="tg-7btt">Regular</td>
+        <td class="tg-7btt">Connecting<br>Vowel</td>
+        <td class="tg-7btt">Personal<br>Ending</td>
+        <td class="tg-7btt">Alternate<br>Ending</td>
+      </tr>
+      <tr>
+        <td class="tg-3xi5"><span style="font-style:italic">Singular</span></td>
+        <td class="tg-34fe">Quadrant 4</td>
+        <td class="tg-34fe" colspan="3"></td>
+      </tr>
+      <tr>
+        <td class="tg-5frq">1 person</td>
+        <td class="tg-baqh">ἐλυόμην</td>
+        <td class="tg-baqh">ο</td>
+        <td class="tg-baqh">μην</td>
+        <td class="tg-baqh"></td>
+      </tr>
+      <tr>
+        <td class="tg-5frq">2 person</td>
+        <td class="tg-baqh">ἐλύου</td>
+        <td class="tg-baqh">ε</td>
+        <td class="tg-baqh">* σο</td>
+        <td class="tg-baqh"></td>
+      </tr>
+      <tr>
+        <td class="tg-5frq">3 person</td>
+        <td class="tg-baqh">ἐλύετο</td>
+        <td class="tg-baqh">ε</td>
+        <td class="tg-baqh">το</td>
+        <td class="tg-baqh"></td>
+      </tr>
+      <tr>
+        <td class="tg-5frq">Plural</td>
+        <td class="tg-6qw1" colspan="4"></td>
+      </tr>
+      <tr>
+        <td class="tg-5frq">1 person</td>
+        <td class="tg-baqh">ἐλυόμεθα</td>
+        <td class="tg-baqh">ο</td>
+        <td class="tg-baqh">μεθα</td>
+        <td class="tg-baqh"></td>
+      </tr>
+      <tr>
+        <td class="tg-5frq">2 person</td>
+        <td class="tg-baqh">ἐλύεσθε</td>
+        <td class="tg-baqh">ε</td>
+        <td class="tg-baqh">σθε</td>
+        <td class="tg-baqh"></td>
+      </tr>
+      <tr>
+        <td class="tg-5frq">3 person</td>
+        <td class="tg-baqh">ἐλύοντο</td>
+        <td class="tg-baqh">ο</td>
+        <td class="tg-baqh">ντο</td>
+        <td class="tg-baqh"></td>
+      </tr>
+    </tbody>
+    </table></br>
+ 
 
 [Note]  * In almost every case the sigma (σ) drops out because it is between two vowels and the vowels contract.
 
 
 Formation of The Imperfect Tense of εἴμι (I am)
+^^^^^
+
+
+
+
+
 
 Table V-TI-4- εἴμι Imperfect  Indicative
 
