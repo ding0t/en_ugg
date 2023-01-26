@@ -68,7 +68,7 @@ See also:
 
 Formation of Verbs with a theme vowel in the Imperfect Tense:
 
-  *  The Imperfect Active Indicative
+  *  `The Imperfect Active Indicative <https://ugg.readthedocs.io/en/latest/tense_imperfect.html#table-v-ti-2-formation-of-imperfect-active-indicative-for-thematic-verbs>`_
   *  Imperfect Middle/passive Indicative, and
   *  The Imperfect Tense of εἴμι (I am) 
 
