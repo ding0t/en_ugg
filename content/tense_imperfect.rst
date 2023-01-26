@@ -187,13 +187,13 @@ Table V-TI-2a Formation of Imperfect Middle/Passive Active Indicative
 
 
 
-The connecting vowel (omicron, or epsilon) and the Secondary personal endings for the Imperfect indicative are shown in the right two quadrants of the Verb Master chart Table 4 under the column labeled as Secondary Personal endings:
+
 
 The present tense stem for a verb may be determined by deleting the connecting vowel and personal ending from a present tense verb. If a verb has a prefix or an augment such as in the imperfect tense, the prefix or augment must also be deleted.
 
-The Secondary Active personal endings are shown the chart below and in the upper right quadrant  `Quadrant 2 <https://ugg.readthedocs.io/en/latest/tense_imperfect.html#table-v-ti-3-quadrant-2-of-the-master-chart-table-4>`_ of the Verb Master Chart Table 4.
+The Secondary Active personal endings are shown in Table V-TI-3  `Quadrant 2 <https://ugg.readthedocs.io/en/latest/tense_imperfect.html#table-v-ti-3-quadrant-2-of-the-master-chart-table-4>`_ and in the upper right quadrant of the `Verb Master Chart Table 4 <https://ugg.readthedocs.io/en/latest/paradigms.html#table-4-primary-and-secondary-endings-of-verbs>`_.
 
-The Primary middle/passive personal endings are shown the chart below and the lower right quadrant (Quadrant 4) of Verb Master Chart Table 4.
+The Secondary middle/passive personal endings are shown in Table V-TI-3b below and the lower right quadrant (Quadrant 4) of the `Verb Master Chart Table 4 <https://ugg.readthedocs.io/en/latest/paradigms.html#table-4-primary-and-secondary-endings-of-verbs>`_.
 
 
 
