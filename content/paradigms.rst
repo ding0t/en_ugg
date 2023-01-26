@@ -436,12 +436,12 @@ Verbs
       </tr>
       <tr>
         <td class="tg-yk7f">Active</td>
-        <td class="tg-f7v4"></td>
+        <td class="tg-f7v4">Quadrant 1</td>
         <td class="tg-llyw">c.v.</td>
         <td class="tg-llyw">p.e.</td>
         <td class="tg-y6fn"></td>
         <td class="tg-y6fn"></td>
-        <td class="tg-y6fn"></td>
+        <td class="tg-y6fn">Quadrant 2</td>
         <td class="tg-y6fn">c.v.</td>
         <td class="tg-y6fn">p.e.</td>
         <td class="tg-y6fn"></td>
@@ -532,12 +532,12 @@ Verbs
       </tr>
       <tr>
         <td class="tg-4erg">Middle/<br>passive</td>
-        <td class="tg-llyw"></td>
+        <td class="tg-llyw">Quadrant 3</td>
         <td class="tg-llyw"></td>
         <td class="tg-llyw"></td>
         <td class="tg-y6fn"></td>
         <td class="tg-y6fn"></td>
-        <td class="tg-y6fn"></td>
+        <td class="tg-y6fn">Quadrant 4</td>
         <td class="tg-y6fn"></td>
         <td class="tg-y6fn"></td>
         <td class="tg-y6fn"></td>
