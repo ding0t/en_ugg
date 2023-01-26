@@ -238,7 +238,7 @@ Table V-TI – 3  -Quadrant 2 of the Master Chart Table 4
       </tr>
       <tr>
         <td class="tg-8bgf">Singular</td>
-        <td class="tg-34fe"></td>
+        <td class="tg-34fe">Quadrant 2</td>
         <td class="tg-34fe"></td>
         <td class="tg-34fe"></td>
         <td class="tg-34fe"></td>
@@ -295,28 +295,6 @@ Table V-TI – 3  -Quadrant 2 of the Master Chart Table 4
     </tbody>
     </table></br>
 
-
-
-
-
-
-
-Primary and Secondary endings of Verbs
-Table 4 (Quadrant 2)
-	Quadrant 2
-Active	Secondary Personal Endings
-	Regular	Connecting
-vowel	Personal
-Ending	Alternate
-Ending
-Singular				
-1 person	ἔλυον	ο	ν	
-2 person	ἔλυες	ε	ς	
-3 person	ἔλυε (ν)	ε	-	
-Plural				
-1 person	ἐλύομεν	ο	μεν	
-2 person	ἐλύετε	ε	τε	
-3 person	ἔλυον	ο	ν	σαν
 
 [Note]  The “-” in the 3 person singular indicates that no personal ending is used.
 
