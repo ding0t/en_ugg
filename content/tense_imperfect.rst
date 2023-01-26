@@ -193,7 +193,7 @@ The present tense stem for a verb may be determined by deleting the connecting v
 
 The Secondary Active personal endings are shown in Table V-TI-3  `Quadrant 2 <https://ugg.readthedocs.io/en/latest/tense_imperfect.html#table-v-ti-3-quadrant-2-of-the-master-chart-table-4>`_ and in the upper right quadrant of the `Verb Master Chart Table 4 <https://ugg.readthedocs.io/en/latest/paradigms.html#table-4-primary-and-secondary-endings-of-verbs>`_.
 
-The Secondary middle/passive personal endings are shown in Table V-TI-3b below and the lower right quadrant (Quadrant 4) of the `Verb Master Chart Table 4 <https://ugg.readthedocs.io/en/latest/paradigms.html#table-4-primary-and-secondary-endings-of-verbs>`_.
+The Secondary middle/passive personal endings are shown in `Table V-TI-3b <https://ugg.readthedocs.io/en/latest/tense_imperfect.html#table-v-ti-3b-quadrant-4-of-the-master-chart-table-4>`_ below and the lower right quadrant (Quadrant 4) of the `Verb Master Chart Table 4 <https://ugg.readthedocs.io/en/latest/paradigms.html#table-4-primary-and-secondary-endings-of-verbs>`_.
 
 
 
@@ -322,7 +322,7 @@ Table V-TI-3b -  Quadrant 4 of the Master Chart Table 4
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-c82p" colspan="5"><span style="font-weight:bold">Table V-TI-3b</span><br><span style="font-weight:bold">Quadrant 4</span><br><span style="font-weight:bold">Secondary Middle/Passive</span><br><span style="font-weight:bold">Endings of Verbs</span></th>
+        <th class="tg-c82p" colspan="5"><span style="font-weight:bold">Table V-TI-3b</span><br><span style="font-weight:bold">Master Chart 4 - Quadrant 4</span><br><span style="font-weight:bold">Secondary Middle/Passive</span><br><span style="font-weight:bold">Endings of Verbs</span></th>
       </tr>
     </thead>
     <tbody>
