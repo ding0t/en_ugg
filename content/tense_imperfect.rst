@@ -39,7 +39,7 @@ The Tense of a verb is used to indicate the speaker’s perspective or viewpoint
 	The imperfect only occurs in the Indicative mood. 
 	Generally, it refers to continuous (or incomplete) action in past time.		
 
-  *  The continuous aspect may be used to portray an event that has occurred in the past as it was in the process of occurring.
+  *  The continuous aspect may be used to portray an event that has occurred in the past as it was in the process of occurring. See `Example V-TI-5 <https://ugg.readthedocs.io/en/latest/tense_imperfect.html#example-v-ti-5-past-event-in-the-process-of-occurring>`_ 
   *  The continuous aspect may refer to an event that occurs on an iterative basis in the past, or
   *  The imperfect may be used to describe an event that generally occurs (or may be reasonably expected to occur), or
   *  Occurs over a long period of time , or
@@ -562,3 +562,5 @@ Example V-TI-10 Inceptive Imperfect
 
 
 *And having opened his mouth,* **he taught** *them*
+
+  Or, in order to reflect the inceptive aspect of the imperfect tense in this instance, it could be translated "**he began teaching** *them*, or **he began to teach** *them"*
