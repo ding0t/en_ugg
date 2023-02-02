@@ -405,25 +405,67 @@ Table V-TI-3b -  Quadrant 4 of the Master Chart Table 4 Secondary Middle/Passive
 Formation of The Imperfect Tense of εἴμι (I am)
 ^^^^^
 
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-34fe{background-color:#c0c0c0;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-c82p{background-color:#fffe65;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-c82p" colspan="2"><span style="font-weight:bold">Table V-TI-4</span><br><span style="font-weight:bold">εἴμι -Imperfect tense</span><br><span style="font-weight:bold">Indicative mood</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-3xi5"><span style="font-style:italic">Singular</span></td>
+        <td class="tg-34fe"></td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">1 person</td>
+        <td class="tg-c3ow">ἤμην</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">2 person</td>
+        <td class="tg-c3ow">ἦς</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">3 person</td>
+        <td class="tg-c3ow">ἦν</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">Plural</td>
+        <td class="tg-34fe"></td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">1 person</td>
+        <td class="tg-c3ow">ἦμεν, ἤμεθα</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">2 person</td>
+        <td class="tg-c3ow">ἦτε</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">3 person</td>
+        <td class="tg-c3ow">ἦσαν</td>
+      </tr>
+    </tbody>
+    </table>/</br>
 
 
 
 
-
-Table V-TI-4- εἴμι Imperfect  Indicative
-
-εἴμι
-Imperfect Tense
-Indicative Mood
-1 singular	ἤμην
-2 singular	ἦς
-3 singular	ἦν
-1 plural	ἦμεν, ἤμεθα
-2 plural	ἦτε
-3 plural	ἦσαν
-
-
-Imperfect tense – 
+Imperfect tense –
+~~~~~~~~~~~~~~~ 
 
 •	The continuous aspect may be used to portray an event that has occurred in the past as it was in the process of occurring.
 
