@@ -503,7 +503,7 @@ The iterative imperfect describes repeated action occurring in the past.  These 
 *And a certain man … whom each day* **they placed** *at the gate*
 
 
-Example V-TI-7 - imperfect - event that generally occurs
+Example V-TI-7 - Imperfect - Event that generally occurs
 ^^^^^
 
 •	**The imperfect may be used to describe an event that generally occurs (or may be reasonably expected to occur)**
@@ -519,33 +519,33 @@ Similar to the iterative imperfect, the imperfect may also be used to describe a
 
 *Now during the festival,* **he usually released** *to them one prisoner...*
 
+Example V- TI-8- Imperfect - Event over long period of time
+^^^^^
 
-
-•	The Imperfect tense used to describe an event that occurs over a long period of time
+•	**The Imperfect tense used to describe an event that occurs over a long period of time**
 
 The imperfect tense may be used to describe an event that occurs over an extended period of time.  
 
-Example V- TI-8
+.. csv-table:: Example V-TI-8  Romans 6:17
 
-Romans 6:17
+  ὅτι,**ἦτε**,δοῦλοι,τῆς,ἁμαρτίας,ὑπηκούσατε,δὲ,ἐκ,καρδίας
+  hoti,**ēte**,douloi,tēs,hamartias,hypēkousate,de,ek,kardias
+  because,**you were continually**,slaves,of sin,you obeyed,but,from,the heart
 
-ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας, ὑπηκούσατε δὲ ἐκ καρδίας
-hoti ēte douloi tēs hamartias, hypēkousate de ek kardias
-because you were continually slaves of sin, you obeyed but from the heart
+*For* **you were slaves** *of sin, but you listened from [the] heart.*
 
-For you were slaves of sin, but you listened from {the} heart.
+Example V-TI-9 - Imperfect - event only wished to occur
+^^^^^
 
-•	Imperfect tense may be used for an event that is only thought about, but that never occurs.
+•	**Imperfect tense may be used for an event that is only thought about, but that never occurs.**
 
-Example V-TI-9 
+.. csv-table:: Example V-TI-9  Luke 1:59 
 
-Lk 1:59
+  καὶ,**ἐκάλουν**,αὐτὸ,ἐπὶ,τῷ,ὀνόματι,τοῦ,πατρὸς,αὐτοῦ,Ζαχαρίαν
+  kai,**ekaloun**,auto,epi,tō,onomati,tou,patros,autou,Zacharian
+  and,**they were going to call**,him,after,the,name,of,father,his,Zacharia 
 
-καὶ ἐκάλουν αὐτὸ ἐπὶ τῷ ὀνόματι τοῦ πατρὸς αὐτοῦ, Ζαχαρίαν
-kai ekaloun auto epi tō onomati tou patros autou, Zacharian
-and, they were going to call, him, after, the,name, of, father,his, Zacharia 
-
-they were going to call him after the name of his father, Zechariah.
+**They were going to call** *him after the name of his father, Zechariah.*
 
 
 •	The Inceptive imperfect describes an event as it begins to occur.
