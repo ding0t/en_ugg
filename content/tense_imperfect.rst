@@ -475,6 +475,7 @@ Example:  V-TI-5- past event in the process of occurring
 The most frequent use of the imperfect tense is to describe action in process that occurred in the past.  It is therefore described as continuous (or imperfective). Continuous action is action that is viewed as ongoing, continuous, or as a process from the speaker’s point of view. 
 
 .. csv-table:: Example V-TI-5  John 7:30
+  :header-rows: 1
 
 **ἐζήτουν**,οὖν,αὐτὸν,πιάσαι
 **ezētoun**,oun,auton,piasai
@@ -492,6 +493,7 @@ The iterative imperfect describes repeated action occurring in the past.  These 
 
 
 .. csv-table:: Example V-TI-6  Acts 3:2
+  :header-rows: 1
 
 καί,τις,ἀνὴρ,…,ὃν,**ἐτίθουν**,καθ’,ἡμέραν,πρὸς,τὴν,θύραν
 kai,tis,anēr,…,hon,**etithoun**,kath’,hēmeran,pros,tēn,thyran
