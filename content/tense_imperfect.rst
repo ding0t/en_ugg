@@ -459,43 +459,46 @@ Formation of The Imperfect Tense of εἴμι (I am)
         <td class="tg-c3ow">ἦσαν</td>
       </tr>
     </tbody>
-    </table>/</br>
+    </table>/</br></br>
 
 
 
 
-Imperfect tense –
+Imperfect tense – Examples
 ~~~~~~~~~~~~~~~ 
 
-•	The continuous aspect may be used to portray an event that has occurred in the past as it was in the process of occurring.
+Example:  V-TI-5- past event in the process of occurring
+^^^^^^^
+
+•	**The continuous aspect of the imperfect tense may be used to portray an event that has occurred in the past as if it were in the process of occurring.**
 
 The most frequent use of the imperfect tense is to describe action in process that occurred in the past.  It is therefore described as continuous (or imperfective). Continuous action is action that is viewed as ongoing, continuous, or as a process from the speaker’s point of view. 
 
-Example:  V-TI-5
+.. csv-table:: Example V-TI-5  John 7:30
 
-John 7:30
-ἐζήτουν οὖν αὐτὸν πιάσαι
-ezētoun oun auton piasai
-They were seeking, therefore, him, to seize/arrest
-Therefore, they were seeking to arrest him
+**ἐζήτουν**,οὖν,αὐτὸν,πιάσαι
+**ezētoun**,oun,auton,piasai
+**They were seeking**,therefore,him,to seize/arrest
 
-Therefore, they were seeking to arrest him
+*Therefore,* **they were seeking** *to arrest him*
 
 
-•	The continuous aspect may refer to an event that occurs on an iterative basis in the past
+Example V-TI-6 - Imperfect - Iterative basis
+^^^^^^^
+
+•	**The continuous aspect may refer to an event that occurs on an iterative basis in the past**
 
 The iterative imperfect describes repeated action occurring in the past.  These repeated actions may have been repeated by a single person (or agent) or multiple persons (or agents).
 
-Example V-TI-6
 
-Acts 3:2
+.. csv-table:: Example V-TI-6  Acts 3:2
 
-καί τις ἀνὴρ,…, ὃν ἐτίθουν καθ’ ἡμέραν πρὸς τὴν θύραν
-kai tis anēr,…, hon etithoun kath’ hēmeran pros tēn thyran
-and a certain man,…, whom they were placing every day before the  door/entrance
+καί,τις,ἀνὴρ,…,ὃν,**ἐτίθουν**,καθ’,ἡμέραν,πρὸς,τὴν,θύραν
+kai,tis,anēr,…,hon,**etithoun**,kath’,hēmeran,pros,tēn,thyran
+and,a certain,man,…,whom,**they were placing**,every,day,before,the,door/entrance
 
 
-And a certain man … whom each day they placed at the gate
+*And a certain man … whom each day* **they placed** *at the gate*
 
 
 •	The imperfect may be used to describe an event that generally occurs (or may be reasonably expected to occur)
