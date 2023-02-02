@@ -477,9 +477,9 @@ The most frequent use of the imperfect tense is to describe action in process th
 .. csv-table:: Example V-TI-5  John 7:30
   :header-rows: 1
 
-**ἐζήτουν**,οὖν,αὐτὸν,πιάσαι
-**ezētoun**,oun,auton,piasai
-**They were seeking**,therefore,him,to seize/arrest
+  **ἐζήτουν**,οὖν,αὐτὸν,πιάσαι
+  **ezētoun**,oun,auton,piasai
+  **They were seeking**,therefore,him,to seize/arrest
 
 *Therefore,* **they were seeking** *to arrest him*
 
@@ -495,9 +495,9 @@ The iterative imperfect describes repeated action occurring in the past.  These 
 .. csv-table:: Example V-TI-6  Acts 3:2
   :header-rows: 1
 
-καί,τις,ἀνὴρ,…,ὃν,**ἐτίθουν**,καθ’,ἡμέραν,πρὸς,τὴν,θύραν
-kai,tis,anēr,…,hon,**etithoun**,kath’,hēmeran,pros,tēn,thyran
-and,a certain,man,…,whom,**they were placing**,every,day,before,the,door/entrance
+  καί,τις,ἀνὴρ,…,ὃν,**ἐτίθουν**,καθ’,ἡμέραν,πρὸς,τὴν,θύραν
+  kai,tis,anēr,…,hon,**etithoun**,kath’,hēmeran,pros,tēn,thyran
+  and,a certain,man,…,whom,**they were placing**,every,day,before,the,door/entrance
 
 
 *And a certain man … whom each day* **they placed** *at the gate*
