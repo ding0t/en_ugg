@@ -530,7 +530,7 @@ The imperfect tense may be used to describe an event that occurs over an extende
 
   ὅτι,**ἦτε**,δοῦλοι,τῆς,ἁμαρτίας,ὑπηκούσατε,δὲ,ἐκ,καρδίας
   hoti,**ēte**,douloi,tēs,hamartias,hypēkousate,de,ek,kardias
-  because,**you were continually**,slaves,of sin,you obeyed,but,from,the heart
+  because,**you were continually**,slaves,of,sin,you obeyed,but,from,[the] heart
 
 *For* **you were slaves** *of sin, but you listened from [the] heart.*
 
@@ -548,13 +548,17 @@ Example V-TI-9 - Imperfect - event only wished to occur
 **They were going to call** *him after the name of his father, Zechariah.*
 
 
-•	The Inceptive imperfect describes an event as it begins to occur.
+Example V-TI-10 Inceptive Imperfect
+^^^^^
 
-Matt 5:2
+•	**The Inceptive imperfect describes an event as it begins to occur.**
 
-καὶ ἀνοίξας τὸ στόμα αὐτοῦ, ἐδίδασκεν αὐτοὺς
-kai anoixas to stoma autou, edidasken autous
-and, having opened the mouth his, he began teaching them
+.. csv-table:: Example V-TI-10  Matthew 5:2
+  :header-rows: 1
+
+καὶ,ἀνοίξας,τὸ,στόμα,αὐτοῦ,**ἐδίδασκεν**,αὐτοὺς
+kai,anoixas,to,stoma,autou,**edidasken**,autous
+and,having opened,the,mouth,his,**he began teaching**,them
 
 
-And having opened his mouth, he taught them
+*And having opened his mouth,* **he taught** *them*
