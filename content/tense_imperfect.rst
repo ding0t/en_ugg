@@ -503,18 +503,21 @@ The iterative imperfect describes repeated action occurring in the past.  These 
 *And a certain man … whom each day* **they placed** *at the gate*
 
 
-•	The imperfect may be used to describe an event that generally occurs (or may be reasonably expected to occur)
+Example V-TI-7 - imperfect - event that generally occurs
+^^^^^
+
+•	**The imperfect may be used to describe an event that generally occurs (or may be reasonably expected to occur)**
 
 Similar to the iterative imperfect, the imperfect may also be used to describe an event that generally occurs (or may be reasonably expected to occur.)
 
-Example V-TI-7
+.. csv-table:: Example V-TI-7 Mark 15:6
+  :header-rows: 1
 
-Mark 15:6
-κατὰ δὲ ἑορτὴν, ἀπέλυεν αὐτοῖς ἕνα δέσμιον
-kata de heortēn, apelyen autois hena desmion
-according to/during, and, festival, he usually released to them one prisoner.
+  κατὰ,δὲ,ἑορτὴν,ἀπέλυεν,αὐτοῖς,ἕνα,δέσμιον
+  kata,de,heortēn,apelyen,autois,hena,desmion
+  according to/during,and,festival,he usually released,to them,one,prisoner
 
-Now during the festival, he usually released to them one prisoner,
+*Now during the festival,* **he usually released** *to them one prisoner...*
 
 
 
