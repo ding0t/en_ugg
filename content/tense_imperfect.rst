@@ -40,11 +40,11 @@ The Tense of a verb is used to indicate the speaker’s perspective or viewpoint
 	Generally, it refers to continuous (or incomplete) action in past time.		
 
   *  The continuous aspect may be used to portray an event that has occurred in the past as it was in the process of occurring. See `Example V-TI-5 <https://ugg.readthedocs.io/en/latest/tense_imperfect.html#example-v-ti-5-past-event-in-the-process-of-occurring>`_ 
-  *  The continuous aspect may refer to an event that occurs on an iterative basis in the past, or
-  *  The imperfect may be used to describe an event that generally occurs (or may be reasonably expected to occur), or
-  *  Occurs over a long period of time , or
-    *  even to an action that never occurs but is only contemplated.
-  *  The Inceptive imperfect describes an event as it begins to occur.
+  *  The continuous aspect may refer to an event that occurs on an iterative basis in the past, See `Exampli V_TI-6 <https://ugg.readthedocs.io/en/latest/tense_imperfect.html#example-v-ti-6-imperfect-iterative-basis>`_ or
+  *  The imperfect may be used to describe an event that generally occurs (or may be reasonably expected to occur), See ` Example V-TI-7 <https://ugg.readthedocs.io/en/latest/tense_imperfect.html#example-v-ti-7-imperfect-event-that-generally-occurs>`_ or
+  *  Occurs over a long period of time, See `Example V-TI-8 <https://ugg.readthedocs.io/en/latest/tense_imperfect.html#example-v-ti-8-imperfect-event-over-long-period-of-time>`_, or
+    *  even to an action that never occurs but is only contemplated. See `Example V-TI-9 <https://ugg.readthedocs.io/en/latest/tense_imperfect.html#example-v-ti-9-imperfect-event-only-wished-to-occur>`_
+  *  The `Inceptive imperfect <https://ugg.readthedocs.io/en/latest/tense_imperfect.html#example-v-ti-10-inceptive-imperfect>`_ describes an event as it begins to occur.
 
 
 Form:
