@@ -395,7 +395,9 @@ Table V-TI-3b -  Quadrant 4 of the Master Chart Table 4 Secondary Middle/Passive
 [Note]  * In almost every case the sigma (σ) drops out because it is between two vowels.  The resulting two vowels contract.  "ε" and "ο" will contract to "ου" as in ελύου.
 
     ε + λυ + ε +  σο  then becomes
+
     ε + λυ + ε +  ο  (the sigma drops out)
+    
     ε + λυ + ου  ( the ε and ο contract to form ου)
     
 
