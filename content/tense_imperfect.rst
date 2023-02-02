@@ -556,9 +556,9 @@ Example V-TI-10 Inceptive Imperfect
 .. csv-table:: Example V-TI-10  Matthew 5:2
   :header-rows: 1
 
-καὶ,ἀνοίξας,τὸ,στόμα,αὐτοῦ,**ἐδίδασκεν**,αὐτοὺς
-kai,anoixas,to,stoma,autou,**edidasken**,autous
-and,having opened,the,mouth,his,**he began teaching**,them
+  καὶ,ἀνοίξας,τὸ,στόμα,αὐτοῦ,**ἐδίδασκεν**,αὐτοὺς
+  kai,anoixas,to,stoma,autou,**edidasken**,autous
+  and,having opened,the,mouth,his,**he began teaching**,them
 
 
 *And having opened his mouth,* **he taught** *them*
