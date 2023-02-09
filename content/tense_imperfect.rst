@@ -519,6 +519,9 @@ Similar to the iterative imperfect, the imperfect may also be used to describe a
 
 *Now during the festival,* **he usually released** *to them one prisoner...*
 
+[Note:]  In this case the term "usually" was used to reflect the use of the imperfect *"describing an event that generally occurs".*
+
+
 Example V- TI-8- Imperfect - Event over long period of time
 ^^^^^
 
