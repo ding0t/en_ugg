@@ -459,7 +459,7 @@ Formation of The Imperfect Tense of εἴμι (I am)
         <td class="tg-c3ow">ἦσαν</td>
       </tr>
     </tbody>
-    </table>/</br></br>
+    </table></br></br>
 
 
 
