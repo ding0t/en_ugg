@@ -191,7 +191,7 @@ Table V-TI-2a Formation of Imperfect Middle/Passive Active Indicative
 
 The present tense stem for a verb may be determined by deleting the connecting vowel and personal ending from a present tense verb. If a verb has a prefix or an augment such as in the imperfect tense, the prefix or augment must also be deleted.
 
-The Secondary Active personal endings are shown in Table V-TI-3  `Quadrant 2 <https://ugg.readthedocs.io/en/latest/tense_imperfect.html#table-v-ti-3-quadrant-2-of-the-master-chart-table-4>`_ and in the upper right quadrant of the `Verb Master Chart Table 4 <https://ugg.readthedocs.io/en/latest/paradigms.html#table-4-primary-and-secondary-endings-of-verbs>`_.
+The Secondary Active personal endings are shown in `Table V-TI-3 <https://ugg.readthedocs.io/en/latest/tense_imperfect.html#table-v-ti-3-quadrant-2-of-the-master-chart-table-4-secondary-active-endings>`_  and in the upper right quadrant of the `Verb Master Chart Table 4 <https://ugg.readthedocs.io/en/latest/paradigms.html#table-4-primary-and-secondary-endings-of-verbs>`_.
 
 The Secondary middle/passive personal endings are shown in `Table V-TI-3b <https://ugg.readthedocs.io/en/latest/tense_imperfect.html#table-v-ti-3b-quadrant-4-of-the-master-chart-table-4>`_ below and the lower right quadrant (Quadrant 4) of the `Verb Master Chart Table 4 <https://ugg.readthedocs.io/en/latest/paradigms.html#table-4-primary-and-secondary-endings-of-verbs>`_.
 
