@@ -472,7 +472,7 @@ Example:  V-TI-5- past event in the process of occurring
 
 •	**The continuous aspect of the imperfect tense may be used to portray an event that has occurred in the past as if it were in the process of occurring.**
 
-The most frequent use of the imperfect tense is to describe action in process that occurred in the past.  It is therefore described as continuous (or imperfective). Continuous action is action that is viewed as ongoing, continuous, or as a process from the speaker’s point of view. 
+The most frequent use of the imperfect tense is to describe action that occurred in the past as if it was in process of occuring. It is therefore described as continuous (or imperfective). Continuous action is action that is viewed as ongoing, continuous, or as a process from the speaker’s point of view. 
 
 .. csv-table:: Example V-TI-5  John 7:30
   :header-rows: 1
