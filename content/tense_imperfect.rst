@@ -56,7 +56,7 @@ and `Table 5 - Master Verb Tense Chart - Present and Imperfect Tenses of the Mas
 See also:
 
   *  `Table V-IT-1c Imperfect Active Tense verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-it-1c-imperfect-active-tense-verbs>`_
-  *  `Table V-IT-1d Imperfevt Middle/Passive Verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-it-1d-imperfect-middle-passive-verbs>`_
+  *  `Table V-IT-1d Imperfect Middle/Passive Verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-it-1d-imperfect-middle-passive-verbs>`_
   *  `Table V-AT-1 εἰμί Indicative <https://ugg.readthedocs.io/en/latest/paradigms.html#id7>`_
   *  `Table V-AT-D1 δίδωμι (Active Indicative) <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d1-active-indicative>`_
   *  `Table V-AT-D1a δίδομι Middle/passive indicative <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d1a-middle-passive-indicative>`_
@@ -69,8 +69,8 @@ See also:
 Formation of Verbs with a theme vowel in the Imperfect Tense:
 
   *  `The Imperfect Active Indicative <https://ugg.readthedocs.io/en/latest/tense_imperfect.html#table-v-ti-2-formation-of-imperfect-active-indicative-for-thematic-verbs>`_
-  *  Imperfect Middle/passive Indicative, and
-  *  The Imperfect Tense of εἴμι (I am) 
+  *  `Imperfect Middle/passive Indicative <https://ugg.readthedocs.io/en/latest/tense_imperfect.html#table-v-ti-2a-formation-of-imperfect-middle-passive-active-indicative>`_, and
+  *  The `Imperfect Tense of εἴμι <https://ugg.readthedocs.io/en/latest/tense_imperfect.html#formation-of-the-imperfect-tense-of-i-am>`_ (I am)  
 
 
 Form
