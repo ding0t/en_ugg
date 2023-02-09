@@ -2,7 +2,7 @@
 
 .. _tense_imperfect:
 
-Tense Imperfect  [UNDER CONSTRUCTION]
+Tense Imperfect  
 ===============
 
 Glossary
