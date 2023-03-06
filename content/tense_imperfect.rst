@@ -506,9 +506,9 @@ The iterative imperfect describes repeated action occurring in the past.  These 
 Example V-TI-7 - Imperfect - Event that generally occurs
 ^^^^^
 
-•	**The imperfect may be used to describe an event that generally occurs (or may be reasonably expected to occur)**
+•	**The imperfect may be used to describe an event that generally occurs (or may be reasonably expected to occur)**.
 
-Similar to the iterative imperfect, the imperfect may also be used to describe an event that generally occurs (or may be reasonably expected to occur.)
+Similar to the iterative imperfect, the imperfect may also be used to describe an event that generally occurs (or may be reasonably expected to occur).
 
 .. csv-table:: Example V-TI-7 Mark 15:6
   :header-rows: 1
@@ -525,7 +525,7 @@ Similar to the iterative imperfect, the imperfect may also be used to describe a
 Example V- TI-8- Imperfect - Event over long period of time
 ^^^^^
 
-•	**The Imperfect tense used to describe an event that occurs over a long period of time**
+•	**The Imperfect tense used to describe an event that occurs over a long period of time**.
 
 The imperfect tense may be used to describe an event that occurs over an extended period of time.  
 
@@ -566,4 +566,4 @@ Example V-TI-10 Inceptive Imperfect
 
 *And having opened his mouth,* **he taught** *them*
 
-  Or, in order to reflect the inceptive aspect of the imperfect tense in this instance, it could be translated "**he began teaching** *them*, or **he began to teach** *them"*
+  Or, in order to reflect the inceptive aspect of the imperfect tense in this instance, it could be translated "**he began teaching** *them*", or "**he began to teach** *them"*
