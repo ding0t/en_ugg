@@ -2,7 +2,7 @@
 
 .. _tense_present:
 
-Tense present    [**DRAFT - under   construction**]
+Tense present    
 =============
 
 Glossary
@@ -13,7 +13,7 @@ and is often used to depict an action as being in process (e.g., I am running, s
 
 The **present tense** in the *indicative mood* is the only way to describe an action that is taking place at the time the speaker is speaking.  When the present tense is indicating an event occurring at the present time, it may be indicating continuing and ongoing action, but may be simply indicating an event taking place at the time the speaker is speaking.  
 
-The present tense may also be used for *dramatic effect* to bring the hearer into the time the action was occurred.
+The present tense may also be used for *dramatic effect* to bring the hearer into the time the action occurred.
 
 Example:
 Table VTP-1  Present Tense Verb
@@ -30,15 +30,6 @@ Table VTP-1  Present Tense Verb
 The continuous aspect of the present tense is supported by the phrase “from the beginning.”
 
 
-
-
-
-[Delete the following]
-**Present** is a verb **tense-form** which a speaker uses to describe an
-action as imperfective, and is often used to depict an action is being
-in process (e.g., *I am running*, *she is reading*, *they are
-sleeping*).
-
 Article
 -------
 
@@ -49,16 +40,16 @@ The :ref:`Tense<tense>`  of a verb is used to indicate the speaker’s perspecti
 
 
   1.  **Aspect** - the kind of action of the verb. The kind of action may be continuous (also described as imperfective),
-  completed (or simple) , or completed with an ongoing effect.
+  completed (or simple), or completed with an ongoing effect.
   
 
-    *	 **Present tense- Aspect** is used primarily to indicate the kind of action as (continuous or incomplete) in moods other than the indicative.  It may indicate the action as continuous or incomplete in the present time depending on the context of the verb. The continuous aspect may also refer to an event that occurs on an iterative basis, or an event that generally occurs (or may be reasonably expected to occur).  
+    *	 **Present tense - Aspect** is used primarily to indicate the kind of action as (continuous or incomplete) in moods other than the indicative.  It may indicate the action as continuous or incomplete in the present time depending on the context of the verb. The continuous aspect may also refer to an event that occurs on an iterative basis, or an event that generally occurs (or may be reasonably expected to occur).  
 
 
   2.  **Time** - the time of action (only in the indicative mood). 
 
 
-    *	 **Present tense -Time** - The use of the Present tense in the indicative mood is the only way to indicate action occurring at the time the speaker is speaking. Therefore, the time of the action takes on a primary role when used with the indicative mood.  The Present indicative may describe simply 1) an event occurring in the present (simple action with no indication of continuity) or 2) an ongoing event occurring in the present. 
+    *	 **Present tense - Time** - The use of the Present tense in the indicative mood is the only way to indicate action occurring at the time the speaker is speaking. Therefore, the time of the action takes on a primary role when used with the indicative mood.  The Present indicative may describe simply 1) an event occurring in the present (simple action with no indication of continuity) or 2) an ongoing event occurring in the present. 
 
     *  **Dramatice Effect**  - An event that has occurred in the past or that will occur in the future may be portrayed in the present indicative for dramatic effect.
  
@@ -91,13 +82,13 @@ In this section we will describe the formation of Verbs with a theme vowel in:
   
   
   *	 The Present Active Indicative
-  *  Present Middle/passive Indicative, and
+  *  Present Middle/Passive Indicative, and
   *  The Present Tense of εἴμι (I am) because of its frequency in the New Testament
 
 Form - Present Active Indicative  for Thematic Verbs
 ^^^^^^^^^^^^^
 
-The present Active Indicative for a verb is formed by using:
+The Present Active Indicative for a verb is formed by using:
 
 .. raw:: html
 
@@ -144,7 +135,7 @@ The present Active Indicative for a verb is formed by using:
 
 
 
-Form - Present Middle/passive indicative verb is formed by using:
+Form - Present Middle/Passive indicative verb is formed by using:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
@@ -201,8 +192,8 @@ The connecting vowel (omicron, or epsilon) and the primary personal endings for 
 
 
 •	The present tense stem for a verb may be determined by deleting the connecting vowel and personal ending from a verb.  If a verb has a prefix or an augment such as in the aorist or perfect tenses, the prefix or augment must also be deleted. 
-•	The Primary Active personal endings are shown the chart below and in the upper left quadrant (Quadrant 1) of the Verb Master Chart Table 4.
-•	The Primary middle/passive personal endings are shown the chart below and the lower left quadrant (Quadrant 3) of Verb Master Chart Table 4.
+•	The Primary Active personal endings are shown in the chart below and in the upper left quadrant (Quadrant 1) of the Verb Master Chart Table 4.
+•	The Primary middle/passive personal endings are shown in the chart below and the lower left quadrant (Quadrant 3) of Verb Master Chart Table 4.
 
 
 
@@ -443,11 +434,11 @@ Present tense – Aspect
 ~~~~~~~~~~~~~~~~~~~~~~
 	
 **Aspect** refers to the type of Action.    
-  *  Action can be viewed as simple (also referred to as “punctiliar” or “undefined”).   When viewed as “simple” no comment is being made regarding if the action is continuous or a process.   It simply states that the event occurred.    (Simple Action is generally associated with the Aorist tense, and Future tense, but can also occur in the present indicative .)
+  *  Action can be viewed as simple (also referred to as “punctiliar” or “undefined”).   When viewed as “simple” no comment is being made regarding if the action is continuous or a process.   It simply states that the event occurred.    (Simple Action is generally associated with the Aorist tense, and Future tense, but can also occur in the present indicative.)
   *  Action can be viewed as continuous (or imperfective).  Continuous action is action that is viewed as ongoing, continuous, or as a process from the speaker’s point of view.  (Continuous Action is generally associated with the Present and Imperfect tense.)
   *  Action can be portrayed or viewed as perfective or as an event that occurred at some point of time in the past, but with an ongoing effect. ( Perfective action is generally associated with the Perfect and Pluperfect tense)
 
-The present tense is used to express the continuous aspect in all moods other that the indicative mood.  In the indicative mood, the Aspect may be simple or continuous.
+The present tense is used to express the continuous aspect in all moods other than the indicative mood.  In the indicative mood, the Aspect may be simple or continuous.
 
 In the present time:
 
@@ -479,7 +470,7 @@ Continuous action may be in the form of:
 
 (1) **Continuous action over a short period of time in the present time.**
 
-.. csv-table:: Table VTP-7 Continuous Action over a short period of time
+.. csv-table:: Table VTP-7 Continuous action over a short period of time
   :Header-rows: 1
 
   Mark 1:37
@@ -547,7 +538,7 @@ Iterative basis example:
 
 *every good tree* **produces** *good fruit*
 
-continuous example:
+Continuous example:
 
 .. csv-table:: Table VTP-10b Customary Present (Continuous) 2 Cor. 9:7
   :header-rows: 1
@@ -564,7 +555,7 @@ Dramatic Effect
 
 For dramatic effect the present tense may be used to portray:
   *  Historical Present - an event that occured in the past, but is portrayed as occuring in the present
-  *  Future Present - and event that will occur in the future, but is portrayed as occuring in the present.
+  *  Future Present - an event that will occur in the future, but is portrayed as occuring in the present.
 
 
 Historic Present 
@@ -576,7 +567,7 @@ Frequently the Historic Present is used with the verb λέγω.  Most English ve
 in the past tense.   
 
 The following example is from the story of when a person with leprosy came to Jesus to ask for healing. 
-The narative reads as though we were right there watching the scene. 
+The narrative reads as though we were right there watching the scene. 
 
 .. csv-table:: VTP-11a Mark 1:40
 
@@ -586,7 +577,7 @@ The narative reads as though we were right there watching the scene.
 
 *And a leper* **comes** *to him ... and* **says** *to him*
 
-Then Jesus moved with compassion responds to the leper.
+(Then Jesus moved with compassion responds to the leper.)
 
 .. csv-table:: VTP-11b Mark 1:41
 
@@ -628,7 +619,7 @@ Present tense imperative mood
 
 **Ask**, *and it will be given to you.* **Seek**, *and you will find*
 
-[This could be translated "Ask (and keep on asking) and it will be give to you.  Seek (and keep on seeking) and you will find.]
+[This could be translated "Ask (and keep on asking) and it will be given to you.  Seek (and keep on seeking) and you will find.]
 
 Present tense - participle
 
