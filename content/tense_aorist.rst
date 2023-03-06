@@ -37,7 +37,7 @@ Overview
 
 The :ref:`Tense<tense>` of a verb is used to indicate the speaker’s perspective or viewpoint of:
 
-  1.  **Aspect** - the kind of action of the verb. The kind of action may be unspecified ( also known as simple or simply completed), continuous (also described as imperfective), or completed with an ongoing effect.
+  1.  **Aspect** - the kind of action of the verb. The kind of action may be unspecified (also known as simple or simply completed), continuous (also described as imperfective), or completed with an ongoing effect.
 
     *  Aorist tense- In the aorist tense, aspect is used to express an unspecified kind of action (merely that it has occurred or occurs), without reference to its duration or completeness. It therefore may be used to refer to action that occurred in:
 
@@ -47,7 +47,7 @@ The :ref:`Tense<tense>` of a verb is used to indicate the speaker’s perspectiv
 	  
       *  repeated action.
 
-  2.  **Time** - the time of action in the Aorist Tense
+  2.  **Time** - the time of action in the Aorist tense
 
 
   •  The principle use of the Aorist tense in the **indicative mood** and with **participles** is to refer to unspecified action (aspect) that occurred in the past. 
@@ -83,7 +83,7 @@ The Paradigms also contain forms of verbs in the aorist tense for the subjunctiv
 See Paradigms:
 
   *  Verbs Subjunctive `Tables V-ST-3a through 3c <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-st-3a-aorist-active-subjunctive-contracted-verbs>`_,
-  *  verbs Imperative, `Table V-MT-1a <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-mt-1a-active-imperative-verbs-thematic-uncontracted>`_, `Table V-MT-2a <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-mt-2a-middle-passive-uncontracted-verbs>`_, and `Table V-MT-3 <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-mt-3-aorist-passive-imperative-verbs>`_
+  *  Verbs Imperative, `Table V-MT-1a <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-mt-1a-active-imperative-verbs-thematic-uncontracted>`_, `Table V-MT-2a <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-mt-2a-middle-passive-uncontracted-verbs>`_, and `Table V-MT-3 <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-mt-3-aorist-passive-imperative-verbs>`_
   *  `Verbs Infinitives <https://ugg.readthedocs.io/en/latest/paradigms.html#verbs-infinitive>`_,
   *  and Participles, `Tables V-P-T2 and T3 <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-p-t2-aorist-active-and-middle-participles>`_
 
@@ -91,17 +91,17 @@ In this section we will describe the formation of Verbs with a theme vowel in:
 
   •  The 1st and 2nd Aorist Active Indicative
   •  1st and 2nd Aorist Middle Indicative, and
-  •  1st and 2nd Aorist Passive indicative
+  •  1st and 2nd Aorist Passive Indicative
 
 The Koine Greek language has two ways of forming the Aorist Tense. 
   •  1st Aorist, and
   •  2nd Aorist
 
-There is **no difference in meaning** between a 1st Aorist verb and a 2nd Aorist Verb.   They are both aorist verbs.   If it helps, you may think of it as a room (the Aorist room) and the Aorist room has two doors.  It does not matter which door you use to enter the room.  In both cases the word is now in the Aorist room.
+There is **no difference in meaning** between a 1st Aorist verb and a 2nd Aorist verb.   They are both Aorist verbs.   If it helps, you may think of it as a room (the Aorist room) and the Aorist room has two doors.  It does not matter which door you use to enter the room.  In both cases the word is now in the Aorist room.
 
 A 1st Aorist verb uses the same verbal stem that is used in the present tense.
 
-A 2nd Aorist verb is first formed by making a change to the present tense stem for the verb.  The change in the stem let’s the reader know that it is a 2nd Aorist verb.
+A 2nd Aorist verb is first formed by making a change to the present tense stem for the verb.  The change in the stem lets the reader know that it is a 2nd Aorist verb.
 
 
 
@@ -262,7 +262,7 @@ The 1st Aorist Active Indicative for a verb is formed by using:
 
 
 [Note]
-  *  *Liquid verbs* are verbs whose stem ends with a λ,μ.ν, or ρ.]   
+  *  *Liquid verbs* are verbs whose stem ends with a λ,μ.ν, or ρ.  
   *  The Secondary Active personal endings are shown in the upper right quadrant (Quadrant 3) of the Verb Master Chart Table 4.  (see below)
 
 
@@ -415,7 +415,7 @@ The 1st Aorist Active Indicative for a verb is formed by using:
             <td class="tg-0lax">σαν</td>
           </tr>
           <tr>
-            <td class="tg-4erg">Middle/<br>passive</td>
+            <td class="tg-4erg">Middle/<br>Passive</td>
             <td class="tg-llyw"></td>
             <td class="tg-llyw"></td>
             <td class="tg-llyw"></td>
@@ -658,12 +658,12 @@ Table V-TA-3a  Formation of Indicative Verbs with a Theme Vowel Based on the Sec
 
 
  
-Form – Aorist  Middle indicative verb
+Form – Aorist  Middle Indicative verb
 ^^^^^
 
 Table V-TA-4 illustrates the formation of typical Middle Aorist Active verbs with a Theme Vowel
 
-	Built on the verb *λύω* I loose) and *γίνομαι* (I become, I exist)
+	Built on the verb *λύω* (I loose) and *γίνομαι* (I become, I exist)
 
 .. raw:: html
 
@@ -806,7 +806,7 @@ Form:  1st Aorist Middle Indicative Verb is formed by:
 Table V-TA-4b Formation of 2nd  Aorist Middle Indicative Verb
 ^^^^^
 
-Table V-TA-4b shows how a Second Aorist Middle indicative verb is formed.
+Table V-TA-4b shows how a Second Aorist Middle Indicative verb is formed.
 
 .. raw:: html
 
@@ -864,14 +864,14 @@ Table V-TA-4b shows how a Second Aorist Middle indicative verb is formed.
 
   #.  plus the **Second Aorist Active tense stem**
 
-  #.  plus the **Connecting Vowel**,(a tense formative is not needed because of the change in the stem from the present tense)
+  #.  plus the **Connecting Vowel**, (a tense formative is not needed because of the change in the stem from the present tense)
   
   #.  plus the **appropriate secondary middle/passive personal ending**
 
 
 
 
-Form – Aorist Passive indicative verb 
+Form – Aorist Passive Indicative verb 
 ^^^^^
 
 Built on the verb λύω - I loose/untie/destroy; χαίρω - I rejoice
@@ -1297,7 +1297,7 @@ Example
 *for* **you have had** *five husbands*
 
 
-.. csv-table:: V-TA 7a  Rm 10:9
+.. csv-table:: V-TA 7a  Rom 10:9
 
   ὁ,Θεὸς,αὐτὸν,**ἤγειρεν**,ἐκ,νεκρῶν
   ho,Theos,auton,**ēgeiren**,ek,nekrōn
@@ -1383,7 +1383,7 @@ Example:
 Aoristic  - present
 ^^^^^
 
-The aorist tense may be used to describe an  event occurring in the present, or just completed.  This also includes an Epistolary aorist where the writer describes his letter as already having been completed and delivered. 
+The aorist tense may be used to describe an  event occurring in the present, or just completed.  This also includes an Epistolary aorist in which the writer describes his letter as already having been completed and delivered. 
 
 Example:
 
@@ -1402,7 +1402,7 @@ Aoristic – future
 ^^^^^
 
 The Aorist tense may be used to describe action that will occur in the future. 
-Some have referred to this as the prophetic future (or an event that is so certain that it is described as if it had already occurred.)  This may be overstating the case as the aorist tense simply presents an event as a completed action. Yet, using the aorist tense, which describes completed action, for something to occur in the future instead of the future tense does add a sense of certainty to the event.
+Some have referred to this as the prophetic future (or an event that is so certain that it is described as if it had already occurred).  This may be overstating the case as the aorist tense simply presents an event as a completed action. Yet, using the aorist tense, which describes completed action, for something to occur in the future instead of the future tense does add a sense of certainty to the event.
 
 Example:
 
