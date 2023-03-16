@@ -43,11 +43,11 @@ The :ref:`Tense<tense>`  of a verb is used to indicate the speaker’s perspecti
   completed (or simple), or completed with an ongoing effect.
   
 
-    *	 **Present tense - Aspect** is used primarily to indicate the kind of action as (continuous or incomplete) in moods other than the indicative.  
+     *	 **Present tense - Aspect** is used primarily to indicate the kind of action as (continuous or incomplete) in moods other than the indicative.  
     
-      *  It may indicate the action as continuous or incomplete in the present time depending on the context of the verb.
-      *  The continuous aspect may also refer to an event that occurs on an iterative basis, or an event that generally occurs (or may be reasonably expected to occur).        
-      *  Note:    Iterative refers to an event or process that repeats itself, or happens from time to time.
+       *  It may indicate the action as continuous or incomplete in the present time depending on the context of the verb.
+       *  The continuous aspect may also refer to an event that occurs on an iterative basis, or an event that generally occurs (or may be reasonably expected to occur).        
+       *  Note:    Iterative refers to an event or process that repeats itself, or happens from time to time.
 
 
   2.  **Time** - the time of action (only in the indicative mood). 
