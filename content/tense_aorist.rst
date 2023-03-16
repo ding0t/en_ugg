@@ -1430,6 +1430,6 @@ Example
 
 *For the sun* **rose** … *and* **dried up** *the grass,*
 
-Note:  [Or this can be translated “For the sun rises… and dries up the grass”  It is not describing a single event that occurred one time in the past but just as this happens on a regular basis, “Thus also the rich will wither…”  ]
+Note:  [Or this can be translated “For the sun rises… and dries up the grass”  It is not describing a single event that occurred one time in the past but rather just as the sun rises and dries up the grass on a regular basis, “Thus also the rich will wither…”  ]
 
 
