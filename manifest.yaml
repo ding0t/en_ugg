@@ -8,12 +8,12 @@ dublin_core:
   description: 'An open-licensed Greek grammar (reference first, eventually for teaching), providing information about Greek grammatical elements. It enables the global Church to gain the best possible understanding of the grammar of the original texts of the New Testament.'
   format: 'text/markdown'
   identifier: 'ugg'
-  issued: '2018-01-26'
+  issued: '2023-03-17'
   language:
     identifier: 'en'
     title: 'English'
     direction: 'ltr'
-  modified: '2018-01-26'
+  modified: '2023-03-17'
   publisher: 'unfoldingWord'
   relation:
     - 'en/ugnt'
@@ -26,7 +26,7 @@ dublin_core:
   subject: 'Greek Grammar'
   title: 'unfoldingWord Greek Grammar'
   type: 'man'
-  version: '0'
+  version: '1.0'
 
 checking:
   checking_entity: []
