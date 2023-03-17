@@ -53,9 +53,9 @@ The :ref:`Tense<tense>`  of a verb is used to indicate the speaker’s perspecti
   2.  **Time** - the time of action (only in the indicative mood). 
 
 
-    *	 **Present tense - Time** - The use of the Present tense in the indicative mood is the only way to indicate action occurring at the time the speaker is speaking. Therefore, the time of the action takes on a primary role when used with the indicative mood.  The Present indicative may describe simply 1) an event occurring in the present (simple action with no indication of continuity) or 2) an ongoing event occurring in the present. 
+    *	 **Present tense - Time** - The use of the Present tense in the indicative mood is the only way to indicate action occurring at the time the speaker is speaking. Therefore, the time of the action takes on a primary role when used with the indicative mood.  The Present indicative may describe simply: 1) an event occurring in the present (simple action with no indication of continuity) or 2) an ongoing event occurring in the present. 
 
-    *  **Dramatice Effect**  - An event that has occurred in the past or that will occur in the future may be portrayed in the present indicative for dramatic effect.
+    *  **Dramatic Effect**  - An event that has occurred in the past or that will occur in the future may be portrayed in the present indicative for dramatic effect.
  
 
 Form:
