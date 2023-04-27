@@ -15,12 +15,12 @@ When used with a participle, it refers to a time in the future from the time of 
 
 Example:  V-TF-1
 
-..csv-table:: John 6:54
+.. csv-table:: John 6:54
   :header-rows: 1
 
-  **ἀναστήσω**,αὐτὸν,τῇ,ἐσχάτῃ,ἡμέρᾳ
-  **anastēsō**,auton,tē,eschatē,hēmera
-  **I will raise up**,him,in the,last,day
+**ἀναστήσω**,αὐτὸν,τῇ,ἐσχάτῃ,ἡμέρᾳ
+**anastēsō**,auton,tē,eschatē,hēmera
+**I will raise up**,him,in the,last,day
 
 **I will raise** *him* **up** *in the last day.*
 
