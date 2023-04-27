@@ -54,7 +54,7 @@ The Principal uses of the future tense are:
 
 Form:
 ~~~~
-The basic form for a verb in the indicative Future tense is given in Table 4 (Primary and Secondary Endings of Verbs) , and Table 6 (Master Verb Tense Chart - The Future Tenses) of the Master paradigm.
+The basic form for a verb in the indicative Future tense is given in `Table 4 Primary and Secondary Endings of Verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#table-4-primary-and-secondary-endings-of-verbs>`_ , and `Table 6 (Master Verb Tense Chart - The Future Tenses) <https://ugg.readthedocs.io/en/latest/paradigms.html#table-6-master-verb-tense-chart-future-tenses>`_ of the Master paradigm.
 See also:
 •	Table V-IT-2 (Indicative Thematic Verbs built on the Future Tense  Stem)
 •	Table V-IT-5b (Aorist Passive and Future Passive Verbs built on the Aorist Passive Tense Stem
