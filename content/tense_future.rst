@@ -37,14 +37,14 @@ The **Tense** of a verb is used to indicate the speaker’s perspective or viewp
       The kind of action may be unspecified (also known as simple or simply completed), continuous (also described as imperfective),
       or completed with an ongoing effect.
 
-    •  Future tense- In the Future tense, aspect is used to express an unspecified kind of action (merely that it has occurred or occurs),
-    without reference to its duration or completeness.  This is similar to the Aorist Tense.
+      •  Future tense- In the Future tense, aspect is used to express an unspecified kind of action (merely that it has occurred or occurs), without reference to its duration or completeness.  This is similar to the Aorist Tense.
 
-    •	Therefore, it could refer to an event that takes place over a period of time or in a moment, or is repeated.
-      This can only be determined based on context, but not by the use of the future tense.
+    •	Therefore, it could refer to an event that takes place over a period of time or in a moment, or is repeated.  This can only be determined based on context, but not by the use of the future tense.
 
   2.  Time - the time of action for verbs in the Future tense is in the future from the viewpoint of the speaker.
 
+
+The Principal uses of the future tense are:
 
   *  Predictive Future - The principle use of the Future tense in the indicative mood is to refer to unspecified action or event (aspect) that will occur in the future.  It is therefore predictive in nature.
   *  Future Imperative -  The Future tense in the indicative mood may be used as a command instead of using the imperative mood.
