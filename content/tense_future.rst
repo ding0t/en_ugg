@@ -55,16 +55,19 @@ The Principal uses of the future tense are:
 Form:
 ~~~~
 The basic form for a verb in the indicative Future tense is given in `Table 4 Primary and Secondary Endings of Verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#table-4-primary-and-secondary-endings-of-verbs>`_ , and `Table 6 (Master Verb Tense Chart - The Future Tenses) <https://ugg.readthedocs.io/en/latest/paradigms.html#table-6-master-verb-tense-chart-future-tenses>`_ of the Master paradigm.
+
 See also:
-•	Table V-IT-2 (Indicative Thematic Verbs built on the Future Tense  Stem)
-•	Table V-IT-5b (Aorist Passive and Future Passive Verbs built on the Aorist Passive Tense Stem
-•	Table V-AT-1 εἰμί Indicative
-•	Table V-AT-D1 δίδωμι (Active Indicative)
-•	Table V-AT-D1a δίδομι Middle/passive indicative
-•	Table V-AT-D2 ἵστημι (Active Indicative)
-•	Table V-AT-D2a ἵστημι middle/passive indicative
-•	Table V-AT-D3 τίθημι (Active Indicative)
-•	Table V-AT-D3a τίθημι middle/passive indicative
+
+  *  Table V-IT-2 (Indicative Thematic Verbs built on the Future Tense  Stem)
+  *  Table V-IT-5b (Aorist Passive and Future Passive Verbs built on the Aorist Passive Tense Stem
+  *  Table V-AT-1 εἰμί Indicative
+  *  Table V-AT-D1 δίδωμι (Active Indicative)
+  *  Table V-AT-D1a δίδομι Middle/passive indicative
+  *  Table V-AT-D2 ἵστημι (Active Indicative)
+  *  Table V-AT-D2a ἵστημι middle/passive indicative
+  *  Table V-AT-D3 τίθημι (Active Indicative)
+  *  Table V-AT-D3a τίθημι middle/passive indicative
+  
 There are only five future infinitives that occur in the New Testament.  ἔσεσθαι ( future infinitive of εἰμί -will be ,  it will be, will happen) occurs four times and εἰσελεύσεσθαι once ( future infinitive of εἰσέρχομαι – to enter, will enter, will go into).
 There are only thirteen future participles that occur in the New Testament.  We have not included a Table for these thirteen future participles.
 In this section we will describe the formation of Verbs with a theme vowel in:
