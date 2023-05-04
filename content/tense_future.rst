@@ -92,49 +92,49 @@ Liquid verbs are verbs that have a stem ending in λ,μ,ν,or ρ.  They are call
 .. raw:: html
 
     <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-34fe{background-color:#c0c0c0;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-hafo" colspan="7"><span style="font-weight:bold">Table V-TF-2</span><br><span style="font-weight:bold">Formation of Future Tense</span><br><span style="font-weight:bold">Active Indicative Verb</span><br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-3xi5">Future Active Tense Stem</td>
-    <td class="tg-34fe">+</td>
-    <td class="tg-0lax">Tense formative (σ)</td>
-    <td class="tg-0lax">+</td>
-    <td class="tg-0lax">Connecting <br>Vowel</td>
-    <td class="tg-0lax">+</td>
-    <td class="tg-0lax">Primary Active<br>Personal Ending</td>
-  </tr>
-  <tr>
-    <td class="tg-8bgf">λυ</td>
-    <td class="tg-c3ow">+</td>
-    <td class="tg-baqh">σ</td>
-    <td class="tg-baqh">+</td>
-    <td class="tg-baqh">ο</td>
-    <td class="tg-baqh">+</td>
-    <td class="tg-baqh">μεν</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow" colspan="7"><span style="font-style:italic">We will loose</span></td>
-  </tr>
-</tbody>
-</table></br>
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-34fe{background-color:#c0c0c0;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-hafo" colspan="7"><span style="font-weight:bold">Table V-TF-2</span><br><span style="font-weight:bold">Formation of Future Tense</span><br><span style="font-weight:bold">Active Indicative Verb</span><br></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-3xi5">Future Active Tense Stem</td>
+        <td class="tg-34fe">+</td>
+        <td class="tg-0lax">Tense formative (σ)</td>
+        <td class="tg-0lax">+</td>
+        <td class="tg-0lax">Connecting <br>Vowel</td>
+        <td class="tg-0lax">+</td>
+        <td class="tg-0lax">Primary Active<br>Personal Ending</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">λυ</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-baqh">σ</td>
+        <td class="tg-baqh">+</td>
+        <td class="tg-baqh">ο</td>
+        <td class="tg-baqh">+</td>
+        <td class="tg-baqh">μεν</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow" colspan="7"><span style="font-style:italic">We will loose</span></td>
+      </tr>
+    </tbody>
+    </table></br>
 
 
 Formation of Future Tense Active Indicative Verb
