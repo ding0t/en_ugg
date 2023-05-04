@@ -59,14 +59,14 @@ The basic form for a verb in the indicative Future tense is given in `Table 4 Pr
 See also:
 
   *  `Table V-IT-2 (Indicative Thematic Verbs built on the Future Tense  Stem) <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-it-2-indicative-thematic-verbs-built-on-future-tense-stem>`_
-  *  Table V-IT-5b (Aorist Passive and Future Passive Verbs built on the Aorist Passive Tense Stem
-  *  Table V-AT-1 εἰμί Indicative
-  *  Table V-AT-D1 δίδωμι (Active Indicative)
-  *  Table V-AT-D1a δίδομι Middle/passive indicative
-  *  Table V-AT-D2 ἵστημι (Active Indicative)
-  *  Table V-AT-D2a ἵστημι middle/passive indicative
-  *  Table V-AT-D3 τίθημι (Active Indicative)
-  *  Table V-AT-D3a τίθημι middle/passive indicative
+  *  `Table V-IT-5b (Aorist Passive and Future Passive Verbs built on the Aorist Passive Tense Stem <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-it-5b-aorist-passive-and-future-passive-verbs-built-on-the-aorist-passive-tense-stem>`_
+  *  `Table V-AT-1 εἰμί Indicative <https://ugg.readthedocs.io/en/latest/paradigms.html#id7>`_
+  *  `Table V-AT-D1 δίδωμι (Active Indicative) <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d1-active-indicative>`_
+  *  `Table V-AT-D1a δίδομι Middle/passive indicative <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d1a-middle-passive-indicative>`_
+  *  `Table V-AT-D2 ἵστημι (Active Indicative) <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d2-active-indicative>`_
+  *  `Table V-AT-D2a ἵστημι middle/passive indicative <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d2a-middle-passive-indicative>`_
+  *  `Table V-AT-D3 τίθημι (Active Indicative) <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d3-active-indicative>`_
+  *  `Table V-AT-D3a τίθημι middle/passive indicative <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d3a-middle-passive-indicative>`_
   
 There are only five future infinitives that occur in the New Testament.  ἔσεσθαι ( future infinitive of εἰμί -will be ,  it will be, will happen) occurs four times and εἰσελεύσεσθαι once ( future infinitive of εἰσέρχομαι – to enter, will enter, will go into).
 There are only thirteen future participles that occur in the New Testament.  We have not included a Table for these thirteen future participles.
