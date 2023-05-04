@@ -137,6 +137,8 @@ Table V-TF-2 Formation of Future Tense – Active Indicative
     </tbody>
     </table></br>
 
+    
+
 
 Formation of Future Tense Active Indicative Verb
 Future active tense stem + tense formative (σ) + Connecting vowel +
