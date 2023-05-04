@@ -68,16 +68,23 @@ See also:
   *  `Table V-AT-D3 τίθημι (Active Indicative) <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d3-active-indicative>`_
   *  `Table V-AT-D3a τίθημι middle/passive indicative <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d3a-middle-passive-indicative>`_
   
-There are only five future infinitives that occur in the New Testament.  ἔσεσθαι ( future infinitive of εἰμί -will be ,  it will be, will happen) occurs four times and εἰσελεύσεσθαι once ( future infinitive of εἰσέρχομαι – to enter, will enter, will go into).
+There are only five future infinitives that occur in the New Testament.  
+
+    *  ἔσεσθαι ( future infinitive of εἰμί -will be ,  it will be, will happen) occurs four times, and
+    *  εἰσελεύσεσθαι once ( future infinitive of εἰσέρχομαι – to enter, will enter, will go into).
+
 There are only thirteen future participles that occur in the New Testament.  We have not included a Table for these thirteen future participles.
+
 In this section we will describe the formation of Verbs with a theme vowel in:
-•	Future Tense - Active Indicative
-•	Future Tense - Middle Indicative, and
-•	Liquid Future – Active Indicative
-•	Liquid Future – Middle Indicative
-•	First Future – Passive Indicative
-•	Second Future – Passive Indicative, and the
-•	Future Tense of εἰμί
+
+  *	 Future Tense - Active Indicative
+  *  Future Tense - Middle Indicative, and
+  *	 Liquid Future – Active Indicative
+  *  Liquid Future – Middle Indicative
+  *  First Future – Passive Indicative
+  *  Second Future – Passive Indicative, and the
+  *  Future Tense of εἰμί
+
 Liquid verbs are verbs that have a stem ending in λ,μ,ν,or ρ.  They are called “liquid” because the air flows around the tongue or through the nose when forming the sound of the letter.
 
 Table V-TF-2 Formation of Future Tense – Active Indicative
