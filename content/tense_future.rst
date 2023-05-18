@@ -98,45 +98,42 @@ Table V-TF-2 Formation of Future Tense Active Indicative
       overflow:hidden;padding:10px 5px;word-break:normal;}
     .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
       font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-    .tg .tg-34fe{background-color:#c0c0c0;border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
-    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-w8l0{background-color:#fffc9e;font-weight:bold;text-align:center;vertical-align:top}
     .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-5frq{font-style:italic;text-align:center;vertical-align:top}
     </style>
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-hafo" colspan="9"><span style="font-weight:bold">Table V-TF-2</span><br><span style="font-weight:bold">Formation of Future Tense</span><br><span style="font-weight:bold">Active Indicative Verb</span><br></th>
+        <th class="tg-w8l0" colspan="9">Table V-TF-2<br>Formation of Future Tense<br>Active Indicative Verb<br><span style="font-weight:bold">(with a theme vowel)</span></th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td class="tg-3xi5">Future Active Tense Stem</td>
-        <td class="tg-34fe">+</td>
-        <td class="tg-0pky">Tense formative (εσ)</td>
-        <td class="tg-0pky">+</td>
-        <td class="tg-0pky">Connecting <br>Vowel</td>
-        <td class="tg-0pky">+</td>
-        <td class="tg-0pky">Primary <br>Active<br>Personal Ending</td>
+        <td class="tg-baqh">Future Active<br>Tense Stem</td>
+        <td class="tg-baqh">+</td>
+        <td class="tg-baqh">Tense<br>Formative (σ)</td>
+        <td class="tg-baqh">+</td>
+        <td class="tg-baqh">Connecting<br>Vowel</td>
+        <td class="tg-baqh">+</td>
+        <td class="tg-baqh">Primary<br>Active<br>Personal <br>Ending</td>
         <td class="tg-0lax"></td>
         <td class="tg-0lax"></td>
       </tr>
       <tr>
-        <td class="tg-8bgf">λυ</td>
-        <td class="tg-c3ow">+</td>
-        <td class="tg-c3ow">σ</td>
-        <td class="tg-c3ow">+</td>
-        <td class="tg-c3ow">ο</td>
-        <td class="tg-c3ow">+</td>
-        <td class="tg-c3ow">μεν</td>
-        <td class="tg-0lax">-&gt</td>
-        <td class="tg-0lax">λύσομεν</td>
+        <td class="tg-baqh">λυ</td>
+        <td class="tg-baqh">+</td>
+        <td class="tg-baqh">σ</td>
+        <td class="tg-baqh">+</td>
+        <td class="tg-baqh">ο</td>
+        <td class="tg-baqh">+</td>
+        <td class="tg-baqh">μεν</td>
+        <td class="tg-baqh">-&gt;</td>
+        <td class="tg-baqh">λύσομεν</td>
       </tr>
       <tr>
-        <td class="tg-c3ow" colspan="9"><span style="font-style:italic">We will loose</span></td>
+        <td class="tg-5frq" colspan="9">We will loose</td>
       </tr>
     </tbody>
     </table></br>
