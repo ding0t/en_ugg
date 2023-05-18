@@ -87,7 +87,7 @@ In this section we will describe the formation of Verbs with a theme vowel in:
 
 Liquid verbs are verbs that have a stem ending in λ,μ,ν,or ρ.  They are called “liquid” because the air flows around the tongue or through the nose when forming the sound of the letter.
 
-Table V-TF-2 Formation of Future Tense Active Indicative [TEST]
+Table V-TF-2 Formation of Future Tense Active Indicative
 ^^^^^
 
 .. raw:: html
@@ -139,14 +139,6 @@ Table V-TF-2 Formation of Future Tense Active Indicative [TEST]
 
     
 
-**test**
-Formation of Future Tense Active Indicative Verb
-Future active tense stem + tense formative (σ) + Connecting vowel +
-Primary Active Personal Ending
-
-λυ + σ + ο + μεν
-We will loose
-
 Table V-TF- 2a
 Future Tense (of verbs with a theme vowel)
 Active Indicative
@@ -178,6 +170,53 @@ Primary Middle/Passive Personal Ending
 
 λυ + σ + ο + μαι
 I will loose
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-34fe{background-color:#c0c0c0;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-hafo" colspan="7"><span style="font-weight:bold">Table V-TF-3</span><br><span style="font-weight:bold">Formation of Future Tense</span><br><span style="font-weight:bold">Middle Indicative Verb</span><br></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-3xi5">Future Active Tense Stem</td>
+        <td class="tg-34fe">+</td>
+        <td class="tg-0pky">Tense formative (σ)</td>
+        <td class="tg-0pky">+</td>
+        <td class="tg-0pky">Connecting <br>Vowel</td>
+        <td class="tg-0pky">+</td>
+        <td class="tg-0pky">Primary <br>Middle/Passive<br>Personal Ending</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">λυ</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">σ</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">ο</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">μαι</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow" colspan="7"><span style="font-style:italic">Ι will loose myself</span></td>
+      </tr>
+    </tbody>
+    </table></br>
+
 
 Table V-TF-3a
 Future Tense (of verbs with a theme vowel)
