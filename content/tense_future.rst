@@ -132,7 +132,7 @@ Table V-TF-2 Formation of Future Tense Active Indicative
         <td class="tg-c3ow">ο</td>
         <td class="tg-c3ow">+</td>
         <td class="tg-c3ow">μεν</td>
-        <td class="tg-0lax"> -&gt;</td>
+        <td class="tg-0lax">-&gt</td>
         <td class="tg-0lax">λύσομεν</td>
       </tr>
       <tr>
