@@ -185,22 +185,25 @@ I will loose
     .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
     .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
     .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
     </style>
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-hafo" colspan="7"><span style="font-weight:bold">Table V-TF-3</span><br><span style="font-weight:bold">Formation of Future Tense</span><br><span style="font-weight:bold">Middle Indicative Verb</span><br></th>
+        <th class="tg-hafo" colspan="9"><span style="font-weight:bold">Table V-TF-3</span><br><span style="font-weight:bold">Formation of Future Tense</span><br><span style="font-weight:bold">Middle Indicative Verb</span><br></th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td class="tg-3xi5">Future Active Tense Stem</td>
         <td class="tg-34fe">+</td>
-        <td class="tg-0pky">Tense formative (σ)</td>
+        <td class="tg-0pky">Tense formative (εσ)</td>
         <td class="tg-0pky">+</td>
         <td class="tg-0pky">Connecting <br>Vowel</td>
         <td class="tg-0pky">+</td>
-        <td class="tg-0pky">Primary <br>Middle/Passive<br>Personal Ending</td>
+        <td class="tg-0pky">Primary <br>Active<br>Personal Ending</td>
+        <td class="tg-0lax"></td>
+        <td class="tg-0lax"></td>
       </tr>
       <tr>
         <td class="tg-8bgf">λυ</td>
@@ -210,9 +213,11 @@ I will loose
         <td class="tg-c3ow">ο</td>
         <td class="tg-c3ow">+</td>
         <td class="tg-c3ow">μαι</td>
+        <td class="tg-0lax">-&gt;</td>
+        <td class="tg-0lax">λύσομαι</td>
       </tr>
       <tr>
-        <td class="tg-c3ow" colspan="7"><span style="font-style:italic">Ι will loose myself</span></td>
+        <td class="tg-c3ow" colspan="9">I will loose myself</td>
       </tr>
     </tbody>
     </table></br>
