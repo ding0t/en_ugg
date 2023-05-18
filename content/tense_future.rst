@@ -100,39 +100,43 @@ Table V-TF-2 Formation of Future Tense Active Indicative
       font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
     .tg .tg-34fe{background-color:#c0c0c0;border-color:inherit;text-align:center;vertical-align:top}
     .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
-    .tg .tg-baqh{text-align:center;vertical-align:top}
     .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
     .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
     .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
     .tg .tg-0lax{text-align:left;vertical-align:top}
     </style>
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-hafo" colspan="7"><span style="font-weight:bold">Table V-TF-2</span><br><span style="font-weight:bold">Formation of Future Tense</span><br><span style="font-weight:bold">Active Indicative Verb</span><br></th>
+        <th class="tg-hafo" colspan="9"><span style="font-weight:bold">Table V-TF-2</span><br><span style="font-weight:bold">Formation of Future Tense</span><br><span style="font-weight:bold">Active Indicative Verb</span><br></th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td class="tg-3xi5">Future Active Tense Stem</td>
         <td class="tg-34fe">+</td>
-        <td class="tg-0lax">Tense formative (σ)</td>
-        <td class="tg-0lax">+</td>
-        <td class="tg-0lax">Connecting <br>Vowel</td>
-        <td class="tg-0lax">+</td>
-        <td class="tg-0lax">Primary Active<br>Personal Ending</td>
+        <td class="tg-0pky">Tense formative (εσ)</td>
+        <td class="tg-0pky">+</td>
+        <td class="tg-0pky">Connecting <br>Vowel</td>
+        <td class="tg-0pky">+</td>
+        <td class="tg-0pky">Primary <br>Active<br>Personal Ending</td>
+        <td class="tg-0lax"></td>
+        <td class="tg-0lax"></td>
       </tr>
       <tr>
         <td class="tg-8bgf">λυ</td>
         <td class="tg-c3ow">+</td>
-        <td class="tg-baqh">σ</td>
-        <td class="tg-baqh">+</td>
-        <td class="tg-baqh">ο</td>
-        <td class="tg-baqh">+</td>
-        <td class="tg-baqh">μεν</td>
+        <td class="tg-c3ow">σ</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">ο</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">μεν</td>
+        <td class="tg-0lax"> -&gt;</td>
+        <td class="tg-0lax">λύσομεν</td>
       </tr>
       <tr>
-        <td class="tg-c3ow" colspan="7"><span style="font-style:italic">We will loose</span></td>
+        <td class="tg-c3ow" colspan="9"><span style="font-style:italic">We will loose</span></td>
       </tr>
     </tbody>
     </table></br>
