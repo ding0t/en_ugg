@@ -223,6 +223,7 @@ I will loose
     </table></br>
 
 
+
 Table V-TF-3a
 Future Tense (of verbs with a theme vowel)
 Middle Indicative 
