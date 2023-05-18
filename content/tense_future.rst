@@ -287,7 +287,7 @@ We will judge (decide, prefer)
         <td class="tg-c3ow">ο</td>
         <td class="tg-c3ow">+</td>
         <td class="tg-c3ow">μεν</td>
-        <td class="tg-0lax">-&gt;</td>
+        <td class="tg-0lax">-></td>
         <td class="tg-0lax">κρινοῦμεν</td>
       </tr>
       <tr>
