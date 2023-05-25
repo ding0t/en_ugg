@@ -239,7 +239,7 @@ Table V-TF- 2a Future Active Indicative
 
 [Note]: 
 
-  1.	*  The Primary active personal ending are listed in `Quadrant 1 of Master Table 4 <https://ugg.readthedocs.io/en/latest/paradigms.html#table-4-primary-and-secondary-endings-of-verbs>`_
+  1.	* The Primary active personal ending are listed in `Quadrant 1 of Master Table 4 <https://ugg.readthedocs.io/en/latest/paradigms.html#table-4-primary-and-secondary-endings-of-verbs>`_
   2.	** There is no primary personal ending for the 1 person singular.   In this case the connecting vowel omicron has lengthened to an omega.  
   3.	*** Third person plural ending –  The primary personal ending is νσι which would result in λύσονσι, but the “ν” drops out because it is followed by a sigma and the connecting vowel “o” lengthens to compensate for the missing “v”. Therefore, λυ + σ +ο + νσι becomes λυ +σ + ου + σι -> λύσουσι
 
