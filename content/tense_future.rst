@@ -391,7 +391,7 @@ Table V-TF-3a Future Middle Indicative (of verbs with a theme vowel)
 
 
 Note:
-1.	* λυ + σ+ε+σαι ->  The sigma drops out because it is between two vowels and so we get λυ σ ε αι -> Then the epsilon and the alpha contract to η and so we get λυ σ ηι ->   A final iota subscripts when following the long vowels (ω,η, or ᾶ) resulting in λὐσῃ 
+1.	* λυ + σ+ε+σαι ->  The sigma drops out because it is between two vowels and so we get λυ σ ε αι -> Then the epsilon and the alpha contract to η and so we get λυ σ ηι ->   A final iota subscripts when following the long vowels (ω,η, or ᾶ) resulting in λὐσῃ. 
 
 Table V-TF-4 Formation of Liquid Future Active Indicative
 ^^^^
@@ -446,30 +446,110 @@ Table V-TF-4 Formation of Liquid Future Active Indicative
     
 
 
-*  [Note]   The sigma is intervocalic (between two vowels].  When this occurs it often drops out resulting in κριν ε ο μεν.   The epsilon and the omicron then contract to form ου resulting in -> κρινοῦμεν.
-Table V-TF-4a
-Future Tense (of Liquid verbs with a theme vowel)
-Active Indicative
-Single		Tense formative	Connecting 
-Vowel	Primary
-Active personal
-ending	
-1 person	κρινῶ  [note 2]	εσ	ο	-	I will judge
-2 person	κρινεῖς [note 3]	εσ	ε	ς	You will judge
-3 person	κρινεῖ [note 4]	εσ	ε	ι	He (she,it) will judge
-Plural					
-1 person	κρινοῦμεν [note 5]	εσ	ο	μεν	We will judge
-2 person	κρινεῖτε  [note 6]	εσ	ε	τε	You will judge
-3 person	Κρίνουσι (ν) [note 7]	εσ	ο	νσι	They will judge
+[Note]   * The sigma is intervocalic (between two vowels].  When this occurs it often drops out resulting in κριν ε ο μεν.   The epsilon and the omicron then contract to form ου resulting in -> κρινοῦμεν.
+
+Table V-TF-4a Future Active Indicative (of Liquid verbs with a theme vowel)
+^^^^
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-kt43{background-color:#fffc9e;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-rvyq{border-color:inherit;font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-kt43" colspan="6">Table V-TF-4a<br>Future Tense of Liquid Verbs<br><span style="font-weight:bold">(with a theme vowel)</span><br><span style="font-weight:bold">Active Indicative</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-rvyq">Single</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow">Tense<br>formative</td>
+        <td class="tg-c3ow">connecting<br>vowel</td>
+        <td class="tg-c3ow">Active<br>Personal<br>Ending</td>
+        <td class="tg-c3ow"></td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">1 Person</td>
+        <td class="tg-c3ow">κρινῶ  [note 2]</td>
+        <td class="tg-c3ow">εσ</td>
+        <td class="tg-c3ow">ο</td>
+        <td class="tg-c3ow"><span style="font-weight:bold">-</span></td>
+        <td class="tg-c3ow">I will judge</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">2 Person</td>
+        <td class="tg-c3ow">κρινεῖς  [note 3]</td>
+        <td class="tg-c3ow">εσ</td>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-c3ow">ς</td>
+        <td class="tg-0pky">You will judge</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3 Person</td>
+        <td class="tg-c3ow">κρινεῖ  [note 4]</td>
+        <td class="tg-c3ow">εσ</td>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-c3ow">ι</td>
+        <td class="tg-0pky">He (she, it) will judge</td>
+      </tr>
+      <tr>
+        <td class="tg-rvyq">Plural</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky"></td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">1 Person</td>
+        <td class="tg-c3ow">κρινοῦμεν  [note 5]</td>
+        <td class="tg-c3ow">εσ</td>
+        <td class="tg-c3ow">ο</td>
+        <td class="tg-c3ow">μεν</td>
+        <td class="tg-0pky">We will judge</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">2 Person</td>
+        <td class="tg-c3ow">κρινεῖτε  [note 6]</td>
+        <td class="tg-c3ow">εσ</td>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-c3ow">τε</td>
+        <td class="tg-0pky"> You will judge</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3 Person</td>
+        <td class="tg-c3ow">κρίνουσι(ν)  [note 7]</td>
+        <td class="tg-c3ow">εσ</td>
+        <td class="tg-c3ow">ο</td>
+        <td class="tg-c3ow">νσι</td>
+        <td class="tg-0pky">They will judge</td>
+      </tr>
+    </tbody>
+    </table></br>
+
 
 Notes:  
-1.  First of all note that all of the forms have a circumflex accent on the last syllable. 
-2.  κριν + ες + ο + -   ->  The sigma is intervocalic (between two vowels) and drops out and the preceding vowel is lengthened becoming  κριν  η ο  -> The epsilon and the omicron then contract to become -> κρινῶ. 
-3.  κριν + ες + ε + ς  -> The sigma is intervocalic and drops out becoming κριν  ε  ε ς ->  The two epsilons then contract to become -> κριν ει ς -> κρινεῖς.
-4.  κριν + ες + ει -> The sigma is intervocalic and drops out becoming κριν ε ει ->  The epsilon and the (epsilon iota) contract to become  -> κρινεῖ. 
-5.  κριν + ες + ο + μεν -> The sigma is intervocalic and drops out becoming κριν ε ο μεν -> Then the epsilon and the omicron contract resulting in -> κρινοῦμεν.
-6.  κριν + ες + ε +τε -> The sigma is intervocalic and drops out becoming κριν ε ε τε -> Then the two epsilons contract resulting in -> κρινεῖτε.
-7. κριν + ες + ο + νσι -> The nu in the primary personal ending drops out because of the sigma. ->  κριν ες o σι ->  The sigma drops out because it is intervocalic ->  κριν ε o σι -> The the epsilon and the omicron contract  resulting in -> κρινοῦσι
+  1.  First of all note that all of the forms have a circumflex accent on the last syllable. 
+  2.  κριν + ες + ο + -   ->  The sigma is intervocalic (between two vowels) and drops out and the preceding vowel is lengthened becoming  κριν  η ο  -> The epsilon and the omicron then contract to become -> κρινῶ. 
+  3.  κριν + ες + ε + ς  -> The sigma is intervocalic and drops out becoming κριν  ε  ε ς ->  The two epsilons then contract to become -> κριν ει ς -> κρινεῖς.
+  4.  κριν + ες + ει -> The sigma is intervocalic and drops out becoming κριν ε ει ->  The epsilon and the (epsilon iota) contract to become  -> κρινεῖ. 
+  5.  κριν + ες + ο + μεν -> The sigma is intervocalic and drops out becoming κριν ε ο μεν -> Then the epsilon and the omicron contract resulting in -> κρινοῦμεν.
+  6.  κριν + ες + ε +τε -> The sigma is intervocalic and drops out becoming κριν ε ε τε -> Then the two epsilons contract resulting in -> κρινεῖτε.
+  7. κριν + ες + ο + νσι -> The nu in the primary personal ending drops out because of the sigma. ->  κριν ες o σι ->  The sigma drops out because it is intervocalic ->  κριν ε o σι -> The the epsilon and the omicron contract  resulting in -> κρινοῦσι
+
+
 Table V-TF-5 Formation of Liquid Future Tense – Middle Indicative
 Table V-TF-5
 Formation of Liquid Future Tense Middle Indicative Verb
