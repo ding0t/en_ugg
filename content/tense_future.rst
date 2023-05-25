@@ -390,30 +390,11 @@ Table V-TF-3a Future Middle Indicative (of verbs with a theme vowel)
     </table></br>
 
 
-Middle Indicative 
-Singular		Tense
-formative	Connecting vowel	Primary
-Middle/passive
-Personal
-ending	
-1 person	λύσομαι	σ	ο	μαι	I will go for myself
-2 person	λύσῃ  [note 1]	σ	ε	σαι	You will go for yourself
-3 person	λύσεται	σ	ε	ται	He (she,it) will go for himself
-Plural					
-1 person	λυσόμεθα	σ	ο	μεθα	We will go for ourselves
-2 person	λύσεσθε	σ	ε	σθε	You will go for yourselves
-3 person	λύσονται	σ	ο	νται	They will go for themselves
-
 Note:
-1.	λυ + σ+ε+σαι ->  The sigma drops out because it is between two vowels and so we get λυ σ ε αι -> Then the epsilon and the alpha contract to η and so we get λυ σ ηι ->   A final iota subscripts when following the long vowels (ω,η, or ᾶ) resulting in λὐσῃ 
+1.	* λυ + σ+ε+σαι ->  The sigma drops out because it is between two vowels and so we get λυ σ ε αι -> Then the epsilon and the alpha contract to η and so we get λυ σ ηι ->   A final iota subscripts when following the long vowels (ω,η, or ᾶ) resulting in λὐσῃ 
 
-Table V-TF-4 Formation of Liquid Future Tense – Active Indicative
-Formation of Liquid Future Tense Active Indicative Verb
-Future active tense stem + tense formative (εσ) + Connecting vowel +
-Primary Active Personal Ending
-
-κριν + εσ + ο + μεν -> κρινοῦμεν *
-We will judge (decide, prefer)
+Table V-TF-4 Formation of Liquid Future Active Indicative
+^^^^
 
 .. raw:: html
 
