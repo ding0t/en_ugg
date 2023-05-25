@@ -530,7 +530,7 @@ Table V-TF-4a Future Active Indicative (of Liquid verbs with a theme vowel)
       </tr>
       <tr>
         <td class="tg-0pky">3 Person</td>
-        <td class="tg-c3ow">κρίνουσι(ν)  [note 7]</td>
+        <td class="tg-c3ow">κρινοῦσι(ν)  [note 7]</td>
         <td class="tg-c3ow">εσ</td>
         <td class="tg-c3ow">ο</td>
         <td class="tg-c3ow">νσι</td>
