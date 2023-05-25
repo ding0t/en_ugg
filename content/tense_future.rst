@@ -140,8 +140,104 @@ Table V-TF-2 Formation of Future Tense Active Indicative
 
     
 
-Table V-TF- 2a
-Future Tense (of verbs with a theme vowel)
+Table V-TF- 2a Future Active Indicative
+^^^^
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-ihln{font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-kt43{background-color:#fffc9e;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-rvyq{border-color:inherit;font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-kt43" colspan="6">Table V-TF-2a<br>Future Tense Verbs<br><span style="font-weight:bold">(with a theme vowel)</span><br><span style="font-weight:bold">Active Indicative</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-rvyq">Single</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow">Tense<br>formative</td>
+        <td class="tg-c3ow">connecting<br>vowel</td>
+        <td class="tg-c3ow">Active<br>Personal<br>Ending</td>
+        <td class="tg-c3ow"></td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">1 Person</td>
+        <td class="tg-c3ow">λύσω **</td>
+        <td class="tg-c3ow">σ</td>
+        <td class="tg-c3ow">ο</td>
+        <td class="tg-c3ow"><span style="font-weight:bold">-</span></td>
+        <td class="tg-c3ow">I will loose</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">2 Person</td>
+        <td class="tg-c3ow">λύσεις</td>
+        <td class="tg-c3ow">σ</td>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-c3ow">ις</td>
+        <td class="tg-0pky">You will loose</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">3 Person</td>
+        <td class="tg-baqh">λύσει</td>
+        <td class="tg-baqh">σ</td>
+        <td class="tg-baqh">ε</td>
+        <td class="tg-baqh">ι</td>
+        <td class="tg-0lax">He (she, it) will loose</td>
+      </tr>
+      <tr>
+        <td class="tg-ihln">Plural</td>
+        <td class="tg-baqh"></td>
+        <td class="tg-baqh"></td>
+        <td class="tg-baqh"></td>
+        <td class="tg-baqh"></td>
+        <td class="tg-0lax"></td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">1 Person</td>
+        <td class="tg-baqh">λύσομεν</td>
+        <td class="tg-baqh">σ</td>
+        <td class="tg-baqh">ο</td>
+        <td class="tg-baqh">μεν</td>
+        <td class="tg-0lax">We will loose</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">2 Person</td>
+        <td class="tg-baqh">λύσετε</td>
+        <td class="tg-baqh">σ</td>
+        <td class="tg-baqh">ε</td>
+        <td class="tg-baqh">τε</td>
+        <td class="tg-0lax">You will loose</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">3 Person</td>
+        <td class="tg-baqh">λύσουσι(ν) ***</td>
+        <td class="tg-baqh">σ</td>
+        <td class="tg-baqh">ο</td>
+        <td class="tg-baqh">νσι</td>
+        <td class="tg-0lax">They will loose</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+    
+
+
+
 Active Indicative
 Single		Tense 
 formative	Connecting
