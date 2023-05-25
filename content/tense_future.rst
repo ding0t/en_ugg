@@ -553,8 +553,6 @@ Notes:
 Table V-TF-5 Formation of Liquid Future Tense – Middle Indicative
 ^^^^
 
-***Test2***
-
 .. raw:: html
 
     <style type="text/css">
