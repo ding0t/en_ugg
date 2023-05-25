@@ -513,6 +513,58 @@ Primary Middle/Passive Personal Ending
 
 χαρ + ησ + ο +  μαι  -> χαρήσομαι
 Ι will be glad
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-kt43{background-color:#fffc9e;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-kt43" colspan="9">Table V-TF-7<br>Formation of Second Future Passive Indicative Tense<br>Verb<br><span style="font-weight:bold">(with a theme vowel)</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-c3ow">Aorist Passive<br>Tense Stem</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">Tense<br>Formative (ησ)</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">Connecting<br>Vowel</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">Primary<br>Middle/Passive<br>Personal <br>Ending</td>
+        <td class="tg-0pky"></td>
+        <td class="tg-0pky"></td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">χαρ</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">ησ</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">ο</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">μαι</td>
+        <td class="tg-c3ow">-&gt;</td>
+        <td class="tg-c3ow">χαρήσομαι</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf" colspan="9">I will be glad</td>
+      </tr>
+    </tbody>
+    </table></br>
+    
+
+
+
 Note:   
 •	There is no augment, because the augment indicates past time in the indicative mood.
 •	The tense formative ησ  is similar to the tense formative for the First Aorist Passive Indicative verb η   but with the sigma (σ) for the future tense added on. 
