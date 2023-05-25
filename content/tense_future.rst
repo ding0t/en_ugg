@@ -163,7 +163,7 @@ Table V-TF- 2a Future Active Indicative
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-kt43" colspan="6">Table V-TF-2a<br>Future Tense Verbs<br><span style="font-weight:bold">(with a theme vowel)</span><br><span style="font-weight:bold">Active Indicative</span></th>
+        <th class="tg-kt43" colspan="6">Table V-TF-2a<br>Future Tense<br><span style="font-weight:bold">(of Verbs with a theme vowel)</span><br><span style="font-weight:bold">Active Indicative</span></th>
       </tr>
     </thead>
     <tbody>
@@ -172,7 +172,7 @@ Table V-TF- 2a Future Active Indicative
         <td class="tg-c3ow"></td>
         <td class="tg-c3ow">Tense<br>formative</td>
         <td class="tg-c3ow">connecting<br>vowel</td>
-        <td class="tg-c3ow">Active<br>Personal<br>Ending</td>
+        <td class="tg-c3ow">Primary<br>Active<br>Personal<br>Ending *</td>
         <td class="tg-c3ow"></td>
       </tr>
       <tr>
@@ -235,38 +235,17 @@ Table V-TF- 2a Future Active Indicative
     </table></br>
 
     
-
-
-
-Active Indicative
-Single		Tense 
-formative	Connecting
-vowel	Active
-Personal Ending	
-1 person	λύσω   [note 2]	σ	ο	-	I will loose
-2 person	λὐσεις	σ	ε	ις	You will loose
-3 person	λύσει	σ	ε	ι	He (she, it) will loose
-Plural					
-1 person	λύσομεν	σ	ο	μεν	We will loose
-2 person	λύσετε	σ	ε	τε	You will loose
-3 person	λύσουσι(ν)     [note 3]	σ	ο	νσι	They will loose
 					
 
 [Note]: 
-1.	the tense formative sigma (σ) followed by the primary active personal ending ( in quadrant 1 of Master Table 4)
-2.	There is no primary personal ending for the 1 person singular.   In this case the connecting vowel omicron has lengthened to an omega.  
-3.	Third person plural ending –  The primary personal ending is νσι which would result in λύσονσι, but the “ν” drops out because it is followed by a sigma and the connecting vowel “o” lengthens to compensate for the missing “v”. Therefore, λυ + σ +ο + νσι becomes λυ +σ + ου + σι -> λύσουσι
+1.	*  The Primary active personal ending are listed in `Quadrant 1 of Master Table 4 <https://ugg.readthedocs.io/en/latest/paradigms.html#table-4-primary-and-secondary-endings-of-verbs>`_
+2.	** There is no primary personal ending for the 1 person singular.   In this case the connecting vowel omicron has lengthened to an omega.  
+3.	*** Third person plural ending –  The primary personal ending is νσι which would result in λύσονσι, but the “ν” drops out because it is followed by a sigma and the connecting vowel “o” lengthens to compensate for the missing “v”. Therefore, λυ + σ +ο + νσι becomes λυ +σ + ου + σι -> λύσουσι
 
 
 
 Table V-TF-3 Formation of Future Tense – Middle Indicative
-
-Formation of Future Tense Middle Indicative Verb
-Future active tense stem + tense formative (σ) + Connecting vowel +
-Primary Middle/Passive Personal Ending
-
-λυ + σ + ο + μαι
-I will loose
+^^^^
 
 .. raw:: html
 
