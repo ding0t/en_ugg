@@ -542,15 +542,17 @@ Table V-TF-4a Future Active Indicative (of Liquid verbs with a theme vowel)
 
 Notes:  
   1.  First, note that all forms have a circumflex accent on the last syllable. 
-  2.  κριν + ες + ο + **-**   ->  The first person singlular personal ending is "nothing", so we start with κριν + εσ + ο  -> The sigma is intervocalic (between two vowels) and drops out and the preceding vowel is lengthened becoming  κριν  η ο  -> The eta and the omicron then contract to become -> κρινῶ. 
-  3.  κριν + ες + ε + ς  -> The sigma is intervocalic and drops out becoming κριν  ε  ε ς ->  The two epsilons then contract to become -> κριν ει ς -> κρινεῖς.
-  4.  κριν + ες + ει -> The sigma is intervocalic and drops out becoming κριν ε ει ->  The epsilon and the (epsilon iota) contract to become  -> κρινεῖ. 
-  5.  κριν + ες + ο + μεν -> The sigma is intervocalic and drops out becoming κριν ε ο μεν -> Then the epsilon and the omicron contract resulting in -> κρινοῦμεν.
-  6.  κριν + ες + ε +τε -> The sigma is intervocalic and drops out becoming κριν ε ε τε -> Then the two epsilons contract resulting in -> κρινεῖτε.
-  7. κριν + ες + ο + νσι -> The nu in the primary personal ending drops out because of the sigma. ->  κριν ες o σι ->  The sigma drops out because it is intervocalic ->  κριν ε o σι -> The the epsilon and the omicron contract  resulting in -> κρινοῦσι
+  2.  [κριν + ες + ο + **-**] ->  The first person singlular personal ending is "nothing", so we start with κριν + εσ + ο  ->; The sigma is intervocalic (between two vowels) and drops out and the preceding vowel is lengthened becoming  κριν  η ο  ->; The eta and the omicron then contract to become -> κρινῶ. 
+  3.  [κριν + ες + ε + ς]  -> The sigma is intervocalic and drops out becoming κριν  ε  ε ς ->;  The two epsilons then contract to become -> κριν ει ς -> κρινεῖς.
+  4.  [κριν + ες + ει] -> The sigma is intervocalic and drops out becoming κριν ε ει -> ; The epsilon and the (epsilon iota) contract to become  -> κρινεῖ. 
+  5.  [κριν + ες + ο + μεν] -> The sigma is intervocalic and drops out becoming κριν ε ο μεν -> ; Then the epsilon and the omicron contract resulting in -> κρινοῦμεν.
+  6.  [κριν + ες + ε +τε] -> The sigma is intervocalic and drops out becoming κριν ε ε τε -> ; Then the two epsilons contract resulting in -> κρινεῖτε.
+  7.  [κριν + ες + ο + νσι] -> The nu in the primary personal ending drops out because of the sigma to become ->  κριν ες o σι ->; Then, the sigma drops out because it is intervocalic ->  κριν ε o σι ->; Then the the epsilon and the omicron contract  resulting in -> κρινοῦσι.
 
 
 Table V-TF-5 Formation of Liquid Future Tense – Middle Indicative
+^^^^
+
 Table V-TF-5
 Formation of Liquid Future Tense Middle Indicative Verb
 Future active tense stem + tense formative (εσ) + Connecting vowel +
