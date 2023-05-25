@@ -298,8 +298,98 @@ Table V-TF-3 Formation of Future Tense – Middle Indicative
 
 
 
-Table V-TF-3a
-Future Tense (of verbs with a theme vowel)
+Table V-TF-3a Future Middle Indicative (of verbs with a theme vowel)
+^^^^
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-kt43{background-color:#fffc9e;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-rvyq{border-color:inherit;font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-kt43" colspan="6">Table V-TF-3a<br>Future Tense Verbs<br><span style="font-weight:bold">(with a theme vowel)</span><br><span style="font-weight:bold">Middle Indicative</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-rvyq">Single</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow">Tense<br>formative</td>
+        <td class="tg-c3ow">connecting<br>vowel</td>
+        <td class="tg-c3ow">Active<br>Personal<br>Ending</td>
+        <td class="tg-c3ow"></td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">1 Person</td>
+        <td class="tg-c3ow">λύσομαι</td>
+        <td class="tg-c3ow">σ</td>
+        <td class="tg-c3ow">ο</td>
+        <td class="tg-c3ow">μαι</td>
+        <td class="tg-c3ow">I will loose for myself</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">2 Person</td>
+        <td class="tg-c3ow">λύσῃ&nbsp;&nbsp;*</td>
+        <td class="tg-c3ow">σ</td>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-c3ow">σαι</td>
+        <td class="tg-0pky">You will loose for yourself</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3 Person</td>
+        <td class="tg-c3ow">λύσεται</td>
+        <td class="tg-c3ow">σ</td>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-c3ow">ται</td>
+        <td class="tg-0pky">He (she, it) will loose for himself</td>
+      </tr>
+      <tr>
+        <td class="tg-rvyq">Plural</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky"></td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">1 Person</td>
+        <td class="tg-c3ow">λυσόμεθα</td>
+        <td class="tg-c3ow">σ</td>
+        <td class="tg-c3ow">ο</td>
+        <td class="tg-c3ow">μεθα</td>
+        <td class="tg-0pky">We will loose for ourselves</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">2 Person</td>
+        <td class="tg-c3ow">λύσεσθε</td>
+        <td class="tg-c3ow">σ</td>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-c3ow">σθε</td>
+        <td class="tg-0pky"> You will loose for yourselves</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3 Person</td>
+        <td class="tg-c3ow">λύσονται</td>
+        <td class="tg-c3ow">σ</td>
+        <td class="tg-c3ow">ο</td>
+        <td class="tg-c3ow">νται</td>
+        <td class="tg-0pky">They will loose for themselves</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+
 Middle Indicative 
 Singular		Tense
 formative	Connecting vowel	Primary
