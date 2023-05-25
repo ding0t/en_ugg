@@ -552,13 +552,6 @@ Notes:
 
 #### Table V-TF-5 Formation of Liquid Future Tense – Middle Indicative
 
-Table V-TF-5
-Formation of Liquid Future Tense Middle Indicative Verb
-Future active tense stem + tense formative (εσ) + Connecting vowel +
-Primary Middle/passive Personal Ending
-
-κριν + εσ + ο + μαι -> κρινοῦμαι *
-Ι will judge myself
 
 .. raw:: html
 
