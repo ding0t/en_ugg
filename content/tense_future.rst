@@ -550,9 +550,10 @@ Notes:
   7.  [κριν + ες + ο + νσι] -> The nu in the primary personal ending drops out because of the sigma to become ->  κριν ες o σι ->; Then, the sigma drops out because it is intervocalic ->  κριν ε o σι ->; Then the the epsilon and the omicron contract  resulting in -> κρινοῦσι.
 
 
-####Table V-TF-5 Formation of Liquid Future Tense – Middle Indicative
+Table V-TF-5 Formation of Liquid Future Tense – Middle Indicative
+^^^^
 
-[Test2]
+***Test2***
 
 .. raw:: html
 
