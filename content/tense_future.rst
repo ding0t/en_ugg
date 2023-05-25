@@ -332,6 +332,58 @@ Primary Middle/passive Personal Ending
 κριν + εσ + ο + μαι -> κρινοῦμαι *
 Ι will judge myself
 
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-kt43{background-color:#fffc9e;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-kt43" colspan="9">Table V-TF-5<br>Formation of Liquid Future Tense<br>Middle Indicative Verb<br><span style="font-weight:bold">(with a theme vowel)</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-c3ow">Future Active<br>Tense Stem</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">Tense<br>Formative (εσ)</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">Connecting<br>Vowel</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">Primary<br>Middle/Passive<br>Personal <br>Ending</td>
+        <td class="tg-0pky"></td>
+        <td class="tg-0pky"></td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">κριν</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">εσ</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">ο</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">μαι</td>
+        <td class="tg-c3ow">-&gt;</td>
+        <td class="tg-c3ow">κρινοῦμαι *</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf" colspan="9">We will judge myself</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+    
+
+
+
 *  [Note]   The sigma is intervocalic (between two vowels].  When this occurs it often drops out resulting in κριν ε ο μαι.   The epsilon and the omicron then contract to form ου resulting in -> κρινοῦμαι.
 Table V-TF-5a
 Future Tense (of Liquid verbs with a theme vowel)
