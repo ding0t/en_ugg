@@ -541,8 +541,8 @@ Table V-TF-4a Future Active Indicative (of Liquid verbs with a theme vowel)
 
 
 Notes:  
-  1.  First of all note that all of the forms have a circumflex accent on the last syllable. 
-  2.  κριν + ες + ο + -   ->  The sigma is intervocalic (between two vowels) and drops out and the preceding vowel is lengthened becoming  κριν  η ο  -> The epsilon and the omicron then contract to become -> κρινῶ. 
+  1.  First, note that all forms have a circumflex accent on the last syllable. 
+  2.  κριν + ες + ο + **-**   ->  The first person singlular personal ending is "nothing", so we start with κριν + εσ + ο  -> The sigma is intervocalic (between two vowels) and drops out and the preceding vowel is lengthened becoming  κριν  η ο  -> The eta and the omicron then contract to become -> κρινῶ. 
   3.  κριν + ες + ε + ς  -> The sigma is intervocalic and drops out becoming κριν  ε  ε ς ->  The two epsilons then contract to become -> κριν ει ς -> κρινεῖς.
   4.  κριν + ες + ει -> The sigma is intervocalic and drops out becoming κριν ε ει ->  The epsilon and the (epsilon iota) contract to become  -> κρινεῖ. 
   5.  κριν + ες + ο + μεν -> The sigma is intervocalic and drops out becoming κριν ε ο μεν -> Then the epsilon and the omicron contract resulting in -> κρινοῦμεν.
