@@ -1025,8 +1025,8 @@ Table V-TF- 7a Second Future Passive Indicative (of verbs with a theme vowel)
 
 
 Note 1:
-  *  χαρ + ης + ε + σαι  -> The second sigma drops out because it is intervocalic. -> 
-χαρ ης ε αι -> Then the epsilon and the alpha contract to an eta in accordance with the rules of contraction -> χαρ ησ η ι ->  Finally, the iota subscripts under the long eta -> χαρήςῃ.
+
+  *  χαρ + ης + ε + σαι  -> The second sigma drops out because it is intervocalic. -> becoming χαρ ης ε αι -> Then the epsilon and the alpha contract to an eta in accordance with the rules of contraction -> χαρ ησ η ι ->  Finally, the iota subscripts under the long eta -> χαρήςῃ.
 
 
 
