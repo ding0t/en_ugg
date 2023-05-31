@@ -606,20 +606,98 @@ Table V-TF-5 Formation of Liquid Future Tense – Middle Indicative
 
 
 *  [Note]   The sigma is intervocalic (between two vowels].  When this occurs it often drops out resulting in κριν ε ο μαι.   The epsilon and the omicron then contract to form ου resulting in -> κρινοῦμαι.
-Table V-TF-5a
-Future Tense (of Liquid verbs with a theme vowel)
-Middle Indicative
-Single		Tense formative	Connecting 
-Vowel	Primary
-Active personal
-ending	
-1 person	Κρινοῦμαι  [note 2]	εσ	ο	μαι	I will judge myself
-2 person	Κρινῇ [note 3]	εσ	ε	σαι	You will judge yourself
-3 person	κρινεῖται [note 4]	εσ	ε	ται	He (she,it) will judge themself
-Plural					
-1 person	κρινούμεθα [note 5]	εσ	ο	μεθα	We will judge ourselves
-2 person	κρινεῖσθα  [note 6]	εσ	ε	σθε	You will judge yourselves
-3 person	Κρινοῦνται (ν) [note 7]	εσ	ο	νται	They will judge themselves
+
+Table V-TF-5a Future Middle Indicative (of Liquid verbs with a theme vowel)
+^^^^
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-kt43{background-color:#fffc9e;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-rvyq{border-color:inherit;font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-kt43" colspan="6">Table V-TF-5a<br>Future Tense of Liquid Verbs<br><span style="font-weight:bold">(with a theme vowel)</span><br><span style="font-weight:bold">Middle Indicative</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-rvyq">Single</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow">Tense<br>formative</td>
+        <td class="tg-c3ow">connecting<br>vowel</td>
+        <td class="tg-c3ow">Active<br>Personal<br>Ending</td>
+        <td class="tg-c3ow"></td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">1 Person</td>
+        <td class="tg-c3ow">κρινοῦμαι [note 2]</td>
+        <td class="tg-c3ow">εσ</td>
+        <td class="tg-c3ow">ο</td>
+        <td class="tg-c3ow">μαι</td>
+        <td class="tg-c3ow">I will judge myself</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">2 Person</td>
+        <td class="tg-c3ow">κρινῇ [ note 3]</td>
+        <td class="tg-c3ow">εσ</td>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-c3ow">σαι</td>
+        <td class="tg-0pky">You will judge yourself</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3 Person</td>
+        <td class="tg-c3ow">κρινεῖται [note 4]</td>
+        <td class="tg-c3ow">εσ</td>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-c3ow">ται</td>
+        <td class="tg-0pky">He (she, it) will <br>judge themself</td>
+      </tr>
+      <tr>
+        <td class="tg-rvyq">Plural</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky"></td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">1 Person</td>
+        <td class="tg-c3ow">κρινούμεθα [note 5]</td>
+        <td class="tg-c3ow">εσ</td>
+        <td class="tg-c3ow">ο</td>
+        <td class="tg-c3ow">μεθα</td>
+        <td class="tg-0pky">We will judge ourselves</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">2 Person</td>
+        <td class="tg-c3ow">κρινεῖσθε [note 6]</td>
+        <td class="tg-c3ow">εσ</td>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-c3ow">σθε</td>
+        <td class="tg-0pky"> You will judge yourselves</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3 Person</td>
+        <td class="tg-c3ow">κρίνοῦνται [note 7]</td>
+        <td class="tg-c3ow">εσ</td>
+        <td class="tg-c3ow">ο</td>
+        <td class="tg-c3ow">νται</td>
+        <td class="tg-0pky">They will judge themselves</td>
+      </tr>
+    </tbody>
+    </table></br>
+
 
 Notes:  
 1.  First of all note that all but one of the forms have a circumflex accent.  The circumflex accent marks the contraction.  However, the first person plural has an acute accent on the antepenult syllable (the third syllable from the end). It does not have a circumflex accent, because the circumflex can only stand on the last two syllables.
