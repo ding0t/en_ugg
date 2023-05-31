@@ -713,19 +713,14 @@ Notes:
 Table V-TF-6 Formation of First Future Passive Indicative
 ^^^^
 
-As with the Aorist tense, there is no difference in meaning between a 1st Future Passive Indicative verb and a 2nd  Future Passive Indicative verb. They are both Future Passive Indicative  verbs. If it helps, you may think of it as a room (the Future Passive room) and the Future Passive room has two doors. It does not matter which door you use to enter the room. In both cases the word is now in the Future Passive room.
+As with the Aorist tense, there is no difference in meaning between a 1st Future Passive Indicative verb and a 2nd  Future Passive Indicative verb. They are both Future Passive Indicative  verbs. If it helps, you may think of it as a room (the Future Passive room) and the Future Passive room that has two doors. It does not matter which door you use to enter the room. In both cases the word is now in the Future Passive room.
 
 In the case of a Future Passive verb, the Future Passive tense is built upon the Aorist Passive Tense stem without the augment.  A First future Passive verb is built upon a First Aorist Passive Tense stem and the Second Future Passive verb is built upon a Second Aorist Passive Tense stem.   In both cases the verb is a Future Passive Indicative verb.
 
 
 
-Table V-TF-6
-Formation of First Future Passive Indicative Verb
-Aorist Passive tense stem + tense formative (θησ) + Connecting vowel +
-Primary Middle/Passive Personal Ending
-
-λυ + θησ + ο +  μαι  -> λυθήσομαι
-Ι will be loosed
+Table V-TF-6 Formation of First Future Passive Indicative Verb
+^^^^
 
 .. raw:: html
 
@@ -776,13 +771,16 @@ Primary Middle/Passive Personal Ending
     </table></br>
     
 
-
 Note:   
-•	There is no augment, because the augment indicates past time in the indicative mood.
-•	The tense formative θησ  is similar to the tense formative for the First Aorist Passive Indicative verb θη   but with the sigma (σ) for the future tense added on. 
-•	The presence of the tense formative “θης”  tells us this is a Future Passive Indicative verb with one exception.   The Aorist Passive third person plural ends with “-θησαν”.  In this case the sigma is part of the third person plural ending “σαν” and is not a part of the tense formative.
-Table V-TF- 6a
-First Future Passive ( of verbs with a theme vowel)
+
+  *	 There is no augment, because the augment indicates past time in the indicative mood.
+  *  The tense formative θησ  is similar to the tense formative for the First Aorist Passive Indicative verb θη   but with the sigma (σ) for the future tense added on. 
+  *	 The presence of the tense formative “θης”  tells us this is a Future Passive Indicative verb with one exception.   The Aorist Passive third person plural ends with “-θησαν”.  In this case the sigma is part of the third person plural ending “σαν” and is not a part of the tense formative.
+
+
+Table V-TF- 6a First Future Passive Indicative ( of verbs with a theme vowel)
+^^^^
+
 Indicative
 Single		Tense 
 formative	Connecting
