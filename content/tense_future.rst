@@ -820,7 +820,7 @@ Table V-TF- 6a First Future Passive Indicative ( of verbs with a theme vowel)
       </tr>
       <tr>
         <td class="tg-8bgf">2 Person</td>
-        <td class="tg-c3ow">λυθήσῃ</td>
+        <td class="tg-c3ow">λυθήσῃ *</td>
         <td class="tg-c3ow">θησ</td>
         <td class="tg-c3ow">ε</td>
         <td class="tg-c3ow">σαι</td>
@@ -869,26 +869,14 @@ Table V-TF- 6a First Future Passive Indicative ( of verbs with a theme vowel)
     </tbody>
     </table></br>
     
-
-
-Indicative
-Single		Tense 
-formative	Connecting
-vowel	Middle/
-Passive
-Personal Ending	
-1 person	λυθήσομαι   	θησ	ο	μαι	I will be loosed
-2 person	λυθήσῃ  [See note 1]	θησ	ε	σαι	You will be loosed
-3 person	λυθήσεται	θησ	ε	ται	He (she, it) will be loosed
-Plural					
-1 person	λυθησόμεθα	θησ	ο	μεθα	We will be loosed
-2 person	λυθήσεσθε	θησ	ε	σθε	You will be loosed
-3 person	λυθήσονται	θησ	ο	νται	They will be loosed
 					
-Note 1:  λυ + θης + ε + σαι ->  The second sigma is intervocalic and drops out -> 
+Note: 
+*   λυ + θης + ε + σαι ->  The second sigma is intervocalic and drops out -> 
 λυ θης  ε αι -> Then the epsilon and alpha contract to an eta according to the rules for contraction -> λυ θης ηι  -> Then the iota subscripts when preceded with the long vowel α,η, or ω.  -> λυθήςῃ
 
-•	Table V-TF-7 Formation of Second Future Passive Indicative
+Table V-TF-7 Formation of Second Future Passive Indicative
+^^^^
+
 As we stated with Table V-TF-6, there is no difference in meaning between a 1st Future Passive Indicative verb and a 2nd Future Passive Indicative verb. They are both Future Passive Indicative verbs.  The Second Future Passive verb is built upon a Second Aorist Passive Tense stem.
 
 Table V-TF-7
