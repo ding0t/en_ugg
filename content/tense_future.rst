@@ -703,16 +703,12 @@ Notes:
 
   1.  First - note that all but one of the forms has a circumflex accent.  The circumflex accent marks the contraction.  The first person plural has an acute accent on the antepenult syllable (the third syllable from the end). It does not have a circumflex accent, because the circumflex can only stand on the last two syllables.
   2.  κριν + ες +  ο + μαι -> The sigma is intervocalic (between two vowels) and drops out. -> κριν ε ο μαι.  Then the epsilon and omicron contract to become κρινοῦμαι.
-  3.  κριν + ες + ε + σαι  -> The sigma is intervocalic and drops out and the preceding vowel is lengthened becoming  κριν  η ε σαι  -> The eta and epsilon contract to become an eta. -> Then, the second sigma is now inter vocalic and it drops out.  The eta and alpha contract to an eta.  -> κριν  η  ι  -> The final iota then subscripts -> κρινῇ.
+  3.  κριν + ες + ε + σαι  -> The sigma is intervocalic and drops out and the preceding vowel is lengthened becoming  κριν  η ε σαι  -> The eta and epsilon contract to become an eta. -> κριν η σαι Then, the second sigma is now inter vocalic and it drops out.  The eta and alpha contract to an eta.  -> κριν  η  ι  -> The final iota then subscripts -> κρινῇ.
   4.  κριν + ες + ε + ται  -> The sigma is intervocalic and drops out becoming κριν  ε  ε ται ->  The two epsilons then contract to become -> κριν ει ται -> κρινεῖται.
   5.  κριν + ες + ο + μεθα -> The sigma is intervocalic and drops out becoming κριν ε ο μεθα->  The epsilon and the (οmicron) contract to become  -> κριν ου μεθα -> κρινοῦμεθα
   6.  κριν + ες + ε + σθε -> The sigma is intervocalic and drops out becoming κριν ε ε σθε -> Then the two epsilons contract resulting in -> κρινεῖσθε.
   7.  κριν + ες + ο + νται -> The sigma is intervocalic and drops out becoming ->  κριν ε ο νται ->  Then the epsilon and the omicron contract  resulting in -> κρινοῦνται.
 
-
-**Note to me Example V-TF-6**
-
-[ Example:   Num 31:24   πλυνεῖσθε  VFMI2P  wash; clean  you will wash   ]
 
 Table V-TF-6 Formation of First Future Passive Indicative
 ^^^^
