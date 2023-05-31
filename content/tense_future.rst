@@ -713,7 +713,7 @@ Notes:
 Table V-TF-6 Formation of First Future Passive Indicative
 ^^^^
 
-As with the Aorist tense, there is no difference in meaning between a 1st Future Passive Indicative verb and a 2nd  Future Passive Indicative verb. They are both Future Passive Indicative  verbs. If it helps, you may think of it as a room (the Future Passive room) and the Future Passive room that has two doors. It does not matter which door you use to enter the room. In both cases the word is now in the Future Passive room.
+As with the Aorist tense, there is **no difference in meaning** between a 1st Future Passive Indicative verb and a 2nd  Future Passive Indicative verb. They are both Future Passive Indicative  verbs. If it helps, you may think of it as a room (the Future Passive room) and the Future Passive room that has two doors. It does not matter which door you use to enter the room. In both cases the word is now in the Future Passive room.
 
 In the case of a Future Passive verb, the Future Passive tense is built upon the Aorist Passive Tense stem without the augment.  A First future Passive verb is built upon a First Aorist Passive Tense stem and the Second Future Passive verb is built upon a Second Aorist Passive Tense stem.   In both cases the verb is a Future Passive Indicative verb.
 
@@ -877,15 +877,7 @@ Note:
 Table V-TF-7 Formation of Second Future Passive Indicative
 ^^^^
 
-As we stated with Table V-TF-6, there is no difference in meaning between a 1st Future Passive Indicative verb and a 2nd Future Passive Indicative verb. They are both Future Passive Indicative verbs.  The Second Future Passive verb is built upon a Second Aorist Passive Tense stem.
-
-Table V-TF-7
-Formation of Second Future Passive Indicative Verb
-Aorist Passive tense stem + tense formative (ησ) + Connecting vowel +
-Primary Middle/Passive Personal Ending
-
-χαρ + ησ + ο +  μαι  -> χαρήσομαι
-Ι will be glad
+As we stated with Table V-TF-6, there is **no difference in meaning** between a 1st Future Passive Indicative verb and a 2nd Future Passive Indicative verb. They are both Future Passive Indicative verbs.  The Second Future Passive verb is built upon a Second Aorist Passive Tense stem.
 
 .. raw:: html
 
@@ -934,35 +926,112 @@ Primary Middle/Passive Personal Ending
       </tr>
     </tbody>
     </table></br>
-    
-
-
+ 
 
 Note:   
-•	There is no augment, because the augment indicates past time in the indicative mood.
-•	The tense formative ησ  is similar to the tense formative for the First Aorist Passive Indicative verb η   but with the sigma (σ) for the future tense added on. 
-Table V-TF- 7a
-Second Future Passive ( of verbs with a theme vowel)
-Indicative
-Single		Tense 
-formative	Connecting
-vowel	Middle/
-Passive
-Personal Ending	
-1 person	χαρήσομαι   	ησ	ο	μαι	I will be glad
-2 person	χαρήσῃ  [See note 1]	ησ	ε	σαι	You will be glad
-3 person	χαρήσεται	ησ	ε	ται	He (she, it) will be glad
-Plural					
-1 person	χαρησόμεθα	ησ	ο	μεθα	We will be glad
-2 person	χαρήσεσθε	ησ	ε	σθε	You will be glad
-3 person	χαρήσονται	ησ	ο	νται	They will be glad
-					
-Note 1:  χαρ + ης + ε + σαι  -> The second sigma drops out because it is intervocalic. -> 
+  *	 There is no augment, because the augment indicates past time in the indicative mood.
+  *	 The tense formative ησ  is similar to the tense formative for the First Aorist Passive Indicative verb η   but with the sigma (σ) for the future tense added on. 
+
+Table V-TF- 7a Second Future Passive Indicative (of verbs with a theme vowel)
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-kt43{background-color:#fffc9e;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-rvyq{border-color:inherit;font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-kt43" colspan="6">Table V-TF-7a<br>Second Future Passive Verbs<br><span style="font-weight:bold">(with a theme vowel)</span><br><span style="font-weight:bold">Indicative</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-rvyq">Single</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow">Tense<br>formative</td>
+        <td class="tg-c3ow">connecting<br>vowel</td>
+        <td class="tg-c3ow">Active<br>Personal<br>Ending</td>
+        <td class="tg-c3ow"></td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">1 Person</td>
+        <td class="tg-c3ow">χαρήσομαι</td>
+        <td class="tg-c3ow">ησ</td>
+        <td class="tg-c3ow">ο</td>
+        <td class="tg-c3ow">μαι</td>
+        <td class="tg-c3ow">I will be glad</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">2 Person</td>
+        <td class="tg-c3ow">χαρήσῃ&nbsp;&nbsp;*</td>
+        <td class="tg-c3ow">ησ</td>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-c3ow">σαι</td>
+        <td class="tg-0pky">You will be glad</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3 Person</td>
+        <td class="tg-c3ow">χαρήσεται</td>
+        <td class="tg-c3ow">ησ</td>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-c3ow">ται</td>
+        <td class="tg-0pky">He (she, it) will <br>be glad</td>
+      </tr>
+      <tr>
+        <td class="tg-rvyq">Plural</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky"></td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">1 Person</td>
+        <td class="tg-c3ow">χαρησόμεθα</td>
+        <td class="tg-c3ow">ησ</td>
+        <td class="tg-c3ow">ο</td>
+        <td class="tg-c3ow">μεθα</td>
+        <td class="tg-0pky">We will be glad</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">2 Person</td>
+        <td class="tg-c3ow">χαρήεσθε</td>
+        <td class="tg-c3ow">ησ</td>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-c3ow">σθε</td>
+        <td class="tg-0pky"> You will be glad</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3 Person</td>
+        <td class="tg-c3ow">χαρήσονται</td>
+        <td class="tg-c3ow">ησ</td>
+        <td class="tg-c3ow">ο</td>
+        <td class="tg-c3ow">νται</td>
+        <td class="tg-0pky">They will be glad</td>
+      </tr>
+    </tbody>
+    </table>
+
+
+Note 1:
+  *  χαρ + ης + ε + σαι  -> The second sigma drops out because it is intervocalic. -> 
 χαρ ης ε αι -> Then the epsilon and the alpha contract to an eta in accordance with the rules of contraction -> χαρ ησ η ι ->  Finally, the iota subscripts under the long eta -> χαρήςῃ.
 
 
 
-•	Table V-TF-8 Future Tense of εἰμί
+Table V-TF-8 Future Tense of εἰμί
+^^^^
+
 •	Table V-TF-8- εἴμι Future Tense  Indicative
 •	
 •	εἴμι
