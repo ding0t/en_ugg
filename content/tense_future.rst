@@ -933,6 +933,7 @@ Note:
   *	 The tense formative ησ  is similar to the tense formative for the First Aorist Passive Indicative verb η   but with the sigma (σ) for the future tense added on. 
 
 Table V-TF- 7a Second Future Passive Indicative (of verbs with a theme vowel)
+^^^^
 
 .. raw:: html
 
