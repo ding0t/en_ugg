@@ -1149,18 +1149,20 @@ The principle use of the Future tense in the indicative mood is to refer to unsp
 Example V-TF-10   Future Imperative
 ^^^^
 
+The Future tense in the indicative mood may be used as a command instead of using the imperative mood.
 
-Future Tense - Future Imperative -  The Future tense in the indicative mood may be used as a command instead of using the imperative mood.  
+.. csv-table:: V-TF-10 Future Imperative
+  :header-rows: 1
 
-Rm. 13:9 – Future Imperative  V-TF- 10
-Romans 13:9
-"οὐ φονεύσεις", "οὐ κλέψεις", "οὐκ ἐπιθυμήσεις", καὶ εἴ τις ἑτέρα ἐντολή
-"ou phoneuseis", "ou klepseis", "ouk epithymēseis", kai ei tis hetera entolē
-Do not murder, do not steal, do not covet, and if (there is) any other commandment
+  Romans 13:9
+  οὐ **φονεύσεις**,οὐ **κλέψεις**,οὐκ **ἐπιθυμήσεις**,καὶ,εἴ,,τις,ἑτέρα,ἐντολή
+  ou **phoneuseis**,ou **klepseis**,ouk **epithymēseis**,kai,ei,,tis,hetera,entolē
+  **Do not murder**,**do not steal**,**do not covet**,and,if,(there is),any,other,commandment
 
-you shall not kill, you shall not steal, you shall not covet,” and if any other commandment,
+**you shall not kill, you shall not steal, you shall not covet**, *and if (there is) any other commandment...*
 
 Example V-TF-11  Deliberative Future
+^^^^
 
 Future Tense - Deliberative Future -  The Future tense may be used to express consideration, deliberation, or thinking about the effects or consequences of a course of action. This often occurs in the form of a question.
 
