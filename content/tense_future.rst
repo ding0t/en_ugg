@@ -47,10 +47,10 @@ The **Tense** of a verb is used to indicate the speaker’s perspective or viewp
 The Principal uses of the future tense are:
 
   *  `Predictive Future <https://ugg.readthedocs.io/en/latest/tense_future.html#example-v-tf-9-predictive-future>`_  - The principle use of the Future tense **in the indicative mood** is to refer to an unspecified action or event (aspect) that will occur in the future.  It is therefore predictive in nature.
-  *  Future Imperative -  The Future tense in the indicative mood may be used as a command instead of using the imperative mood.
-  *  Deliberative Future -  The Future tense may be used in the form of consideration or deliberation or thinking out the effects or consequences of a course of action. This often occurs in the form of a question.
-  *  Gnomic Future – The Future tense may be used to describe an event that can reasonably be expected to occur in the future. 
-  *  A participle in the future tense refers to an action or event that will occur in the future when compared to the time of the main verb or the sentence. 
+  *  `Future Imperative <https://ugg.readthedocs.io/en/latest/tense_future.html#example-v-tf-10-future-imperative>`_  -  The Future tense in the indicative mood may be used as a command instead of using the imperative mood.
+  *  `Deliberative Future <https://ugg.readthedocs.io/en/latest/tense_future.html#example-v-tf-11-deliberative-future>`_  -  The Future tense may be used in the form of consideration or deliberation or thinking out the effects or consequences of a course of action. This often occurs in the form of a question.
+  *  `Gnomic Future <https://ugg.readthedocs.io/en/latest/tense_future.html#example-v-tf-12-gnomic-future>`_  – The Future tense may be used to describe an event that can reasonably be expected to occur in the future. 
+  *  A `participle <https://ugg.readthedocs.io/en/latest/tense_future.html#example-v-tf-13-participle>`_  in the future tense refers to an action or event that will occur in the future when compared to the time of the main verb or the sentence. 
 
 Form:
 ~~~~
@@ -1196,7 +1196,7 @@ Example V-TF-13  Participle
 
 Participles in the future tense refer to an action or event that will occur in the future when compared to the time of the main verb for the sentence. In the New Testament, there are only 13  participles that occur in the future tense.
 
-.. csv-tables:: V-TF-12 Participle
+.. csv-table:: V-TF-12 Participle
   :header-rows: 1
   
   Matthew 27:49
