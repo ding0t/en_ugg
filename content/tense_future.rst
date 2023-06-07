@@ -1129,17 +1129,26 @@ The future tense for εἰμί is easy to learn when the student notices that it
 Examples
 ~~~~
 
-Example V-TF-9  – Predictive Future 
+Example V-TF-9  Predictive Future 
 ^^^^
 
 The principle use of the Future tense in the indicative mood is to refer to unspecified action or event (aspect) that will occur in the future.  It is therefore predictive in nature.
 
-John 6:44    Predictive Future V-TF-9
-κἀγὼ ἀναστήσω αὐτὸν ἐν τῇ ἐσχάτῃ ἡμέρᾳ.
-kagō anastēsō auton en tē eschatē hēmera
-and I  I will raise up him in the last  day
-and I will raise him up on the last day. 
+
+.. csv-table:: V-TF-9 Predictive Future Example
+  :header-rows: 1
+
+  John 6:44
+  κἀγὼ,**ἀναστήσω**,αὐτὸν,ἐν,τῇ,ἐσχάτῃ,ἡμέρᾳ.
+  kagō,**anastēsō**,auton,en,tē,eschatē,hēmera
+  and I,**I will raise up**,him,in,the,last,day
+
+*and* **I will raise** *him up on the last day.*
+
+
 Example V-TF-10   Future Imperative
+^^^^
+
 
 Future Tense - Future Imperative -  The Future tense in the indicative mood may be used as a command instead of using the imperative mood.  
 
