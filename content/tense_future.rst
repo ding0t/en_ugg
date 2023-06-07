@@ -78,12 +78,12 @@ There are only thirteen future participles that occur in the New Testament.  We 
 In this section we will describe the formation of Verbs with a theme vowel in:
 
   *	 `Future Tense - Active Indicative <https://ugg.readthedocs.io/en/latest/tense_future.html#table-v-tf-2-formation-of-future-tense-active-indicative>`_ 
-  *  `Future Tense - Middle Indicative <https://ugg.readthedocs.io/en/latest/tense_future.html#table-v-tf-3-formation-of-future-tense-middle-indicative>`_ , 
+  *  `Future Tense - Middle Indicative <https://ugg.readthedocs.io/en/latest/tense_future.html#table-v-tf-3-formation-of-future-tense-middle-indicative>`_  
   *	 `Liquid Future – Active Indicative <https://ugg.readthedocs.io/en/latest/tense_future.html#table-v-tf-4-formation-of-liquid-future-active-indicative>`_ 
-  *  Liquid Future – Middle Indicative
-  *  First Future – Passive Indicative
-  *  Second Future – Passive Indicative, and the
-  *  Future Tense of εἰμί
+  *  `Liquid Future – Middle Indicative <https://ugg.readthedocs.io/en/latest/tense_future.html#table-v-tf-3a-future-middle-indicative-of-verbs-with-a-theme-vowel>`_ 
+  *  `First Future – Passive Indicative <https://ugg.readthedocs.io/en/latest/tense_future.html#table-v-tf-6-formation-of-first-future-passive-indicative>`_ 
+  *  `Second Future – Passive Indicative <https://ugg.readthedocs.io/en/latest/tense_future.html#table-v-tf-7a-second-future-passive-indicative-of-verbs-with-a-theme-vowel>`_ , and the
+  *  `Future Tense of εἰμί <https://ugg.readthedocs.io/en/latest/tense_future.html#table-v-tf-8-future-tense-of>`_ 
 
 Liquid verbs are verbs that have a stem ending in λ,μ,ν,or ρ.  They are called “liquid” because the air flows around the tongue or through the nose when forming the sound of the letter.
 
