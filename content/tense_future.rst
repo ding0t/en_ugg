@@ -1033,6 +1033,8 @@ Note 1:
 Table V-TF-8 Future Tense of εἰμί
 ^^^^
 
+The future tense for εἰμί is easy to learn when the student notices that it is made up of the future tense formative (εσ) + the connecting vowel + plus the Primary Middle/Passive Personal Ending.
+
 .. raw:: html
 
     <style type="text/css">
@@ -1059,7 +1061,7 @@ Table V-TF-8 Future Tense of εἰμί
         <td class="tg-c3ow"></td>
         <td class="tg-c3ow">Tense<br>formative</td>
         <td class="tg-c3ow">connecting<br>vowel</td>
-        <td class="tg-c3ow">Active<br>Personal<br>Ending</td>
+        <td class="tg-c3ow">Primary<br>Middle/Passive<br>Personal<br>Ending</td>
         <td class="tg-c3ow"></td>
       </tr>
       <tr>
@@ -1121,14 +1123,16 @@ Table V-TF-8 Future Tense of εἰμί
     </tbody>
     </table></br>
 
-* Note 1 - 
+* Note 1 - εσ ε σαι -> The second sigma (σ) is intervocalic and drops out becoming -> εσ ε αι. Then the episilon and the alpha contract to become an eta -> εσ ηι. Finally, the iota subscripts becoming εσῃ.
+* Note 2 - The connecting vowel omicron (ο) drops out in the third person singular.  This is the one exception to the pattern.
 
 Examples
 ~~~~
 
-Example V-TF-9
-Future tense – Predictive Future 
-	The principle use of the Future tense in the indicative mood is to refer to unspecified action or event (aspect) that will occur in the future.  It is therefore predictive in nature.
+Example V-TF-9  – Predictive Future 
+^^^^
+
+The principle use of the Future tense in the indicative mood is to refer to unspecified action or event (aspect) that will occur in the future.  It is therefore predictive in nature.
 
 John 6:44    Predictive Future V-TF-9
 κἀγὼ ἀναστήσω αὐτὸν ἐν τῇ ἐσχάτῃ ἡμέρᾳ.
