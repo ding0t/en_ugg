@@ -46,7 +46,7 @@ The **Tense** of a verb is used to indicate the speaker’s perspective or viewp
 
 The Principal uses of the future tense are:
 
-  *  Predictive Future - The principle use of the Future tense **in the indicative mood** is to refer to an unspecified action or event (aspect) that will occur in the future.  It is therefore predictive in nature.
+  *  `Predictive Future <https://ugg.readthedocs.io/en/latest/tense_future.html#example-v-tf-9-predictive-future>`_  - The principle use of the Future tense **in the indicative mood** is to refer to an unspecified action or event (aspect) that will occur in the future.  It is therefore predictive in nature.
   *  Future Imperative -  The Future tense in the indicative mood may be used as a command instead of using the imperative mood.
   *  Deliberative Future -  The Future tense may be used in the form of consideration or deliberation or thinking out the effects or consequences of a course of action. This often occurs in the form of a question.
   *  Gnomic Future – The Future tense may be used to describe an event that can reasonably be expected to occur in the future. 
@@ -75,9 +75,9 @@ There are only five future infinitives that occur in the New Testament.
 
 There are only thirteen future participles that occur in the New Testament.  We have not included a Table for these thirteen future participles.
 
-In this section we will describe the formation of Verbs with a theme vowel in:
+In this section we will describe the formation of Verbs with a theme vowel in: **[TEST]**
 
-  *	 `Future Tense - Active Indicative <https://ugg.readthedocs.io/en/latest/tense_future.html#example-v-tf-9-predictive-future>`_
+  *	 `Future Tense - Active Indicative <https://ugg.readthedocs.io/en/latest/tense_future.html#table-v-tf-2-formation-of-future-tense-active-indicative>` 
   *  Future Tense - Middle Indicative, and
   *	 Liquid Future – Active Indicative
   *  Liquid Future – Middle Indicative
