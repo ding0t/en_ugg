@@ -1197,7 +1197,8 @@ Example V-TF-13  Participle
 Participles in the future tense refer to an action or event that will occur in the future when compared to the time of the main verb for the sentence. In the New Testament, there are only 13  participles that occur in the future tense.
 
 .. csv-tables:: V-TF-12 Participle
-
+  :header-rows: 1
+  
   Matthew 27:49
   ἴδωμεν,εἰ,ἔρχεται,Ἠλείας,**σώσων**,αὐτόν.
   idōmen,ei,erchetai,Ēleias,**sōsōn**,auton.
