@@ -1132,7 +1132,7 @@ Examples
 Example V-TF-9  Predictive Future 
 ^^^^
 
-The principle use of the Future tense in the indicative mood is to refer to unspecified action or event (aspect) that will occur in the future.  It is therefore predictive in nature.
+**Predictive Future** - The principle use of the Future tense in the indicative mood is to refer to unspecified action or event (aspect) that will occur in the future.  It is therefore predictive in nature.
 
 
 .. csv-table:: V-TF-9 Predictive Future Example
@@ -1149,7 +1149,7 @@ The principle use of the Future tense in the indicative mood is to refer to unsp
 Example V-TF-10   Future Imperative
 ^^^^
 
-The Future tense in the indicative mood may be used as a command instead of using the imperative mood.
+**Future Imperative** - The Future tense in the indicative mood may be used as a command instead of using the imperative mood.
 
 .. csv-table:: V-TF-10 Future Imperative
   :header-rows: 1
@@ -1164,17 +1164,24 @@ The Future tense in the indicative mood may be used as a command instead of usin
 Example V-TF-11  Deliberative Future
 ^^^^
 
-Future Tense - Deliberative Future -  The Future tense may be used to express consideration, deliberation, or thinking about the effects or consequences of a course of action. This often occurs in the form of a question.
+**Deliberative Future** -  The Future tense may be used to express consideration, deliberation, or thinking about the effects or consequences of a course of action. This often occurs in the form of a question.
 
-Romans 6:1 – V-TF-11 Deliberative Future
-τί οὖν ἐροῦμεν? ἐπιμένωμεν τῇ ἁμαρτίᾳ
-ti oun eroumen? epimenōmen tē hamartia
-What then shall we say?  Are we to continue  in sin?
+.. csv-table:: V-TF-11 Deliberative Future
+  :header-rows: 1
 
-What then will we say? Should we continue in the sin
+  Romans 6:1
+  τί,οὖν,**ἐροῦμεν?**,ἐπιμένωμεν,τῇ,ἁμαρτίᾳ?
+  ti,oun,**eroumen?**,epimenōmen,tē,hamartia?
+  What,then,**shall we say?**,Are we to continue,in,sin?
 
-Example V-TF-12 Gnomic Future 
-Future tense – Gnomic Future is not used as a way to predict the future, but to describe an event that can reasonably be expected to occur in the future. 
+*What then* **will we say?** *Should we continue in the sin?*
+
+Example V-TF-12 Gnomic Future
+^^^^
+
+The **Gnomic Future** is not used as a way to predict the future, but to describe an event that can reasonably be expected to occur in the future. 
+
+
 Matthew 6:21 – V-TF-12 Gnomic Future
 ὅπου γάρ ἐστιν ὁ θησαυρός σου, ἐκεῖ ἔσται καὶ ἡ καρδία σου.
 hopou gar estin ho thēsauros sou, ekei estai kai hē kardia sou.
