@@ -542,12 +542,12 @@ Table V-TF-4a Future Active Indicative (of Liquid verbs with a theme vowel)
 
 Notes:  
   1.  First, note that all forms have a circumflex accent on the last syllable. 
-  2.  [κριν + ες + ο + **-**] ->  The first person singlular personal ending is "nothing", so we start with κριν + εσ + ο  ->; The sigma is intervocalic (between two vowels) and drops out and the preceding vowel is lengthened becoming  κριν  η ο  ->; The eta and the omicron then contract to become -> κρινῶ. 
-  3.  [κριν + ες + ε + ς]  -> The sigma is intervocalic and drops out becoming κριν  ε  ε ς ->;  The two epsilons then contract to become -> κριν ει ς -> κρινεῖς.
-  4.  [κριν + ες + ει] -> The sigma is intervocalic and drops out becoming κριν ε ει -> ; The epsilon and the (epsilon iota) contract to become  -> κρινεῖ. 
-  5.  [κριν + ες + ο + μεν] -> The sigma is intervocalic and drops out becoming κριν ε ο μεν -> ; Then the epsilon and the omicron contract resulting in -> κρινοῦμεν.
-  6.  [κριν + ες + ε +τε] -> The sigma is intervocalic and drops out becoming κριν ε ε τε -> ; Then the two epsilons contract resulting in -> κρινεῖτε.
-  7.  [κριν + ες + ο + νσι] -> The nu in the primary personal ending drops out because of the sigma to become ->  κριν ες o σι ->; Then, the sigma drops out because it is intervocalic ->  κριν ε o σι ->; Then the the epsilon and the omicron contract  resulting in -> κρινοῦσι.
+  2.  [κριν + εσ + ο + **-**] ->  The first person singlular personal ending is "nothing", so we start with κριν + εσ + ο  ->; The sigma is intervocalic (between two vowels) and drops out and the preceding vowel is lengthened becoming  κριν  η ο  ->; The eta and the omicron then contract to become -> κρινῶ. 
+  3.  [κριν + εσ + ε + ς]  -> The sigma is intervocalic and drops out becoming κριν  ε  ε σ ->;  The two epsilons then contract to become -> κριν ει σ -> κρινεῖς.
+  4.  [κριν + εσ + ει] -> The sigma is intervocalic and drops out becoming κριν ε ει -> ; The epsilon and the (epsilon iota) contract to become  -> κρινεῖ. 
+  5.  [κριν + εσ + ο + μεν] -> The sigma is intervocalic and drops out becoming κριν ε ο μεν -> ; Then the epsilon and the omicron contract resulting in -> κρινοῦμεν.
+  6.  [κριν + εσ + ε +τε] -> The sigma is intervocalic and drops out becoming κριν ε ε τε -> ; Then the two epsilons contract resulting in -> κρινεῖτε.
+  7.  [κριν + εσ + ο + νσι] -> The nu in the primary personal ending drops out because of the sigma to become ->  κριν εσ o σι ->; Then, the sigma drops out because it is intervocalic ->  κριν ε o σι ->; Then the the epsilon and the omicron contract  resulting in -> κρινοῦσι.
 
 
 Table V-TF-5 Formation of Liquid Future Tense – Middle Indicative
@@ -702,12 +702,12 @@ Table V-TF-5a Future Middle Indicative (of Liquid verbs with a theme vowel)
 Notes:
 
   1.  First - note that all but one of the forms has a circumflex accent.  The circumflex accent marks the contraction.  The first person plural has an acute accent on the antepenult syllable (the third syllable from the end). It does not have a circumflex accent, because the circumflex can only stand on the last two syllables.
-  2.  κριν + ες +  ο + μαι -> The sigma is intervocalic (between two vowels) and drops out. -> κριν ε ο μαι.  Then the epsilon and omicron contract to become κρινοῦμαι.
-  3.  κριν + ες + ε + σαι  -> The sigma is intervocalic and drops out and the preceding vowel is lengthened becoming  κριν  η ε σαι  -> The eta and epsilon contract to become an eta. -> κριν η σαι Then, the second sigma is now inter vocalic and it drops out.  The eta and alpha contract to an eta.  -> κριν  η  ι  -> The final iota then subscripts -> κρινῇ.
-  4.  κριν + ες + ε + ται  -> The sigma is intervocalic and drops out becoming κριν  ε  ε ται ->  The two epsilons then contract to become -> κριν ει ται -> κρινεῖται.
-  5.  κριν + ες + ο + μεθα -> The sigma is intervocalic and drops out becoming κριν ε ο μεθα->  The epsilon and the (οmicron) contract to become  -> κριν ου μεθα -> κρινοῦμεθα
-  6.  κριν + ες + ε + σθε -> The sigma is intervocalic and drops out becoming κριν ε ε σθε -> Then the two epsilons contract resulting in -> κρινεῖσθε.
-  7.  κριν + ες + ο + νται -> The sigma is intervocalic and drops out becoming ->  κριν ε ο νται ->  Then the epsilon and the omicron contract  resulting in -> κρινοῦνται.
+  2.  κριν + εσ +  ο + μαι -> The sigma is intervocalic (between two vowels) and drops out. -> κριν ε ο μαι.  Then the epsilon and omicron contract to become κρινοῦμαι.
+  3.  κριν + εσ + ε + σαι  -> The sigma is intervocalic and drops out and the preceding vowel is lengthened becoming  κριν  η ε σαι  -> The eta and epsilon contract to become an eta. -> κριν η σαι Then, the second sigma is now inter vocalic and it drops out.  The eta and alpha contract to an eta.  -> κριν  η  ι  -> The final iota then subscripts -> κρινῇ.
+  4.  κριν + εσ + ε + ται  -> The sigma is intervocalic and drops out becoming κριν  ε  ε ται ->  The two epsilons then contract to become -> κριν ει ται -> κρινεῖται.
+  5.  κριν + εσ + ο + μεθα -> The sigma is intervocalic and drops out becoming κριν ε ο μεθα->  The epsilon and the (οmicron) contract to become  -> κριν ου μεθα -> κρινοῦμεθα
+  6.  κριν + εσ + ε + σθε -> The sigma is intervocalic and drops out becoming κριν ε ε σθε -> Then the two epsilons contract resulting in -> κρινεῖσθε.
+  7.  κριν + εσ + ο + νται -> The sigma is intervocalic and drops out becoming ->  κριν ε ο νται ->  Then the epsilon and the omicron contract  resulting in -> κρινοῦνται.
 
 
 Table V-TF-6 Formation of First Future Passive Indicative
@@ -775,7 +775,7 @@ Note:
 
   *	 There is no augment, because the augment indicates past time in the indicative mood.
   *  The tense formative θησ  is similar to the tense formative for the First Aorist Passive Indicative verb θη   but with the sigma (σ) for the future tense added on. 
-  *	 The presence of the tense formative “θης”  tells us this is a Future Passive Indicative verb with one exception.   The Aorist Passive third person plural ends with “-θησαν”.  In this case the sigma is part of the third person plural ending “σαν” and is not a part of the tense formative.
+  *	 The presence of the tense formative “θησ”  tells us this is a Future Passive Indicative verb with one exception.   The Aorist Passive third person plural ends with “-θησαν”.  In this case the sigma is part of the third person plural ending “σαν” and is not a part of the tense formative.
 
 
 Table V-TF- 6a First Future Passive Indicative ( of verbs with a theme vowel)
@@ -871,8 +871,8 @@ Table V-TF- 6a First Future Passive Indicative ( of verbs with a theme vowel)
     
 					
 Note: 
-*   λυ + θης + ε + σαι ->  The second sigma is intervocalic and drops out -> 
-λυ θης  ε αι -> Then the epsilon and alpha contract to an eta according to the rules for contraction -> λυ θης ηι  -> Then the iota subscripts when preceded with the long vowel α,η, or ω.  -> λυθήςῃ
+*   λυ + θησ + ε + σαι ->  The second sigma is intervocalic and drops out -> 
+λυ θησ  ε αι -> Then the epsilon and alpha contract to an eta according to the rules for contraction -> λυ θησ ηι  -> Then the iota subscripts when preceded with the long vowel α,η, or ω.  -> λυθήσῃ
 
 Table V-TF-7 Formation of Second Future Passive Indicative
 ^^^^
@@ -1026,26 +1026,106 @@ Table V-TF- 7a Second Future Passive Indicative (of verbs with a theme vowel)
 
 Note 1:
 
-  *χαρ + ης + ε + σαι  -> The second sigma drops out because it is intervocalic. -> becoming χαρ ης ε αι -> Then the epsilon and the alpha contract to an eta in accordance with the rules of contraction -> χαρ ησ η ι ->  Finally, the iota subscripts under the long eta -> χαρήςῃ.
+  *χαρ + ησ + ε + σαι  -> The second sigma drops out because it is intervocalic. -> becoming χαρ ησ ε αι -> Then the epsilon and the alpha contract to an eta in accordance with the rules of contraction -> χαρ ησ η ι ->  Finally, the iota subscripts under the long eta -> χαρήσῃ.
 
 
 
 Table V-TF-8 Future Tense of εἰμί
 ^^^^
 
-•	Table V-TF-8- εἴμι Future Tense  Indicative
-•	
-•	εἴμι
-•	Future Tense
-•	Indicative Mood
-•	1 singular	ἔσομαι
-•	2 singular	ἦςῃ
-•	3 singular	ἔσται
-•	1 plural		ἐσόμεθα
-•	2 plural		ἔσεσθε
-•	3 plural		ἔσονται
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-kt43{background-color:#fffc9e;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-rvyq{border-color:inherit;font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-kt43" colspan="6">Table V-TF-8<br>Future Tense of εἰμί<br>Indicative Mood</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-rvyq">Single</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow">Tense<br>formative</td>
+        <td class="tg-c3ow">connecting<br>vowel</td>
+        <td class="tg-c3ow">Active<br>Personal<br>Ending</td>
+        <td class="tg-c3ow"></td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">1 Person</td>
+        <td class="tg-c3ow">ἔσομαι</td>
+        <td class="tg-c3ow">εσ</td>
+        <td class="tg-c3ow">ο</td>
+        <td class="tg-c3ow">μαι</td>
+        <td class="tg-c3ow">I will be</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">2 Person</td>
+        <td class="tg-c3ow">ἔσῃ [Νοτε 1]</td>
+        <td class="tg-c3ow">εσ</td>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-c3ow">σαι</td>
+        <td class="tg-0pky">You will be</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3 Person</td>
+        <td class="tg-c3ow">ἔσται [Νοτε 2</td>
+        <td class="tg-c3ow">εσ</td>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-c3ow">ται</td>
+        <td class="tg-0pky">He (she, it) will <br>be</td>
+      </tr>
+      <tr>
+        <td class="tg-rvyq">Plural</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky"></td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">1 Person</td>
+        <td class="tg-c3ow">ἐσόμεθα</td>
+        <td class="tg-c3ow">εσ</td>
+        <td class="tg-c3ow">ο</td>
+        <td class="tg-c3ow">μεθα</td>
+        <td class="tg-0pky">We will be</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">2 Person</td>
+        <td class="tg-c3ow">ἔσεσθε</td>
+        <td class="tg-c3ow">εσ</td>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-c3ow">σθε</td>
+        <td class="tg-0pky"> You will be</td>
+      </tr> 
+      <tr>
+        <td class="tg-0pky">3 Person</td>
+        <td class="tg-c3ow">ἔσονται</td>
+        <td class="tg-c3ow">εσ</td>
+        <td class="tg-c3ow">ο</td>
+        <td class="tg-c3ow">νται</td>
+        <td class="tg-0pky">They will be</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+* Note 1 - 
 
 Examples
+~~~~
+
 Example V-TF-9
 Future tense – Predictive Future 
 	The principle use of the Future tense in the indicative mood is to refer to unspecified action or event (aspect) that will occur in the future.  It is therefore predictive in nature.
