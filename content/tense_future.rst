@@ -1181,14 +1181,19 @@ Example V-TF-12 Gnomic Future
 
 The **Gnomic Future** is not used as a way to predict the future, but to describe an event that can reasonably be expected to occur in the future. 
 
+.. csv-table:: V-TF-12 Gnomic Future
+  :header-rows: 1
 
-Matthew 6:21 – V-TF-12 Gnomic Future
-ὅπου γάρ ἐστιν ὁ θησαυρός σου, ἐκεῖ ἔσται καὶ ἡ καρδία σου.
-hopou gar estin ho thēsauros sou, ekei estai kai hē kardia sou.
-Where for it  the treasure  of you  there it will be also the heart of you.
-For where your treasure is, there will your heart be also.
+  Matthew 6:21
+  ὅπου,γάρ,ἐστιν,ὁ,θησαυρός,σου,ἐκεῖ,**ἔσται**,καὶ,ἡ,καρδία,σου.
+  hopou,gar,estin,ho,thēsauros,sou,ekei,**estai**,kai,hē,kardia,sou.
+  Where,for,it is,the,treasure,of you,there,**it will be**,also,the,heart,of you.
+
+*For where your treasure is, there* **will** *your heart be also.*
 
 Example V-TF-13  Participle 
+^^^^
+
 Participles in the future tense refer to an action or event that will occur in the future when compared to the time of the main verb or the sentence. In the New Testament, there are only 13  participles that occur in the future tense.
 Matthew 27:49
 ἴδωμεν εἰ ἔρχεται Ἠλείας σώσων αὐτόν.
