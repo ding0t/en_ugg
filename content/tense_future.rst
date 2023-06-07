@@ -75,9 +75,9 @@ There are only five future infinitives that occur in the New Testament.
 
 There are only thirteen future participles that occur in the New Testament.  We have not included a Table for these thirteen future participles.
 
-In this section we will describe the formation of Verbs with a theme vowel in: **[TEST]**
+In this section we will describe the formation of Verbs with a theme vowel in:
 
-  *	 `Future Tense - Active Indicative <https://ugg.readthedocs.io/en/latest/tense_future.html#table-v-tf-2-formation-of-future-tense-active-indicative>` 
+  *	 `Future Tense - Active Indicative <https://ugg.readthedocs.io/en/latest/tense_future.html#table-v-tf-2-formation-of-future-tense-active-indicative>`_ 
   *  Future Tense - Middle Indicative, and
   *	 Liquid Future – Active Indicative
   *  Liquid Future – Middle Indicative
