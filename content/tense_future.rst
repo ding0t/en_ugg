@@ -73,7 +73,7 @@ There are only five future infinitives that occur in the New Testament.
     *  ἔσεσθαι ( future infinitive of εἰμί -will be ,  it will be, will happen) occurs four times, and
     *  εἰσελεύσεσθαι once ( future infinitive of εἰσέρχομαι – to enter, will enter, will go into).
 
-There are only thirteen future participles that occur in the New Testament.  We have not included a Table for these thirteen future participles.
+There are only twelve future participles that occur in the New Testament.  [ἄξων (to lead away), αποδώσοντες (to give), γενησόμενον (to become), έσόμενον (to happen), κακώσων (to harm), κατακρινῶν (to condemn), λαληθησομένων (to be spoken), παραδώσων (to betrawy), ποιήσων (to make or to bring), προσκυνήσων (to worship),συναντήσοντα (to happen), σώσων (to save)]
 
 In this section we will describe the formation of Verbs with a theme vowel in:
 
