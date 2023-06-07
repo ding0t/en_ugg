@@ -1194,13 +1194,18 @@ The **Gnomic Future** is not used as a way to predict the future, but to describ
 Example V-TF-13  Participle 
 ^^^^
 
-Participles in the future tense refer to an action or event that will occur in the future when compared to the time of the main verb or the sentence. In the New Testament, there are only 13  participles that occur in the future tense.
-Matthew 27:49
-ἴδωμεν εἰ ἔρχεται Ἠλείας σώσων αὐτόν.
-idōmen ei erchetai Ēleias sōsōn auton.
-Let us see if he will come Elijah saving him
-We may see whether Elijah comes to save him
-[Note: - In this verse ἔρχεται is in the present tense and σώσων is a future masculine plural participle modifying the coming of Elijah.  The English translations are picking up on the future tense of the participle and applying it to the verb.  In any event the future participle is referring to a time that is future from those who are speaking. ]
+Participles in the future tense refer to an action or event that will occur in the future when compared to the time of the main verb for the sentence. In the New Testament, there are only 13  participles that occur in the future tense.
+
+.. csv-tables:: V-TF-12 Participle
+
+  Matthew 27:49
+  ἴδωμεν,εἰ,ἔρχεται,Ἠλείας,**σώσων**,αὐτόν.
+  idōmen,ei,erchetai,Ēleias,**sōsōn**,auton.
+  Let us see,if,he will come,Elijah,**saving**,him
+
+*We may see whether Elijah comes* **to save** *him.*
+
+[Note: - In this verse ἔρχεται is in the present tense and σώσων is a future masculine plural participle modifying the coming of Elijah.  The English translations are picking up on the future tense of the participle and applying it to the verb.  In any event the future participle is referring to a time that is future from those who are speaking.]
 
 
 
