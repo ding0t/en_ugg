@@ -2,7 +2,7 @@
 
 .. _tense_future:
 
-Tense future [UNDER CONSTRUCTION]
+Tense future
 ============
 
 Glossary
@@ -10,7 +10,7 @@ Glossary
 
 **Future tense** is a *tense form* the speaker uses to refer to an action which will take place at a point in the future
 from when he is speaking (e.g., she will sleep, I will run, they will eat). 
-It can also be used also to give a command (e.g., you will obey me!)
+It can also be used to give a command (e.g., you will obey me!)
 When used with a participle, it refers to a time in the future from the time of the main verb.
 
 Example:  V-TF-1
@@ -25,7 +25,7 @@ Example:  V-TF-1
 **I will raise** *him* **up** *in the last day.*
 
 
-Article  [UNDER CONSTRUCTION]
+Article  
 -------
 
 Overview
@@ -46,7 +46,7 @@ The **Tense** of a verb is used to indicate the speaker’s perspective or viewp
 
 The Principal uses of the future tense are:
 
-  *  `Predictive Future <https://ugg.readthedocs.io/en/latest/tense_future.html#example-v-tf-9-predictive-future>`_  - The principle use of the Future tense **in the indicative mood** is to refer to an unspecified action or event (aspect) that will occur in the future.  It is therefore predictive in nature.
+  *  `Predictive Future <https://ugg.readthedocs.io/en/latest/tense_future.html#example-v-tf-9-predictive-future>`_  - The principal use of the Future tense **in the indicative mood** is to refer to an unspecified action or event (aspect) that will occur in the future.  It is therefore predictive in nature.
   *  `Future Imperative <https://ugg.readthedocs.io/en/latest/tense_future.html#example-v-tf-10-future-imperative>`_  -  The Future tense in the indicative mood may be used as a command instead of using the imperative mood.
   *  `Deliberative Future <https://ugg.readthedocs.io/en/latest/tense_future.html#example-v-tf-11-deliberative-future>`_  -  The Future tense may be used in the form of consideration or deliberation or thinking out the effects or consequences of a course of action. This often occurs in the form of a question.
   *  `Gnomic Future <https://ugg.readthedocs.io/en/latest/tense_future.html#example-v-tf-12-gnomic-future>`_  – The Future tense may be used to describe an event that can reasonably be expected to occur in the future. 
@@ -70,10 +70,10 @@ See also:
   
 There are only five future infinitives that occur in the New Testament.  
 
-    *  ἔσεσθαι ( future infinitive of εἰμί -will be ,  it will be, will happen) occurs four times, and
-    *  εἰσελεύσεσθαι once ( future infinitive of εἰσέρχομαι – to enter, will enter, will go into).
+    *  ἔσεσθαι (future infinitive of εἰμί -will be ,  it will be, will happen) occurs four times, and
+    *  εἰσελεύσεσθαι once (future infinitive of εἰσέρχομαι – to enter, will enter, will go into).
 
-There are only twelve future participles that occur in the New Testament.  [ἄξων (to lead away), αποδώσοντες (to give), γενησόμενον (to become), έσόμενον (to happen), κακώσων (to harm), κατακρινῶν (to condemn), λαληθησομένων (to be spoken), παραδώσων (to betrawy), ποιήσων (to make or to bring), προσκυνήσων (to worship),συναντήσοντα (to happen), σώσων (to save)].
+There are only twelve future participles that occur in the New Testament.  [ἄξων (to lead away), αποδώσοντες (to give), γενησόμενον (to become), έσόμενον (to happen), κακώσων (to harm), κατακρινῶν (to condemn), λαληθησομένων (to be spoken), παραδώσων (to betray), ποιήσων (to make or to bring), προσκυνήσων (to worship), συναντήσοντα (to happen), σώσων (to save)].
 
 In this section we will describe the formation of Verbs with a theme vowel in:
 
@@ -85,7 +85,7 @@ In this section we will describe the formation of Verbs with a theme vowel in:
   *  `Second Future – Passive Indicative <https://ugg.readthedocs.io/en/latest/tense_future.html#table-v-tf-7a-second-future-passive-indicative-of-verbs-with-a-theme-vowel>`_ , and the
   *  `Future Tense of εἰμί <https://ugg.readthedocs.io/en/latest/tense_future.html#table-v-tf-8-future-tense-of>`_ 
 
-Liquid verbs are verbs that have a stem ending in λ,μ,ν,or ρ.  They are called “liquid” because the air flows around the tongue or through the nose when forming the sound of the letter.
+Liquid verbs are verbs that have a stem ending in λ,μ,ν, or ρ.  They are called “liquid” because the air flows around the tongue or through the nose when forming the sound of the letter.
 
 Table V-TF-2 Formation of Future Tense Active Indicative
 ^^^^^
@@ -649,7 +649,7 @@ Table V-TF-5a Future Middle Indicative (of Liquid verbs with a theme vowel)
       </tr>
       <tr>
         <td class="tg-8bgf">2 Person</td>
-        <td class="tg-c3ow">κρινῇ [ note 3]</td>
+        <td class="tg-c3ow">κρινῇ [note 3]</td>
         <td class="tg-c3ow">εσ</td>
         <td class="tg-c3ow">ε</td>
         <td class="tg-c3ow">σαι</td>
@@ -703,7 +703,7 @@ Notes:
 
   1.  First - note that all but one of the forms has a circumflex accent.  The circumflex accent marks the contraction.  The first person plural has an acute accent on the antepenult syllable (the third syllable from the end). It does not have a circumflex accent, because the circumflex can only stand on the last two syllables.
   2.  κριν + εσ +  ο + μαι -> The sigma is intervocalic (between two vowels) and drops out. -> κριν ε ο μαι.  Then the epsilon and omicron contract to become κρινοῦμαι.
-  3.  κριν + εσ + ε + σαι  -> The sigma is intervocalic and drops out and the preceding vowel is lengthened becoming  κριν  η ε σαι  -> The eta and epsilon contract to become an eta. -> κριν η σαι Then, the second sigma is now inter vocalic and it drops out.  The eta and alpha contract to an eta.  -> κριν  η  ι  -> The final iota then subscripts -> κρινῇ.
+  3.  κριν + εσ + ε + σαι  -> The sigma is intervocalic and drops out and the preceding vowel is lengthened becoming  κριν  η ε σαι  -> The eta and epsilon contract to become an eta. -> κριν η σαι Then, the second sigma is now intervocalic and it drops out.  The eta and alpha contract to an eta.  -> κριν  η  ι  -> The final iota then subscripts -> κρινῇ.
   4.  κριν + εσ + ε + ται  -> The sigma is intervocalic and drops out becoming κριν  ε  ε ται ->  The two epsilons then contract to become -> κριν ει ται -> κρινεῖται.
   5.  κριν + εσ + ο + μεθα -> The sigma is intervocalic and drops out becoming κριν ε ο μεθα->  The epsilon and the (οmicron) contract to become  -> κριν ου μεθα -> κρινοῦμεθα
   6.  κριν + εσ + ε + σθε -> The sigma is intervocalic and drops out becoming κριν ε ε σθε -> Then the two epsilons contract resulting in -> κρινεῖσθε.
@@ -715,7 +715,7 @@ Table V-TF-6 Formation of First Future Passive Indicative
 
 As with the Aorist tense, there is **no difference in meaning** between a 1st Future Passive Indicative verb and a 2nd  Future Passive Indicative verb. They are both Future Passive Indicative  verbs. If it helps, you may think of it as a room (the Future Passive room) and the Future Passive room that has two doors. It does not matter which door you use to enter the room. In both cases the word is now in the Future Passive room.
 
-In the case of a Future Passive verb, the Future Passive tense is built upon the Aorist Passive Tense stem without the augment.  A First future Passive verb is built upon a First Aorist Passive Tense stem and the Second Future Passive verb is built upon a Second Aorist Passive Tense stem.   In both cases the verb is a Future Passive Indicative verb.
+In the case of a Future Passive verb, the Future Passive tense is built upon the Aorist Passive Tense stem without the augment.  A First Future Passive verb is built upon a First Aorist Passive Tense stem and the Second Future Passive verb is built upon a Second Aorist Passive Tense stem.   In both cases the verb is a Future Passive Indicative verb.
 
 
 
@@ -1082,7 +1082,7 @@ The future tense for εἰμί is easy to learn when the student notices that it
       </tr>
       <tr>
         <td class="tg-0pky">3 Person</td>
-        <td class="tg-c3ow">ἔσται [Νοτε 2</td>
+        <td class="tg-c3ow">ἔσται [Νοτε 2]</td>
         <td class="tg-c3ow">εσ</td>
         <td class="tg-c3ow">ε</td>
         <td class="tg-c3ow">ται</td>
@@ -1143,7 +1143,7 @@ Example V-TF-9  Predictive Future
   kagō,**anastēsō**,auton,en,tē,eschatē,hēmera
   and I,**I will raise up**,him,in,the,last,day
 
-*and* **I will raise** *him up on the last day.*
+*and* **I will raise** *him* **up** *on the last day.*
 
 
 Example V-TF-10   Future Imperative
