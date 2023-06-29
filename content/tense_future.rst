@@ -37,7 +37,7 @@ The **Tense** of a verb is used to indicate the speaker’s perspective or viewp
       The kind of action may be unspecified (also known as simple or simply completed), continuous (also described as imperfective),
       or completed with an ongoing effect.
 
-      •  Future tense- In the Future tense, aspect is used to express an **unspecified kind of action** (merely that it has occurred or occurs), without reference to its duration or completeness.  This is similar to the Aorist Tense.
+      •  Future tense- In the Future tense, aspect is used to express an **unspecified kind of action** (merely that it will occur), without reference to its duration.  This is similar to the Aorist Tense.
 
     •	Therefore, it could refer to an event that takes place over a period of time or in a moment, or is repeated.  This can **only** be determined based on context, and not by the use of the future tense.
 
