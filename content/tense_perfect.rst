@@ -59,8 +59,8 @@ The translator should give special attention when the Perfect Tense is used (com
 and try to note the significance of the meaning that is being conveyed by use of  Perfect Tense.
 
 The Perfect Tense is principally used to place an emphasis on the results or present condition that now exists from the past action.
-  This condition may have come into being as a result of a single action in the past or as a result of a series of actions.
-  As we have already stated, there is no implication (based on the use of the perfect tense) that these results will continue into the future, merely that they are still present at the time the speaker makes the statement.  In Example V-TP-7d we give an example where the people only imagined that an event had occurred, but their perception was incorrect.
+This condition may have come into being as a result of a single action in the past or as a result of a series of actions.
+As we have already stated, there is no implication (based on the use of the perfect tense) that these results will continue into the future, merely that they are still present at the time the speaker makes the statement.  In Example V-TP-7d we give an example where the people only imagined that an event had occurred, but their perception was incorrect.
 
 Based on the context, the use of the Perfect Tense may be classified into the four separate categories: 
 
