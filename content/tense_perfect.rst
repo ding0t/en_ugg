@@ -47,8 +47,7 @@ The **Tense** of a verb is used to indicate the speaker’s perspective or viewp
 
   2.  Time - the time of action 
 
-    •	 The principle use of the Perfect tense in the indicative mood is to express
-       the state of being of its object at the time the speaker is speaking.  
+    •	 The principle use of the Perfect tense in the indicative mood is to express the state of being of its object at the time the speaker is speaking.  
        There is no implication that the current state will continue into the future based on the use of the Perfect tense.   
 
 
@@ -61,7 +60,7 @@ and try to note the significance of the meaning that is being conveyed by use of
 
   The Perfect Tense is principally used to place an emphasis on the results or present condition that now exists from the past action.
   This condition may have come into being as a result of a single action in the past or as a result of a series of actions.
-  As we have already stated, there is no implication (based on the use of the perfect tense) that these results will continue into the future, merely that they are still present at the time the speaker makes the statement.  In Example V-TP-7d we give an example where the people only imagined that an event had occurred, but perception was incorrect.
+  As we have already stated, there is no implication (based on the use of the perfect tense) that these results will continue into the future, merely that they are still present at the time the speaker makes the statement.  In Example V-TP-7d we give an example where the people only imagined that an event had occurred, but their perception was incorrect.
 
 Based on the context, the use of the Perfect Tense may be classified into the four separate categories: 
 
