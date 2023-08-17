@@ -44,11 +44,12 @@ The **Tense** of a verb is used to indicate the speaker’s perspective or viewp
       *  completed with an ongoing effect, or
       *  Stative -  The Perfect tense is a stative tense.  It is used to express a state of being.  Therefore, aspect is used to express the present state or condition rather than the action that occurred to arrive at the present condition.  A past action is implied by use of the perfect tense
 
+
   2.  Time - the time of action 
 
     •	 The principle use of the Perfect tense in the indicative mood is to express
-     the state of being of its object at the time the speaker is speaking.  
-     There is no implication that the current state will continue into the future based on the use of the Perfect tense.   
+       the state of being of its object at the time the speaker is speaking.  
+       There is no implication that the current state will continue into the future based on the use of the Perfect tense.   
 
 
 The Perfect Tense occurs 1,574 times in the New Testament (compared to 11,572 for the Present Tense;
@@ -70,6 +71,8 @@ Based on the context, the use of the Perfect Tense may be classified into the fo
   4)  **Present Force Perfect** -  It is frequently suggested that Οἶδα, although in the perfect tense, is used with a present tense meaning.   Οἶδα is a stative verb and so lends itself to the Perfect tense, however other stative verbs appear in the present tense such as εἴμι.  These verbs could be classified as an Intensive Perfect with a greater emphasis on the present condition.
 
 Form:
+~~~~
+
 The basic form for a verb in the indicative Perfect tense is given in Tables 4 (Primary and Secondary Endings of Verbs) and Table 8 (The Perfect Tenses) of the Master paradigm.
 
 See also:
