@@ -19,7 +19,6 @@ results continue into the present time of the speaker.
 Example: V-PT-1  
 
 .. csv-table:: Matthew 3:2
-  :Header-rows: 1
 
   μετανοεῖτε,**ἤγγικεν**,γὰρ,ἡ,Βασιλεία,τῶν,Οὐρανῶν.
   metanoeite,**ēngiken**,gar,hē,Basileia,tōn,Ouranōn.
