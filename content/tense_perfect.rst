@@ -67,12 +67,12 @@ Based on the context, the use of the Perfect Tense may be classified into the fo
   1)  **Intensive Perfect** – The predominate use of the Perfect tense is referred to as the Intensive Perfect.  Because the Perfect is a stative tense, the focus is on the resultant state as opposed to the completed act.   However, depending upon the context, there may be a greater emphasis on the present condition; or of the completed action that resulted in the present condition in which case the use of a helping verb is appropriate.   
   2)  **Gnomic Perfect** – The Gnomic Perfect refers to state that could result from an action that could occur at any time.   
   3)  **Aoristic Perfect** -  In some cases it appears that the Perfect Tense is being used with the same meaning as  the Aorist tense – to indicate an action that occurred in the past.   However, some grammarians suggest that one use caution in coming to this conclusion.  If the verb in the perfect tense occurs with other verbs in the aorist tense, the translator must ask why is this verb in the perfect tense?   Or what seems to be a simple statement may be placed in the perfect tense to dramatize or place a special emphasis on this event.     
-  4)  **Present Force Perfect** -  It is frequently suggested that Οἶδα, although in the perfect tense, is used with a present tense meaning.   Οἶδα is a stative verb and so lends itself to the Perfect tense, however other stative verbs appear in the present tense such as εἴμι.  These verbs could be classified as an Intensive Perfect with a greater emphasis on the present condition.
+  4)  **Present Force Perfect** -  It is frequently suggested that Οἶδα, although in the perfect tense, is used with a present tense meaning.   Οἶδα is a stative verb and so lends itself to the Perfect tense, however other stative verbs appear in the present tense such as εἴμι.  These verbs could be classified as an **Intensive Perfect** with a greater emphasis on the present condition.
 
 Form:
 ~~~~
 
-The basic form for a verb in the indicative Perfect tense is given in Tables 4 (Primary and Secondary Endings of Verbs) and Table 8 (The Perfect Tenses) of the Master paradigm.
+The basic form for a verb in the indicative Perfect tense is given in `Verb Master Table 4-Primary and Secondary Endings of Verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#table-4-primary-and-secondary-endings-of-verbs>`_ and `Verb-Master Table 8-The Perfect Tenses <https://ugg.readthedocs.io/en/latest/paradigms.html#table-8-the-perfect-tenses>`_ of the Master paradigm.
 
 See also:
 Table V-IT-4 Indicative Verbs built on the Perfect and Perfect Middle/Passive Stem
