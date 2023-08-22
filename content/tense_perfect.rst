@@ -11,9 +11,9 @@ Glossary
 
 **Perfect** is the verb **tense-form** used to describe the present
 state (e.g., *you are forgiven*) of what is being described
-or which took place in the past (e.g., *we have eaten*, *they have
-traveled*). It is often thought of as a completed action where the
-results continue into the present time of the speaker.
+or to describe something which took place in the past (e.g., *we have eaten*, *they have
+traveled*). It is often thought of as a completed action that has
+results which continue into the present time of the speaker.
 
 
 Example: V-PT-1  
@@ -22,9 +22,9 @@ Example: V-PT-1
 
   μετανοεῖτε,**ἤγγικεν**,γὰρ,ἡ,Βασιλεία,τῶν,Οὐρανῶν.
   metanoeite,**ēngiken**,gar,hē,Basileia,tōn,Ouranōn.
-  Repent,**is near**,for,the,Kingdom,of,Heaven
+  Repent,**is near**,for,the,Kingdom,of the,Heavens
 
-*Repent, for the kingdom of the heavens* **is near**.”   Or *“Repent for the kingdom of heaven* **has come near**.”  
+“*Repent, for the kingdom of the heavens* **is near**.”   Or *“Repent for the kingdom of heaven* **has come near**.”  
 [Note],  The translation of **“has come near”** places an emphasis on the “completed action in the past” aspect,
 while the translation **“is near”** picks up on the stative aspect.
 The English language also has difficulty picking up on another nuance in the Greek text.   The placement of the perfect verb up front puts an emphasis on the nearness.   “Repent, for NEAR is the kingdom of heaven.”
@@ -42,7 +42,7 @@ The **Tense** of a verb is used to indicate the speaker’s perspective or viewp
       *  unspecified (also known as simple or simply completed), 
       *  continuous (also described as imperfective), or 
       *  completed with an ongoing effect, or
-      *  Stative -  The Perfect tense is a stative tense.  It is used to express a state of being.  Therefore, aspect is used to express the present state or condition rather than the action that occurred to arrive at the present condition.  A past action is implied by use of the perfect tense
+      *  Stative -  The Perfect tense is a stative tense.  It is used to express a state of being.  Therefore, aspect is used to express the present state or condition rather than the action that occurred to arrive at the present condition.  A past action is implied by use of the perfect tense.
 
 
   2.  Time - the time of action 
@@ -52,7 +52,7 @@ The **Tense** of a verb is used to indicate the speaker’s perspective or viewp
 
 
 The Perfect Tense occurs 1,574 times in the New Testament (compared to 11,572 for the Present Tense;
-11,826 for the Aorist Tense; and 1,634 for the future tense.  This is very close to the 1,691occurrences of the Imperfect Tense.) 
+11,826 for the Aorist Tense; and 1,634 for the future tense.  This is very close to the 1,691occurrences of the Imperfect Tense.). 
 
 
 The translator should give special attention when the Perfect Tense is used (compared to the Present Tense or the Aorist Tense)
@@ -62,12 +62,12 @@ The Perfect Tense is principally used to place an emphasis on the results or pre
 This condition may have come into being as a result of a single action in the past or as a result of a series of actions.
 As we have already stated, there is no implication (based on the use of the perfect tense) that these results will continue into the future, merely that they are still present at the time the speaker makes the statement.  In Example V-TP-7d we give an example where the people only imagined that an event had occurred, but their perception was incorrect.
 
-Based on the context, the use of the Perfect Tense may be classified into the four separate categories: 
+Based on the context, the use of the Perfect Tense may be classified into these four separate categories: 
 
   1)  **Intensive Perfect** – The predominate use of the Perfect tense is referred to as the Intensive Perfect.  Because the Perfect is a stative tense, the focus is on the resultant state as opposed to the completed act.   However, depending upon the context, there may be a greater emphasis on the present condition; or of the completed action that resulted in the present condition in which case the use of a helping verb is appropriate.   
   2)  **Gnomic Perfect** – The Gnomic Perfect refers to state that could result from an action that could occur at any time.   
   3)  **Aoristic Perfect** -  In some cases it appears that the Perfect Tense is being used with the same meaning as  the Aorist tense – to indicate an action that occurred in the past.   However, some grammarians suggest that one use caution in coming to this conclusion.  If the verb in the perfect tense occurs with other verbs in the aorist tense, the translator must ask why is this verb in the perfect tense?   Or what seems to be a simple statement may be placed in the perfect tense to dramatize or place a special emphasis on this event.     
-  4)  **Present Force Perfect** -  It is frequently suggested that Οἶδα, although in the perfect tense, is used with a present tense meaning.   Οἶδα is a stative verb and so lends itself to the Perfect tense, however other stative verbs appear in the present tense such as εἴμι.  These verbs could be classified as an **Intensive Perfect** with a greater emphasis on the present condition.
+  4)  **Present Force Perfect** -  It is frequently suggested that Οἶδα, although in the Perfect Tense, is used with a Present Tense meaning.   Οἶδα is a stative verb and so lends itself to the Perfect Tense, however other stative verbs appear in the Present Tense such as εἴμι.  These verbs could be classified as an **Intensive Perfect** with a greater emphasis on the present condition.
 
 Form:
 ~~~~
