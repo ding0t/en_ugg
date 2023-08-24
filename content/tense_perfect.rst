@@ -35,7 +35,7 @@ Article
 -------
 
 
-The **Tense** of a verb is used to indicate the speaker’s perspective or viewpoint of:
+The **Tense** of a verb is used to indicate the speaker's perspective or viewpoint of:
 
   1.  *Aspect* - the kind of action of the verb. The kind of action may be 
   
@@ -64,9 +64,9 @@ As already stated, there is no implication (based on the use of the perfect tens
 
 Based on the context, the use of the Perfect Tense may be classified into these four separate categories: 
 
-  1)  **Intensive Perfect** – The predominate use of the Perfect tense is referred to as the Intensive Perfect.  Because the Perfect is a stative tense, the focus is on the resultant state as opposed to the completed act.   However, depending upon the context, there may be a greater emphasis on the present condition; or of the completed action that resulted in the present condition in which case the use of a helping verb is appropriate.   
-  2)  **Gnomic Perfect** – The Gnomic Perfect refers to a state that results from an action that can occur at any time (an event that can be assumed to occur because it happens so frequently).   
-  3)  **Aoristic Perfect** -  In some cases it appears that the Perfect Tense is being used with the same meaning as  the Aorist tense – to indicate an action that occurred in the past.   However, some grammarians suggest that one use caution in coming to this conclusion.  If the verb in the perfect tense occurs with other verbs in the aorist tense, the translator must ask why is this verb in the perfect tense?   Or what seems to be a simple statement may be placed in the perfect tense to dramatize or place a special emphasis on this event.     
+  1)  **Intensive Perfect** -  The predominate use of the Perfect tense is referred to as the Intensive Perfect.  Because the Perfect is a stative tense, the focus is on the resultant state as opposed to the completed act.   However, depending upon the context, there may be a greater emphasis on the present condition; or of the completed action that resulted in the present condition in which case the use of a helping verb is appropriate.   
+  2)  **Gnomic Perfect** - The Gnomic Perfect refers to a state that results from an action that can occur at any time (an event that can be assumed to occur because it happens so frequently).   
+  3)  **Aoristic Perfect** -  In some cases it appears that the Perfect Tense is being used with the same meaning as  the Aorist tense - to indicate an action that occurred in the past.   However, some grammarians suggest that one use caution in coming to this conclusion.  If the verb in the perfect tense occurs with other verbs in the aorist tense, the translator must ask why is this verb in the perfect tense?   Or what seems to be a simple statement may be placed in the perfect tense to dramatize or place a special emphasis on this event.     
   4)  **Present Force Perfect** -  It is frequently suggested that Οἶδα, although in the Perfect Tense, is used with a Present Tense meaning.   Οἶδα is a stative verb and so lends itself to the Perfect Tense, however other stative verbs appear in the Present Tense such as εἴμι.  These verbs could be classified as an **Intensive Perfect** with a greater emphasis on the present condition.
 
 Form:
@@ -78,12 +78,12 @@ See also:
 
   *  `Table V-IT-4 Indicative Verbs built on the Perfect and Perfect Middle/Passive Stem <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-it-4-indicative-verbs-built-on-the-perfect-and-perfect-middle-passive-stem>`_
   *  `Table V-AT-D1 δίδωμι (Active Indicative) <https://ugg.readthedocs.io/en/latest/paradigms.html#id8>`_
-  *  Table V-AT-D1a δίδομι Middle/passive indicative
-  *  Table V-AT-D2 ἵστημι (Active Indicative)
+  *  `Table V-AT-D1a δίδομι Middle/passive indicative <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d1a-middle-passive-indicative>`_
+  *  `Table V-AT-D2 ἵστημι (Active Indicative) <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d2-active-indicative>`_
   *  Table V-AT-D3 τίθημι (Active Indicative)
   *  Table V-AT-D3a τίθημι middle/passive indicative
 
-The Paradigms also contain forms of verbs in the Perfect tense for the subjunctive mood, imperative mood, participles, and infinitives.    See Paradigms – `Verbs Subjunctive https://ugg.readthedocs.io/en/latest/paradigms.html#verbs-subjunctive`_ , verbs Imperative, Verbs Infinitives, and Participles.
+The Paradigms also contain forms of verbs in the Perfect tense for the subjunctive mood, imperative mood, participles, and infinitives.    See Paradigms - `Verbs Subjunctive https://ugg.readthedocs.io/en/latest/paradigms.html#verbs-subjunctive`_ , verbs Imperative, Verbs Infinitives, and Participles.
 
 In this section we will describe the formation of Perfect Verbs with a theme vowel in:
 •	The 1st and 2nd Perfect Active Indicative
@@ -91,7 +91,7 @@ In this section we will describe the formation of Perfect Verbs with a theme vow
 •	Athematic Perfect Indicative
 
 
-Form – First and Second Perfect Active Indicative for Thematic Verbs
+Form - First and Second Perfect Active Indicative for Thematic Verbs
 
 As with the Aorist Tense, The Koine Greek language has two ways of forming the Perfect Tense. 
 •	1st Perfect, and
@@ -102,7 +102,7 @@ The vast majority of Perfect verbs in the New Testament are 1st Perfect Verbs.
 
 •	A 1st Perfect verb uses the same verbal stem that is used in the present tense.
 
-•	A 2nd Perfect verb is first formed by making a change to the present tense stem for the verb.  The change in the stem let’s the reader know that it is a 2nd Perfect verb
+•	A 2nd Perfect verb is first formed by making a change to the present tense stem for the verb.  The change in the stem let's the reader know that it is a 2nd Perfect verb
 
 	
 Table V-PT-2 Perfect Active Indicative Verbs
@@ -123,7 +123,7 @@ Plural
 2 person	λελύκατε	γεγράφατε
 3 person	λελύκασι(ν)	γεγράφασι(ν)
 
- 
+
 Table V-PT-2a Formation of First Perfect Active Indicative Verb
 
 Table V-PT-2a
@@ -141,8 +141,7 @@ We have loosed
 
 
 The 1st Perfect Active Indicative for a verb is formed by using:
-a.	Reduplication – 
-a)	 or duplicating the first consonant of the tense stem for the verb (for verbs that begin with a single consonant) and adding and epsilon.)
+a.	Reduplication -  or duplicating the first consonant of the tense stem for the verb (for verbs that begin with a single consonant) and adding and epsilon.)
 b.	Plus The first perfect active tense stem
 c.	Plus the tense formative (κα)
 d.	Plus the primary active personal ending.
@@ -166,7 +165,7 @@ e)	Contract verbs will lengthen the contract vowel as in the case of φιλέω 
 f)	Perfect verb stems that begin with two consonants, usually prefix an epsilon.  For example γινὠσκω -> ἔγνωκα (I have known/ I have come to know) or έγνώκαμεν.  In this case the presence of the tense formative “κα” will inform the reader that this is a perfect verb and the “ ε” at the beginning of the verb is a reduplication. Therefore, this is not an imperfect or aorist verb.
 
 
-Form – The Second Perfect Active Indicative verb is formed by:
+Form - The Second Perfect Active Indicative verb is formed by:
 
 There are only a few Second Perfect verbs in the New Testament from 26 different stems.  Some of the most frequent are   ἀκούω -> ἀλήκοα (I have heard), γίνομαι -> γέγονα (I have become), γράφω -> γέγραφα (I have written) , ἔρχομαι -> ἐλήλυθα (I have gone),  λαμβάνω -> εἴληφα ( I have received),  πείθω -> πἐποιθα (I have persuaded), and οἴδα (I Know)  (which is a perfect verb that is used in Koine Greek with a present tense meaning. 
 
@@ -252,7 +251,7 @@ Examples:
 Intensive Perfect 
 	The perfect tense places an emphasis on the results or present state of the subject as a result from an action completed in the past.  This is the most common use of the Perfect Tense. It  is referred to as the Intensive Perfect.   However, the use of the perfect tense does NOT imply that the results will continue forever.   This type of conclusion must be made on the basis of other factors.
 
-Example V-PT-7a   Intensive Perfect Tense – emphasis on Current State
+Example V-PT-7a   Intensive Perfect Tense - emphasis on Current State
 
 Mark 5:34
 ἡ πίστις σου σέσωκέν σε
@@ -261,7 +260,7 @@ The faith of you it has healed  you
 
 your faith has healed you
 
-Example V-PT-7b   Intensive Perfect Tense – emphasis on action that resulted in current state.
+Example V-PT-7b   Intensive Perfect Tense - emphasis on action that resulted in current state.
 1 Jn 1:3
 ὃ ἑωράκαμεν, καὶ ἀκηκόαμεν, ἀπαγγέλλομεν καὶ ὑμῖν
 ho heōrakamen, kai akēkoamen, apangellomen kai hymin
@@ -271,7 +270,7 @@ what we have seen and heard, we declare also to you
 
 
 
-Example V-PT-7c – Intensive Perfect – current condition only
+Example V-PT-7c - Intensive Perfect - current condition only
 	Acts 24:27 is an example of the emphasis on the present State of Paul as a result of his having been placed in prison in the past.  His current state is “imprisoned.”  It is also clear from the context, there is a possibility of his release by the next governor.  The emphasis is on his current condition as a result of past action, not on what may or may not happen in the future.
 
 Acts 24:27	
@@ -282,9 +281,9 @@ The Felix  left         the Paul        bound/imprisoned
 Felix left Paul imprisoned.
 
 Example V-PT-7d
-The Intensive Perfect – imagined event
+The Intensive Perfect - imagined event
 
-	The use of the perfect tense is based on the view point of the speaker.  The speaker’s viewpoint may or may not be true.
+	The use of the perfect tense is based on the view point of the speaker.  The speaker's viewpoint may or may not be true.
 
 Mark 6:14
 ἔλεγον, ὅτι "Ἰωάννης ὁ βαπτίζων ἐγήγερται ἐκ νεκρῶν
@@ -306,7 +305,7 @@ The for married woman to the while living husband is bound by law, but if he die
 For the married woman remains bound by law to the living husband, but if the husband dies, she has been released from the law
 
 
-Example V-PT-8 Aoristic Perfect – 
+Example V-PT-8 Aoristic Perfect - 
 
  In some cases it appears that the Perfect Tense is being used with the same meaning as  the Aorist tense. It simply refers to an action that occurred in the past.   However, some grammarians suggest that one use caution in coming to this conclusion.  If the verb in the perfect tense occurs with other verbs in the aorist tense, the translator must ask why is this verb in the perfect tense?   What, at first glance, seems to be a simple statement about an event that occurred in the past, may be placed in the perfect tense to dramatize or place a special emphasis on this event.
 
