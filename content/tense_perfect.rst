@@ -60,12 +60,12 @@ and try to note the significance of the meaning that is being conveyed by use of
 
 The Perfect Tense is principally used to place an emphasis on the results or present condition that now exists from the past action.
 This condition may have come into being as a result of a single action in the past or as a result of a series of actions.
-As we have already stated, there is no implication (based on the use of the perfect tense) that these results will continue into the future, merely that they are still present at the time the speaker makes the statement.  In Example V-TP-7d we give an example where the people only imagined that an event had occurred, but their perception was incorrect.
+As already stated, there is no implication (based on the use of the perfect tense) that these results will continue into the future, merely that they are still present at the time the speaker makes the statement.  In Example V-TP-7d we give an example where the people only imagined that an event had occurred, but their perception was incorrect.
 
 Based on the context, the use of the Perfect Tense may be classified into these four separate categories: 
 
   1)  **Intensive Perfect** – The predominate use of the Perfect tense is referred to as the Intensive Perfect.  Because the Perfect is a stative tense, the focus is on the resultant state as opposed to the completed act.   However, depending upon the context, there may be a greater emphasis on the present condition; or of the completed action that resulted in the present condition in which case the use of a helping verb is appropriate.   
-  2)  **Gnomic Perfect** – The Gnomic Perfect refers to state that could result from an action that could occur at any time.   
+  2)  **Gnomic Perfect** – The Gnomic Perfect refers to a state that results from an action that can occur at any time (an event that can be assumed to occur because it happens so frequently).   
   3)  **Aoristic Perfect** -  In some cases it appears that the Perfect Tense is being used with the same meaning as  the Aorist tense – to indicate an action that occurred in the past.   However, some grammarians suggest that one use caution in coming to this conclusion.  If the verb in the perfect tense occurs with other verbs in the aorist tense, the translator must ask why is this verb in the perfect tense?   Or what seems to be a simple statement may be placed in the perfect tense to dramatize or place a special emphasis on this event.     
   4)  **Present Force Perfect** -  It is frequently suggested that Οἶδα, although in the Perfect Tense, is used with a Present Tense meaning.   Οἶδα is a stative verb and so lends itself to the Perfect Tense, however other stative verbs appear in the Present Tense such as εἴμι.  These verbs could be classified as an **Intensive Perfect** with a greater emphasis on the present condition.
 
@@ -75,12 +75,13 @@ Form:
 The basic form for a verb in the indicative Perfect tense is given in `Verb Master Table 4-Primary and Secondary Endings of Verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#table-4-primary-and-secondary-endings-of-verbs>`_ and `Verb-Master Table 8-The Perfect Tenses <https://ugg.readthedocs.io/en/latest/paradigms.html#table-8-the-perfect-tenses>`_ of the Master paradigm.
 
 See also:
-Table V-IT-4 Indicative Verbs built on the Perfect and Perfect Middle/Passive Stem
-Table V-AT-D1 δίδωμι (Active Indicative)
-Table V-AT-D1a δίδομι Middle/passive indicative
-Table V-AT-D2 ἵστημι (Active Indicative)
-Table V-AT-D3 τίθημι (Active Indicative)
-Table V-AT-D3a τίθημι middle/passive indicative
+
+  *  `Table V-IT-4 Indicative Verbs built on the Perfect and Perfect Middle/Passive Stem <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-it-4-indicative-verbs-built-on-the-perfect-and-perfect-middle-passive-stem>`_
+  *  `Table V-AT-D1 δίδωμι (Active Indicative) <https://ugg.readthedocs.io/en/latest/paradigms.html#id8>`_
+  *  Table V-AT-D1a δίδομι Middle/passive indicative
+  *  Table V-AT-D2 ἵστημι (Active Indicative)
+  *  Table V-AT-D3 τίθημι (Active Indicative)
+  *  Table V-AT-D3a τίθημι middle/passive indicative
 
 The Paradigms also contain forms of verbs in the Perfect tense for the subjunctive mood, imperative mood, participles, and infinitives.    See Paradigms – `Verbs Subjunctive https://ugg.readthedocs.io/en/latest/paradigms.html#verbs-subjunctive`_ , verbs Imperative, Verbs Infinitives, and Participles.
 
