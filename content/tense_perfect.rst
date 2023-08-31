@@ -85,7 +85,7 @@ See also:
 
 The Paradigms also contain forms of verbs in the Perfect tense for the subjunctive mood, imperative mood, participles, and infinitives.  See Paradigms:
 
-  *  `Verbs Subjunctive https://ugg.readthedocs.io/en/latest/paradigms.html#verbs-subjunctive`_ ,
+  *  `Verbs Subjunctive <https://ugg.readthedocs.io/en/latest/paradigms.html#verbs-subjunctive>`_ ,
   *  `verbs Imperative <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-mt-1a-active-imperative-verbs-thematic-uncontracted>`_ and `Table V-MT-2a Middle-Passive Uncontracted Verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-mt-2a-middle-passive-uncontracted-verbs>`_ , 
   *  `Verbs Infinitives <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-nt-1-verb-infinitive-with-theme-vowels>`_, and 
   *  `Participles <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-p-t4-perfect-participles>`_.
