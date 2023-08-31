@@ -113,22 +113,84 @@ The vast majority of Perfect verbs in the New Testament are 1st Perfect Verbs.
 
 	
 Table V-PT-2 Perfect Active Indicative Verbs
-	Built on the verb  λύω (I loose) and γράφω (I write)
+^^^^^^^
 
-Table V-PT-2
-Indicative Verbs with a Theme Vowel
-Based on the Perfect Active Tense Stem
+Built on the verb  λύω (I loose) and γράφω (I write)
 
+Table V-PT-2  Indicative Verbs with a Theme Vowel Based on the Perfect Active Tense Stem
 
-	1st Perfect	2nd Perfect
-Singular  		
-1 person	λέλυκα	γέγραφα
-2 person	λέλυκας	γέγραφας
-3 person	λέλυκε(ν)	γέγραφε(ν)
-Plural		
-1 person	λελύκαμεν	γεγράφαμεν
-2 person	λελύκατε	γεγράφατε
-3 person	λελύκασι(ν)	γεγράφασι(ν)
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-34fe{background-color:#c0c0c0;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-kt43{background-color:#fffc9e;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-rvyq{border-color:inherit;font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-kt43" colspan="3">Table V-PT-2<br>Perfect Active<br>Indicative Verbs (with a Theme Vowel)<br>Based on the Perfect Active Tense Stem</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-0lax"></td>
+        <td class="tg-amwm">1st Perfect</td>
+        <td class="tg-amwm">2nd Perfect</td>
+      </tr>
+      <tr>
+        <td class="tg-rvyq">Single</td>
+        <td class="tg-34fe"></td>
+        <td class="tg-34fe"></td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">1 Person</td>
+        <td class="tg-c3ow">λέλυκα</td>
+        <td class="tg-c3ow">γέγραφα</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">2 Person</td>
+        <td class="tg-c3ow">λέλυκας</td>
+        <td class="tg-c3ow">γέγραφας</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3 Person</td>
+        <td class="tg-c3ow">λέλυκε(ν)</td>
+        <td class="tg-c3ow">γέγραφε(ν)</td>
+      </tr>
+      <tr>
+        <td class="tg-rvyq">Plural</td>
+        <td class="tg-34fe"></td>
+        <td class="tg-34fe"></td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">1 Person</td>
+        <td class="tg-c3ow">λελύκαμεν</td>
+        <td class="tg-c3ow">γεγράφαμεν</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">2 Person</td>
+        <td class="tg-c3ow">λελύκατε</td>
+        <td class="tg-c3ow">γεγράφατε</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3 Person</td>
+        <td class="tg-c3ow">λελύκασι(ν)</td>
+        <td class="tg-c3ow">γεγράφασι(ν)</td>
+      </tr>
+    </tbody>
+    </table></br>
+
 
 
 Table V-PT-2a Formation of First Perfect Active Indicative Verb
