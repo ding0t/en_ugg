@@ -194,6 +194,7 @@ Table V-PT-2  Indicative Verbs with a Theme Vowel Based on the Perfect Active Te
 
 
 Table V-PT-2a Formation of First Perfect Active Indicative Verb
+^^^^
 
 Table V-PT-2a
 Formation of
@@ -278,20 +279,73 @@ Personal Ending
 I have been loosed
 
 
-Table V-PT-5
-Indicative Verbs with a Theme Vowel
-Based on the Perfect Middle/Passive
-Tense Stem
-	λύω
-I loose	
-Singular  		
-1 person	λέλυμαι	
-2 person	λέλυσαι	
-3 person	λέλυται	
-Plural		
-1 person	λελύμεθα	
-2 person	λελύσθε	
-3 person	λελύνται	
+Table V-PT-5  Indicative Verbs with a Theme Vowel Based on the Perfect Middle/Passive Tense Stem
+^^^^
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-34fe{background-color:#c0c0c0;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-kt43{background-color:#fffc9e;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-rvyq{border-color:inherit;font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-kt43" colspan="2">Table V-PT-5<br>Perfect Active<br>Indicative Verbs (with a Theme Vowel)<br>Based on the Perfect Middle/Passive <br>Tense Stem</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-0lax"></td>
+        <td class="tg-amwm"><span style="font-weight:bold">λύω</span><br>I loose</td>
+      </tr>
+      <tr>
+        <td class="tg-rvyq">Single</td>
+        <td class="tg-34fe"></td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">1 Person</td>
+        <td class="tg-c3ow">λέλυμαι</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">2 Person</td>
+        <td class="tg-c3ow">λέλυσαι</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3 Person</td>
+        <td class="tg-c3ow">λέλυται</td>
+      </tr>
+      <tr>
+        <td class="tg-rvyq">Plural</td>
+        <td class="tg-34fe"></td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">1 Person</td>
+        <td class="tg-c3ow">λελύμεθα</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">2 Person</td>
+        <td class="tg-c3ow">λελύσθε</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3 Person</td>
+        <td class="tg-c3ow">λελύνται</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+
 Formation of Athematic Perfect Indicative Verbs
 As with the formation of Perfect verbs with a theme vowel:
 •	Athematic verbs reduplicate the initial consonant with an epsilon. And
