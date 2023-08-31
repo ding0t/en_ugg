@@ -66,7 +66,7 @@ Based on the context, the use of the Perfect Tense may be classified into these 
 
   1)  **Intensive Perfect** -  The predominate use of the Perfect tense is referred to as the Intensive Perfect.  Because the Perfect is a stative tense, the focus is on the resultant state as opposed to the completed act.   However, depending upon the context, there may be a greater emphasis on the present condition; or of the completed action that resulted in the present condition in which case the use of a helping verb is appropriate.   
   2)  **Gnomic Perfect** - The Gnomic Perfect refers to a state that results from an action that can occur at any time (an event that can be assumed to occur because it happens so frequently).   
-  3)  **Aoristic Perfect** -  In some cases it appears that the Perfect Tense is being used with the same meaning as  the Aorist tense - to indicate an action that occurred in the past.   However, some grammarians suggest that one use caution in coming to this conclusion.  If the verb in the perfect tense occurs with other verbs in the aorist tense, the translator must ask why is this verb in the perfect tense?   Or what seems to be a simple statement may be placed in the perfect tense to dramatize or place a special emphasis on this event.     
+  3)  **Aoristic Perfect** -  In some cases it appears that the Perfect Tense is being used with the same meaning as  the Aorist tense - to indicate an action that occurred in the past.   However, some grammarians suggest that the translator use caution in coming to this conclusion.  If the verb in the perfect tense occurs with other verbs in the aorist tense, the translator must ask why is this verb in the perfect tense?   Or what seems to be a simple statement may be placed in the perfect tense to dramatize or place a special emphasis on this event.     
   4)  **Present Force Perfect** -  It is frequently suggested that Οἶδα, although in the Perfect Tense, is used with a Present Tense meaning.   Οἶδα is a stative verb and so lends itself to the Perfect Tense, however other stative verbs appear in the Present Tense such as εἴμι.  These verbs could be classified as an **Intensive Perfect** with a greater emphasis on the present condition.
 
 Form:
@@ -80,10 +80,15 @@ See also:
   *  `Table V-AT-D1 δίδωμι (Active Indicative) <https://ugg.readthedocs.io/en/latest/paradigms.html#id8>`_
   *  `Table V-AT-D1a δίδομι Middle/passive indicative <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d1a-middle-passive-indicative>`_
   *  `Table V-AT-D2 ἵστημι (Active Indicative) <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d2-active-indicative>`_
-  *  Table V-AT-D3 τίθημι (Active Indicative)
-  *  Table V-AT-D3a τίθημι middle/passive indicative
+  *  `Table V-AT-D3 τίθημι (Active Indicative) <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d3-active-indicative>`_
+  *  `Table V-AT-D3a τίθημι middle/passive indicative <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d3a-middle-passive-indicative>`>
 
-The Paradigms also contain forms of verbs in the Perfect tense for the subjunctive mood, imperative mood, participles, and infinitives.    See Paradigms - `Verbs Subjunctive https://ugg.readthedocs.io/en/latest/paradigms.html#verbs-subjunctive`_ , verbs Imperative, Verbs Infinitives, and Participles.
+The Paradigms also contain forms of verbs in the Perfect tense for the subjunctive mood, imperative mood, participles, and infinitives.  See Paradigms:
+
+  *  `Verbs Subjunctive https://ugg.readthedocs.io/en/latest/paradigms.html#verbs-subjunctive`_ ,
+  *  `verbs Imperative <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-mt-1a-active-imperative-verbs-thematic-uncontracted>`_ and <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-mt-2a-middle-passive-uncontracted-verbs>`_ , 
+  *  `Verbs Infinitives <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-nt-1-verb-infinitive-with-theme-vowels>`_, and 
+  *  `Participles <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-p-t4-perfect-participles>`_.
 
 In this section we will describe the formation of Perfect Verbs with a theme vowel in:
 •	The 1st and 2nd Perfect Active Indicative
