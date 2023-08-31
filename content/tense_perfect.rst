@@ -91,23 +91,25 @@ The Paradigms also contain forms of verbs in the Perfect tense for the subjuncti
   *  `Participles <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-p-t4-perfect-participles>`_.
 
 In this section we will describe the formation of Perfect Verbs with a theme vowel in:
-•	The 1st and 2nd Perfect Active Indicative
-•	Perfect Middle/Passive Indicative
-•	Athematic Perfect Indicative
+
+  *  The 1st and 2nd Perfect Active Indicative
+  *  Perfect Middle/Passive Indicative
+  *  Athematic Perfect Indicative
 
 
 Form - First and Second Perfect Active Indicative for Thematic Verbs
+^^^^^
 
 As with the Aorist Tense, The Koine Greek language has two ways of forming the Perfect Tense. 
-•	1st Perfect, and
-•	2nd Perfect
 
-There is no difference in meaning between a 1st Perfect verb and a 2nd Perfect Verb.   They are both perfect verbs.   If it helps, you may think of it as a room (the Perfect Tense room) and the Perfect Tense room has two doors.  It does not matter which door you use to enter the room.  In both cases the word is now in the Perfect Tense room.
+  *	 1st Perfect, and
+  *  2nd Perfect
+
+There is **no difference in meaning** between a 1st Perfect verb and a 2nd Perfect Verb.   They are both perfect verbs.   If it helps, you may think of it as a room (the Perfect Tense room) and the Perfect Tense room has two doors.  It does not matter which door you use to enter the room.  In both cases the word is now in the Perfect Tense room.
 The vast majority of Perfect verbs in the New Testament are 1st Perfect Verbs.
 
-•	A 1st Perfect verb uses the same verbal stem that is used in the present tense.
-
-•	A 2nd Perfect verb is first formed by making a change to the present tense stem for the verb.  The change in the stem let's the reader know that it is a 2nd Perfect verb
+  *  1st Perfect verb uses the same verbal stem that is used in the present tense.
+  *  2nd Perfect verbs are first formed by making a change to the present tense stem for the verb.  The change in the stem let's the reader know that it is a 2nd Perfect verb
 
 	
 Table V-PT-2 Perfect Active Indicative Verbs
