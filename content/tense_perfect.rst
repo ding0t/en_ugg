@@ -270,6 +270,57 @@ The 1st Perfect Active Indicative for a verb is formed by using:
 
     (b)  Exception: Verbs that begin with a diphthong may or may not lengthen.   For Example: εὐλογέω -> εὐλόγηκα (I have blessed)
     (c)  For aspirated verbs that begin with a phi(φ), xi (χ), or theta (θ) in the third column of the `Square of Stops Table <https://ugg.readthedocs.io/en/latest/paradigms.html#table-11-square-of-stops>`_.  The reduplication will cause the consonant to lose its aspiration.  Therefore, the phi will change to a pi (π), the xi to a kapa (κ), and the theta to a tau (τ).  This makes it easier to pronounce.  The consonants in the first two columns (Voiceless and Voiced) will reduplicate like any other consonant.   For Example: (φιλέω -> πεφίληκα (I have loved).
+    
+    .. raw:: html
+
+        <style type="text/css">
+        .tg  {border-collapse:collapse;border-spacing:0;}
+        .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+          overflow:hidden;padding:10px 5px;word-break:normal;}
+        .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+          font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+        .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+        .tg .tg-baqh{text-align:center;vertical-align:top}
+        .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+        .tg .tg-kt43{background-color:#fffc9e;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+        .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+        .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+        .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+        </style>
+        <table class="tg">
+        <thead>
+          <tr>
+            <th class="tg-kt43" colspan="4">Square of Stops</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="tg-c3ow"></td>
+            <td class="tg-7btt">Voiceless</td>
+            <td class="tg-7btt">Voiced</td>
+            <td class="tg-fymr">Aspirated</td>
+          </tr>
+          <tr>
+            <td class="tg-7btt">Labiel</td>
+            <td class="tg-3xi5">π</td>
+            <td class="tg-c3ow">β</td>
+            <td class="tg-c3ow">φ</td>
+          </tr>
+          <tr>
+            <td class="tg-7btt">Velar</td>
+            <td class="tg-c3ow">κ</td>
+            <td class="tg-c3ow">γ</td>
+            <td class="tg-c3ow">χ</td>
+          </tr>
+          <tr>
+            <td class="tg-1wig">Dental</td>
+            <td class="tg-baqh">τ</td>
+            <td class="tg-baqh">δ</td>
+            <td class="tg-baqh">θ</td>
+          </tr>
+        </tbody>
+        </table></br>
+    
     (d)  For compound verbs, the reduplication will take place after the prefix with the verbal part of the compound verb.  For example:  καταβαίνω -> καταβέβηκα (I have come down).
     (e)  Contract verbs will lengthen the contract vowel as in the case of φιλέω in paragraph  c) above.   The epsilon lengthened to an eta. (φιλέω -> πεφίληκα ( I have loved).  
     (f)  Perfect verb stems that begin with two consonants, usually prefix an epsilon.  For example γινὠσκω -> ἔγνωκα (I have known/ I have come to know) or έγνώκαμεν.  In this case the presence of the tense formative “κα” will inform the reader that this is a perfect verb and the “ ε” at the beginning of the verb is a reduplication. Therefore, this is not an imperfect or aorist verb.
