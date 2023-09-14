@@ -327,26 +327,78 @@ The 1st Perfect Active Indicative for a verb is formed by using:
 
 
 Form - The Second Perfect Active Indicative verb is formed by:
+^^^^
 
-There are only a few Second Perfect verbs in the New Testament from 26 different stems.  Some of the most frequent are   ἀκούω -> ἀλήκοα (I have heard), γίνομαι -> γέγονα (I have become), γράφω -> γέγραφα (I have written) , ἔρχομαι -> ἐλήλυθα (I have gone),  λαμβάνω -> εἴληφα ( I have received),  πείθω -> πἐποιθα (I have persuaded), and οἴδα (I Know)  (which is a perfect verb that is used in Koine Greek with a present tense meaning. 
+There are only a few Second Perfect verbs in the New Testament from 26 different stems.  Some of the most frequent are:
+
+  *  ἀκούω -> ἀλήκοα (I have heard)
+  *  γίνομαι -> γέγονα (I have become)
+  *  γράφω -> γέγραφα (I have written)
+  *  ἔρχομαι -> ἐλήλυθα (I have gone)
+  *  λαμβάνω -> εἴληφα ( I have received)
+  *  πείθω -> πἐποιθα (I have persuaded), and
+  *  οἴδα (I Know)  (which is a perfect verb that is used in Koine Greek with a present tense meaning. 
 
 Table V-PT-3 Formation of Second Perfect Active Indicative Verb
 
-Table V-PT-3
-Formation of
-(Second)  Perfect Active Indicative
-for Thematic Verbs
-Reduplication	+	1st  Perfect active
-Tense
-Stem	+	Tense
-Formative	+	Primary
-Active
-Personal Ending
-γε		γραφ	+	α	+	-	->	γἐγραφα
-I have written
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-7g6k{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-hafo" colspan="9"><span style="font-weight:bold">Table V-PT-3</span><br>Formation of <br>Second Perfect Active Indicative<br>for Thematic Verbs</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-c3ow">Reduplication</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-c3ow">1st Perfect Active<br>Tense Stem</td>
+        <td class="tg-fymr">+</td>
+        <td class="tg-0lax">Tense<br>Formative</td>
+        <td class="tg-1wig">+</td>
+        <td class="tg-0lax">Primary<br>Active<br>Personal <br>Ending</td>
+        <td class="tg-1wig"></td>
+        <td class="tg-0lax"></td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">γε</td>
+        <td class="tg-7g6k">+</td>
+        <td class="tg-c3ow">γραφ</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-baqh">α</td>
+        <td class="tg-1wig">+</td>
+        <td class="tg-amwm">-</td>
+        <td class="tg-1wig">-&gt;</td>
+        <td class="tg-0lax">γέγραφα</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow" colspan="9">I have written</td>
+      </tr>
+    </tbody>
+    </table></br>
+
 
 
 Formation of Perfect Middle/Passive Indicative Verb
+^^^^
+
 
 	Perfect Middle/Passive indicative verbs are formed from the Perfect Middle/Passive tense stem.
 
