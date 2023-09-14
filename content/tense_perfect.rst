@@ -270,7 +270,7 @@ The 1st Perfect Active Indicative for a verb is formed by using:
 
     (b)  Exception: Verbs that begin with a diphthong may or may not lengthen.   For Example: εὐλογέω -> εὐλόγηκα (I have blessed)
     (c)  For aspirated verbs that begin with a phi(φ), xi (χ), or theta (θ) in the third column of the `Square of Stops Table <https://ugg.readthedocs.io/en/latest/paradigms.html#table-11-square-of-stops>`_.  The reduplication will cause the consonant to lose its aspiration.  Therefore, the phi will change to a pi (π), the xi to a kapa (κ), and the theta to a tau (τ).  This makes it easier to pronounce.  The consonants in the first two columns (Voiceless and Voiced) will reduplicate like any other consonant.   For Example: (φιλέω -> πεφίληκα (I have loved).
-	  (d)  For compound verbs, the reduplication will take place after the prefix with the verbal part of the compound verb.  For example:  καταβαίνω -> καταβέβηκα (I have come down).
+    (d)  For compound verbs, the reduplication will take place after the prefix with the verbal part of the compound verb.  For example:  καταβαίνω -> καταβέβηκα (I have come down).
     (e)  Contract verbs will lengthen the contract vowel as in the case of φιλέω in paragraph  c) above.   The epsilon lengthened to an eta. (φιλέω -> πεφίληκα ( I have loved).  
     (f)  Perfect verb stems that begin with two consonants, usually prefix an epsilon.  For example γινὠσκω -> ἔγνωκα (I have known/ I have come to know) or έγνώκαμεν.  In this case the presence of the tense formative “κα” will inform the reader that this is a perfect verb and the “ ε” at the beginning of the verb is a reduplication. Therefore, this is not an imperfect or aorist verb.
 
