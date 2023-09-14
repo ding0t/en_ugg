@@ -262,9 +262,9 @@ The 1st Perfect Active Indicative for a verb is formed by using:
       *	 an eta (η)  for verbs beginning with an alpha (α) or an epsilon (ε), or 
       *  an omega (ω) for verbs beginning with an omicron (ο)
 
-        α -> η
-        ε  -> η
-        ο  -> ω
+        *  α -> η
+        *  ε  -> η
+        *  ο  -> ω
 	
        This is known as “vocalic reduplication” and is the same as with the aorist or imperfect tenses.  The tense formative “κα” will make it clear that this is a perfect tense verb and not an aorist or imperfect tense verb. For example:  αἴρω -> ἧρκα (I have raised up)
 
