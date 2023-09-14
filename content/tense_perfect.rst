@@ -248,37 +248,27 @@ Table V-PT-2a Formation of First Perfect Active Indicative Verb
     
 
 
-
-Table V-PT-2a
-Formation of
-(First)  Perfect Active Indicative
-for Thematic Verbs
-Reduplication	+	1st  Perfect active
-Tense
-Stem	+	Tense
-Formative	+	Primary
-Active
-Personal Ending
-λε		λυ	+	κα	+	μεν	->	λελύκαμεν
-We have loosed
-
-
 The 1st Perfect Active Indicative for a verb is formed by using:
-a.	Reduplication -  or duplicating the first consonant of the tense stem for the verb (for verbs that begin with a single consonant) and adding and epsilon.)
-b.	Plus The first perfect active tense stem
-c.	Plus the tense formative (κα)
-d.	Plus the primary active personal ending.
 
-Note on Reduplication:
-a.	for verbs that begin with a vowel the beginning vowel lengthens and becomes:
-i.	 an eta (η)  for verbs beginning with an alpha (α) or an epsilon (ε), or 
-ii.	an omega (ω) for verbs beginning with an omicron (ο)
+  1.  Reduplication -  or duplicating the first consonant of the tense stem for the verb (for verbs that begin with a single consonant) and adding and epsilon.)
+  2.  Plus The first perfect active tense stem
+  3.  Plus the tense formative (κα)
+  4.  Plus the primary active personal ending.
 
-α -> η
-ε  -> η
-ο  -> ω
-	This is known as “vocalic reduplication” and is the same as with the aorist or imperfect tenses.  The tense formative “κα” will make it clear that this is a perfect tense verb and not an aorist or imperfect tense verb. For example:  αἴρω -> ἧρκα (I have raised up)
-b)	Exception: Verbs that begin with a diphthong may or may not lengthen.   For Example: Εὐλογέω -> εὐλόγηκα (I have blessed)
+  Note on Reduplication:
+
+    (a)	 for verbs that begin with a vowel the beginning vowel lengthens and becomes:
+
+      *	 an eta (η)  for verbs beginning with an alpha (α) or an epsilon (ε), or 
+      *  an omega (ω) for verbs beginning with an omicron (ο)
+
+        α -> η
+        ε  -> η
+        ο  -> ω
+	
+       This is known as “vocalic reduplication” and is the same as with the aorist or imperfect tenses.  The tense formative “κα” will make it clear that this is a perfect tense verb and not an aorist or imperfect tense verb. For example:  αἴρω -> ἧρκα (I have raised up)
+
+    (b)  Exception: Verbs that begin with a diphthong may or may not lengthen.   For Example: Εὐλογέω -> εὐλόγηκα (I have blessed)
 
 c)	For aspirated verbs that begin with a phi(φ), xi (χ), or theta (θ) in the third column of the Square of Stops Table.  The reduplication will cause the consonant to lose its aspiration.  Therefore, the phi will change to a pi (π), the xi to a kapa (κ), and the theta to a tau (τ).  This makes it easier to pronounce.  The consonants in the first two columns (Voiceless and Voiced) will reduplicate like any other consonant.   For Example: (φιλέω -> πεφίληκα (I have loved).
 	
