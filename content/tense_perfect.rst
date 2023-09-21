@@ -649,7 +649,7 @@ As with the formation of Perfect verbs with a theme vowel:
     </table></br>
 
 
-[Νοτε]  * Because there is no vowel between the tense formative and the Personal ending the sigma does not drop out and we have the true second person singular Middle/Passive ending.
+[Νοτε]  * Because there is no vowel between the tense formative and the Personal ending, the sigma does not drop out and we have the true second person singular Middle/Passive ending.
 
 	**  There are no occurrences for ἵστημι in the Perfect Middle/Passive Indicative.
 
