@@ -455,6 +455,7 @@ There are no Second Perfects in the Middle/Passive because there is no tense for
     </table></br>
 
 
+
 Table V-PT-5  Indicative Verbs with a Theme Vowel Based on the Perfect Middle/Passive Tense Stem
 ^^^^
 
