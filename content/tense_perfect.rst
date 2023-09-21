@@ -531,26 +531,130 @@ As with the formation of Perfect verbs with a theme vowel:
   *  Athematic verbs reduplicate the initial consonant with an epsilon. and
   *  Use κα for a tense formative 
 
-  
-Table V-PT-6
-Perfect Athematic Indicative Tense Verbs 
+.. raw:: html
 
-	δίδωμι	ἵστημι	τίθημι
-	Active	Middle/Passive	Active	Middle/Passive	Active	Middle/Passive
-Singular  						
-1 person	δέδωκα	δέδομαι	ἕστηκα	- **	τέθεικα	τέθειμαι
-2 person	δέδωκας	Δέδοσαι  *	ἕσηκας	-	τέθεικας	τέθεισαι  *
-3 person	δέδωκε(ν)	δέδοται	ἕστκε(ν)	-	Τέθεικε(ν)	τέθειται
-Plural						
-1 person	δεδώκαμεν	δεδόμεθα	ἑστήκαμεν	-	τεθείκαμεν	τεθείμεθα
-2 person	δεδώκατε	δέδοσθε	ἑστήκατε	-	τεθείκατε	τέθεισθε
-3 person	δέδωκαν	δέδονται	ἑστήκασι(ν)	-	Τεθείκασι(ν)	τέθεινται
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-nb2d{border-color:inherit;font-size:100%;text-align:center;vertical-align:top}
+    .tg .tg-34fe{background-color:#c0c0c0;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-4erg{border-color:inherit;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-rvyq{border-color:inherit;font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-hafo" colspan="7"><span style="font-weight:bold">Table V-PT-6</span><br>Perfect Athematic Indicative Verbs</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-c3ow"></td>
+        <td class="tg-7btt" colspan="2">δίδωμι</td>
+        <td class="tg-7btt" colspan="2">ἴστημι</td>
+        <td class="tg-7btt" colspan="2">τίθημι</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow">Active</td>
+        <td class="tg-0pky">Middle<br>Passive</td>
+        <td class="tg-0pky">Active</td>
+        <td class="tg-0pky">Middle<br>Passive</td>
+        <td class="tg-0pky">Active</td>
+        <td class="tg-0pky">Middle<br>Passive</td>
+      </tr>
+      <tr>
+        <td class="tg-rvyq">Singular</td>
+        <td class="tg-34fe"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">1 person</td>
+        <td class="tg-c3ow">δέδωκα</td>
+        <td class="tg-c3ow">δέδομαι</td>
+        <td class="tg-c3ow">ἕστηκα</td>
+        <td class="tg-nb2d">-&nbsp;&nbsp;**</td>
+        <td class="tg-c3ow">τέθεικα</td>
+        <td class="tg-c3ow">τέθειμαι</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">2 person</td>
+        <td class="tg-c3ow">δέδωκας</td>
+        <td class="tg-c3ow">δέδοσαι *</td>
+        <td class="tg-c3ow">ἕστηκας</td>
+        <td class="tg-c3ow">-</td>
+        <td class="tg-c3ow">τέθεικας</td>
+        <td class="tg-c3ow">τέθεισαι *</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">3 person</td>
+        <td class="tg-c3ow">δέδωκε(ν)</td>
+        <td class="tg-c3ow">δέδοται</td>
+        <td class="tg-c3ow">ἕστηκε(ν)</td>
+        <td class="tg-c3ow">-</td>
+        <td class="tg-c3ow">τέθεικε(ν)</td>
+        <td class="tg-c3ow">τέθειται</td>
+      </tr>
+      <tr>
+        <td class="tg-4erg">Plural</td>
+        <td class="tg-34fe"></td>
+        <td class="tg-34fe"></td>
+        <td class="tg-34fe"></td>
+        <td class="tg-34fe"></td>
+        <td class="tg-34fe"></td>
+        <td class="tg-34fe"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">1 person</td>
+        <td class="tg-c3ow">δεδώκαμεν</td>
+        <td class="tg-c3ow">δεδόμεθα</td>
+        <td class="tg-c3ow">ἑστήκαμεν</td>
+        <td class="tg-c3ow">-</td>
+        <td class="tg-c3ow">τεθείκαμεν</td>
+        <td class="tg-c3ow">τεθείμεθα</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">2 person</td>
+        <td class="tg-c3ow">δεδώκατε</td>
+        <td class="tg-c3ow">δέδοσθε</td>
+        <td class="tg-c3ow">ἑστήκατε</td>
+        <td class="tg-c3ow">-</td>
+        <td class="tg-c3ow">τεθείκατε</td>
+        <td class="tg-c3ow">τέθεισθε</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">3 person</td>
+        <td class="tg-c3ow">δέδωκαν</td>
+        <td class="tg-c3ow">δέδονται</td>
+        <td class="tg-c3ow">ἑστήκασι(ν)</td>
+        <td class="tg-c3ow">-</td>
+        <td class="tg-c3ow">τεθείκασι(ν)</td>
+        <td class="tg-c3ow">τέθεινται</td>
+      </tr>
+    </tbody>
+    </table></br>
+
 
 [Νοτε]  * Because there is no vowel between the tense formative and the Personal ending the sigma does not drop out and we have the true second person singular Middle/Passive ending.
 
 	**  There are no occurrences for ἵστημι in the Perfect Middle/Passive Indicative.
 
 Examples:
+~~~~~
 
 
 Intensive Perfect 
