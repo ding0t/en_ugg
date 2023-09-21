@@ -700,8 +700,7 @@ Acts 24:7 is an example of the emphasis on the present State of Paul as a result
 
 	The use of the perfect tense is based on the view point of the speaker.  The speaker's viewpoint may or may not be true.
 
-
-.. csv-tables:: Example V-PT-7d Imagined event
+.. csv-table:: Example V-PT-7d Imagined event
   :header-rows: 1
 
   Mark 6:14
