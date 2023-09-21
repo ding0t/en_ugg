@@ -657,25 +657,30 @@ Examples:
 ~~~~~
 
 
-Intensive Perfect 
+Intensive Perfect
+^^^^
+
 	The perfect tense places an emphasis on the results or present state of the subject as a result from an action completed in the past.  This is the most common use of the Perfect Tense. It  is referred to as the Intensive Perfect.   However, the use of the perfect tense does NOT imply that the results will continue forever.   This type of conclusion must be made on the basis of other factors.
 
-Example V-PT-7a   Intensive Perfect Tense - emphasis on Current State
+.. csv-table:: Example V-PT-7a   Intensive Perfect Tense - emphasis on **the Current State**
+  :header-rows: 1
 
-Mark 5:34
-ἡ πίστις σου σέσωκέν σε
-hē pistis sou sesōken se
-The faith of you it has healed  you
+  Mark 5:34
+  ἡ,πίστις,σου,**σέσωκέν**,σε
+  hē,pistis,sou,**sesōken**,se
+  The,faith,of you,**it has healed**,you
 
-your faith has healed you
+*Your faith* **has healed** *you.*
 
-Example V-PT-7b   Intensive Perfect Tense - emphasis on action that resulted in current state.
-1 Jn 1:3
-ὃ ἑωράκαμεν, καὶ ἀκηκόαμεν, ἀπαγγέλλομεν καὶ ὑμῖν
-ho heōrakamen, kai akēkoamen, apangellomen kai hymin
-What we have seen and we have heard, we declare also to you
+.. csv-table:: Example V-PT-7b   Intensive Perfect Tense - emphasis on the action that resulted in current state.
+  :header-rows: 1
 
-what we have seen and heard, we declare also to you
+  1 Jn 1:3
+  ὃ,**ἑωράκαμεν**,καὶ,**ἀκηκόαμεν**,ἀπαγγέλλομεν,καὶ,ὑμῖν
+  ho,**heōrakamen**,kai,**akēkoamen**,apangellomen,kai,hymin
+  What,**we have seen**,and,**we have heard**,we declare,also,to you
+
+*What* **we have seen** *and* **heard**, *we declare also to you.*
 
 
 
