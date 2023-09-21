@@ -444,7 +444,7 @@ There are no Second Perfects in the Middle/Passive because there is no tense for
         <td class="tg-7g6k">+</td>
         <td class="tg-c3ow">λυ</td>
         <td class="tg-7btt">+</td>
-        <td class="tg-7btt">μαι</td>
+        <td class="tg-c3ow">μαι</td>
         <td class="tg-fymr">-&gt;</td>
         <td class="tg-0pky">λέλυμαι</td>
       </tr>
