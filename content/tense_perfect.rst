@@ -470,7 +470,7 @@ Table V-PT-5  Indicative Verbs with a Theme Vowel Based on the Perfect Middle/Pa
     .tg .tg-34fe{background-color:#c0c0c0;border-color:inherit;text-align:center;vertical-align:top}
     .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
     .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-kt43{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
     .tg .tg-0lax{text-align:left;vertical-align:top}
     .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
     .tg .tg-rvyq{border-color:inherit;font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
@@ -479,7 +479,7 @@ Table V-PT-5  Indicative Verbs with a Theme Vowel Based on the Perfect Middle/Pa
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-kt43" colspan="2"><span style="font-weight:bold">Table V-PT-5</span><br>Perfect Active<br>Indicative Verbs (with a Theme Vowel)<br>Based on the Perfect Middle/Passive <br>Tense Stem</th>
+        <th class="tg-hafo" colspan="2"><span style="font-weight:bold">Table V-PT-5</span><br>Perfect Active<br>Indicative Verbs (with a Theme Vowel)<br>Based on the Perfect Middle/Passive <br>Tense Stem</th>
       </tr>
     </thead>
     <tbody>
