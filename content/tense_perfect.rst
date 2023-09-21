@@ -326,7 +326,7 @@ The 1st Perfect Active Indicative for a verb is formed by using:
     (f)  Perfect verb stems that begin with two consonants, usually prefix an epsilon.  For example γινὠσκω -> ἔγνωκα (I have known/ I have come to know) or έγνώκαμεν.  In this case the presence of the tense formative “κα” will inform the reader that this is a perfect verb and the “ ε” at the beginning of the verb is a reduplication. Therefore, this is not an imperfect or aorist verb.
 
 
-Form - The Second Perfect Active Indicative verb is formed by:
+Form - The Second Perfect Active Indicative verb:
 ^^^^
 
 There are only a few Second Perfect verbs in the New Testament from 26 different stems.  Some of the most frequent are:
@@ -402,24 +402,57 @@ Formation of Perfect Middle/Passive Indicative Verb
 
 	Perfect Middle/Passive indicative verbs are formed from the Perfect Middle/Passive tense stem.
 
-There is NO Tense formative and NO connecting vowel for verbs in the Perfect Middle/Passive indicative tense.    
+There is *NO Tense formative* and *NO connecting vowel* for verbs in the **Perfect Middle/Passive indicative tense.**    
 
 The Perfect Middle tense is identified by the reduplication + and absence of a connecting vowel +  The Quadrant 3 Middle/Passive Personal Ending attached directly to the Perfect Tense Stem. 
 
 There are no Second Perfects in the Middle/Passive because there is no tense formative.
 
-Table V-PT-4
-Formation of
-Perfect Middle/Passive Indicative Tense
-for Thematic Verbs
-Reduplication	+	 Perfect Middle/Passive
-Tense
-Stem	+	Quadrant 3
-Secondary
-Middle/Passive
-Personal Ending
-λε		λυ	+		μαι	->	λέλυμαι
-I have been loosed
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-7g6k{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-hafo" colspan="7"><span style="font-weight:bold">Table V-PT-4</span><br>Formation of <br>Perfect Middle/Passive Indicative Tense<br>for Thematic Verbs</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-c3ow">Reduplication</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-c3ow">Perfect Middle/Passive<br>Tense Stem</td>
+        <td class="tg-fymr">+</td>
+        <td class="tg-0pky">Quadrant 3<br>Secondary<br>Middle/Passive<br>Personal Ending</td>
+        <td class="tg-fymr"></td>
+        <td class="tg-0pky"></td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">λε</td>
+        <td class="tg-7g6k">+</td>
+        <td class="tg-c3ow">λθ</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-7btt">μαι</td>
+        <td class="tg-fymr">-&gt;</td>
+        <td class="tg-0pky">λέλυμαι</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow" colspan="7">I have been loosed</td>
+      </tr>
+    </tbody>
+    </table></br>
 
 
 Table V-PT-5  Indicative Verbs with a Theme Vowel Based on the Perfect Middle/Passive Tense Stem
