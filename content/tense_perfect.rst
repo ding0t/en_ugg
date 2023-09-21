@@ -704,9 +704,9 @@ Acts 24:7 is an example of the emphasis on the present State of Paul as a result
   :header-rows: 1
 
   Mark 6:14
-  ἔλεγον,ὅτι,"Ἰωάννης,ὁ,βαπτίζων,**ἐγήγερται**,ἐκ,νεκρῶν"
-  elegon,hoti,"Iōannēs,ho,baptizōn,**egēgertai**,ek,nekrōn"
-  They were saying,that,"John,the,one who baptizes,**has been raised**,from,(the) dead"
+  ἔλεγον,ὅτι,Ἰωάννης,ὁ,βαπτίζων,**ἐγήγερται**,ἐκ,νεκρῶν
+  elegon,hoti,Iōannēs,ho,baptizōn,**egēgertai**,ek,nekrōn
+  They were saying,that,John,the,one who baptizes,**has been raised**,from,(the) dead
 
 *They (some) were saying, “John the Baptist* **has been raised** *from the dead*
 
