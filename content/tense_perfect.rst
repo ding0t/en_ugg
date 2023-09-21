@@ -524,9 +524,14 @@ Table V-PT-5  Indicative Verbs with a Theme Vowel Based on the Perfect Middle/Pa
 
 
 Formation of Athematic Perfect Indicative Verbs
+^^^^
+
 As with the formation of Perfect verbs with a theme vowel:
-•	Athematic verbs reduplicate the initial consonant with an epsilon. And
-•	Use κα for a tense formative 
+
+  *  Athematic verbs reduplicate the initial consonant with an epsilon. and
+  *  Use κα for a tense formative 
+
+  
 Table V-PT-6
 Perfect Athematic Indicative Tense Verbs 
 
