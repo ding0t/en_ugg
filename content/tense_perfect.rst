@@ -662,7 +662,7 @@ Intensive Perfect
 
 	The perfect tense places an emphasis on the results or present state of the subject as a result from an action completed in the past.  This is the most common use of the Perfect Tense. It  is referred to as the Intensive Perfect.   However, the use of the perfect tense does NOT imply that the results will continue forever.   This type of conclusion must be made on the basis of other factors.
 
-.. csv-table:: Example V-PT-7a   Intensive Perfect Tense - emphasis on **the Current State**
+.. csv-table:: Example V-PT-7a   Intensive Perfect Tense - greater emphasis on **the Current State**
   :header-rows: 1
 
   Mark 5:34
@@ -672,7 +672,7 @@ Intensive Perfect
 
 *Your faith* **has healed** *you.*
 
-.. csv-table:: Example V-PT-7b   Intensive Perfect Tense - emphasis on the action that resulted in current state.
+.. csv-table:: Example V-PT-7b   Intensive Perfect Tense - greater emphasis on **the completed action that resulted** in current state.
   :header-rows: 1
 
   1 Jn 1:3
@@ -684,31 +684,38 @@ Intensive Perfect
 
 
 
-Example V-PT-7c - Intensive Perfect - current condition only
-	Acts 24:27 is an example of the emphasis on the present State of Paul as a result of his having been placed in prison in the past.  His current state is “imprisoned.”  It is also clear from the context, there is a possibility of his release by the next governor.  The emphasis is on his current condition as a result of past action, not on what may or may not happen in the future.
+**Example V-PT-7c** - Intensive Perfect - emphasis on **current condition only**
+Acts 24:7 is an example of the emphasis on the present State of Paul as a result of his having been placed in prison in the past.  His current state is “imprisoned.”  It is also clear from the context, there is a possibility of his release by the next governor.  The emphasis is on his current condition as a result of past action, not on what may or may not happen in the future.
 
-Acts 24:27	
-ὁ Φῆλιξ κατέλιπε τὸν Παῦλον δεδεμένον
-ho Phēlix katelipe ton Paulon dedemenon
-The Felix  left         the Paul        bound/imprisoned
+.. csv-table:: Example V-PT-7b **Current Condition only**
 
-Felix left Paul imprisoned.
+  Acts 24:27
+  ὁ,Φῆλιξ,κατέλιπε,τὸν,Παῦλον,**δεδεμένον**
+  ho,Phēlix,katelipe,ton,Paulon,**dedemenon**
+  The,Felix,left,the,Paul,**bound/imprisoned**
 
-Example V-PT-7d
-The Intensive Perfect - imagined event
+*Felix left Paul* **imprisoned.**
+
+**Example V-PT-7d**  The Intensive Perfect - imagined event
 
 	The use of the perfect tense is based on the view point of the speaker.  The speaker's viewpoint may or may not be true.
 
-Mark 6:14
-ἔλεγον, ὅτι "Ἰωάννης ὁ βαπτίζων ἐγήγερται ἐκ νεκρῶν
-elegon, hoti "Iōannēs ho baptizōn egēgertai ek nekrōn
-They were saying that John, the one who baptizes has been raised from (the) dead
+.. csv-tables:: Example V-PT-7d Imagined event
+  :header-rows: 1
 
-They (some) were saying, “John the Baptist has been raised from the dead
+  Mark 6:14
+  ἔλεγον,ὅτι,"Ἰωάννης,ὁ,βαπτίζων,**ἐγήγερται**,ἐκ,νεκρῶν"
+  elegon,hoti,"Iōannēs,ho,baptizōn,**egēgertai**,ek,nekrōn"
+  They were saying,that,"John,the,one who baptizes,**has been raised**,from,(the) dead"
+
+*They (some) were saying, “John the Baptist* **has been raised** *from the dead*
 
 Example V-PT-8  Gnomic Perfect 
 
-The Gnomic Perfect refers to state that could result from an action that could occur at any time.   
+The Gnomic Perfect
+^^^^
+
+The Gnomic Perfect refers to a state that could result from an action that could occur at any time.   
 
 Rm 7.2
 ἡ γὰρ ὕπανδρος γυνὴ τῷ ζῶντι ἀνδρὶ δέδεται νόμῳ ἐὰν δὲ ἀποθάνῃ ὁ ἀνήρ, κατήργηται ἀπὸ τοῦ νόμου
