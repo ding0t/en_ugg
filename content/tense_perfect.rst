@@ -672,6 +672,7 @@ Intensive Perfect
 
 *Your faith* **has healed** *you.*
 
+
 .. csv-table:: Example V-PT-7b   Intensive Perfect Tense - greater emphasis on **the completed action that resulted** in current state.
   :header-rows: 1
 
