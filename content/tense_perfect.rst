@@ -719,7 +719,7 @@ The Gnomic Perfect
 The Gnomic Perfect refers to a state that could result from an action that could occur at any time.   
 
 .. csv-table:: Example V-PT-8 Gnomic Perfect
-  :header-rows:   
+  :header-rows: 1   
 
   Rm 7.2
   ἡ,γὰρ,ὕπανδρος,γυνὴ,τῷ,ζῶντι,ἀνδρὶ,δέδεται,νόμῳ,ἐὰν,δὲ,ἀποθάνῃ,ὁ,ἀνήρ,**κατήργηται**,ἀπὸ,τοῦ,νόμου
