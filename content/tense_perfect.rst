@@ -718,25 +718,31 @@ The Gnomic Perfect
 
 The Gnomic Perfect refers to a state that could result from an action that could occur at any time.   
 
-Rm 7.2
-ἡ γὰρ ὕπανδρος γυνὴ τῷ ζῶντι ἀνδρὶ δέδεται νόμῳ ἐὰν δὲ ἀποθάνῃ ὁ ἀνήρ, κατήργηται ἀπὸ τοῦ νόμου
-hē gar hypandros gynē tō zōnti andri dedetai nomō ean de apothanē ho anēr, katērgētai apo tou nomou
+.. csv-table:: Example V-PT-8 Gnomic Perfect
+  :header-rows:   
 
-The for married woman to the while living husband is bound by law, but if he dies the man, she has been released from the law
+  Rm 7.2
+  ἡ,γὰρ,ὕπανδρος,γυνὴ,τῷ,ζῶντι,ἀνδρὶ,δέδεται,νόμῳ,ἐὰν,δὲ,ἀποθάνῃ,ὁ,ἀνήρ,**κατήργηται**,ἀπὸ,τοῦ,νόμου
+  hē,gar,hypandros,gynē,tō,zōnti,andri,dedetai,nomō,ean,de,apothanē,ho,anēr,**katērgētai**,apo,tou,nomou
+  The,for,married,woman,to the,while living,husband,is bound,by law,if,but,he dies,the,man,**she is released**,from,the,law
 
-For the married woman remains bound by law to the living husband, but if the husband dies, she has been released from the law
+*For the married woman remains bound by law to the living husband, but if the husband dies*, **she has been released** *from the law*
 
 
-Example V-PT-8 Aoristic Perfect - 
+Example V-PT-8 Aoristic Perfect
+^^^^ 
 
  In some cases it appears that the Perfect Tense is being used with the same meaning as  the Aorist tense. It simply refers to an action that occurred in the past.   However, some grammarians suggest that one use caution in coming to this conclusion.  If the verb in the perfect tense occurs with other verbs in the aorist tense, the translator must ask why is this verb in the perfect tense?   What, at first glance, seems to be a simple statement about an event that occurred in the past, may be placed in the perfect tense to dramatize or place a special emphasis on this event.
 
-Rev 7:14
-καὶ εἴρηκα αὐτῷ, "κύριέ μου, σὺ οἶδας
-kai eirēka autō, "kyrie mou, sy oidas
-and I said to him  Lord of me you you know
+.. csv-table::  Example V-PT-8  Aoristic Perfect
+  :header-rows: 1
+  
+  Rev 7:14
+  καὶ,εἴρηκα,αὐτῷ,κύριέ,μου,σὺ,**οἶδας**
+  kai,eirēka,autō,kyrie,mou,sy,**oidas**
+  and,I said,to him,Lord,of me,you,**you know**
 
-And I said to him, “My lord, you know.   
+*And I said to him, “My lord,* **you know**.   
 
 
 Example V-PT-9   Present Force Perfect
