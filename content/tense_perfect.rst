@@ -742,17 +742,21 @@ Example V-PT-8 Aoristic Perfect
   kai,eirēka,autō,kyrie,mou,sy,**oidas**
   and,I said,to him,Lord,of me,you,**you know**
 
-*And I said to him, “My lord,* **you know**.   
+*And I said to him, “My lord,* **you know**."   
 
 
 Example V-PT-9   Present Force Perfect
+^^^^
 
-Mark 14: 71
-οὐκ οἶδα τὸν ἄνθρωπον τοῦτον
-ouk oida ton anthrōpon touton
-not I know the man      this
+.. csv-table:: Example V-PT-9 Present Force Perfect
+  :header-rows: 1
 
-I do not know this man
+  Mark 14:71
+  οὐκ,**οἶδα**,τὸν,ἄνθρωπον,τοῦτον
+  ouk,**oida**,ton,anthrōpon,touton
+  not,**I know**,the,man,this
+
+*I do not* **know** *this man*
 
 
 
