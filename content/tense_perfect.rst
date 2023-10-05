@@ -86,7 +86,7 @@ See also:
 The Paradigms also contain forms of verbs in the Perfect tense for the subjunctive mood, imperative mood, participles, and infinitives.  See Paradigms:
 
   *  `Verbs Subjunctive <https://ugg.readthedocs.io/en/latest/paradigms.html#verbs-subjunctive>`_,
-  *  `verbs Imperative <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-mt-1a-active-imperative-verbs-thematic-uncontracted>`_ and `Table V-MT-2a Middle-Passive Uncontracted Verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-mt-2a-middle-passive-uncontracted-verbs>`_ , 
+  *  `Verbs Imperative <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-mt-1a-active-imperative-verbs-thematic-uncontracted>`_ and `Table V-MT-2a Middle-Passive Uncontracted Verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-mt-2a-middle-passive-uncontracted-verbs>`_ , 
   *  `Verbs Infinitives <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-nt-1-verb-infinitive-with-theme-vowels>`_, and 
   *  `Participles <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-p-t4-perfect-participles>`_.
 
@@ -108,7 +108,7 @@ As with the Aorist Tense, The Koine Greek language has two ways of forming the P
 There is **no difference in meaning** between a 1st Perfect verb and a 2nd Perfect Verb.   They are both perfect verbs.   If it helps, you may think of it as a room (the Perfect Tense room) and the Perfect Tense room has two doors.  It does not matter which door you use to enter the room.  In both cases the word is now in the Perfect Tense room.
 The vast majority of Perfect verbs in the New Testament are 1st Perfect Verbs.
 
-  *  1st Perfect verb uses the same verbal stem that is used in the present tense.
+  *  1st Perfect verbs use the same verbal stem that is used in the present tense.
   *  2nd Perfect verbs are first formed by making a change to the present tense stem for the verb.  The change in the stem let's the reader know that it is a 2nd Perfect verb
 
 	
@@ -117,7 +117,6 @@ Table V-PT-2 Perfect Active Indicative Verbs
 
 Built on the verb  λύω (I loose) and γράφω (I write)
 
-Table V-PT-2  Indicative Verbs with a Theme Vowel Based on the Perfect Active Tense Stem
 
 .. raw:: html
 
@@ -211,7 +210,7 @@ Table V-PT-2a Formation of First Perfect Active Indicative Verb
     .tg .tg-kt43{background-color:#fffc9e;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
     .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
     .tg .tg-7g6k{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
-    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-0lax{text-align:center;vertical-align:top}
     </style>
     <table class="tg">
     <thead>
