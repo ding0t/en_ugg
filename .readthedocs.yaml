@@ -5,9 +5,10 @@ build:
   os: "ubuntu-22.04"
   tools:
     python: "3.7"
-  pre_build:
-    - mkdir -p $READTHEDOCS_OUTPUT/pdf
-    - wget https://www.sbl-site.org/Fonts/SBL_grk.ttf -O $READTHEDOCS_OUTPUT/pdf/SBL_grk.ttf
+  jobs:
+    pre_build:
+      - mkdir -p $READTHEDOCS_OUTPUT/pdf
+      - wget https://www.sbl-site.org/Fonts/SBL_grk.ttf -O $READTHEDOCS_OUTPUT/pdf/SBL_grk.ttf
 
 # Build documentation in the docs/ directory with Sphinx
 sphinx:
