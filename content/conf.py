@@ -158,6 +158,10 @@ html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
+html_css_files = [
+    'css/custom.css',
+]
+
 # Add any extra paths that contain custom files (such as robots.txt or
 # .htaccess) here, relative to this directory. These files are copied
 # directly to the root of the documentation.
@@ -239,6 +243,8 @@ html_static_path = ['_static']
 htmlhelp_basename = 'UGG'
 
 # -- Options for LaTeX output ---------------------------------------------
+#       Use XeLaTex (to properly handle Unicode)
+latex_engine = 'xelatex'
 
 latex_elements = {
      # The paper size ('letterpaper' or 'a4paper').
@@ -248,14 +254,11 @@ latex_elements = {
      # The font size ('10pt', '11pt' or '12pt').
      #
      # 'pointsize': '10pt',
-
-     'label': '\\usepackage[english]{babel}',
-
+     #
      # Additional stuff for the LaTeX preamble.
      #
      'preamble': r'''
-\usepackage{xeCJK}
-\setmainfont{SBL Hebrew}
+\setmainfont{SBL_grk.ttf}
 \XeTeXlinebreaklocale "he"
 \XeTeXlinebreakskip = 0pt plus 1pt
 '''

@@ -1,0 +1,20 @@
+/*
+ * custom.css
+ * ~~~~~~~~~~
+ *
+ */
+
+body {
+    font-family: "SBL Greek","Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
+}
+td,tr {
+    text-align: center;
+}
+
+@font-face {
+    font-family: "SBL Greek";
+    src: url(../fonts/SBL_grk.ttf) format("truetype"),
+         url(../fonts/SBL_grk.woff) format("woff");
+    unicode-range: U+0342-03FF; /* only applies to Greek characters */
+  }
+  
