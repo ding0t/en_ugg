@@ -28,8 +28,7 @@ Example: V-PT-1
 
 [Note]
 
-  *  The translation of **“has come near”** places an emphasis on the “completed action in the past” aspect,
-while the translation **“is near”** picks up on the stative aspect.
+  *  The translation of **“has come near”** places an emphasis on the “completed action in the past” aspect, while the translation **“is near”** picks up on the stative aspect.
 
   *  The English language also has difficulty picking up on another nuance in the Greek text. The placement of the perfect verb up front puts an emphasis on the nearness.   “Repent, for NEAR is the kingdom of heaven.”
 
