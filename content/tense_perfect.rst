@@ -656,7 +656,7 @@ Examples:
 ~~~~~
 
 
-Intensive Perfect- V-PT-7a >emphasis current state
+Intensive Perfect- V-PT-7a >Emphasis Current State
 ^^^^
 
 	The perfect tense places an emphasis on the results or present state of the subject as a result from an action completed in the past.  This is the most common use of the Perfect Tense. It  is referred to as the Intensive Perfect.   However, the use of the perfect tense does NOT imply that the results will continue forever.   This type of conclusion must be made on the basis of other factors.
@@ -671,7 +671,7 @@ Intensive Perfect- V-PT-7a >emphasis current state
 
 *Your faith* **has healed** *you.*
 
-Intensive Perfect V-PT-7b emphasis completed action
+Intensive Perfect V-PT-7b Emphasis Completed Action
 ^^^^
 
 .. csv-table:: Example V-PT-7b   Intensive Perfect Tense - greater emphasis on **the completed action that resulted** in current state.
@@ -684,10 +684,9 @@ Intensive Perfect V-PT-7b emphasis completed action
 
 *What* **we have seen** *and* **heard**, *we declare also to you.*
 
-Intensive Perfect - V-PT-7c emphasis current condition only
+Intensive Perfect - V-PT-7c Emphasis Current Condition Only
 ^^^^
 
-**Example V-PT-7c** - Intensive Perfect - emphasis on **current condition only**
 Acts 24:7 is an example of the emphasis on the present State of Paul as a result of his having been placed in prison in the past.  His current state is “imprisoned.”  It is also clear from the context, there is a possibility of his release by the next governor.  The emphasis is on his current condition as a result of past action, not on what may or may not happen in the future.
 
 .. csv-table:: Example V-PT-7c **Current Condition only**
@@ -699,14 +698,12 @@ Acts 24:7 is an example of the emphasis on the present State of Paul as a result
 
 *Felix left Paul* **imprisoned.**
 
-Intensive Perfect - V-PT-7d imagined event
+Intensive Perfect - V-PT-7d Imagined Event
 ^^^^
-
-**Example V-PT-7d**  The Intensive Perfect - imagined event
 
 	The use of the perfect tense is based on the view point of the speaker.  The speaker's viewpoint may or may not be true.
 
-.. csv-table:: Example V-PT-7d Imagined event
+.. csv-table:: Example V-PT-7d Imagined Event
   :header-rows: 1
 
   Mark 6:14
@@ -719,9 +716,7 @@ Intensive Perfect - V-PT-7d imagined event
 Gnomic Perfect - V-PT-8
 ^^^^
 
-Example V-PT-8  Gnomic Perfect 
-
-The Gnomic Perfect
+The Gnomic Perfect Example
 ^^^^
 
 The Gnomic Perfect refers to a state that could result from an action that could occur at any time.   
