@@ -368,7 +368,7 @@ Table V-PT-3 Formation of Second Perfect Active Indicative Verb
       <tr>
         <td class="tg-c3ow">Reduplication</td>
         <td class="tg-7btt">+</td>
-        <td class="tg-c3ow">1st Perfect Active<br>Tense Stem</td>
+        <td class="tg-c3ow">2nd Perfect Active<br>Tense Stem</td>
         <td class="tg-fymr">+</td>
         <td class="tg-0lax">Tense<br>Formative</td>
         <td class="tg-1wig">+</td>
@@ -499,7 +499,7 @@ Table V-PT-5  Indicative Verbs with a Theme Vowel Based on the Perfect Middle/Pa
         <td class="tg-c3ow">λέλυσαι</td>
       </tr>
       <tr>
-        <td class="tg-0pky">3 Person</td>
+        <td class="tg-8bgf">3 Person</td>
         <td class="tg-c3ow">λέλυται</td>
       </tr>
       <tr>
@@ -507,15 +507,15 @@ Table V-PT-5  Indicative Verbs with a Theme Vowel Based on the Perfect Middle/Pa
         <td class="tg-34fe"></td>
       </tr>
       <tr>
-        <td class="tg-0pky">1 Person</td>
+        <td class="tg-8bgf">1 Person</td>
         <td class="tg-c3ow">λελύμεθα</td>
       </tr>
       <tr>
-        <td class="tg-0pky">2 Person</td>
+        <td class="tg-8bgf">2 Person</td>
         <td class="tg-c3ow">λελύσθε</td>
       </tr>
       <tr>
-        <td class="tg-0pky">3 Person</td>
+        <td class="tg-8bgf">3 Person</td>
         <td class="tg-c3ow">λελύνται</td>
       </tr>
     </tbody>
