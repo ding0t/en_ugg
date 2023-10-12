@@ -737,11 +737,11 @@ Example V-PT-8 Aoristic Perfect
   :header-rows: 1
   
   Rev 7:14
-  καὶ,εἴρηκα,αὐτῷ,κύριέ,μου,σὺ,**οἶδας**
-  kai,eirēka,autō,kyrie,mou,sy,**oidas**
-  and,I said,to him,Lord,of me,you,**you know**
+  καὶ,**εἴρηκα**,αὐτῷ,κύριέ,μου,σὺ,οἶδας
+  kai,**eirēka**,autō,kyrie,mou,sy,oidas
+  and,**I said**,to him,Lord,of me,you,you know
 
-*And I said to him, “My lord,* **you know**."   
+*And* **I said** *to him, “My lord,you know*."   
 
 
 Example V-PT-9   Present Force Perfect
