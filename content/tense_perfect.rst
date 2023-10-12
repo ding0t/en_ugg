@@ -656,7 +656,7 @@ Examples:
 ~~~~~
 
 
-Intensive Perfect
+Intensive Perfect- V-PT-7a >emphasis current state
 ^^^^
 
 	The perfect tense places an emphasis on the results or present state of the subject as a result from an action completed in the past.  This is the most common use of the Perfect Tense. It  is referred to as the Intensive Perfect.   However, the use of the perfect tense does NOT imply that the results will continue forever.   This type of conclusion must be made on the basis of other factors.
@@ -671,6 +671,8 @@ Intensive Perfect
 
 *Your faith* **has healed** *you.*
 
+Intensive Perfect V-PT-7b emphasis completed action
+^^^^
 
 .. csv-table:: Example V-PT-7b   Intensive Perfect Tense - greater emphasis on **the completed action that resulted** in current state.
   :header-rows: 1
@@ -682,7 +684,8 @@ Intensive Perfect
 
 *What* **we have seen** *and* **heard**, *we declare also to you.*
 
-
+Intensive Perfect - V-PT-7c emphasis current condition only
+^^^^
 
 **Example V-PT-7c** - Intensive Perfect - emphasis on **current condition only**
 Acts 24:7 is an example of the emphasis on the present State of Paul as a result of his having been placed in prison in the past.  His current state is “imprisoned.”  It is also clear from the context, there is a possibility of his release by the next governor.  The emphasis is on his current condition as a result of past action, not on what may or may not happen in the future.
@@ -695,6 +698,9 @@ Acts 24:7 is an example of the emphasis on the present State of Paul as a result
   The,Felix,left,the,Paul,**bound/imprisoned**
 
 *Felix left Paul* **imprisoned.**
+
+Intensive Perfect - V-PT-7d imagined event
+^^^^
 
 **Example V-PT-7d**  The Intensive Perfect - imagined event
 
@@ -709,6 +715,9 @@ Acts 24:7 is an example of the emphasis on the present State of Paul as a result
   They were saying,that,John,the,one who baptizes,**has been raised**,from,(the) dead
 
 *They (some) were saying, “John the Baptist* **has been raised** *from the dead*
+
+Gnomic Perfect - V-PT-8
+^^^^
 
 Example V-PT-8  Gnomic Perfect 
 
@@ -728,12 +737,12 @@ The Gnomic Perfect refers to a state that could result from an action that could
 *For the married woman remains bound by law to the living husband, but if the husband dies*, **she has been released** *from the law*
 
 
-Example V-PT-8 Aoristic Perfect
+Example V-PT-9 Aoristic Perfect
 ^^^^ 
 
  In some cases it appears that the Perfect Tense is being used with the same meaning as  the Aorist tense. It simply refers to an action that occurred in the past.   However, some grammarians suggest that one use caution in coming to this conclusion.  If the verb in the perfect tense occurs with other verbs in the aorist tense, the translator must ask why is this verb in the perfect tense?   What, at first glance, seems to be a simple statement about an event that occurred in the past, may be placed in the perfect tense to dramatize or place a special emphasis on this event.
 
-.. csv-table::  Example V-PT-8  Aoristic Perfect
+.. csv-table::  Example V-PT-9  Aoristic Perfect
   :header-rows: 1
   
   Rev 7:14
@@ -744,10 +753,10 @@ Example V-PT-8 Aoristic Perfect
 *And* **I said** *to him, “My lord,you know*."   
 
 
-Example V-PT-9   Present Force Perfect
+Example V-PT-10   Present Force Perfect
 ^^^^
 
-.. csv-table:: Example V-PT-9 Present Force Perfect
+.. csv-table:: Example V-PT-10 Present Force Perfect
   :header-rows: 1
 
   Mark 14:71
