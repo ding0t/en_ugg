@@ -328,7 +328,7 @@ The 1st Perfect Active Indicative for a verb is formed by using:
     (f)  Perfect verb stems that begin with two consonants, usually prefix an epsilon.  For example γινὠσκω -> ἔγνωκα (I have known/ I have come to know) or έγνώκαμεν.  In this case the presence of the tense formative “κα” will inform the reader that this is a perfect verb and the “ ε” at the beginning of the verb is a reduplication. Therefore, this is not an imperfect or aorist verb.
 
 
-Form - The Second Perfect Active Indicative verb:
+Form - V-PT-3 The Second Perfect Active Indicative verb:
 ^^^^
 
 There are only a few Second Perfect verbs in the New Testament from 26 different stems.  Some of the most frequent are:
@@ -398,7 +398,7 @@ Table V-PT-3 Formation of Second Perfect Active Indicative Verb
 
 
 
-Formation of Perfect Middle/Passive Indicative Verb
+V-PT-4 Formation of Perfect Middle/Passive Indicative Verb
 ^^^^
 
 
@@ -525,7 +525,7 @@ Table V-PT-5  Indicative Verbs with a Theme Vowel Based on the Perfect Middle/Pa
     </table></br>
 
 
-Formation of Athematic Perfect Indicative Verbs
+V-PT-6 Formation of Athematic Perfect Indicative Verbs
 ^^^^
 
 As with the formation of Perfect verbs with a theme vowel:
