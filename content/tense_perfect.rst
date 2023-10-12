@@ -204,43 +204,43 @@ Table V-PT-2a Formation of First Perfect Active Indicative Verb
     .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
       font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
     .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-    .tg .tg-8bgf{border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
     .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-kt43{background-color:#fffc9e;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
-    .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-    .tg .tg-7g6k{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
-    .tg .tg-0lax{text-align:center;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
     </style>
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-kt43" colspan="9">Table V-PT-2a<br>Formation of<br>First Perfect Active Indicative Verbs<br>for Thematic Verbs</th>
+        <th class="tg-hafo" colspan="9"><span style="font-weight:bold">Table V-PT-2a</span><br>Formation of <br>First Perfect Active Indicative<br>for Thematic Verbs</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td class="tg-baqh">Reduplication</td>
-        <td class="tg-amwm">+</td>
-        <td class="tg-baqh">1st Perfect Active<br>Tense Stem</td>
-        <td class="tg-1wig">+</td>
-        <td class="tg-baqh">Tense<br>Formative</td>
-        <td class="tg-1wig">+</td>
-        <td class="tg-baqh" colspan="3">Primary<br>Active<br>Personal<br>Ending</td>
+        <td class="tg-c3ow">Reduplication</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-c3ow">1st Perfect Active<br>Tense Stem</td>
+        <td class="tg-c3ow"><span style="font-weight:bold">+</span></td>
+        <td class="tg-c3ow">Tense<br>Formative</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-c3ow" colspan="3">Primary<br>Active<br>Personal Ending</td>
       </tr>
       <tr>
-        <td class="tg-8bgf">λε</td>
-        <td class="tg-7g6k">+</td>
-        <td class="tg-0lax">λυ</td>
-        <td class="tg-1wig">+</td>
-        <td class="tg-0lax">κα</td>
-        <td class="tg-1wig">+</td>
-        <td class="tg-0lax">μεν</td>
-        <td class="tg-0lax">-&gt;</td>
-        <td class="tg-0lax">λελύκαμεν</td>
+        <td class="tg-c3ow">λε</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-c3ow">λυ</td>
+        <td class="tg-fymr">+</td>
+        <td class="tg-c3ow">κα</td>
+        <td class="tg-fymr">+</td>
+        <td class="tg-0pky">μεν</td>
+        <td class="tg-1wig">-&gt;</td>
+        <td class="tg-0lax">λελύμεν</td>
       </tr>
       <tr>
-        <td class="tg-c3ow" colspan="9"><span style="font-style:italic">We have loosed</span></td>
+        <td class="tg-8bgf" colspan="9">We have loosed</td>
       </tr>
     </tbody>
     </table></br>
