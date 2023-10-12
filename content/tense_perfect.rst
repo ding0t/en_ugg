@@ -204,7 +204,7 @@ Table V-PT-2a Formation of First Perfect Active Indicative Verb
     .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
       font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
     .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-8bgf{border-color:inherit;text-align:center;vertical-align:top}
     .tg .tg-baqh{text-align:center;vertical-align:top}
     .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
     .tg .tg-kt43{background-color:#fffc9e;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
