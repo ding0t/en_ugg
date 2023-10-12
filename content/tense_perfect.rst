@@ -268,7 +268,7 @@ The 1st Perfect Active Indicative for a verb is formed by using:
        This is known as “vocalic reduplication” and is the same as with the aorist or imperfect tenses.  The tense formative “κα” will make it clear that this is a perfect tense verb and not an aorist or imperfect tense verb. For example:  αἴρω -> ἧρκα (I have raised up)
 
     (b)  Exception: Verbs that begin with a diphthong may or may not lengthen.   For Example: εὐλογέω -> εὐλόγηκα (I have blessed)
-    (c)  For aspirated verbs that begin with a phi(φ), xi (χ), or theta (θ) in the third column of the `Square of Stops Table <https://ugg.readthedocs.io/en/latest/paradigms.html#table-11-square-of-stops>`_.  The reduplication will cause the consonant to lose its aspiration.  Therefore, the phi will change to a pi (π), the xi to a kapa (κ), and the theta to a tau (τ).  This makes it easier to pronounce.  The consonants in the first two columns (Voiceless and Voiced) will reduplicate like any other consonant.   For Example: [the third column verb φιλέω -> πεφίληκα (I have loved)] and [the first column verb καλέω -> κέκληκα (I have called)].
+    (c)  For aspirated verbs that begin with a phi(φ), xi (χ), or theta (θ) in the third column of the `Square of Stops Table <https://ugg.readthedocs.io/en/latest/paradigms.html#table-11-square-of-stops>`_ (or see below this paragraph).  The reduplication will cause the consonant to lose its aspiration.  Therefore, the phi will change to a pi (π), the xi to a kapa (κ), and the theta to a tau (τ).  This makes it easier to pronounce.  The consonants in the first two columns (Voiceless and Voiced) will reduplicate like any other consonant.   For Example: [the third column verb φιλέω -> πεφίληκα (I have loved)] and [the first column verb καλέω -> κέκληκα (I have called)].
     
     .. raw:: html
 
@@ -330,12 +330,12 @@ Form - The Second Perfect Active Indicative verb:
 
 There are only a few Second Perfect verbs in the New Testament from 26 different stems.  Some of the most frequent are:
 
-  *  ἀκούω -> ἀλήκοα (I have heard)
+  *  ἀκούω -> ἀκήκοα (I have heard)
   *  γίνομαι -> γέγονα (I have become)
   *  γράφω -> γέγραφα (I have written)
   *  ἔρχομαι -> ἐλήλυθα (I have gone)
   *  λαμβάνω -> εἴληφα ( I have received)
-  *  πείθω -> πἐποιθα (I have persuaded), and
+  *  πείθω -> πέποιθα (I have persuaded), and
   *  οἴδα (I Know)  (which is a perfect verb that is used in Koine Greek with a present tense meaning. 
 
 Table V-PT-3 Formation of Second Perfect Active Indicative Verb
