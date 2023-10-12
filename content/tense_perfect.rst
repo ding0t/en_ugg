@@ -66,7 +66,7 @@ The Perfect Tense is principally used to place an emphasis on the results or pre
 This condition may have come into being as a result of a single action in the past or as a result of a series of actions.
 As already stated, there is no implication (based on the use of the perfect tense) that these results will continue into the future, merely that they are still present at the time the speaker makes the statement.  In `V-TP-7d Imagined Event <https://ugg.readthedocs.io/en/latest/tense_perfect.html#intensive-perfect-v-pt-7d-imagined-event>`_ we give an example where the people only imagined that an event had occurred; and their perception was incorrect.
 
-Based on the context, the use of the Perfect Tense may be classified into these four separate categories: 
+Based on the context, the use of the Perfect Tense may be classified into four separate categories: 
 
   1)  **Intensive Perfect** -  The predominate use of the Perfect tense is referred to as the Intensive Perfect.  Because the Perfect is a stative tense, the focus is on the resultant state as opposed to the completed act.  Depending upon the context, there may be (1) a greater emphasis on the present condition; or (2) a greater emphasis on the completed action that resulted in the present condition in which case the use of a helping verb is appropriate.  [See `Example Intensive Perfect <https://ugg.readthedocs.io/en/latest/tense_perfect.html#intensive-perfect>`_] 
   2)  **Gnomic Perfect** - The Gnomic Perfect refers to a state that results from an action that can occur at any time (an event that can be assumed to occur because it happens so frequently).   [See `Example Gnomic Perfect <https://ugg.readthedocs.io/en/latest/tense_perfect.html#the-gnomic-perfect>`_]
@@ -660,7 +660,7 @@ Examples:
 ~~~~~
 
 
-Intensive Perfect- V-PT-7a >Emphasis Current State
+Intensive Perfect- V-PT-7a  Greater Emphasis Current State
 ^^^^
 
 	The perfect tense places an emphasis on the results or present state of the subject as a result from an action completed in the past.  This is the most common use of the Perfect Tense. It  is referred to as the Intensive Perfect.   However, the use of the perfect tense does NOT imply that the results will continue forever.   This type of conclusion must be made on the basis of other factors.
@@ -720,9 +720,6 @@ Intensive Perfect - V-PT-7d Imagined Event
 Gnomic Perfect - V-PT-8
 ^^^^
 
-The Gnomic Perfect Example
-^^^^
-
 The Gnomic Perfect refers to a state that could result from an action that could occur at any time.   
 
 .. csv-table:: Example V-PT-8 Gnomic Perfect
@@ -736,7 +733,7 @@ The Gnomic Perfect refers to a state that could result from an action that could
 *For the married woman remains bound by law to the living husband, but if the husband dies*, **she has been released** *from the law*
 
 
-Example V-PT-9 Aoristic Perfect
+Aoristic Perfect V-PT-9
 ^^^^ 
 
  In some cases it appears that the Perfect Tense is being used with the same meaning as  the Aorist tense. It simply refers to an action that occurred in the past.   However, some grammarians suggest that one use caution in coming to this conclusion.  If the verb in the perfect tense occurs with other verbs in the aorist tense, the translator must ask why is this verb in the perfect tense?   What, at first glance, seems to be a simple statement about an event that occurred in the past, may be placed in the perfect tense to dramatize or place a special emphasis on this event.
@@ -752,7 +749,7 @@ Example V-PT-9 Aoristic Perfect
 *And* **I said** *to him, “My lord,you know*."   
 
 
-Example V-PT-10   Present Force Perfect
+Present Force Perfect V-PT-10
 ^^^^
 
 .. csv-table:: Example V-PT-10 Present Force Perfect
