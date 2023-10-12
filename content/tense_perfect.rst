@@ -25,9 +25,13 @@ Example: V-PT-1
   Repent,**is near**,for,the,Kingdom,of the,Heavens
 
 “*Repent, for the kingdom of the heavens* **is near**.”   Or *“Repent for the kingdom of heaven* **has come near**.”  
-[Note],  The translation of **“has come near”** places an emphasis on the “completed action in the past” aspect,
+
+[Note]
+
+  *  The translation of **“has come near”** places an emphasis on the “completed action in the past” aspect,
 while the translation **“is near”** picks up on the stative aspect.
-The English language also has difficulty picking up on another nuance in the Greek text.   The placement of the perfect verb up front puts an emphasis on the nearness.   “Repent, for NEAR is the kingdom of heaven.”
+
+  *  The English language also has difficulty picking up on another nuance in the Greek text. The placement of the perfect verb up front puts an emphasis on the nearness.   “Repent, for NEAR is the kingdom of heaven.”
 
 
 
