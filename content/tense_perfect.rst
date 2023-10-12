@@ -560,7 +560,7 @@ As with the formation of Perfect verbs with a theme vowel:
       <tr>
         <td class="tg-c3ow"></td>
         <td class="tg-7btt" colspan="2">δίδωμι</td>
-        <td class="tg-7btt" colspan="2">ἴστημι</td>
+        <td class="tg-7btt" colspan="2">ἵστημι</td>
         <td class="tg-7btt" colspan="2">τίθημι</td>
       </tr>
       <tr>
