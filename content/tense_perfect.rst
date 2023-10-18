@@ -89,7 +89,7 @@ See also:
 The Paradigms also contain forms of verbs in the Perfect tense for the subjunctive mood, imperative mood, participles, and infinitives.  See Paradigms:
 
   *  `Verbs Subjunctive <https://ugg.readthedocs.io/en/latest/paradigms.html#verbs-subjunctive>`_,
-  *  `Verbs Imperative <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-mt-1a-active-imperative-verbs-thematic-uncontracted>`_ and `Table V-MT-2a Middle-Passive Uncontracted Verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-mt-2a-middle-passive-uncontracted-verbs>`_ , 
+  *  `Verbs Imperative <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-mt-1a-active-imperative-verbs-thematic-uncontracted>`_ and `Table V-MT-2a Middle-Passive Uncontracted Verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-mt-2a-middle-passive-uncontracted-verbs>`_, 
   *  `Verbs Infinitives <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-nt-1-verb-infinitive-with-theme-vowels>`_, and 
   *  `Participles <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-p-t4-perfect-participles>`_.
 
@@ -112,7 +112,7 @@ There is **no difference in meaning** between a 1st Perfect verb and a 2nd Perfe
 The vast majority of Perfect verbs in the New Testament are 1st Perfect Verbs.
 
   *  1st Perfect verbs use the same verbal stem that is used in the present tense.
-  *  2nd Perfect verbs are first formed by making a change to the present tense stem for the verb.  The change in the stem let's the reader know that it is a 2nd Perfect verb
+  *  2nd Perfect verbs are first formed by making a change to the present tense stem for the verb.  The change in the stem let's the reader know that it is a 2nd Perfect verb.
 
 	
 Table V-PT-2 Perfect Active Indicative Verbs
@@ -252,7 +252,7 @@ Table V-PT-2a Formation of First Perfect Active Indicative Verb
 
 The 1st Perfect Active Indicative for a verb is formed by using:
 
-  1.  Reduplication -  or duplicating the first consonant of the tense stem for the verb (for verbs that begin with a single consonant) and adding and epsilon.)
+  1.  Reduplication -  or duplicating the first consonant of the tense stem for the verb (for verbs that begin with a single consonant) and adding and epsilon.
   2.  Plus The first perfect active tense stem
   3.  Plus the tense formative (κα)
   4.  Plus the primary active personal ending.
@@ -271,7 +271,7 @@ The 1st Perfect Active Indicative for a verb is formed by using:
        This is known as “vocalic reduplication” and is the same as with the aorist or imperfect tenses.  The tense formative “κα” will make it clear that this is a perfect tense verb and not an aorist or imperfect tense verb. For example:  αἴρω -> ἧρκα (I have raised up)
 
     (b)  Exception: Verbs that begin with a diphthong may or may not lengthen.   For Example: εὐλογέω -> εὐλόγηκα (I have blessed)
-    (c)  For aspirated verbs that begin with a phi(φ), xi (χ), or theta (θ) in the third column of the `Square of Stops Table <https://ugg.readthedocs.io/en/latest/paradigms.html#table-11-square-of-stops>`_ (or see below this paragraph).  The reduplication will cause the consonant to lose its aspiration.  Therefore, the phi will change to a pi (π), the xi to a kapa (κ), and the theta to a tau (τ).  This makes it easier to pronounce.  The consonants in the first two columns (Voiceless and Voiced) will reduplicate like any other consonant.   For Example: [the third column verb φιλέω -> πεφίληκα (I have loved)] and [the first column verb καλέω -> κέκληκα (I have called)].
+    (c)  For aspirated verbs that begin with a phi(φ), xi (χ), or theta (θ) in the third column of the `Square of Stops Table <https://ugg.readthedocs.io/en/latest/paradigms.html#table-11-square-of-stops>`_ (or see below this paragraph).  The reduplication will cause the consonant to lose its aspiration.  Therefore, the phi will change to a pi (π), the xi to a kappa (κ), and the theta to a tau (τ).  This makes it easier to pronounce.  The consonants in the first two columns (Voiceless and Voiced) will reduplicate like any other consonant.   For Example: [the third column verb φιλέω -> πεφίληκα (I have loved)] and [the first column verb καλέω -> κέκληκα (I have called)].
     
     .. raw:: html
 
@@ -339,7 +339,7 @@ There are only a few Second Perfect verbs in the New Testament from 26 different
   *  ἔρχομαι -> ἐλήλυθα (I have gone)
   *  λαμβάνω -> εἴληφα ( I have received)
   *  πείθω -> πέποιθα (I have persuaded), and
-  *  οἴδα (I Know)  (which is a perfect verb that is used in Koine Greek with a present tense meaning. 
+  *  οἴδα (I know) which is a perfect verb that is used in Koine Greek with a present tense meaning. 
 
 Table V-PT-3 Formation of Second Perfect Active Indicative Verb
 
@@ -662,7 +662,7 @@ Examples:
 Intensive Perfect- V-PT-7a  Greater Emphasis Current State
 ^^^^
 
-	The perfect tense places an emphasis on the results or present state of the subject as a result from an action completed in the past.  This is the most common use of the Perfect Tense. It  is referred to as the Intensive Perfect.   However, the use of the perfect tense does NOT imply that the results will continue forever.   This type of conclusion must be made on the basis of other factors.
+	The Perfect Tense places an emphasis on the results or present state of the subject as a result from an action completed in the past.  This is the most common use of the Perfect Tense. It  is referred to as the Intensive Perfect.   However, the use of the Perfect Tense does NOT imply that the results will continue forever.   This type of conclusion must be made on the basis of other factors.
 
 .. csv-table:: Example V-PT-7a   Intensive Perfect Tense - greater emphasis on **the Current State**
   :header-rows: 1
@@ -690,7 +690,7 @@ Intensive Perfect V-PT-7b Emphasis Completed Action
 Intensive Perfect - V-PT-7c Emphasis Current Condition Only
 ^^^^
 
-Acts 24:7 is an example of the emphasis on the present State of Paul as a result of his having been placed in prison in the past.  His current state is “imprisoned.”  It is also clear from the context, there is a possibility of his release by the next governor.  The emphasis is on his current condition as a result of past action, not on what may or may not happen in the future.
+Acts 24:7 is an example of the emphasis on the present state of Paul as a result of his having been placed in prison in the past.  His current state is “imprisoned.”  It is also clear from the context, there is a possibility of his release by the next governor.  The emphasis is on his current condition as a result of past action, not on what may or may not happen in the future.
 
 .. csv-table:: Example V-PT-7c **Current Condition only**
 
@@ -714,7 +714,7 @@ Intensive Perfect - V-PT-7d Imagined Event
   elegon,hoti,Iōannēs,ho,baptizōn,**egēgertai**,ek,nekrōn
   They were saying,that,John,the,one who baptizes,**has been raised**,from,(the) dead
 
-*They (some) were saying, “John the Baptist* **has been raised** *from the dead*
+*They (some) were saying, “John the Baptist* **has been raised** *from the dead*” 
 
 Gnomic Perfect - V-PT-8
 ^^^^
