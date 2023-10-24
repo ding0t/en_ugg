@@ -20,7 +20,7 @@ Methodology
 Future
 ------
 
-For questions, comments, feedback, or to find out more information about helping with this project and/or others like it please contact Grant Ailie at grant_ailie@wycliffeassociates.org
+For questions, comments, feedback, or to find out more information about helping with this project and/or others like it please contact Grant Ailie at grant.ailie@unfoldingword.org
 
 Contributors
 ------------
