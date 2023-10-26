@@ -278,7 +278,7 @@ This stem includes δίδωμι (I give - 415 occurrences); παραδίδωμι
     </tbody>
     </table></br>
 
-Table V-AT-D1a δίδομι Middle/passive indicative    
+Table V-AT-D1a δίδομι Middle/Passive indicative    
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
@@ -321,13 +321,13 @@ Table V-AT-D1a δίδομι Middle/passive indicative
       </tr>
       <tr>
         <td class="tg-fymr">Singular</td>
-        <td class="tg-4erg">Middle/passive</td>
-        <td class="tg-4erg">Middle/passive</td>
+        <td class="tg-4erg">Middle/Passive</td>
+        <td class="tg-4erg">Middle/Passive</td>
         <td class="tg-4erg">Middle</td>
         <td class="tg-6t3r">Passive</td>
         <td class="tg-6t3r">Middle</td>
         <td class="tg-0lax"><span style="font-weight:bold;font-style:italic">Passive</span></td>
-        <td class="tg-6t3r">Middle/passive</td>
+        <td class="tg-6t3r">Middle/Passive</td>
       </tr>
       <tr>
         <td class="tg-q44m">1st person</td>
@@ -513,7 +513,7 @@ Table V-AT-D2 ἵστημι (Active Indicative)
     </tbody>
     </table></br>
 
-Table V-AT-D2a ἵστημι middle/passive indicative
+Table V-AT-D2a ἵστημι Middle/Passive indicative
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
@@ -553,8 +553,8 @@ Table V-AT-D2a ἵστημι middle/passive indicative
       </tr>
       <tr>
         <td class="tg-fymr">Singular</td>
-        <td class="tg-4erg">Middle/passive</td>
-        <td class="tg-4erg">Middle/passive</td>
+        <td class="tg-4erg">Middle/Passive</td>
+        <td class="tg-4erg">Middle/Passive</td>
         <td class="tg-4erg">Middle</td>
         <td class="tg-4erg">Passive</td>
         <td class="tg-4erg">Middle</td>
@@ -726,7 +726,7 @@ This stem includes τίθημι (I put/place - 100 occurances); παρατίθη
     </tbody>
     </table></br>
 
-Table V-AT-D3a τίθημι middle/passive indicative
+Table V-AT-D3a τίθημι Middle/Passive Indicative
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
@@ -767,13 +767,13 @@ Table V-AT-D3a τίθημι middle/passive indicative
       </tr>
       <tr>
         <td class="tg-fymr">Singular</td>
-        <td class="tg-4erg">Middle/passive</td>
-        <td class="tg-4erg">Middle/passive</td>
+        <td class="tg-4erg">Middle/Passive</td>
+        <td class="tg-4erg">Middle/Passive</td>
         <td class="tg-4erg">Middle</td>
         <td class="tg-4erg">Passive</td>
         <td class="tg-4erg">Middle</td>
         <td class="tg-0pky"><span style="font-weight:bold;font-style:italic">Passive</span></td>
-        <td class="tg-4erg">Middle/passive</td>
+        <td class="tg-4erg">Middle/Passive</td>
       </tr>
       <tr>
         <td class="tg-q44m">1st person</td>
