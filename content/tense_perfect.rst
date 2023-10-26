@@ -81,10 +81,10 @@ See also:
 
   *  `Table V-IT-4 Indicative Verbs built on the Perfect and Perfect Middle/Passive Stem <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-it-4-indicative-verbs-built-on-the-perfect-and-perfect-middle-passive-stem>`_
   *  `Table V-AT-D1 δίδωμι (Active Indicative) <https://ugg.readthedocs.io/en/latest/paradigms.html#id8>`_
-  *  `Table V-AT-D1a δίδομι Middle/passive indicative <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d1a-middle-passive-indicative>`_
+  *  `Table V-AT-D1a δίδομι Middle/Passive indicative <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d1a-middle-passive-indicative>`_
   *  `Table V-AT-D2 ἵστημι (Active Indicative) <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d2-active-indicative>`_
   *  `Table V-AT-D3 τίθημι (Active Indicative) <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d3-active-indicative>`_
-  *  `Table V-AT-D3a τίθημι middle/passive indicative <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d3a-middle-passive-indicative>`_
+  *  `Table V-AT-D3a τίθημι Middle/Passive indicative <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-at-d3a-middle-passive-indicative>`_
 
 The Paradigms also contain forms of verbs in the Perfect tense for the subjunctive mood, imperative mood, participles, and infinitives.  See Paradigms:
 
