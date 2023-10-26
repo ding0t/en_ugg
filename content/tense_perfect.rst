@@ -2,7 +2,7 @@
 
 .. _tense_perfect:
 
-Tense perfect [Under Construction]
+Tense perfect
 =============
 
 Glossary
@@ -271,7 +271,7 @@ The 1st Perfect Active Indicative for a verb is formed by using:
        This is known as “vocalic reduplication” and is the same as with the aorist or imperfect tenses.  The tense formative “κα” will make it clear that this is a perfect tense verb and not an aorist or imperfect tense verb. For example:  αἴρω -> ἧρκα (I have raised up)
 
     (b)  Exception: Verbs that begin with a diphthong may or may not lengthen.   For Example: εὐλογέω -> εὐλόγηκα (I have blessed)
-    (c)  The reduplication will cause the consonant to lose its aspiration for aspirated verbs that begin with a **phi(φ), xi (χ), or theta (θ) in the third column** of the `Square of Stops Table <https://ugg.readthedocs.io/en/latest/paradigms.html#table-11-square-of-stops>`_ (or see below this paragraph).  Therefore, the phi will change to a pi (π), the xi to a kappa (κ), and the theta to a tau (τ).  This makes it easier to pronounce.  The consonants in the first two columns (Voiceless and Voiced) will reduplicate like any other consonant.   For Example: [the third column verb φιλέω -> πεφίληκα (I have loved)] and [the first column verb καλέω -> κέκληκα (I have called)].
+    (c)  Reduplication will cause the consonant to lose its aspiration for aspirated verbs that begin with a **phi(φ), xi (χ), or theta (θ) in the third column** of the `Square of Stops Table <https://ugg.readthedocs.io/en/latest/paradigms.html#table-11-square-of-stops>`_ (or see below this paragraph).  Therefore, the phi will change to a **pi (π)**, the xi to a **kappa (κ)**, and the theta to a **tau (τ)**.  This makes it easier to pronounce.  The consonants in the first two columns (Voiceless and Voiced) will reduplicate like any other consonant.   For Example: [the third column verb φιλέω -> πεφίληκα (I have loved)] and [the first column verb καλέω -> κέκληκα (I have called)].
     
     .. raw:: html
 
