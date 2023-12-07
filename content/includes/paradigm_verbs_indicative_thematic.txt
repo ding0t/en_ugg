@@ -918,7 +918,7 @@ paradigm_verbs_indicative_thematic
     </table></br>
 
 Table V-IT-6 Pluperfect Active and Middle Indicative Thematic Verbs
-^^^^^
+~~~~~~~~
 
 [Built on the verb λύω - I loose/untie/destroy]
 
