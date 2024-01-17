@@ -17,7 +17,7 @@ Example V-T-PL-1 - Pluperfect Tense
 ~~~~~~~~~~~~~~~~
 
 .. cvs-table:: V-T-PL-1 Pluperfect Tense
-  header-rows: 1
+  :header-rows: 1
 
 Matthew 12:46
 ἡ,μήτηρ,καὶ,οἱ,ἀδελφοὶ,αὐτοῦ,**ἵστήκεισαν**,ἔξω
