@@ -20,7 +20,7 @@ Example V-T-PL-1 - Pluperfect Tense
 
 ἡ,μήτηρ,καὶ,οἱ,ἀδελφοὶ,αὐτοῦ,**ἵστήκεισαν**,ἔξω
 hē,mētēr,kai,hoi,adelphoi,autou,**histēkeisan**,exō
-the,mother,and,the,brothers,of him,had,stood,outside
+the,mother,and,the,brothers,of him,had stood,outside
 
 *His mother and his brothers* **had stood** *outside*
 
