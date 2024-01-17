@@ -18,11 +18,13 @@ Example V-T-PL-1 - Pluperfect Tense
 
 .. csv-table:: Pluperfect Tense Matthew 12:46
 
-  ἡ,μήτηρ,καὶ,οἱ,ἀδελφοὶ,αὐτοῦ,**ἵστήκεισαν**,ἔξω
-  hē,mētēr,kai,hoi,adelphoi,autou,**histēkeisan**,exō
-  the,mother,and,the,brothers,of him,had,stood,outside
+ἡ,μήτηρ,καὶ,οἱ,ἀδελφοὶ,αὐτοῦ,**ἵστήκεισαν**,ἔξω
+hē,mētēr,kai,hoi,adelphoi,autou,**histēkeisan**,exō
+the,mother,and,the,brothers,of him,had,stood,outside
 
 *His mother and his brothers* **had stood** *outside*
+
+test
 
 
 Article
