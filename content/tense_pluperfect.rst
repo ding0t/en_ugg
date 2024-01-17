@@ -29,12 +29,13 @@ Example V-T-PL-1 - Pluperfect Tense
 Article
 -------
 
-The pluperfect has the same meaning as the perfect tense, except that it only brings the results of an action up to a selected time in the past.  
+The **Pluperfect tense** has the same meaning as the Perfect tense, except that it *only brings the results of an action up to a selected time in the past*.  
 
 Both the Pluperfect Tense and the Perfect Tense describe the state resulting from a previous action or series of actions.  The Pluperfect describes an event that was completed in the past and had results that existed in the past from the speaker’s point of view.  On the other hand, the perfect tense, brings the results all the way up to the time the speaker is speaking.
 
-The Pluperfect does not speak to if the results still exist at the time the speaker is speaking only that they existed at some point in the past.
-While the perfect tense is usually translated “I have believed”,the pluperfect is translated “I had believed.”
+Use of the Pluperfect tense does not indicate if the results still exist at the time the speaker is speaking only that they existed at some point in the past.
+
+The perfect tense is usually translated “I have believed”,the pluperfect is translated “I had believed.”
 The Pluperfect only occurs 88 times in the New Testament.
 
 Based on context, the Pluperfect Tense may be classified into the following categories:
