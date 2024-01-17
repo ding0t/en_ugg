@@ -24,24 +24,25 @@ Example V-T-PL-1 - Pluperfect Tense
 
 *His mother and his brothers* **had stood** *outside*
 
-test
 
 
 Article
 -------
 
 The pluperfect has the same meaning as the perfect tense, except that it only brings the results of an action up to a selected time in the past.  
-Both the Pluperfect Tense and the Perfect Tense describe the state resulting from a previous action or series of actions.  The Pluperfect describes and event that was completed in the past and had results that existed in the past from the speaker’s point of view.  On the other hand, the perfect tense, brings the results all the way up to the time the speaker is speaking.
+
+Both the Pluperfect Tense and the Perfect Tense describe the state resulting from a previous action or series of actions.  The Pluperfect describes an event that was completed in the past and had results that existed in the past from the speaker’s point of view.  On the other hand, the perfect tense, brings the results all the way up to the time the speaker is speaking.
+
 The Pluperfect does not speak to if the results still exist at the time the speaker is speaking only that they existed at some point in the past.
-While perfect tense is usually translated “I have believed,” pluperfect is translated “I had believed.”
+While the perfect tense is usually translated “I have believed”,the pluperfect is translated “I had believed.”
 The Pluperfect only occurs 88 times in the New Testament.
 
 Based on context, the Pluperfect Tense may be classified into the following categories:
 
-1.	Intensive Pluperfect -  stress is on the stative result of some action that occurred at some point in the past prior to the time of the speaker.  The emphasis is therefore on the results that occurred. 
-2.	Consummative Pluperfect (also known as the Extensive Pluperfect)  – stress is on the process that led to the results.
-3.	Pluperfect used as Past Tense – Sometimes the Pluperfect is used in such a manor that it seems to simply refer to an event that occurred in the past. 
-4.	Periphrastic construction.  Instead of using the Pluperfect Tense, the meaning of the Pluperfect is also found in the Greek text by using  two verbs (εἰμί in the indicative or imperfect tense combined with a perfect participle).  This is known as a periphrastic construction.
+  1.  Intensive Pluperfect -  stress is on the stative result of some action that occurred at some point in the past prior to the time of the speaker.  The emphasis is therefore on the results that occurred. 
+  2.  Consummative Pluperfect (also known as the Extensive Pluperfect)  – stress is on the process that led to the results.
+  3.  Pluperfect used as Past Tense – Sometimes the Pluperfect is used in such a manor that it seems to simply refer to an event that occurred in the past. 
+  4.  Periphrastic construction.  Instead of using the Pluperfect Tense, the meaning of the Pluperfect is also found in the Greek text by using  two verbs (εἰμί in the indicative or imperfect tense combined with a perfect participle).  This is known as a periphrastic construction.
 
 The following is a list of the Pluperfect Verbs in the New Testament.
 
