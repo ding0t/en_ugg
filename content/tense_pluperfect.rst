@@ -54,13 +54,12 @@ The following is a list of the Pluperfect Verbs in the New Testament.
 .. csv-table:: 
 
   **βάλλω**,Βεβλήκειν,I throw/cast,,**γίνομαι**,(ε)γεγόνειν,I am/ become
-  **γινώσκω**,ἐγνώκειν,I know,**δίδωμι**,(ε)δεδώκειν,I give
-  **εἴθω**,εἰώθειν,I am accustomed,**ἐπιπείθω,ἐπεποίθειν,I convince/ persuade
-
-κρίνω	κεκρίκειν	I judge	λέγω	εἰρήκειν	I say
-μένω	μεμενήκειν	I remain/abide	ὁράω	ἑωράκειν	I see
-πιστεύω	πεπιστεύκειν	I believe	ποιέω	πεποιήκειν	I do/make
-συναρπάζω	σθνηρπάκειν	I seize			
+  **γινώσκω**,ἐγνώκειν,I know,,**δίδωμι**,(ε)δεδώκειν,I give
+  **εἴθω**,εἰώθειν,I am accustomed,,**ἐπιπείθω**,ἐπεποίθειν,I convince/ persuade
+  **κρίνω**,κεκρίκειν,I judge,,**λέγω**,εἰρήκειν,I say
+  **μένω**,μεμενήκειν,I remain/abide,,**ὁράω**,ἑωράκειν,I see
+  **πιστεύω**,πεπιστεύκειν,I believe,,**ποιέω**,πεποιήκειν,I do/make
+  **συναρπάζω**,σθνηρπάκειν,I seize,,,,			
 					
 
 Form
