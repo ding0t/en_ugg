@@ -16,7 +16,7 @@ eaten*, *they had traveled*).
 Example V-T-PL-1 - Pluperfect Tense
 ~~~~~~~~~~~~~~~~
 
-.. cvs-table:: V-T-PL-1 Pluperfect Tense Matthew 12:46
+.. cvs-table:: Pluperfect Tense Matthew 12:46
 
   ἡ,μήτηρ,καὶ,οἱ,ἀδελφοὶ,αὐτοῦ,**ἵστήκεισαν**,ἔξω
   hē,mētēr,kai,hoi,adelphoi,autou,**histēkeisan**,exō
