@@ -296,10 +296,74 @@ Ending	->
 I had loosed myself (or I had been freed)
 [Note]:  There is no tense formative nor connecting vowel.   The Quadrant 4 personal ending is attached directly to the perfect Middle/passive stem.
 
-Table V-T-PL-7
-Pluperfect
-Middle/Passive Indicative
-Thematic
+Table V-T-PL-7 Pluperfect Middle/Passive Indicative Thematic
+^^^^
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-rvyq{border-color:inherit;font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-hafo" colspan="2"><span style="font-weight:bold">Table V-T-PL-7</span><br><span style="font-weight:bold">Pluperfect</span><br>Middle/ Indicative<br>Thematic</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-c3ow"></td>
+        <td class="tg-7btt">Active</td>
+      </tr>
+      <tr>
+        <td class="tg-7btt">Singular</td>
+        <td class="tg-zlqz"></td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">1 person</td>
+        <td class="tg-3xi5">(ἐ)λελύμην</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">2 person</td>
+        <td class="tg-0pky">(ἐ)λέλυσο</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3 person</td>
+        <td class="tg-0pky">(ἐ)λέλυτο</td>
+      </tr>
+      <tr>
+        <td class="tg-rvyq">Plural</td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">1 person</td>
+        <td class="tg-0pky">(ἐ)λελύμεθα</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">2 person</td>
+        <td class="tg-0pky">(ἐ)λέλυσθε</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3 person</td>
+        <td class="tg-0pky">(ἐ)λέλυντο</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+
 	Middle/Passive
 Singular	
 1 person	(ἐ)λελύμην
