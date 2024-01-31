@@ -63,13 +63,15 @@ The following is a list of the Pluperfect Verbs in the New Testament.
 					
 
 Form
+----
+
 
 The basic form for a verb in the Pluperfect tense is given in Verb Master Table 4-Primary and Secondary Endings of Verbs and Verb-Master Table 8-The Perfect Tenses of the Master paradigm.
 
 See also:
 
 Table V-IT-6 `Pluperfect Active and Middle Indicative Thematic Verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-it-6-pluperfect-active-and-middle-indicative-thematic-verbs>`_
-
+^^^^^
 
 In this section we will describe the formation of the active and Middle Pluperfect Verbs with a theme vowel.
 
@@ -79,10 +81,11 @@ In this section we will describe the formation of the active and Middle Pluperfe
 •	Pluperfect of οἰδα (I know, understand) - ἥδειν
 
 Formation of the 1st Pluperfect Active Indicative Verb with a Theme Vowel:
-Table T-PL-2
-Formation of 
-1st Pluperfect Active Indicative 
-For Thematic Verbs
+~~~~~~~
+
+Table T-PL-2  Formation of 1st Pluperfect Active Indicative For Thematic Verbs
+^^^^^
+
 Augment*	+	reduplication	+	Perfect
 Active Stem	+	Form Marker (κ)	+	Connecting Vowel/
 Diphthong ει	+	B
@@ -105,26 +108,79 @@ f.	Plus the secondary active personal ending (quadrant 2) Paradigms Master Table
 
 
  
-Table V-Y-PL-3  Pluperfect Active Indicative Verb based on λὐω (I loose).
+Table V-T-PL-3  Pluperfect Active Indicative Verb
+^^^^^^
+ 
+ Based on λὐω (I loose).
 
+.. raw:: html
 
-Table V-T-PL-3
-Pluperfect
-Active Indicative
-Thematic
-	Active
-Singular	
-1 person	(ἐ)λελύκειν
-2 person	(ἐ)λελύκεις
-3 person	(ἐ)λελύκει(ν)
-Plural	
-1 person	(ἐ)λελύκειμεν
-2 person	(ἐ)λελύκειτε
-3 person	(ἐ)λελύκεισαν
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-rvyq{border-color:inherit;font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-hafo" colspan="2"><span style="font-weight:bold">Table V-T-PL-3</span><br><span style="font-weight:bold">Pluperfect</span><br>Active Indicative<br>Thematic</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-c3ow"></td>
+        <td class="tg-7btt">Active</td>
+      </tr>
+      <tr>
+        <td class="tg-7btt">Singular</td>
+        <td class="tg-zlqz"></td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">1 person</td>
+        <td class="tg-3xi5">ἐλελύκειν</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">2 person</td>
+        <td class="tg-0pky">ἐλελύκεις</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3 person</td>
+        <td class="tg-0pky">ἐλελύκει(ν)</td>
+      </tr>
+      <tr>
+        <td class="tg-rvyq">Plural</td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">1 person</td>
+        <td class="tg-0pky">ἐλελύκειμεν</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">2 person</td>
+        <td class="tg-0pky">ἐλελύκειτε</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3 person</td>
+        <td class="tg-0pky">ἐλελύκεισαν</td>
+      </tr>
+    </tbody>
+    </table></br>
+
 
 
 Formation – The Second Pluperfect Active Indicative verb with a Theme Vowel:
-
+^^^^
 
 Table V-T-PL-4 Formation of Second Pluperfect Active Indicative Verb
 Based on ἔρχομαι (I go)
@@ -147,8 +203,74 @@ I had gone
 Table V-T-PL-5  2nd Pluperfect Active Indicative based on ἔρχομαι (I go).
 [Note]  Only the 3rd person singular and 3rd person plural appear in the New Testament.
 
-Table V-T-PI-5
-Pluperfect
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-rvyq{border-color:inherit;font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-hafo" colspan="2"><span style="font-weight:bold">Table V-T-PL-5</span><br><span style="font-weight:bold">Second Pluperfect</span><br>Active Indicative<br>Thematic</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-c3ow"></td>
+        <td class="tg-7btt">Active</td>
+      </tr>
+      <tr>
+        <td class="tg-7btt">Singular</td>
+        <td class="tg-zlqz"></td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">1 person</td>
+        <td class="tg-3xi5">(ἐ)λελύθειν</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">2 person</td>
+        <td class="tg-0pky">(ἐ)λελύθεις</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3 person</td>
+        <td class="tg-0pky">(ἐ)λελύθει(ν)</td>
+      </tr>
+      <tr>
+        <td class="tg-rvyq">Plural</td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">1 person</td>
+        <td class="tg-0pky">(ἐ)λελύθειμεν</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">2 person</td>
+        <td class="tg-0pky">(ἐ)λελύθειτε</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3 person</td>
+        <td class="tg-0pky">(ἐ)λελύθεισαν</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+
+Table V-T-PL-5
+Second Pluperfect
 Active Indicative
 Thematic Verbs
 	Active
