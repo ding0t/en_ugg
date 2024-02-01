@@ -374,7 +374,81 @@ Plural
 2 person	(ἐ)λέλυσθε
 3 person	(ἐ)λέλυντο
 
-Table V-T-PL-8  Pluperfect of οἰδα (I know, understand) - ἥδειν
+Table V-T-PL-8  Pluperfect of οἰδα
+^^^^^
+
+
+ The Pluperfect of 
+ 
+ .. raw:: html
+
+     <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-rvyq{border-color:inherit;font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-hafo" colspan="2"><span style="font-weight:bold">Table V-T-PL-8</span><br>Pluperfect<br><span style="font-weight:bold">Οἰδα</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-c3ow"></td>
+        <td class="tg-7btt">Active</td>
+      </tr>
+      <tr>
+        <td class="tg-7btt">Singular</td>
+        <td class="tg-zlqz"></td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">1 person</td>
+        <td class="tg-3xi5">ἥδειν</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">2 person</td>
+        <td class="tg-0pky">ἥδεις</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3 person</td>
+        <td class="tg-0pky">ἥδει</td>
+      </tr>
+      <tr>
+        <td class="tg-rvyq">Plural</td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">1 person</td>
+        <td class="tg-0pky">ἥδειμεν</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">2 person</td>
+        <td class="tg-0pky">ἥδειτε</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3 person</td>
+        <td class="tg-0pky">ἥδεισαν</td>
+      </tr>
+    </tbody>
+    </table></br>
+ 
+ 
+ 
+ 
+ 
+ οἴδα (I know, understand) - ἥδειν
 Table V-T-PL-8
 Pluperfect of
 οἰδα
