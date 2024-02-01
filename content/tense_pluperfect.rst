@@ -154,7 +154,7 @@ The 1st Pluperfect Active Indicative for thematic verbs is formed by using:
   3.  Plus The first perfect active tense stem
   4.  Plus the tense formative (κ)
   5.  Plus the connecting vowel  (ει)
-  6.  Plus the secondary active personal ending (quadrant 2) `Paradigms Master Table <https://ugg.readthedocs.io/en/latest/paradigms.html#table-4-primary-and-secondary-endings-of-verbs>`_
+  6.  Plus the secondary active personal ending (quadrant 2) `Paradigms Master Table 4 Primary and Secondary Endings of Verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#table-4-primary-and-secondary-endings-of-verbs>`_
 
 
  
@@ -232,21 +232,59 @@ Table V-T-PL-3  Pluperfect Active Indicative Verb
 Formation – The Second Pluperfect Active Indicative verb with a Theme Vowel:
 ^^^^
 
-Table V-T-PL-4 Formation of Second Pluperfect Active Indicative Verb
-Based on ἔρχομαι (I go)
+Table V-T-PL-4 Formation of Second Pluperfect Active Indicative Verb based on ἔρχομαι (I go)
 
-Table V-T-PL-4
-Formation of
-(Second)  Pluperfect Active Indicative
-for Thematic Verbs
-Augment	+	Reduplication	+	2nd Perfect active
-Tense
-Stem	+	Connecting
-Vowel	+	Secondary
-Active
-Personal Ending
-(ἐ)	+	λη		λυθ	+	ει	+	ν	->	(ἐ)ληλύθειν
-I had gone
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-hafo" colspan="11"><span style="font-weight:bold">Table V-T-PL-4</span><br>Formation of<br><span style="font-weight:bold">2nd Pluperfect Active Indicative</span><br>for Thematic Verbs</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-c3ow">Augment *</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-baqh">Reduplication</td>
+        <td class="tg-baqh">+</td>
+        <td class="tg-baqh">2nd Perfect<br>Active<br>Tense<br>Stem</td>
+        <td class="tg-baqh">+</td>
+        <td class="tg-baqh">Connecting<br>Vowel<br>ει</td>
+        <td class="tg-baqh">+</td>
+        <td class="tg-baqh" colspan="3">B<br>Secondary Active<br>Personal<br>Ending</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-3xi5">+</td>
+        <td class="tg-baqh">λε</td>
+        <td class="tg-baqh">+</td>
+        <td class="tg-baqh">λυθ</td>
+        <td class="tg-baqh">+</td>
+        <td class="tg-baqh">ει</td>
+        <td class="tg-baqh">+</td>
+        <td class="tg-baqh">ν</td>
+        <td class="tg-baqh">-&gt;</td>
+        <td class="tg-baqh">ἐλελύθειν</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf" colspan="11">I had gone</td>
+      </tr>
+    </tbody>
+    </table></br>
+
 
 [Note]:   There is no tense formative for the 2nd Pluperfect as is the case with the 2nd perfect verb.   The use of the 2nd perfect tense stem notifies the reader that this is a 2nd pluperfect verb.
 
