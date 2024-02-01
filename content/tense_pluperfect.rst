@@ -357,21 +357,11 @@ Table V-T-PL-5  2nd Pluperfect Active Indicative based on ἔρχομαι (I go)
     </table></br>
 
 
-Table V-T-PL-5
-Second Pluperfect
-Active Indicative
-Thematic Verbs
-	Active
-Singular	
-1 person	(ἐ)ληλύθειν
-2 person	(ἐ)ληλύθεις
-3 person	(ἐ)ληλύθει(ν)
-Plural	
-1 person	(ἐ)ληλύθειμεν
-2 person	(ἐ)ληλύθειτε
-3 person	(ἐ)ληλύθεισαν
 
-Formation of the Middle Pluperfect Active Indicative Verb with a Theme Vowel:
+Formation of the Middle Pluperfect Active Indicative Verb with a Theme Vowel
+^^^^
+
+
 Table T-PL-6
 Formation of 
 Middle Pluperfect Active Indicative 
