@@ -158,7 +158,7 @@ The 1st Pluperfect Active Indicative for thematic verbs is formed by using:
 
 
  
-Table V-T-PL-3  Pluperfect Active Indicative Verb
+Table V-T-PL-3  1st Pluperfect Active Indicative Verb
 ^^^^^^
  
  Based on λὐω (I loose).
@@ -563,19 +563,28 @@ Table V-T-PL-8  Pluperfect of οἴδα
 Examples
 ----
 
-Intensive Pluperfect -  stress is on the results that existed from some action that occurred in the past prior to the time of the speaker.  The emphasis is therefore on the results that occurred. 
+Intensive Pluperfect -  
 ~~~~
 
+Intensive Pluperfect - Stress is on the results that existed from some action that occurred in the past prior to the time of the speaker.  The emphasis is therefore on the results that occurred. 
+
+
 	Example V-T-PL-9
-John 6:17
-σκοτία ἤδη ἐγεγόνει, καὶ οὔπω ἐληλύθει πρὸς αὐτοὺς ὁ Ἰησοῦς.
-skotia ēdē egegonei, kai oupō elēlythei pros autous ho Iēsous.
-Dark   already it had become and not yet had come to them the Jesus
 
-darkness had already happened, but Jesus had not yet come to them.
+.. csv-table:: V-T-PL-9  John 6:17
+
+  σκοτία,ἤδη,**ἐγεγόνει**,καὶ,οὔπω,**ἐληλύθει**,πρὸς,αὐτοὺς,ὁ,Ἰησοῦς.
+  skotia,ēdē,**egegonei**,kai,oupō,**elēlythei**,pros,autous,ho,Iēsous.
+  dark,already,**it had become**,and,not yet,**he had come**,to them,the,Jesus
+
+*darkness* **had** *already* **happened**, but Jesus **had** *not yet* **come** *to them.*
 
 
-Consummative Pluperfect (also known as the Extensive Pluperfect)  – stress is on the process that led to the results.
+Consummative Pluperfect 
+~~~~
+
+The Consummative Pluperfect is also known as the Extensive Pluperfect)
+With the Consummative Pluperfect stress is on the process that led to the results.
 	
 
 Example V-T-PL-10
