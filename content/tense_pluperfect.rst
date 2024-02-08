@@ -6,7 +6,7 @@ Tense pluperfect
 ================
 
 Glossary    [Under Construction]
---------
+______
 
 **Pluperfect** is the verb **tense-form** a speaker can use to describe
 the state of a completed action that was in existance at some point in the past. (e.g., *we had
@@ -14,7 +14,7 @@ eaten*, *they had traveled*).
 
 
 Example V-T-PL-1 - Pluperfect Tense
-^^^^
+~~~~
 
 .. csv-table:: Pluperfect Tense Matthew 12:46
 
@@ -27,7 +27,7 @@ Example V-T-PL-1 - Pluperfect Tense
 
 
 Article    [Under Construction]
--------
+_______
 
 Background
 ~~~~
