@@ -626,8 +626,8 @@ Example V-T-PL-12  Acts 16:9
 
 .. csv-table::   V-T-PL-12  Acts 16:9
 
-  ἀνὴρ,Μακεδών,,τις,**ἦν**,**ἑστὼς**,καὶ,παρακαλῶν,αὐτὸν
-  anēr,Makedōn,,tis,**ēn**,**hestōs**,kai,parakalōn,auton
+  ἀνὴρ,Μακεδών,τις,**ἦν**,**ἑστὼς**,καὶ,παρακαλῶν,αὐτὸν
+  anēr,Makedōn,tis,**ēn**,**hestōs**,kai,parakalōn,auton
   man,from Macedonia,certain,**had been**,**standing**,and,was exhorting/calling,him
 
 *A certain man of Macedonia* **was standing** *and calling him*.  or ( *A certain man of Macedonia* **had been standing** *and was calling him*.)
