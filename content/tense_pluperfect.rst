@@ -563,10 +563,10 @@ Table V-T-PL-8  Pluperfect of οἴδα
 Examples
 ----
 
-Intensive Pluperfect -  
+Intensive Pluperfect  
 ~~~~
 
-Intensive Pluperfect - Stress is on the results that existed from some action that occurred in the past prior to the time of the speaker.  The emphasis is therefore on the results that occurred. 
+With the Intensive Pluperfect, Stress is on the results that existed from some action that occurred in the past prior to the time of the speaker.  The emphasis is therefore on the results that occurred. 
 
 
 	Example V-T-PL-9
@@ -586,16 +586,13 @@ Consummative Pluperfect
 The Consummative Pluperfect is also known as the Extensive Pluperfect).  
 With the Consummative Pluperfect stress is on the process that led to the results.
 	
-
 Example V-T-PL-10 John 4:8
-^^^^
 
 .. csv::  V-T-PL-10   John 4:8
 
-
   οἱ,γὰρ,μαθηταὶ,αὐτοῦ,**ἀπεληλύθεισαν**,εἰς,τὴν,πόλιν,ἵνα,τροφὰς,ἀγοράσωσιν.
-	hoi,gar,mathētai,autou,**apelēlytheisan**,eis,tēn,polin,hina,trophas,agorasōsin.
-	the,for,disciples,his,**had gone**,into,the,city,so that,food,they could buy.
+  hoi,gar,mathētai,autou,**apelēlytheisan**,eis,tēn,polin,hina,trophas,agorasōsin.
+  the,for,disciples,his,**had gone**,into,the,city,so that,food,they could buy.
 
 *for his disciples* **had gone away** *into the city so that they might buy food.*
 
@@ -603,9 +600,11 @@ Example V-T-PL-10 John 4:8
 Pluperfect used as Past Tense
 ~~~~
 
- – Sometimes the Pluperfect is used in such a manner that it seems to simply refer to an event that occurred in the past. 
+Sometimes the Pluperfect is used in such a manner that it seems to simply refer to an event that occurred in the past. 
 
-	Example V-T-PL-11
+Example V-T-PL-11  John 1:35
+
+
 	John 1:35
 	τῇ ἐπαύριον πάλιν ἵστήκει ὁ Ἰωάννης
 	tē epaurion palin histēkei ho Iōannēs,
