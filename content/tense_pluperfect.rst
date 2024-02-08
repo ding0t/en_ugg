@@ -118,7 +118,7 @@ Table T-PL-2  Formation of 1st Pluperfect Active Indicative For Thematic Verbs
         <td class="tg-baqh">+</td>
         <td class="tg-baqh">Connecting<br>Vowel/<br>Diphthong<br>ει</td>
         <td class="tg-baqh">+</td>
-        <td class="tg-baqh">B<br>Personal<br>Ending</td>
+        <td class="tg-baqh">Quadrant 2<br>Personal<br>Ending</td>
         <td class="tg-baqh">-&gt;</td>
         <td class="tg-baqh"></td>
       </tr>
@@ -264,7 +264,7 @@ Table V-T-PL-4 Formation of Second Pluperfect Active Indicative Verb based on �
         <td class="tg-baqh">+</td>
         <td class="tg-baqh">Connecting<br>Vowel<br>ει</td>
         <td class="tg-baqh">+</td>
-        <td class="tg-baqh" colspan="3">B<br>Secondary Active<br>Personal<br>Ending</td>
+        <td class="tg-baqh" colspan="3">Quadrant 2<br>Secondary Active<br>Personal<br>Ending</td>
       </tr>
       <tr>
         <td class="tg-c3ow">ε</td>
@@ -410,7 +410,7 @@ Formation of the Middle Pluperfect Active Indicative Verb with a Theme Vowel
 
 [Note]:  
 
-  *  * The augment is often missing.
+  *   *The augment is often missing.
   *  There is no tense formative nor connecting vowel.   
   *  The Quadrant 4 personal ending is attached directly to the perfect Middle/passive stem.
 
