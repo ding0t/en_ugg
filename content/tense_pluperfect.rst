@@ -361,18 +361,58 @@ Table V-T-PL-5  2nd Pluperfect Active Indicative based on ἔρχομαι (I go)
 Formation of the Middle Pluperfect Active Indicative Verb with a Theme Vowel
 ^^^^
 
+.. raw:: html
 
-Table T-PL-6
-Formation of 
-Middle Pluperfect Active Indicative 
-For Thematic Verbs
-Augment*	+	reduplication	+	Perfect
-Middle/PassiveStem	+	Quadrant 4
-Personal
-Ending	->	
-ε	+	λε	+	λυ	+	μην	->	ἐλελύμην
-I had loosed myself (or I had been freed)
-[Note]:  There is no tense formative nor connecting vowel.   The Quadrant 4 personal ending is attached directly to the perfect Middle/passive stem.
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-hafo" colspan="9"><span style="font-weight:bold">Table V-T-PL-6</span><br>Formation of<br><span style="font-weight:bold">Middle Pluperfect Active Indicative</span><br>for Thematic Verbs</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-c3ow">Augment *</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">Reduplication</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">Perfect<br>Middle/Passive<br>Tense<br>Stem</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow" colspan="3">Quadrant 4<br>Middle/Passive<br>Personal<br>Ending</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-3xi5">+</td>
+        <td class="tg-c3ow">λε</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">λυθ</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">μην</td>
+        <td class="tg-c3ow">-&gt;</td>
+        <td class="tg-c3ow">ἐλελύμην</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf" colspan="9">I had loosed myself (or I had been freed)</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+
+[Note]:  
+
+  *  * The augment is often missing.
+  *  There is no tense formative nor connecting vowel.   
+  *  The Quadrant 4 personal ending is attached directly to the perfect Middle/passive stem.
 
 Table V-T-PL-7 Pluperfect Middle/Passive Indicative Thematic
 ^^^^
