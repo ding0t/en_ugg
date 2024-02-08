@@ -570,7 +570,7 @@ Table V-T-PL-8  Pluperfect of οἴδα
  
 
 Examples
---------
+_______
 
 Intensive Pluperfect  
 ~~~~
