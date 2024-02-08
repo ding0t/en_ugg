@@ -608,7 +608,7 @@ Example V-T-PL-11  John 1:35
 
   τῇ,ἐπαύριον,πάλιν,**ἵστήκει**,ὁ,Ἰωάννης
   tē,epaurion,palin,**histēkei**,ho,Iōannēs
-  on the,next day,again,**he stood,the,John
+  on the,next day,again,**he stood**,the,John
 
 
 *The next day, John* **was standing** *again with two of his disciples.*
@@ -622,13 +622,15 @@ Periphrastic construction.
 
 The word-for-word translation below tries to pick up on the imperfect helping verb (ἦν) combined with the perfect participle (ἑστὠς).  The time of the Periphrastic construction also affects the time of the present participle (παρακαλῶν) and so we included the helping verb “was” in our word-for-word translation.
 
-Example V-T-PL-12
-Acts 16:9
-ἀνὴρ Μακεδών τις ἦν ἑστὼς καὶ παρακαλῶν αὐτὸν
-anēr Makedōn tis ēn hestōs kai parakalōn auton
-man from Macedonia certain had been standing and was exhorting/calling him
+Example V-T-PL-12  Acts 16:9
 
-A certain man of Macedonia was standing and calling him  or ( A certain man of Macedonia had been standing and was calling him)
+.. csv-table::   V-T-PL-12  Acts 16:9
+
+  ἀνὴρ,Μακεδών,,τις,**ἦν**,**ἑστὼς**,καὶ,παρακαλῶν,αὐτὸν
+  anēr,Makedōn,,tis,**ēn**,**hestōs**,kai,parakalōn,auton
+  man,from Macedonia,certain,**had been**,**standing**,and,was exhorting/calling,him
+
+*A certain man of Macedonia* **was standing** *and calling him*.  or ( *A certain man of Macedonia* **had been standing** *and was calling him*.)
 
 
 
