@@ -594,8 +594,6 @@ Example V-T-PL-10 John 4:8
   hoi,gar,mathētai,autou,**apelēlytheisan**,eis,tēn,polin,hina,trophas,agorasōsin.
   the,for,disciples,his,**had gone**,into,the,city,so that,food,they could buy.
 
-  the,for, disciples,his,**they had gone**,into,the,city,so that, food,they could buy
-
 *for his disciples* **had gone away** *into the city so that they might buy food.*
 
 
@@ -606,18 +604,23 @@ Sometimes the Pluperfect is used in such a manner that it seems to simply refer 
 
 Example V-T-PL-11  John 1:35
 
+.. csv-table::  V-T-PL-11	John 1:35
 
-	John 1:35
-	τῇ ἐπαύριον πάλιν ἵστήκει ὁ Ἰωάννης
-	tē epaurion palin histēkei ho Iōannēs,
-	on the next day again  he stood the John
-The next day, John was standing again with two of his disciples
-
+  τῇ,ἐπαύριον,πάλιν,**ἵστήκει**,ὁ,Ἰωάννης
+  tē,epaurion,palin,**histēkei**,ho,Iōannēs
+  on the,next day,again,**he stood,the,John
 
 
-Periphrastic construction.  The meaning of the Pluperfect is also found in the Greek text by using two verbs (εἰμί in the indicative or imperfect tense combined with a perfect participle).  The use of the  “helping verb (εἰμί) along with a perfect participle is known as a periphrastic construction.
+*The next day, John* **was standing** *again with two of his disciples.*
 
-Our word for word translation below tries to pick up on the imperfect helping (ἦν) combined with the perfect participle (ἑστὠς).  The time of the Periphrastic construction also affects the time of  present participle (παρακαλῶν) and so we included the helping verb “was” in our word for word translation.
+
+
+Periphrastic construction.
+~~~~
+  
+  The meaning of the Pluperfect is also found in the Greek text by using two verbs (εἰμί in the indicative or imperfect tense combined with a perfect participle).  The use of the  “helping verb (εἰμί) along with a perfect participle is known as a periphrastic construction.
+
+The word-for-word translation below tries to pick up on the imperfect helping verb (ἦν) combined with the perfect participle (ἑστὠς).  The time of the Periphrastic construction also affects the time of the present participle (παρακαλῶν) and so we included the helping verb “was” in our word-for-word translation.
 
 Example V-T-PL-12
 Acts 16:9
