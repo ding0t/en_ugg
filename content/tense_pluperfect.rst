@@ -230,9 +230,10 @@ Table V-T-PL-3  Pluperfect Active Indicative Verb
 
 
 Formation – The Second Pluperfect Active Indicative verb with a Theme Vowel:
-^^^^
+~~~~
 
 Table V-T-PL-4 Formation of Second Pluperfect Active Indicative Verb based on ἔρχομαι (I go)
+^^^^
 
 .. raw:: html
 
@@ -289,7 +290,9 @@ Table V-T-PL-4 Formation of Second Pluperfect Active Indicative Verb based on �
 [Note]:   There is no tense formative for the 2nd Pluperfect as is the case with the 2nd perfect verb.   The use of the 2nd perfect tense stem notifies the reader that this is a 2nd pluperfect verb.
 
 Table V-T-PL-5  2nd Pluperfect Active Indicative based on ἔρχομαι (I go).
-[Note]  Only the 3rd person singular and 3rd person plural appear in the New Testament.
+^^^^
+
+  [Note]  Only the 3rd person singular and 3rd person plural appear in the New Testament.
 
 
 .. raw:: html
@@ -359,6 +362,9 @@ Table V-T-PL-5  2nd Pluperfect Active Indicative based on ἔρχομαι (I go)
 
 
 Formation of the Middle Pluperfect Active Indicative Verb with a Theme Vowel
+~~~~
+
+Table V-T-PL-6  Formation of the Middle Pulperfect Active Indicative verb based on λὐω (I loose).
 ^^^^
 
 .. raw:: html
@@ -482,21 +488,11 @@ Table V-T-PL-7 Pluperfect Middle/Passive Indicative Thematic
     </table></br>
 
 
-	Middle/Passive
-Singular	
-1 person	(ἐ)λελύμην
-2 person	(ἐ)λέλυσο
-3 person	(ἐ)λέλυτο
-Plural	
-1 person	(ἐ)λελύμεθα
-2 person	(ἐ)λέλυσθε
-3 person	(ἐ)λέλυντο
-
-Table V-T-PL-8  Pluperfect of οἰδα
-^^^^^
+Table V-T-PL-8  Pluperfect of οἴδα
+~~~~
 
 
- The Pluperfect of 
+ The Pluperfect of οἴδα (I know, understand) - ἥδειν
  
  .. raw:: html
 
@@ -519,7 +515,7 @@ Table V-T-PL-8  Pluperfect of οἰδα
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-hafo" colspan="2"><span style="font-weight:bold">Table V-T-PL-8</span><br>Pluperfect<br><span style="font-weight:bold">Οἰδα</span></th>
+        <th class="tg-hafo" colspan="2"><span style="font-weight:bold">Table V-T-PL-8</span><br>Pluperfect<br><span style="font-weight:bold">Οἴδα</span></th>
       </tr>
     </thead>
     <tbody>
@@ -563,28 +559,12 @@ Table V-T-PL-8  Pluperfect of οἰδα
     </table></br>
  
  
- 
- 
- 
- οἴδα (I know, understand) - ἥδειν
-Table V-T-PL-8
-Pluperfect of
-οἰδα
-
-	Middle/Passive
-Singular	
-1 person	ἥδειν
-2 person	ἥδεις
-3 person	ἥδει
-Plural	
-1 person	ἥδειμεν
-2 person	ἥδειτε
-3 person	ἥδεισαν
-
 
 Examples
+----
 
 Intensive Pluperfect -  stress is on the results that existed from some action that occurred in the past prior to the time of the speaker.  The emphasis is therefore on the results that occurred. 
+~~~~
 
 	Example V-T-PL-9
 John 6:17
