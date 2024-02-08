@@ -29,6 +29,9 @@ Example V-T-PL-1 - Pluperfect Tense
 Article    [Under Construction]
 -------
 
+Background
+~~~~
+
 The **Pluperfect tense** has the same meaning as the *Perfect Tense*, except that it *only brings the results of an action up to a selected time in the past*.  
 
 Both the **Pluperfect Tense** and the *Perfect Tense* describe the state resulting from a previous action or series of actions.  The Pluperfect describes an event that was completed in the past and had results that existed in the past from the speaker’s point of view.  On the other hand, the Perfect Tense, brings the results all the way up to the time the speaker is speaking.
@@ -38,12 +41,18 @@ Use of the Pluperfect Tense *does not indicate if the results still exist at the
 The Perfect Tense is usually translated *“I have believed”*,the **Pluperfect Tense** is usually translated *“I had believed.”*
 The Pluperfect only occurs 88 times in the New Testament.
 
+Categories
+~~~~~
+
 Based on context, the Pluperfect Tense may be classified into the following categories:
 
   1.  *Intensive Pluperfect* -  stress is on the stative result of some action that occurred at some point in the past prior to the time of the speaker.  The emphasis is therefore on the results that occurred. [See `Intensive Imperfect <https://ugg.readthedocs.io/en/latest/tense_pluperfect.html#intensive-pluperfect>`_]
   2.  *Consummative Pluperfect* (also known as the Extensive Pluperfect)  – stress is on the process that led to the results.
   3.  *Pluperfect used as Past Tense* – Sometimes the Pluperfect is used in such a manner that it seems to simply refer to an event that occurred in the past. 
   4.  *Periphrastic Construction* - Instead of using the Pluperfect Tense, the meaning of the Pluperfect is also found in the Greek text by using  two verbs (εἰμί in the indicative or imperfect tense combined with a Perfect Participle).  This is known as a Periphrastic Construction.
+
+Listing of Pluperfect Verbs
+~~~~~
 
 The following is a list of the Pluperfect Verbs in the New Testament.
 
@@ -561,7 +570,7 @@ Table V-T-PL-8  Pluperfect of οἴδα
  
 
 Examples
-----
+--------
 
 Intensive Pluperfect  
 ~~~~
