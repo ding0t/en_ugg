@@ -72,7 +72,7 @@ The following is a list of the Pluperfect Verbs in the New Testament.
 					
 
 Form
-----
+____
 
 
 The basic form for a verb in the Pluperfect tense is given in Verb Master Table 4-Primary and Secondary Endings of Verbs and Verb-Master Table 8-The Perfect Tenses of the Master paradigm.
