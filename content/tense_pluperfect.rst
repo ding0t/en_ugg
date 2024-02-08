@@ -14,7 +14,7 @@ eaten*, *they had traveled*).
 
 
 Example V-T-PL-1 - Pluperfect Tense
-~~~~~~~~~~~~~~~~
+^^^^
 
 .. csv-table:: Pluperfect Tense Matthew 12:46
 
@@ -40,7 +40,7 @@ The Pluperfect only occurs 88 times in the New Testament.
 
 Based on context, the Pluperfect Tense may be classified into the following categories:
 
-  1.  *Intensive Pluperfect* -  stress is on the stative result of some action that occurred at some point in the past prior to the time of the speaker.  The emphasis is therefore on the results that occurred. 
+  1.  *Intensive Pluperfect* -  stress is on the stative result of some action that occurred at some point in the past prior to the time of the speaker.  The emphasis is therefore on the results that occurred. [See `Intensive Imperfect <https://ugg.readthedocs.io/en/latest/tense_pluperfect.html#intensive-pluperfect>`_]
   2.  *Consummative Pluperfect* (also known as the Extensive Pluperfect)  – stress is on the process that led to the results.
   3.  *Pluperfect used as Past Tense* – Sometimes the Pluperfect is used in such a manner that it seems to simply refer to an event that occurred in the past. 
   4.  *Periphrastic Construction* - Instead of using the Pluperfect Tense, the meaning of the Pluperfect is also found in the Greek text by using  two verbs (εἰμί in the indicative or imperfect tense combined with a Perfect Participle).  This is known as a Periphrastic Construction.
