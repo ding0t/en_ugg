@@ -575,7 +575,7 @@ Intensive Pluperfect - Stress is on the results that existed from some action th
 
   σκοτία,ἤδη,**ἐγεγόνει**,καὶ,οὔπω,**ἐληλύθει**,πρὸς,αὐτοὺς,ὁ,Ἰησοῦς.
   skotia,ēdē,**egegonei**,kai,oupō,**elēlythei**,pros,autous,ho,Iēsous.
-  dark,already,**it had become**,and,not yet,**he had come**,to them,the,Jesus
+  dark,already,**it had become**,and,not yet,**he had come**,to,them,the,Jesus
 
 *darkness* **had** *already* **happened**, but Jesus **had** *not yet* **come** *to them.*
 
@@ -583,20 +583,27 @@ Intensive Pluperfect - Stress is on the results that existed from some action th
 Consummative Pluperfect 
 ~~~~
 
-The Consummative Pluperfect is also known as the Extensive Pluperfect)
+The Consummative Pluperfect is also known as the Extensive Pluperfect).  
 With the Consummative Pluperfect stress is on the process that led to the results.
 	
 
-Example V-T-PL-10
-	John 4:8
-	οἱ γὰρ μαθηταὶ αὐτοῦ ἀπεληλύθεισαν εἰς τὴν πόλιν, ἵνα τροφὰς ἀγοράσωσιν.
-	hoi gar mathētai autou apelēlytheisan eis tēn polin, hina trophas agorasōsin.
-	The for disciples his   had gone     into the city, so that food they could buy.
+Example V-T-PL-10 John 4:8
+^^^^
 
-for his disciples had gone away into the city so that they might buy food.
+.. csv::  V-T-PL-10   John 4:8
 
 
-Pluperfect used as Past Tense – Sometimes the Pluperfect is used in such a manner that it seems to simply refer to an event that occurred in the past. 
+  οἱ,γὰρ,μαθηταὶ,αὐτοῦ,**ἀπεληλύθεισαν**,εἰς,τὴν,πόλιν,ἵνα,τροφὰς,ἀγοράσωσιν.
+	hoi,gar,mathētai,autou,**apelēlytheisan**,eis,tēn,polin,hina,trophas,agorasōsin.
+	the,for,disciples,his,**had gone**,into,the,city,so that,food,they could buy.
+
+*for his disciples* **had gone away** *into the city so that they might buy food.*
+
+
+Pluperfect used as Past Tense
+~~~~
+
+ – Sometimes the Pluperfect is used in such a manner that it seems to simply refer to an event that occurred in the past. 
 
 	Example V-T-PL-11
 	John 1:35
