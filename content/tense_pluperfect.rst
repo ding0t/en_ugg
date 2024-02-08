@@ -594,6 +594,8 @@ Example V-T-PL-10 John 4:8
   hoi,gar,mathētai,autou,**apelēlytheisan**,eis,tēn,polin,hina,trophas,agorasōsin.
   the,for,disciples,his,**had gone**,into,the,city,so that,food,they could buy.
 
+  the,for, disciples,his,**they had gone**,into,the,city,so that, food,they could buy
+
 *for his disciples* **had gone away** *into the city so that they might buy food.*
 
 
