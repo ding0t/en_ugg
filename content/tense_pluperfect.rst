@@ -588,7 +588,7 @@ With the Consummative Pluperfect stress is on the process that led to the result
 	
 Example V-T-PL-10 John 4:8
 
-.. csv::  V-T-PL-10   John 4:8
+.. csv-table::  V-T-PL-10   John 4:8
 
   οἱ,γὰρ,μαθηταὶ,αὐτοῦ,**ἀπεληλύθεισαν**,εἰς,τὴν,πόλιν,ἵνα,τροφὰς,ἀγοράσωσιν.
   hoi,gar,mathētai,autou,**apelēlytheisan**,eis,tēn,polin,hina,trophas,agorasōsin.
