@@ -103,11 +103,14 @@ Table T-PL-2  Formation of 1st Pluperfect Active Indicative For Thematic Verbs
       overflow:hidden;padding:10px 5px;word-break:normal;}
     .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
       font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
     .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
     .tg .tg-baqh{text-align:center;vertical-align:top}
     .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
     .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-7g6k{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
     </style>
     <table class="tg">
     <thead>
@@ -119,32 +122,32 @@ Table T-PL-2  Formation of 1st Pluperfect Active Indicative For Thematic Verbs
       <tr>
         <td class="tg-c3ow">Augment *</td>
         <td class="tg-c3ow">+</td>
-        <td class="tg-baqh">Reduplication</td>
-        <td class="tg-baqh">+</td>
-        <td class="tg-baqh">Perfect<br>Active<br>Stem</td>
-        <td class="tg-baqh">+</td>
-        <td class="tg-baqh">Form<br>Marker<br>(κ)</td>
-        <td class="tg-baqh">+</td>
+        <td class="tg-c3ow">Reduplication</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-c3ow">Perfect<br>Active<br>Tense<br>Stem</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-baqh">Form <br>Marker<br>(κ)</td>
+        <td class="tg-amwm">+</td>
         <td class="tg-baqh">Connecting<br>Vowel/<br>Diphthong<br>ει</td>
-        <td class="tg-baqh">+</td>
-        <td class="tg-baqh">Quadrant 2<br>Personal<br>Ending</td>
-        <td class="tg-baqh">-&gt;</td>
-        <td class="tg-baqh"></td>
+        <td class="tg-amwm">+</td>
+        <td class="tg-c3ow">Quadrant 2<br>Personal<br>Ending</td>
+        <td class="tg-7btt">-&gt;</td>
+        <td class="tg-c3ow"></td>
       </tr>
       <tr>
         <td class="tg-c3ow">(ε)</td>
-        <td class="tg-3xi5">+</td>
-        <td class="tg-baqh">λε</td>
-        <td class="tg-baqh">+</td>
-        <td class="tg-baqh">λυ</td>
-        <td class="tg-baqh">+</td>
+        <td class="tg-7g6k">+</td>
+        <td class="tg-c3ow">λε</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-c3ow">λυ</td>
+        <td class="tg-7btt">+</td>
         <td class="tg-baqh">κ</td>
-        <td class="tg-baqh">+</td>
+        <td class="tg-1wig">+</td>
         <td class="tg-baqh">ει</td>
-        <td class="tg-baqh">+</td>
-        <td class="tg-baqh">ν</td>
-        <td class="tg-baqh">-&gt;</td>
-        <td class="tg-baqh">ἐλελύκειν</td>
+        <td class="tg-1wig">+</td>
+        <td class="tg-c3ow">ν</td>
+        <td class="tg-7btt">-&gt;</td>
+        <td class="tg-c3ow">ἐλελύκειν</td>
       </tr>
       <tr>
         <td class="tg-8bgf" colspan="13">I had loosed</td>
