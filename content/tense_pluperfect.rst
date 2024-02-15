@@ -132,7 +132,7 @@ Table T-PL-2  Formation of 1st Pluperfect Active Indicative For Thematic Verbs
         <td class="tg-baqh"></td>
       </tr>
       <tr>
-        <td class="tg-c3ow">ε</td>
+        <td class="tg-c3ow">(ε)</td>
         <td class="tg-3xi5">+</td>
         <td class="tg-baqh">λε</td>
         <td class="tg-baqh">+</td>
