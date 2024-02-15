@@ -84,10 +84,10 @@ See also:
 
 In this section we will describe the formation of the active and Middle Pluperfect Verbs with a theme vowel.
 
-•	1st Pluperfect Active Indicative Verb
-•	2nd Pluperfect Active Indicative Verb
-•	Middle Pluperfect Indicative Verb	
-•	Pluperfect of οἰδα (I know, understand) - ἥδειν
+•	`1st Pluperfect Active Indicative Verb <https://ugg.readthedocs.io/en/latest/tense_pluperfect.html#formation-of-the-1st-pluperfect-active-indicative-verb-with-a-theme-vowel>`_
+•	`2nd Pluperfect Active Indicative Verb <https://ugg.readthedocs.io/en/latest/tense_pluperfect.html#formation-the-second-pluperfect-active-indicative-verb-with-a-theme-vowel>`_
+•	`Middle Pluperfect Indicative Verb <https://ugg.readthedocs.io/en/latest/tense_pluperfect.html#formation-of-the-middle-pluperfect-active-indicative-verb-with-a-theme-vowel>`_	
+•	`Pluperfect of οἰδα <https://ugg.readthedocs.io/en/latest/tense_pluperfect.html#formation-of-the-middle-pluperfect-active-indicative-verb-with-a-theme-vowel>`_ (I know, understand) - ἥδειν
 
 Formation of the 1st Pluperfect Active Indicative Verb with a Theme Vowel:
 ~~~~~~~
