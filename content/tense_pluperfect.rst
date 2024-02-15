@@ -130,9 +130,7 @@ Table T-PL-2  Formation of 1st Pluperfect Active Indicative For Thematic Verbs
         <td class="tg-amwm">+</td>
         <td class="tg-baqh">Connecting<br>Vowel/<br>Diphthong<br>ει</td>
         <td class="tg-amwm">+</td>
-        <td class="tg-c3ow">Quadrant 2<br>Personal<br>Ending</td>
-        <td class="tg-7btt"> - &gt; </td>
-        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow" colspan="3">Quadrant 2<br>Secondary<br>Personal<br>Ending</td>
       </tr>
       <tr>
         <td class="tg-c3ow">(ε)</td>
@@ -146,7 +144,7 @@ Table T-PL-2  Formation of 1st Pluperfect Active Indicative For Thematic Verbs
         <td class="tg-baqh">ει</td>
         <td class="tg-1wig">+</td>
         <td class="tg-c3ow">ν</td>
-        <td class="tg-7btt">- &gt;</td>
+        <td class="tg-7btt">-&gt;</td>
         <td class="tg-c3ow">ἐλελύκειν</td>
       </tr>
       <tr>
@@ -154,8 +152,7 @@ Table T-PL-2  Formation of 1st Pluperfect Active Indicative For Thematic Verbs
       </tr>
     </tbody>
     </table></br>
-
-    
+        
 
 * [Note] The augment is often missing.
 
