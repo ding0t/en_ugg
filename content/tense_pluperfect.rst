@@ -407,7 +407,7 @@ Table V-T-PL-6  Formation of the Middle Pulperfect Active Indicative verb based 
         <td class="tg-c3ow" colspan="3">Quadrant 4<br>Middle/Passive<br>Personal<br>Ending</td>
       </tr>
       <tr>
-        <td class="tg-c3ow">ε</td>
+        <td class="tg-c3ow">(ε)</td>
         <td class="tg-3xi5">+</td>
         <td class="tg-c3ow">λε</td>
         <td class="tg-c3ow">+</td>
@@ -426,7 +426,7 @@ Table V-T-PL-6  Formation of the Middle Pulperfect Active Indicative verb based 
 
 [Note]:  
 
-  *   *The augment is often missing.
+  *   *The augment is often missing.  This is why it is in parenthesis.
   *  There is no tense formative nor connecting vowel.   
   *  The Quadrant 4 personal ending is attached directly to the perfect Middle/passive stem.
 
