@@ -95,8 +95,6 @@ Formation of the 1st Pluperfect Active Indicative Verb with a Theme Vowel:
 Table T-PL-2  Formation of 1st Pluperfect Active Indicative For Thematic Verbs
 ^^^^^
 
-xx
-
 .. raw:: html
 
     <style type="text/css">
@@ -133,7 +131,7 @@ xx
         <td class="tg-baqh">Connecting<br>Vowel/<br>Diphthong<br>ει</td>
         <td class="tg-amwm">+</td>
         <td class="tg-c3ow">Quadrant 2<br>Personal<br>Ending</td>
-        <td class="tg-7btt"> -&gt; </td>
+        <td class="tg-7btt"> - &gt; </td>
         <td class="tg-c3ow"></td>
       </tr>
       <tr>
@@ -148,14 +146,15 @@ xx
         <td class="tg-baqh">ει</td>
         <td class="tg-1wig">+</td>
         <td class="tg-c3ow">ν</td>
-        <td class="tg-7btt">-&gt;</td>
+        <td class="tg-7btt">- &gt;</td>
         <td class="tg-c3ow">ἐλελύκειν</td>
       </tr>
       <tr>
         <td class="tg-8bgf" colspan="13">I had loosed</td>
       </tr>
     </tbody>
-    </table>
+    </table></br>
+
     
 
 * [Note] The augment is often missing.
