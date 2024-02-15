@@ -75,12 +75,12 @@ Form
 ____
 
 
-The basic form for a verb in the Pluperfect tense is given in Verb Master Table 4-Primary and Secondary Endings of Verbs and Verb-Master Table 8-The Perfect Tenses of the Master paradigm.
+The basic form for a verb in the Pluperfect tense is given in `Verb Master Table 4-Primary and Secondary Endings of Verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#table-4-primary-and-secondary-endings-of-verbs>`_ of the Master paradigm.
 
 See also:
 
-Table V-IT-6 `Pluperfect Active and Middle Indicative Thematic Verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-it-6-pluperfect-active-and-middle-indicative-thematic-verbs>`_
-^^^^^
+  Table V-IT-6 `Pluperfect Active and Middle Indicative Thematic Verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-it-6-pluperfect-active-and-middle-indicative-thematic-verbs>`_
+
 
 In this section we will describe the formation of the active and Middle Pluperfect Verbs with a theme vowel.
 
