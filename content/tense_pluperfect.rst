@@ -38,7 +38,7 @@ Both the **Pluperfect Tense** and the *Perfect Tense* describe the state resulti
 
 Use of the Pluperfect Tense *does not indicate if the results still exist at the time the speaker is speaking* only that they existed at some point in the past.
 
-The Perfect Tense is usually translated *“I have believed”*,the **Pluperfect Tense** is usually translated *“I had believed.”*
+The Perfect Tense is usually translated *“I have believed”*, the **Pluperfect Tense** is usually translated *“I had believed.”*
 The Pluperfect only occurs 88 times in the New Testament.
 
 Categories
@@ -82,7 +82,7 @@ See also:
   Table V-IT-6 `Pluperfect Active and Middle Indicative Thematic Verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-it-6-pluperfect-active-and-middle-indicative-thematic-verbs>`_
 
 
-In this section we will describe the formation of the active and Middle Pluperfect Verbs with a theme vowel.
+In this section we will describe the formation of the Active and Middle Pluperfect Verbs with a theme vowel.
 
 •	`1st Pluperfect Active Indicative Verb <https://ugg.readthedocs.io/en/latest/tense_pluperfect.html#formation-of-the-1st-pluperfect-active-indicative-verb-with-a-theme-vowel>`_
 •	`2nd Pluperfect Active Indicative Verb <https://ugg.readthedocs.io/en/latest/tense_pluperfect.html#formation-the-second-pluperfect-active-indicative-verb-with-a-theme-vowel>`_
@@ -161,7 +161,7 @@ The 1st Pluperfect Active Indicative for thematic verbs is formed by using:
   #.  An augment which may or may not be present.  This is why it is shown in parenthesis.
   #.  Reduplication – 
     *  or duplicating the first consonant of the tense stem for the verb (for verbs that begin with a single consonant) and adding and epsilon.)
-  3.  Plus The first perfect active tense stem
+  3.  Plus the first perfect active tense stem
   4.  Plus the tense formative (κ)
   5.  Plus the connecting vowel  (ει)
   6.  Plus the secondary active personal ending (quadrant 2) `Paradigms Master Table 4 Primary and Secondary Endings of Verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#table-4-primary-and-secondary-endings-of-verbs>`_
@@ -239,7 +239,7 @@ Table V-T-PL-3  1st Pluperfect Active Indicative Verb
 
 
 
-Formation – The Second Pluperfect Active Indicative verb with a Theme Vowel:
+Formation – The Second Pluperfect Active Indicative Verb with a Theme Vowel:
 ~~~~
 
 Table V-T-PL-4 Formation of Second Pluperfect Active Indicative Verb based on ἔρχομαι (I go)
@@ -297,7 +297,7 @@ Table V-T-PL-4 Formation of Second Pluperfect Active Indicative Verb based on �
     </table></br>
 
 
-[Note]:   There is no tense formative for the 2nd Pluperfect as is the case with the 2nd perfect verb.   The use of the 2nd perfect tense stem notifies the reader that this is a 2nd pluperfect verb.
+[Note]:   There is no tense formative for the 2nd Pluperfect as is the case with the 2nd Perfect verb.   The use of the 2nd Perfect tense stem notifies the reader that this is a 2nd Pluperfect verb.
 
 Table V-T-PL-5  2nd Pluperfect Active Indicative based on ἔρχομαι (I go).
 ^^^^
@@ -426,9 +426,9 @@ Table V-T-PL-6  Formation of the Middle Pulperfect Active Indicative verb based 
 
 [Note]:  
 
-  *   *The augment is often missing.  This is why it is in parenthesis.
+  *  The augment is often missing.  This is why it is in parenthesis.
   *  There is no tense formative nor connecting vowel.   
-  *  The Quadrant 4 personal ending is attached directly to the perfect Middle/passive stem.
+  *  The Quadrant 4 personal ending is attached directly to the perfect Middle/Passive stem.
 
 Table V-T-PL-7 Pluperfect Middle/Passive Indicative Thematic
 ^^^^
@@ -576,7 +576,7 @@ _______
 Intensive Pluperfect  
 ~~~~
 
-With the Intensive Pluperfect, Stress is on the results that existed from some action that occurred in the past prior to the time of the speaker.  The emphasis is therefore on the results that occurred. 
+With the Intensive Pluperfect, stress is on the results that existed from some action that occurred in the past prior to the time of the speaker.  The emphasis is therefore on the results that occurred. 
 
 
 	Example V-T-PL-9
@@ -585,7 +585,7 @@ With the Intensive Pluperfect, Stress is on the results that existed from some a
 
   σκοτία,ἤδη,**ἐγεγόνει**,καὶ,οὔπω,**ἐληλύθει**,πρὸς,αὐτοὺς,ὁ,Ἰησοῦς.
   skotia,ēdē,**egegonei**,kai,oupō,**elēlythei**,pros,autous,ho,Iēsous.
-  dark,already,**it had become**,and,not yet,**he had come**,to,them,the,Jesus
+  dark,already,**it had become**,and,not yet,**he had come**,to,them,the,Jesus.
 
 *darkness* **had** *already* **happened**, but Jesus **had** *not yet* **come** *to them.*
 
@@ -593,7 +593,7 @@ With the Intensive Pluperfect, Stress is on the results that existed from some a
 Consummative Pluperfect 
 ~~~~
 
-The Consummative Pluperfect is also known as the Extensive Pluperfect).  
+The Consummative Pluperfect is also known as the Extensive Pluperfect.  
 With the Consummative Pluperfect stress is on the process that led to the results.
 	
 Example V-T-PL-10 John 4:8
@@ -628,7 +628,7 @@ Example V-T-PL-11  John 1:35
 Periphrastic construction.
 ~~~~
   
-  The meaning of the Pluperfect is also found in the Greek text by using two verbs (εἰμί in the indicative or imperfect tense combined with a perfect participle).  The use of the  “helping verb (εἰμί) along with a perfect participle is known as a periphrastic construction.
+  The meaning of the Pluperfect is also found in the Greek text by using two verbs (εἰμί in the indicative or imperfect tense combined with a perfect participle).  The use of the  “helping” verb (εἰμί) along with a perfect participle is known as a periphrastic construction.
 
 The word-for-word translation below tries to pick up on the imperfect helping verb (ἦν) combined with the perfect participle (ἑστὠς).  The time of the Periphrastic construction also affects the time of the present participle (παρακαλῶν) and so we included the helping verb “was” in our word-for-word translation.
 
