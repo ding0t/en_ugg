@@ -167,7 +167,7 @@ The 1st Pluperfect Active Indicative for thematic verbs is formed by using:
 
 
  
-Table V-T-PL-3  1st Pluperfect Active Indicative Verb
+Table V-T-PL-3  [ 1st Pluperfect Active Indicative Verb]
 ^^^^^^
  
  Based on λὐω (I loose).
