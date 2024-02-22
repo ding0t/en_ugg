@@ -5,7 +5,7 @@
 Tense pluperfect
 ================
 
-Glossary    [Under Construction]
+Glossary
 ______
 
 **Pluperfect** is the verb **tense-form** a speaker can use to describe
@@ -26,7 +26,7 @@ Example V-T-PL-1 - Pluperfect Tense
 
 
 
-Article    [Under Construction]
+Article
 _______
 
 Background
@@ -46,7 +46,7 @@ Categories
 
 Based on context, the Pluperfect Tense may be classified into the following categories:
 
-  1.  *Intensive Pluperfect* -  stress is on the stative result of some action that occurred at some point in the past prior to the time of the speaker.  The emphasis is therefore on the results that occurred. [See `Intensive Imperfect <https://ugg.readthedocs.io/en/latest/tense_pluperfect.html#intensive-pluperfect>`_]
+  1.  *Intensive Pluperfect* -  stress is on the stative result of some action that occurred at some point in the past prior to the time of the speaker.  The emphasis is therefore on the results that occurred. [See `Intensive Pluperfect <https://ugg.readthedocs.io/en/latest/tense_pluperfect.html#intensive-pluperfect>`_]
   2.  *Consummative Pluperfect* (also known as the Extensive Pluperfect)  – stress is on the process that led to the results. [See `Consumative Pluperfect <https://ugg.readthedocs.io/en/latest/tense_pluperfect.html#consummative-pluperfect>`_ ]
   3.  *Pluperfect used as Past Tense* – Sometimes the Pluperfect is used in such a manner that it seems to simply refer to an event that occurred in the past. [See `Pluperfect Used as Past Tense <https://ugg.readthedocs.io/en/latest/tense_pluperfect.html#id4>`_ ]
   4.  *Periphrastic Construction* - Instead of using the Pluperfect Tense, the meaning of the Pluperfect is also found in the Greek text by using  two verbs (εἰμί in the indicative or imperfect tense combined with a Perfect Participle).  This is known as a Periphrastic Construction. [ See `Periphrastic Construction <https://ugg.readthedocs.io/en/latest/tense_pluperfect.html#id5>`_]
@@ -159,8 +159,7 @@ Table T-PL-2  Formation of 1st Pluperfect Active Indicative For Thematic Verbs
 The 1st Pluperfect Active Indicative for thematic verbs is formed by using:
 
   #.  An augment which may or may not be present.  This is why it is shown in parenthesis.
-  #.  Reduplication – 
-    *  or duplicating the first consonant of the tense stem for the verb (for verbs that begin with a single consonant) and adding and epsilon.)
+  #.  Reduplication [or duplicating the first consonant of the tense stem of the verb for verbs that begin with a single consonant] and adding an epsilon (ε).
   3.  Plus the first perfect active tense stem
   4.  Plus the tense formative (κ)
   5.  Plus the connecting vowel  (ει)
