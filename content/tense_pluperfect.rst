@@ -159,11 +159,11 @@ Table T-PL-2  Formation of 1st Pluperfect Active Indicative For Thematic Verbs
 The 1st Pluperfect Active Indicative for thematic verbs is formed by using:
 
   #.  An augment which may or may not be present.  This is why it is shown in parenthesis.
-  #.  Reduplication [or duplicating the first consonant of the tense stem of the verb for verbs that begin with a single consonant] and adding an epsilon (ε).
-  3.  Plus the first perfect active tense stem
-  4.  Plus the tense formative (κ)
-  5.  Plus the connecting vowel  (ει)
-  6.  Plus the secondary active personal ending (quadrant 2) `Paradigms Master Table 4 Primary and Secondary Endings of Verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#table-4-primary-and-secondary-endings-of-verbs>`_
+  #.  Reduplication (or duplicating the first consonant of the tense stem of the verb for verbs that begin with a single consonant) and adding an epsilon (ε).
+  #.  Plus the first perfect active tense stem
+  #.  Plus the tense formative (κ)
+  #.  Plus the connecting vowel  (ει)
+  #.  Plus the secondary active personal ending (quadrant 2) `Paradigms Master Table 4 Primary and Secondary Endings of Verbs <https://ugg.readthedocs.io/en/latest/paradigms.html#table-4-primary-and-secondary-endings-of-verbs>`_
 
 
  
