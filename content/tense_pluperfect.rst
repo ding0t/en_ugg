@@ -373,7 +373,7 @@ Table V-T-PL-5  [ 2nd Pluperfect Active Indicative based on ἔρχομαι (I g
 Formation of the Middle Pluperfect Active Indicative Verb with a Theme Vowel
 ~~~~
 
-Table V-T-PL-6  Formation of the Middle Pulperfect Active Indicative verb based on λὐω (I loose).
+Table V-T-PL-6  [  Formation of the Middle Pulperfect Active Indicative verb based on λὐω (I loose).  ]
 ^^^^
 
 .. raw:: html
@@ -429,7 +429,7 @@ Table V-T-PL-6  Formation of the Middle Pulperfect Active Indicative verb based 
   *  There is no tense formative nor connecting vowel.   
   *  The Quadrant 4 personal ending is attached directly to the perfect Middle/Passive stem.
 
-Table V-T-PL-7 Pluperfect Middle/Passive Indicative Thematic
+Table V-T-PL-7 [  Pluperfect Middle/Passive Indicative Thematic  ]
 ^^^^
 
 .. raw:: html
@@ -497,7 +497,7 @@ Table V-T-PL-7 Pluperfect Middle/Passive Indicative Thematic
     </table></br>
 
 
-Table V-T-PL-8  Pluperfect of οἴδα
+Table V-T-PL-8  [  Pluperfect of οἴδα  ]
 ~~~~
 
 
