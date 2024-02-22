@@ -167,7 +167,7 @@ The 1st Pluperfect Active Indicative for thematic verbs is formed by using:
 
 
  
-Table V-T-PL-3  [ 1st Pluperfect Active Indicative Verb]
+Table V-T-PL-3  [ 1st Pluperfect Active Indicative Verb ]
 ^^^^^^
  
  Based on λὐω (I loose).
@@ -298,7 +298,7 @@ Table V-T-PL-4 Formation of Second Pluperfect Active Indicative Verb based on �
 
 [Note]:   There is no tense formative for the 2nd Pluperfect as is the case with the 2nd Perfect verb.   The use of the 2nd Perfect tense stem notifies the reader that this is a 2nd Pluperfect verb.
 
-Table V-T-PL-5  2nd Pluperfect Active Indicative based on ἔρχομαι (I go).
+Table V-T-PL-5  [ 2nd Pluperfect Active Indicative based on ἔρχομαι (I go) ].
 ^^^^
 
   [Note]  Only the 3rd person singular and 3rd person plural appear in the New Testament.
