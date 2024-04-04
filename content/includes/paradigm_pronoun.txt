@@ -1,11 +1,11 @@
 paradigm_pronoun
 
-Table r1 - The Article - *(ὁ,ἡ,τό)*
+Table R1 - The Article - *(ὁ,ἡ,τό)*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The article appears approximately 19,723 times in the Greek New Testament.  It functions as a pronoun in 16% of the occurrences.  84% of the time it functions as the definite article.  
 
-.. csv-table:: r1 (2-1-2) (ὁ  *the/he,she,it*)
+.. csv-table:: R1 (2-1-2) (ὁ  *the/he,she,it*)
   :header-rows: 1
 
   ,Masculine,Feminine,Neuter
@@ -23,7 +23,7 @@ The article appears approximately 19,723 times in the Greek New Testament.  It f
 Table R2 - The relative pronoun  (2-1-2) (*neuter in “ο”*)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. csv-table:: r2 (2-1-2) (ὅς  *who,which*)
+.. csv-table:: R2 (2-1-2) (ὅς  *who,which*)
   :header-rows: 1
 
   ,Masculine,Feminine,Neuter
@@ -45,15 +45,15 @@ Table R2 - The relative pronoun  (2-1-2) (*neuter in “ο”*)
 Personal Pronouns
 ~~~~~~~~~~~~~~~~~
 
-  Table r3 - (*ἐγώ, σύ*)
-  Table r4  - (*αὐτός*)
+  Table R3 - (*ἐγώ, σύ*)
+  Table R4  - (*αὐτός*)
 
   Note: *ἐγώ*  and *σύ*  do not have gender
 
-**Table r3**  - (*ἐγώ, σύ*)
+**Table R3**  - (*ἐγώ, σύ*)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. csv-table:: r3  -ἐγώ (*I*)  σύ (*you*)
+.. csv-table:: R3  -ἐγώ (*I*)  σύ (*you*)
   :header-rows: 1
 
   *Singular*, 1st person,,2nd person
@@ -67,10 +67,10 @@ Personal Pronouns
   Dative,ἡμῖν,,ὑμῖν
   Accusative,ἡμᾶς,,ὑμᾶς
 
-**Table r4**   *αὐτός*  
+**Table R4**   *αὐτός*  
 ^^^^^^^^^^^^^^^^^^^^^^
 
-.. csv-table:: r4 (2-1-2)  *αὐτός* (he,she,it,they)
+.. csv-table:: R4 (2-1-2)  *αὐτός* (he,she,it,they)
   :header-rows: 1
 
   ,Masculine,Feminine,Neuter
@@ -88,13 +88,13 @@ Personal Pronouns
 Demonstrative pronoun – οὗτος,ἐκεῖνος
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-  Table r5 - οὗτος
-  Table r6 - ἐκεῖνος
+  Table R5 - οὗτος
+  Table R6 - ἐκεῖνος
 
-**Table r5**  - οὗτος
+**Table R5**  - οὗτος
 ^^^^^^^^^^^^^^^^^^^^^
 
-.. csv-table:: r5 (2-1-2) (οὗτος -  *this*)
+.. csv-table:: R5 (2-1-2) (οὗτος -  *this*)
   :header-rows: 1
 
   ,Masculine,Feminine,Neuter
@@ -109,10 +109,10 @@ Demonstrative pronoun – οὗτος,ἐκεῖνος
   Dative,τούτοις,ταύταις,τούτοις
   Accusative,τούτους,ταύτας,ταῦτα
 
-**Table r6** - ἐκεῖνος
+**Table R6** - ἐκεῖνος
 ^^^^^^^^^^^^^^^^^^^^^^
 
-.. csv-table:: r6 (2-1-2) (ἐκεῖνος  *that*)
+.. csv-table:: R6 (2-1-2) (ἐκεῖνος  *that*)
   :header-rows: 1
 
   ,Masculine,Feminine,Neuter
@@ -132,11 +132,11 @@ Demonstrative pronoun – οὗτος,ἐκεῖνος
 Interrogative pronoun – τίς
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Table r7**  -stems ending in a nu
+**Table R7**  -stems ending in a nu
 NOTE:  *The masculine and feminine declensions are identical.*
 
 
-.. csv-table:: r7 (3-3-3) (τίς  *Who?What?Which?Why?*)
+.. csv-table:: R7 (3-3-3) (τίς  *Who?What?Which?Why?*)
   :header-rows: 1
 
   ,Masculine,Feminine,Neuter
@@ -163,7 +163,7 @@ Note:
 -	σεαυτοῦ does not occur in the New Testament in the plural, but we have included it here for completeness.
 
 
-.. csv-table:: r8 (2-1) (ἐμαυτοῦ - *of myself*, σεαυτοῦ - *of yourself* )
+.. csv-table:: R8 (2-1) (ἐμαυτοῦ - *of myself*, σεαυτοῦ - *of yourself* )
   :header-rows: 1
 
   ,Masculine,Feminine,,Masculine,Feminine
