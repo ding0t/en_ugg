@@ -18,9 +18,9 @@ It can be the subject for the main verb in the sentence.
 
 .. csv-table::  Example VP-1  Mark 14:18a
 
-καὶ,**ἀνακειμένων**,αὐτῶν,καὶ,**ἐσθιόντων**,ὁ,Ἰησοῦς,εἶπεν 
-kai,**anakeimenōn**,autōn,kai,**esthiontōn**,ho,Iēsous,eipen
-and,**while they were reclining**,they,and,**eating**,the,Jesus,said
+  καὶ,**ἀνακειμένων**,αὐτῶν,καὶ,**ἐσθιόντων**,ὁ,Ἰησοῦς,εἶπεν 
+  kai,**anakeimenōn**,autōn,kai,**esthiontōn**,ho,Iēsous,eipen
+  and,**while they were reclining**,they,and,**eating**,the,Jesus,said
 
 *And as* **they were reclining to eat** *and* **eating** [adverbal usage], *Jesus said*
 
