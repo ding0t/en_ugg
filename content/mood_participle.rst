@@ -76,16 +76,31 @@ Tense/Aspect
       d)  The future tense refers to action that occurs after the time of the main verb. [ see example VP-E5]
 
       
-2)	Adjectival Usage -  Participles may be used to modify a noun or a pronoun.  In this sense, they qualify or limit the noun.  Like other adjectives the participle can take the place of a noun.    
-a.	The Participle will agree with the noun that it is modifying in case, number, and gender.
-b.	  Attributive  – The attributive use refers to a participle that is used to modify a noun or pronoun.  It is “attributing” some characteristic to the noun or pronoun that makes it distinctive, by assigning some quality or characteristic to the noun.  [See Example VP-E6]
-c.	Substantive - Participles may also be used in place of a noun just like any other adjective.  If it is being used as a noun (substantive use), it will be in the case that a noun would be.  If it is functioning as the subject of the sentence, it will be in the nominative case.  If it is functioning as the direct object of the verb, it will be in the accusative case.  
+Adjectival Usage -  Participles may be used to modify a noun or a pronoun.
+^^^^^^^^^^^^^^^^
+  
+In this sense, they qualify or limit the noun.  Like other adjectives the participle can take the place of a noun.    
 
-If the participle is being used as a noun there will probably not be another noun in the sentence that agrees with the participle in case, number, and gender unless it is part of a series.  [See Example VP-E7]
+  1)  The Participle will **agree** with the noun that it is modifying in **case, number, and gender.**
 
-If a definite article precedes the participle, the emphasis of the participle is adjectival.   If the definite article is absent, the emphasis may still be adjectival. In this case it may still be used attributively or substantively.  
+  		a)  **Attributive**  – The attributive use refers to a participle that is used to modify a noun or pronoun.  
+		It is “attributing” some characteristic to the noun or pronoun that makes it distinctive, by assigning some quality or characteristic to the noun.  [See Example VP-E6]
 
-3)	Adverbal usage -  Participles may be used to modify a verb.   In this sense they describe an action or the time of an action that takes place related to the verb.
+		b)  **Substantive** - Participles may also be used in place of a noun just like any other adjective.  
+		If it is being used as a noun (substantive use), it will be in the case that a noun would be.  If it is functioning as the subject of the sentence, 
+		it will be in the nominative case.  If it is functioning as the direct object of the verb, it will be in the accusative case.  
+
+        If the participle is being used as a noun there will probably not be another noun in the sentence that agrees with the participle in case, number, and gender unless it is part of a series.  [See Example VP-E7]
+
+        If a definite article precedes the participle, the emphasis of the participle is adjectival.   
+		
+		If the definite article is absent, the emphasis may still be adjectival. In this case it may still be used attributively or substantively.  
+
+Adverbal usage -  Participles may be used to modify a verb.   
+^^^^^^^^^^^^^^
+
+In this sense they describe an action or the time of an action that takes place related to the verb.
+
 a.	Adverbal participles are never preceded with the definite article.
 
 b.	Participles never take the place of the main verb in a sentence.   
