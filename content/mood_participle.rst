@@ -53,6 +53,8 @@ All participles are formed from a verb.
 Participles **never take the place of the main verb** in a sentence.   Participles can function as an adverb modifying a verb.  
 When their meaning is directed toward a verb, it will agree with a word (most likely the subject of the verb) in case number and gender.
 
+If a sentence begins with a participle, it is helpful to locate the main verb and subject of the sentence to help with the translation.
+
 
 Tense/Aspect
 ^^^^^^^^^^^^
@@ -112,27 +114,31 @@ d.	Even though it is adverbial, it will still agree with a related noun in case 
 
 e.	Adverbal Participles may be classified as:
 
-i.	Temporal Adverbs – Adverbal participles are often translated temporally with the use of the helping word (while- present tense , or after -aorist, imperfect, perfect, or pluperfect tense).   If the participle is in the  imperfect tense continuous action is implied.   This is also often the case with the present tense.   Therefore a translation of while making, or before making may be appropriate to reflect the continuous nature of the action.  Temporal participles answer the question of “When?” for the verb it is modifying. [ See Example VP-E8]
+  1)  **Temporal Adverbs** – Adverbal participles are often translated temporally with the use of the helping word (while- present tense , or after -aorist, imperfect, perfect, or pluperfect tense).   If the participle is in the  imperfect tense continuous action is implied.   This is also often the case with the present tense.   Therefore a translation of while making, or before making may be appropriate to reflect the continuous nature of the action.  Temporal participles answer the question of “When?” for the verb it is modifying. [ See Example VP-E8]
 
-ii.	Adverbs of Manner (or Means)- A participle may describe the manner or the means by which an action is carried out.   They answer the question, How. As such it could reflect an emotion or attitude or how the action was carried out.  In this case, the time of the participle is usually contemporaneous with the main verb (present tense or sometimes aorist tense).   It usually follows the main verb.  [See Example VP-E9]
-iii.	Adverbs of Cause – indicates the reason or cause for the action of the participle.   It answers the question (Why?)  The causal since of the participle may be brought out by using the word “because” or “since”.  The causal participle usually precedes the verb it modifies.  [See Example VP-E10]
-iv.	Adverbs of Condition – describe a condition for which the fulfillment of the main verb depends. [See Example VP-E11]
-v.	Adverbs of Concession- are used when the action of the main verb is true or occurred even though the action of the participle were present.  The concessive tone of the participle can be conveyed with the words (even though, although, in spite of, or despite). [See Example VP-E12]
-vi.	Adverbs of Purpose,  are used to indicate the purpose for a given action.  They express the intent of the person carrying out the action. It is similar to the adverb of cause in that both answer the question why?)  Adverbial participles of purpose can be translated with the phrase “for the purpose of” or as an infinitive.  [See Example VP-E13]
+  2)  **Adverbs of Manner (or Means)**- A participle may describe the manner or the means by which an action is carried out.   They answer the question, How. As such it could reflect an emotion or attitude or how the action was carried out.  In this case, the time of the participle is usually contemporaneous with the main verb (present tense or sometimes aorist tense).   It usually follows the main verb.  [See Example VP-E9]
 
-vii.	Adverbs of Result – indicates the results of the action of the main verb.  An Adverbial Participle of Result is similar to the Adverbial Participle of Purpose.   However, rather than indicating the purpose for the action, it gives the results of the action.     [ See Example VP-E14]
+  3)  **Adverbs of Cause** – indicates the reason or cause for the action of the participle.   It answers the question (Why?)  The causal since of the participle may be brought out by using the word “because” or “since”.  The causal participle usually precedes the verb it modifies.  [See Example VP-E10]
 
-viii.	Attendant Circumstance – describes an action that occurs at the same time as the action of the main verb, but is somehow related to the action of the main verb.
+  4)  **Adverbs of Condition** – describe a condition for which the fulfillment of the main verb depends. [See Example VP-E11]
 
-•	This category should only be chosen if the participles does not fit into any other category.
-•	A participle of attendant circumstances describes an action that is dependent upon the main verb.   The emphasis is on the main verb.  The action described by the participle is simply incidental to the main verb.
-•	Generally the participle will precede the main verb in both word order and time of the event, but not necessarily. 
-[ See Example VP-E15]
+  5)  **Adverbs of Concession**- are used when the action of the main verb is true or occurred even though the action of the participle were present.  The concessive tone of the participle can be conveyed with the words (even though, although, in spite of, or despite). [See Example VP-E12]
+
+  6)  **Adverbs of Purpose** -  are used to indicate the purpose for a given action.  They express the intent of the person carrying out the action. It is similar to the adverb of cause in that both answer the question why?)  Adverbial participles of purpose can be translated with the phrase “for the purpose of” or as an infinitive.  [See Example VP-E13]
+
+  7)  **Adverbs of Result** – indicates the results of the action of the main verb.  An Adverbial Participle of Result is similar to the Adverbial Participle of Purpose.   However, rather than indicating the purpose for the action, it gives the results of the action.     [ See Example VP-E14]
+
+  8)  **Attendant Circumstance** – describes an action that occurs at the same time as the action of the main verb, but is somehow related to the action of the main verb.
+
+        •  This category should only be chosen if the participles does not fit into any other category.
+        •  A participle of attendant circumstances describes an action that is dependent upon the main verb.   The emphasis is on the main verb.  The action described by the participle is simply incidental to the main verb.
+        •  Generally the participle will precede the main verb in both word order and time of the event, but not necessarily.  [ See Example VP-E15]
  
 
-4)	If a sentence begins with a participle, it is helpful to locate the main verb and subject of the sentence to help with the translation.
 
-5)	Participle Diagnostic Chart
+
+Participle Diagnostic Chart
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Participle Diagnostic Chart
 	
