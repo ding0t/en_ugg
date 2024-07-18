@@ -140,6 +140,105 @@ e.	Adverbal Participles may be classified as:
 Participle Diagnostic Chart
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-amwm" colspan="7">Participle Diagnostic Chart</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-0lax" colspan="4"></td>
+        <td class="tg-0lax" colspan="3"></td>
+      </tr>
+      <tr>
+        <td class="tg-0lax" colspan="7">Since Participles are never the main verb in a sentence,<br>1) locate the **subject** and **main verb** of the sentence.<br>(Note:&nbsp;&nbsp;An adjectival participle can act as a noun and therefore can be the subject of the sentence. <br> If so it will be in the nominative case) </td>
+      </tr>
+      <tr>
+        <td class="tg-0lax" colspan="4"></td>
+        <td class="tg-0lax" colspan="3"></td>
+      </tr>
+      <tr>
+        <td class="tg-0lax" colspan="7">What tense is the participle?  [See 1(a) and 1(b)<br>Focus on the **aspect** (type of action).&nbsp;&nbsp;&nbsp;<br>The time of the action is drawn from and in relation to the main verb.<br>(1) Present tense indicates *continuous* action.<br>(2) Aorist tense indicates *undefined* action prior to or at the time of the speaker.<br>(3) Perfect tense indicates *completed* action from the speaker's point of view with an ongoing effect.<br>(4) Future tense indicates action occurring in the future from the speaker's point of view. </td>
+      </tr>
+      <tr>
+        <td class="tg-0lax" colspan="3"></td>
+        <td class="tg-0lax"></td>
+        <td class="tg-0lax" colspan="3"></td>
+      </tr>
+      <tr>
+        <td class="tg-amwm" colspan="3">Adjectival Participle</td>
+        <td class="tg-amwm"></td>
+        <td class="tg-amwm" colspan="3">Adverbial Participle</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax" colspan="3"></td>
+        <td class="tg-0lax"></td>
+        <td class="tg-0lax" colspan="3"></td>
+      </tr>
+      <tr>
+        <td class="tg-baqh" colspan="7">Is the Participle preceded by the definite article?<br>YES - Always Adjectival<br>NO-&nbsp;&nbsp;&nbsp;May be Adverbial, but also may be Adjectival.</td>
+      </tr>
+      <tr>
+        <td class="tg-baqh" colspan="7">Is there another noun present that is the same case, number, and gender?</td>
+      </tr>
+      <tr>
+        <td class="tg-baqh" colspan="7">Is the focus of the participle directed toward a noun? (Adjectival), or<br>is the focus of the participle directed toward a verb? (Adverbial).</td>
+      </tr>
+      <tr>
+        <td class="tg-amwm" colspan="3">Adjectival Participle</td>
+        <td class="tg-0lax"></td>
+        <td class="tg-amwm" colspan="3">Adverbial Participle</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax" colspan="4">(1) Is the Participle acting as a noun? - Substantive Use,<br>(2) or Attributive use?</td>
+        <td class="tg-0lax" colspan="3">1) Temporal - *while, after*<br>Answers the question **When?*"</td>
+      </tr>
+      <tr>
+        <td class="tg-amwm" colspan="2">Substantive</td>
+        <td class="tg-amwm" colspan="2">Attributive</td>
+        <td class="tg-0lax" colspan="3">2) Adverb of Manner<br>Answers the question "*How?*"</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax" colspan="2">Use of the helping words "*the one who*"<br>may be helpful.</td>
+        <td class="tg-0lax" colspan="2">Use of the helping words "*who*, <br>or "*which*" may be helpful</td>
+        <td class="tg-0lax" colspan="3">3) Adverb of Cause<br>Answers the question "*Why?*<br>Use of the helping words *"because"*, or *"since"*<br>may be helpful</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax" colspan="4"></td>
+        <td class="tg-0lax" colspan="3">4) Adverb of Condition<br>May need to add "(*if ... then*)" to clarify</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax" colspan="4"></td>
+        <td class="tg-0lax" colspan="3">5) Adverb of Concession<br>Use of the the helping words "*even though, although, or despite"*<br>may be helpful.</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax" colspan="4"></td>
+        <td class="tg-0lax" colspan="3">6) Adverb of Purpose<br>"*for the purpose of*"</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax" colspan="4"></td>
+        <td class="tg-0lax" colspan="3">7) Adverb of Result<br>"*resulting in *"</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax" colspan="4"></td>
+        <td class="tg-0lax" colspan="3">8) Attendant Circumstance</td>
+      </tr>
+    </tbody></table></br>
+
+
+
 Participle Diagnostic Chart
 	
 Since Participles are never the main verb in a sentence, locate the subject and main verb of the sentence. (Note an adjectival Participle can act as a noun and therefore can be the subject of the sentence.   If so it will be in the nominative case.
