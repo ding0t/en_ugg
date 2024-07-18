@@ -239,51 +239,12 @@ Participle Diagnostic Chart
 
 
 
-Participle Diagnostic Chart
-	
-Since Participles are never the main verb in a sentence, locate the subject and main verb of the sentence. (Note an adjectival Participle can act as a noun and therefore can be the subject of the sentence.   If so it will be in the nominative case.
-	
-What tense is the Participle?  [ See 1(a) and 1(b)]
-Focus is on the aspect (type of action). The time of the action is drawn from and in relation to the main verb.
-Present tense indicates continuous (type of action) aspect.
-Aorist tense indicates undefined aspect (type of action) (prior to or at the time of the speaker)
-Perfect tense indicates completed aspect (type of action) from the speaker’s point of view with an ongoing effect.
-Future tense indicates action occurring in the future from the speaker’s point of view.
-	
-Adjectival Participle	Adverbial Participle
-Is the Participle preceded by the definite Article?
-Yes – Always Adjectival
-No – may be Adverbial, but also may be adjectival
-What is the case, number, and gender of the participle? What word is it modifying?
-Is there another noun present that is the same case, number, and gender?
-Is the focus of the participle directed toward a noun? (Adjectival) or toward a verb? (Adverbial)
-
-Is the Participle acting as a noun (substantive use) or Attributive	Adverbial
-Substantive	Attributive	1)	Temporal – while, after-
-Answers the question “When?”
-Use of the helping words “the one who” may be helpful	Use of the helping words “who” or “which” may be helpful	2)	Adverb of Manner – 
-Answers the question “How?”
-	3)	Adverb of Cause
-Answers the question “Why?”
-“because” or “since”
-	4)	Adverb of Condition
-May need to add “if… then” to clarify
-	5)	Adverb of Concession
-“even though, although, despite”
-	6)	Adverb of Purpose
-“for the purpose of”
-	7)	Adverb or Result
-“resulting in”
-	8)	Attendant circumstance
-				
-
-
-
 
 
 
 
 B- Form
+~~~~~~~
 
 The basic form for a participles are given in Table V-P-T1 (Present Active and Middle Participles), V-P-T-2 (Aorist Active and Middle Participles) , V-P-T-3 (Aorist Passive Participles), and V-P-T-4 (Perfect Participles).
 
