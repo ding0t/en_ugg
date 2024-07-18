@@ -61,11 +61,11 @@ Tense/Aspect
 
   1)  **Aspect**  - Aspect refers to the type of action.  
 
-      a)	Continuous action is reflected by use of the present tense stem.   [See Example VP-E1]
+      a)	*Continuous action* is reflected by use of the present tense stem.   [See Example VP-E1]
 
-      b)	Undefined action is reflected by use of the aorist tense stem  [See Example VP-E3]
+      b)	*Undefined action* is reflected by use of the aorist tense stem  [See Example VP-E3]
 
-      c)  Completed action is reflected by use of the aorist or perfect tense stem.  [See Example VP-E4]
+      c)  *Completed action* is reflected by use of the aorist or perfect tense stem.  [See Example VP-E4]
 
   2)	**Time** – As a Verbal-adjective, the time of the action is relative to the time of the main verb.  Therefore:
 
