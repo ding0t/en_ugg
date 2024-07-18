@@ -212,7 +212,7 @@ Participle Diagnostic Chart
       </tr>
       <tr>
         <td class="tg-0lax" colspan="2">Use of the helping words<br> "THE ONE WHO" may be helpful.</td>
-        <td class="tg-0lax" colspan="2">Use of the helping words "WHO, <br>or "WHICH" may be helpful</td>
+        <td class="tg-0lax" colspan="2">Use of the helping words "WHO, or "WHICH"<br> may be helpful</td>
         <td class="tg-0lax" colspan="3">3) Adverb of Cause<br>Answers the question "WHY?"<br>Use of the helping words "BECAUSE", or "SINCE"<br>may be helpful</td>
       </tr>
       <tr>
