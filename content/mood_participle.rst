@@ -170,7 +170,7 @@ Participle Diagnostic Chart
         <td class="tg-0lax" colspan="3"></td>
       </tr>
       <tr>
-        <td class="tg-0lax" colspan="7">What tense is the participle?  [See 1(a) and 1(b)<br>Focus on the ASPECT (type of action).&nbsp;&nbsp;&nbsp;<br>The time of the action is drawn from and in relation to the main verb.<br>(1) PRESENT TENSE indicates continuous action.<br>(2) AORIST tense indicates undefined action prior to or at the time of the speaker.<br>(3) PERFECT tense indicates completed action from the speaker's point of view with an ongoing effect.<br>(4) FUTURE tense indicates action occurring in the future from the speaker's point of view. </td>
+        <td class="tg-0lax" colspan="7">What tense is the participle?  [See 1(a) and 1(b)<br>Focus on the ASPECT (type of action).&nbsp;&nbsp;&nbsp;<br>The time of the action is drawn from and in relation to the main verb.<br>(1) PRESENT tense indicates continuous action.<br>(2) AORIST tense indicates undefined action prior to or at the time of the speaker.<br>(3) PERFECT tense indicates completed action from the speaker's point of view with an ongoing effect.<br>(4) FUTURE tense indicates action occurring in the future from the speaker's point of view. </td>
       </tr>
       <tr>
         <td class="tg-0lax" colspan="3"></td>
@@ -211,7 +211,7 @@ Participle Diagnostic Chart
         <td class="tg-0lax" colspan="3">2) Adverb of Manner<br>Answers the question "HOW?*"</td>
       </tr>
       <tr>
-        <td class="tg-0lax" colspan="2">Use of the helping words "THE ONE WHO"<br>may be helpful.</td>
+        <td class="tg-0lax" colspan="2">Use of the helping words<br> "THE ONE WHO" may be helpful.</td>
         <td class="tg-0lax" colspan="2">Use of the helping words "WHO, <br>or "WHICH" may be helpful</td>
         <td class="tg-0lax" colspan="3">3) Adverb of Cause<br>Answers the question "WHY?"<br>Use of the helping words "BECAUSE", or "SINCE"<br>may be helpful</td>
       </tr>
