@@ -69,13 +69,13 @@ Tense/Aspect
 
   2)	**Time** – As a Verbal-adjective, the time of the action is relative to the time of the main verb.  Therefore:
 
-      a)  The perfect tense generally corresponds to action completed before the time of the main verb.
+      a)  The *perfect tense* generally corresponds to action completed before the time of the main verb.
 
-      b)  The aorist tense is undefined, but may indicate action completed prior to the time of the main verb or contemporaneous with the time of the main verb.
+      b)  The *aorist tense* is undefined, but may indicate action completed prior to the time of the main verb or contemporaneous with the time of the main verb.
 
-      c)  The present tense may be used to refer to action that is contemporaneous with the main verb or the future.  However, there are exceptions.  [ See Example VP-E2]
+      c)  The *present tense* may be used to refer to action that is contemporaneous with the main verb or the future.  However, there are exceptions.  [ See Example VP-E2]
 
-      d)  The future tense refers to action that occurs after the time of the main verb. [ see example VP-E5]
+      d)  The *future tense* refers to action that occurs after the time of the main verb. [ see example VP-E5]
 
       
 Adjectival Usage -  Participles may be used to modify a noun or a pronoun.
@@ -96,7 +96,7 @@ In this sense, they qualify or limit the noun.  Like other adjectives the partic
 
         If a definite article precedes the participle, the emphasis of the participle is adjectival.   
 		
-		If the definite article is absent, the emphasis may still be adjectival. In this case it may still be used attributively or substantively.  
+		If the definite article is absent, the emphasis may still be adjectival. In this case it may still be used *attributively* or *substantively*.  
 
 Adverbal usage -  Participles may be used to modify a verb.   
 ^^^^^^^^^^^^^^
@@ -109,7 +109,7 @@ b.	Participles never take the place of the main verb in a sentence.
 
 c.	Participles can function as an adverb modifying a verb.  When their meaning is directed toward a verb, it will agree with a word (most likely the subject of the verb) in case number and gender.
 
-d.	Even though it is adverbial, it will still agree with a related noun in case number and gender.  However, that noun may be implied or in a previous sentence.
+d.	Even though it is adverbial, it will still agree with a related noun in case number and gender.  *However, that noun may be implied or in a previous sentence.*
 
 
 e.	Adverbal Participles may be classified as:
