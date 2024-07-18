@@ -163,14 +163,14 @@ Participle Diagnostic Chart
         <td class="tg-0lax" colspan="3"></td>
       </tr>
       <tr>
-        <td class="tg-0lax" colspan="7">Since Participles are never the main verb in a sentence,<br>1) locate the **subject** and **main verb** of the sentence.<br>(Note:&nbsp;&nbsp;An adjectival participle can act as a noun and therefore can be the subject of the sentence. <br> If so it will be in the nominative case) </td>
+        <td class="tg-0lax" colspan="7">Since Participles are never the main verb in a sentence,<br>1) locate the SUBJECT and MAIN VERB of the sentence.<br>(Note:&nbsp;&nbsp;An adjectival participle can act as a noun and therefore can be the subject of the sentence. <br> If so it will be in the nominative case) </td>
       </tr>
       <tr>
         <td class="tg-0lax" colspan="4"></td>
         <td class="tg-0lax" colspan="3"></td>
       </tr>
       <tr>
-        <td class="tg-0lax" colspan="7">What tense is the participle?  [See 1(a) and 1(b)<br>Focus on the **aspect** (type of action).&nbsp;&nbsp;&nbsp;<br>The time of the action is drawn from and in relation to the main verb.<br>(1) Present tense indicates *continuous* action.<br>(2) Aorist tense indicates *undefined* action prior to or at the time of the speaker.<br>(3) Perfect tense indicates *completed* action from the speaker's point of view with an ongoing effect.<br>(4) Future tense indicates action occurring in the future from the speaker's point of view. </td>
+        <td class="tg-0lax" colspan="7">What tense is the participle?  [See 1(a) and 1(b)<br>Focus on the ASPECT (type of action).&nbsp;&nbsp;&nbsp;<br>The time of the action is drawn from and in relation to the main verb.<br>(1) PRESENT TENSE indicates continuous action.<br>(2) AORIST tense indicates undefined action prior to or at the time of the speaker.<br>(3) PERFECT tense indicates completed action from the speaker's point of view with an ongoing effect.<br>(4) FUTURE tense indicates action occurring in the future from the speaker's point of view. </td>
       </tr>
       <tr>
         <td class="tg-0lax" colspan="3"></td>
@@ -203,33 +203,33 @@ Participle Diagnostic Chart
       </tr>
       <tr>
         <td class="tg-0lax" colspan="4">(1) Is the Participle acting as a noun? - Substantive Use,<br>(2) or Attributive use?</td>
-        <td class="tg-0lax" colspan="3">1) Temporal - *while, after*<br>Answers the question **When?*"</td>
+        <td class="tg-0lax" colspan="3">1) Temporal - "WHILE, AFTER"<br>Answers the question "WHEN"</td>
       </tr>
       <tr>
         <td class="tg-amwm" colspan="2">Substantive</td>
         <td class="tg-amwm" colspan="2">Attributive</td>
-        <td class="tg-0lax" colspan="3">2) Adverb of Manner<br>Answers the question "*How?*"</td>
+        <td class="tg-0lax" colspan="3">2) Adverb of Manner<br>Answers the question "HOW?*"</td>
       </tr>
       <tr>
-        <td class="tg-0lax" colspan="2">Use of the helping words "*the one who*"<br>may be helpful.</td>
-        <td class="tg-0lax" colspan="2">Use of the helping words "*who*, <br>or "*which*" may be helpful</td>
-        <td class="tg-0lax" colspan="3">3) Adverb of Cause<br>Answers the question "*Why?*<br>Use of the helping words *"because"*, or *"since"*<br>may be helpful</td>
-      </tr>
-      <tr>
-        <td class="tg-0lax" colspan="4"></td>
-        <td class="tg-0lax" colspan="3">4) Adverb of Condition<br>May need to add "(*if ... then*)" to clarify</td>
+        <td class="tg-0lax" colspan="2">Use of the helping words "THE ONE WHO"<br>may be helpful.</td>
+        <td class="tg-0lax" colspan="2">Use of the helping words "WHO, <br>or "WHICH" may be helpful</td>
+        <td class="tg-0lax" colspan="3">3) Adverb of Cause<br>Answers the question "WHY?"<br>Use of the helping words "BECAUSE", or "SINCE"<br>may be helpful</td>
       </tr>
       <tr>
         <td class="tg-0lax" colspan="4"></td>
-        <td class="tg-0lax" colspan="3">5) Adverb of Concession<br>Use of the the helping words "*even though, although, or despite"*<br>may be helpful.</td>
+        <td class="tg-0lax" colspan="3">4) Adverb of Condition<br>May need to add "(IF ... THEN)" to clarify</td>
       </tr>
       <tr>
         <td class="tg-0lax" colspan="4"></td>
-        <td class="tg-0lax" colspan="3">6) Adverb of Purpose<br>"*for the purpose of*"</td>
+        <td class="tg-0lax" colspan="3">5) Adverb of Concession<br>Use of the the helping words " EVEN THOUGH, ALTHOUGH, or DESPITE"<br>may be helpful.</td>
       </tr>
       <tr>
         <td class="tg-0lax" colspan="4"></td>
-        <td class="tg-0lax" colspan="3">7) Adverb of Result<br>"*resulting in *"</td>
+        <td class="tg-0lax" colspan="3">6) Adverb of Purpose<br>"FOR THE PURPOSE OF"</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax" colspan="4"></td>
+        <td class="tg-0lax" colspan="3">7) Adverb of Result<br>"RESULTING IN"</td>
       </tr>
       <tr>
         <td class="tg-0lax" colspan="4"></td>
