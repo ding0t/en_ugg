@@ -114,7 +114,7 @@ d.	Even though it is adverbial, it will still agree with a related noun in case 
 
 e.	Adverbal Participles may be classified as:
 
-  1)  **Temporal Adverbs** – Adverbal participles are often translated temporally with the use of the helping word (*while*- present tense , or *after* -aorist, imperfect, perfect, or pluperfect tense).   If the participle is in the  imperfect tense continuous action is implied.   This is also often the case with the present tense.   Therefore a translation of *while making*, or *before making* may be appropriate to reflect the continuous nature of the action.  Temporal participles answer the question of “When?” for the verb it is modifying. [ See Example VP-E8]
+  1)  **Temporal Adverbs** – Adverbal participles are often translated temporally with the use of the helping word (*while*- present tense , or *after* -aorist, imperfect, perfect, or pluperfect tense).   If the participle is in the  imperfect tense continuous action is implied.   This is also often the case with the present tense.   Therefore a translation of *while making*, or *before making* may be appropriate to reflect the continuous nature of the action.  Temporal participles answer the question of “*When*?” for the verb it is modifying. [ See Example VP-E8]
 
   2)  **Adverbs of Manner (or Means)**- A participle may describe the *manner* or the *means* by which an action is carried out.   They answer the question, *How*. As such it could reflect an emotion or attitude or how the action was carried out.  In this case, the time of the participle is usually contemporaneous with the main verb (present tense or sometimes aorist tense).   It usually follows the main verb.  [See Example VP-E9]
 
@@ -131,7 +131,7 @@ e.	Adverbal Participles may be classified as:
   8)  **Attendant Circumstance** – describes an action that occurs at the same time as the action of the main verb, but is somehow related to the action of the main verb.
 
         •  This category should only be chosen if the participles does not fit into any other category.
-        •  A participle of attendant circumstances describes (1) an action that is dependent upon the main verb; (2) The emphasis is on the main verb; (3) The action described by the participle is simply incidental to the main verb.
+        •  A participle of attendant circumstances describes (1) an action that is dependent upon the main verb; (2) the emphasis is on the main verb; and, (3) the action described by the participle is simply incidental to the main verb.
         •  Generally the participle will precede the main verb in both word order and time of the event, but not necessarily.  [ See Example VP-E15]
  
 
