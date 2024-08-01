@@ -246,7 +246,7 @@ Participle Diagnostic Chart
 B- Form
 ~~~~~~~
 
-The basic form for a participles are given in Table V-P-T1 (Present Active and Middle Participles), V-P-T-2 (Aorist Active and Middle Participles) , V-P-T-3 (Aorist Passive Participles), and V-P-T-4 (Perfect Participles).
+The basic form for a participles are given in `Table V-P-T1_Present Active and Middle Participles <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-p-t1-present-active-and-middle-participles>`_, `V-P-T-2_Aorist Active and Middle Participles <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-p-t2-aorist-active-and-middle-participles>`_ , `V-P-T-3_Aorist Passive Participles <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-p-t3-aorist-passive-participles>`_, and `V-P-T-4_Perfect Participles <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-p-t4-perfect-participles>`_.
 
 	Formation of Present Active Participles
 
