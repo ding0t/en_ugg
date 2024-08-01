@@ -383,6 +383,8 @@ Notes:
 Formation of the Present Middle/Passive Participle
 ~~~~~~~
 
+Table VP-5 Formation of Present Middle/Passive Participle
+^^^^^^
 
 The present Middle and Passive participle is formed by:
 
@@ -452,6 +454,9 @@ Accusative plural	λυομένους	λυομένας	λυόμενα
 
 Formation of First Aorist Active Participle
 ~~~~~~~~~
+
+Table VP-6 Formation of 1st Aorist Active Participle
+^^^^^^^^^^
 
 The first Aorist Active Participle is formed by:
 
