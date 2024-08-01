@@ -477,7 +477,7 @@ The first Aorist Active Participle is formed by:
         <td class="tg-baqh">+</td>
         <td class="tg-0lax">Tense<br>Formative</td>
         <td class="tg-0lax">+</td>
-        <td class="tg-baqh">Active<br>Participle<br>Morpheme<br>ντ</td>
+        <td class="tg-baqh">Active<br>Participle<br>Morpheme<br>ντ/ουσα</td>
         <td class="tg-baqh">+</td>
         <td class="tg-baqh">case<br>ending</td>
         <td class="tg-baqh"></td>
@@ -492,17 +492,13 @@ The first Aorist Active Participle is formed by:
         <td class="tg-baqh">+</td>
         <td class="tg-baqh">ες</td>
         <td class="tg-baqh">-&gt;</td>
-        <td class="tg-baqh">λύσαντες</td>
+        <td class="tg-baqh">λύσαντες *</td>
       </tr>
       <tr>
         <td class="tg-baqh" colspan="9"><span style="font-style:italic">after we loosed</span></td>
       </tr>
     </tbody>
     </table></br>
-
-First aorist tense stem + tense formative (σα) + participle morpheme(ντ/ουσα) + case ending.  The σα+ουσα contracts to σασ in the aorist
-
-λυ + σα +ντ + ες
 
 Note: [ There is no augment.  The augment for the aorist indicative tense indicates an event that occurred in past time.  With participles, the emphasis is on the aspect of the action and not the time of the action.] Therefore, there is no augment.
 
@@ -526,7 +522,7 @@ Accusative plural	λύσαντας	λυσάσας	λύσαντα
 *  the ντ drops off because it is followed by a sigma  λυ + σα+ντ + ς -> λυ +σα + ς 
 ** There is no case ending and the final tau (τ) drops off.
 *** The changes that result in dropping the ντ are complicated as the feminine form involves adding what William Mounce describes as adding a Consonantal Iota found in classical Greek to the participle morpheme (ντ).  This results in the combined tau-iota becoming a sigma which then causes the ν to drop off resulting in λυσας.   It is much easier, just to think of the feminine form marker as σας. 
-
+[JB check]* First aorist tense stem + tense formative (σα) + participle morpheme(ντ/ουσα) + case ending.  The σα+ουσα contracts to σασ in the aorist  λυ + σα +ντ + ες-> 
 
 Formation of the First Aorist Middle Participle
 
