@@ -248,10 +248,16 @@ B- Form
 
 The basic form for a participles are given in `Table V-P-T1_Present Active and Middle Participles <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-p-t1-present-active-and-middle-participles>`_, `V-P-T-2_Aorist Active and Middle Participles <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-p-t2-aorist-active-and-middle-participles>`_ , `V-P-T-3_Aorist Passive Participles <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-p-t3-aorist-passive-participles>`_, and `V-P-T-4_Perfect Participles <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-p-t4-perfect-participles>`_.
 
-	Formation of Present Active Participles
+Formation of Present Active Participles
+^^^^^^^^
 
-Because the time of action comes from the main verb, the aspect of the present participle generally takes precedence.   Therefore the present participle generally refers to continuous action.  When used temporally, it is generally translated using the key words while, or when.   The continuous action is generally indicated by adding an –
-“-ing” to the end of the verb for active voice or “while being ____” for passive voice. 
+Because the time of action comes from the main verb, **the aspect** of the present participle generally takes precedence.   
+Therefore:
+  *  the present participle generally refers to continuous action.
+    When used temporally, it is generally translated using the key words while, or when.   The continuous action is generally indicated by adding an
+      “-ing” to the end of the verb for active voice or 
+      “while being ____” for passive voice. 
+
 
 VP-2 Participle Morpheme Chart
 
