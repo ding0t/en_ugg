@@ -492,7 +492,7 @@ The first Aorist Active Participle is formed by:
         <td class="tg-baqh">+</td>
         <td class="tg-baqh">ες</td>
         <td class="tg-baqh">-&gt;</td>
-        <td class="tg-baqh">λύσαντες *</td>
+        <td class="tg-baqh">λύσαντες</td>
       </tr>
       <tr>
         <td class="tg-baqh" colspan="9"><span style="font-style:italic">after we loosed</span></td>
@@ -524,18 +524,67 @@ Accusative plural	λύσαντας	λυσάσας	λύσαντα
 *** The changes that result in dropping the ντ are complicated as the feminine form involves adding what William Mounce describes as adding a Consonantal Iota found in classical Greek to the participle morpheme (ντ).  This results in the combined tau-iota becoming a sigma which then causes the ν to drop off resulting in λυσας.   It is much easier, just to think of the feminine form marker as σας. 
 [JB check]* First aorist tense stem + tense formative (σα) + participle morpheme(ντ/ουσα) + case ending.  The σα+ουσα contracts to σασ in the aorist  λυ + σα +ντ + ες-> 
 
-Formation of the First Aorist Middle Participle
+Formation of the First Aorist Middle Participle Table BP-7
+^^^^^
 
 The First Aorist middle participle is formed using the middle participle morpheme  
 μενο for masculine or neuter verb stems and μενη for feminine verb stems.
 
 Therefor the First Aorist middle participle is formed by:
-1st Aorist stem + aorist tense formative marker (σα) + middle participle morpheme (μενο/η)+ case ending
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-0039{background-color:#fcff2f;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-0039" colspan="9">Table VP-7 Formation of 1st Aorist<br>Middle Participle</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-baqh">1st Aorist<br>Tense stem</td>
+        <td class="tg-baqh">+</td>
+        <td class="tg-baqh">Aorist Tense<br>Formative<br>Marker<br>σα</td>
+        <td class="tg-baqh">+</td>
+        <td class="tg-baqh">Middle<br>Participle<br>Morpheme<br>μενο/μενη</td>
+        <td class="tg-baqh">+</td>
+        <td class="tg-baqh">case<br>ending</td>
+        <td class="tg-baqh"></td>
+        <td class="tg-baqh"></td>
+      </tr>
+      <tr>
+        <td class="tg-baqh">λυ</td>
+        <td class="tg-baqh">+</td>
+        <td class="tg-0lax">σα</td>
+        <td class="tg-0lax">+</td>
+        <td class="tg-baqh">μενο</td>
+        <td class="tg-baqh">+</td>
+        <td class="tg-baqh">ς</td>
+        <td class="tg-baqh">-&gt;</td>
+        <td class="tg-baqh">λυσάμενος</td>
+      </tr>
+      <tr>
+        <td class="tg-baqh" colspan="9"><span style="font-style:italic">having loosed (himself)</span></td>
+      </tr>
+    </tbody>
+    </table></br>
 
 
-First Aorist
-Middle Participle
-Table VP-7
+
+First Aorist 
+Middle Participle 
+Table VP-7a
+
+
+
 	2	1	2
 	Masculine	Feminine	Neuter
 			
