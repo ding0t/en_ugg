@@ -380,16 +380,62 @@ Notes:
 2)	Similar to the nominative masculine singular, there is no case ending for the nominative (and accusative) neuter singular participle.   Therefore, the final tau (τ) drops off.  However, in the neuter the omicron does not lengthen resulting in λῦον.
 3)	Because the ντ is followed by a sigma (σ), the ντ drops out. λυ ο ντ σι -> λυ ο σι The omicron (ο) then lengthens to ου to compensate for the loss.  λυ ο σι -> λυ ου σι.
 
-Formation of the Present Middle/Passive Participle	
-	The present Middle and Passive participle is formed by:
+Formation of the Present Middle/Passive Participle
+~~~~~~~
 
-Present tense stem + Connecting vowel + Middle/passive participle morpheme (μενο/μενη) + case ending
 
-λυ + ο + μενο + ς
+The present Middle and Passive participle is formed by:
 
-Present
-Middle/Passive Participle
-Table VP-5
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-0039{background-color:#fcff2f;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-0039" colspan="9">Table VP-5  Formation of Present (continuous)<br>Middle/Passive Participle</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-0lax">Present<br>Tense stem</td>
+        <td class="tg-0lax">+</td>
+        <td class="tg-0lax">connecting<br>vowel</td>
+        <td class="tg-0lax">+</td>
+        <td class="tg-0lax">Middle/Passive<br>Participle<br>Morpheme<br>μενο/μενη</td>
+        <td class="tg-0lax">+</td>
+        <td class="tg-0lax">case<br>ending</td>
+        <td class="tg-0lax"></td>
+        <td class="tg-0lax"></td>
+      </tr>
+      <tr>
+        <td class="tg-baqh">λυ</td>
+        <td class="tg-baqh">+</td>
+        <td class="tg-baqh">ο</td>
+        <td class="tg-baqh">+</td>
+        <td class="tg-baqh">μενο</td>
+        <td class="tg-baqh">+</td>
+        <td class="tg-baqh">ς</td>
+        <td class="tg-baqh">-&gt;</td>
+        <td class="tg-baqh">λυόμενος</td>
+      </tr>
+      <tr>
+        <td class="tg-baqh" colspan="9"><span style="font-style:italic">loosing myself or being loosed</span></td>
+      </tr>
+    </tbody>
+    </table></br>
+
+
+
+Present Middle/Passive Participle
+Table VP-5a
 	2	1	2
 	Masculine	Feminine	Neuter
 			
