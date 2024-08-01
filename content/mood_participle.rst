@@ -363,12 +363,15 @@ The Present (continuous) Active participle is formed by:
 
 [NOTE] – There is no case ending for the nominative masculine singular.  Therefore the final tau (τ) drops off and the omicron lengthens to omega (ω).  
 
-The case endings follow the 3-1-3 pattern for adjective case endings.
-The case endings may be found in Master Table 1 and Master Table 2.
+  *  The case endings follow the 3-1-3 pattern for adjective case endings.
+  *  The case endings may be found in `Master Table 1 <https://ugg.readthedocs.io/en/latest/paradigms.html#table-1-first-and-second-declension>`_ and `Master Table 2 <https://ugg.readthedocs.io/en/latest/paradigms.html#table-2-third-declension>`_.
 
 
 
 Table VP -4  Present Active Participle
+^^^^^^^^
+
+
 3-1-3
  
 
