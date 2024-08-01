@@ -524,11 +524,14 @@ Accusative plural	λύσαντας	λυσάσας	λύσαντα
 *** The changes that result in dropping the ντ are complicated as the feminine form involves adding what William Mounce describes as adding a Consonantal Iota found in classical Greek to the participle morpheme (ντ).  This results in the combined tau-iota becoming a sigma which then causes the ν to drop off resulting in λυσας.   It is much easier, just to think of the feminine form marker as σας. 
 [JB check]* First aorist tense stem + tense formative (σα) + participle morpheme(ντ/ουσα) + case ending.  The σα+ουσα contracts to σασ in the aorist  λυ + σα +ντ + ες-> 
 
-Formation of the First Aorist Middle Participle Table BP-7
-^^^^^
+Formation of the First Aorist Middle Participle Table VP-7
+~~~~~~~~~
 
 The First Aorist middle participle is formed using the middle participle morpheme  
 μενο for masculine or neuter verb stems and μενη for feminine verb stems.
+
+Table VP-7  Formation of 1st Aorist Middle Participle
+^^^^^^^^^^
 
 Therefor the First Aorist middle participle is formed by:
 
