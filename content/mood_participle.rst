@@ -300,7 +300,7 @@ Therefore:
       <tr>
         <td class="tg-fymr">Aorist Passive</td>
         <td class="tg-c3ow">ντ</td>
-        <td class="tg-c3ow">ις</td>
+        <td class="tg-c3ow">θεις</td>
         <td class="tg-c3ow">ντ</td>
       </tr>
     </tbody>
