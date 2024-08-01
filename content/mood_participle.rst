@@ -254,9 +254,9 @@ Formation of Present Active Participles
 Because the time of action comes from the main verb, **the aspect** of the present participle generally takes precedence.   
 Therefore:
   *  the present participle generally refers to continuous action.
-    When used temporally, it is generally translated using the key words while, or when.   The continuous action is generally indicated by adding an
-      “-ing” to the end of the verb for active voice or 
-      “while being ____” for passive voice. 
+  *  When used temporally, it is generally translated using the key words while, or when.   The continuous action is generally indicated by adding an
+    *  “-ing” to the end of the verb for active voice or 
+    *  “while being ____” for passive voice. 
 
 
 VP-2 Participle Morpheme Chart
