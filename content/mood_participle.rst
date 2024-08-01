@@ -244,12 +244,12 @@ Participle Diagnostic Chart
 
 
 B- Form
-~~~~~~~
+______
 
 The basic form for a participles are given in `Table V-P-T1_Present Active and Middle Participles <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-p-t1-present-active-and-middle-participles>`_, `V-P-T-2_Aorist Active and Middle Participles <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-p-t2-aorist-active-and-middle-participles>`_ , `V-P-T-3_Aorist Passive Participles <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-p-t3-aorist-passive-participles>`_, and `V-P-T-4_Perfect Participles <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-p-t4-perfect-participles>`_.
 
 Formation of Present Active Participles
-^^^^^^^^
+~~~~~~~~
 
 Because the time of action comes from the main verb, **the aspect** of the present participle generally takes precedence.   
 Therefore:
@@ -258,6 +258,8 @@ Therefore:
     *  “-ing” to the end of the verb for active voice or 
     *  “while being ____” for passive voice. 
 
+Table VP-2 Participle Morpheme Chart
+^^^^^
 
 .. raw:: html
 
@@ -307,19 +309,64 @@ Therefore:
     </table></br>
 
 
-
 Table VP-3 Present (Continuous) Active Participle
+^^^^^^
 
-The Present (continuous) Active participle is form with:
+The Present (continuous) Active participle is formed by:
 
-Present tense stem + connecting vowel + Active Participle Morpheme (ντ/ουσα)+ case ending
+.. raw:: html
 
-λυ + ο +ντ + (-) -> λυῶν
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-0039{background-color:#fcff2f;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-0039" colspan="9">Table VP-3&nbsp;&nbsp;Present (continuous)<br>Active Participle</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-0lax">Present<br>Tense stem</td>
+        <td class="tg-0lax">+</td>
+        <td class="tg-0lax">connecting<br>vowel</td>
+        <td class="tg-0lax">+</td>
+        <td class="tg-0lax">Active<br>Participle<br>Morpheme<br>ντ/ουσα</td>
+        <td class="tg-0lax">+</td>
+        <td class="tg-0lax">case<br>ending</td>
+        <td class="tg-0lax"></td>
+        <td class="tg-0lax"></td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">λυ</td>
+        <td class="tg-0lax">+</td>
+        <td class="tg-0lax">ο</td>
+        <td class="tg-0lax">+</td>
+        <td class="tg-0lax">ντ</td>
+        <td class="tg-0lax">+</td>
+        <td class="tg-0lax">-</td>
+        <td class="tg-0lax">-&gt;</td>
+        <td class="tg-0lax">λυῶν</td>
+      </tr>
+      <tr>
+        <td class="tg-baqh" colspan="9"><span style="font-style:italic">loosing</span></td>
+      </tr>
+    </tbody>
+    </table></br>
+
+
 
 [NOTE] – There is no case ending for the nominative masculine singular.  Therefore the final tau (τ) drops off and the omicron lengthens to omega (ω).  
 
 The case endings follow the 3-1-3 pattern for adjective case endings.
 The case endings may be found in Master Table 1 and Master Table 2.
+
+
 
 Table VP -4  Present Active Participle
 3-1-3
