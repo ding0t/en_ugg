@@ -451,6 +451,54 @@ Accusative plural	λυομένους	λυομένας	λυόμενα
 
 
 Formation of First Aorist Active Participle
+~~~~~~~~~
+
+The first Aorist Active Participle is formed by:
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-0039{background-color:#fcff2f;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-0039" colspan="9">Table VP-6 Formation of 1st Aorist<br>Active Participle</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-baqh">1st Aorist<br>Tense stem</td>
+        <td class="tg-baqh">+</td>
+        <td class="tg-0lax">Tense<br>Formative</td>
+        <td class="tg-0lax">+</td>
+        <td class="tg-baqh">Active<br>Participle<br>Morpheme<br>ντ</td>
+        <td class="tg-baqh">+</td>
+        <td class="tg-baqh">case<br>ending</td>
+        <td class="tg-baqh"></td>
+        <td class="tg-baqh"></td>
+      </tr>
+      <tr>
+        <td class="tg-baqh">λυ</td>
+        <td class="tg-baqh">+</td>
+        <td class="tg-0lax">σα</td>
+        <td class="tg-0lax">+</td>
+        <td class="tg-baqh">ντ</td>
+        <td class="tg-baqh">+</td>
+        <td class="tg-baqh">ες</td>
+        <td class="tg-baqh">-&gt;</td>
+        <td class="tg-baqh">λύσαντες</td>
+      </tr>
+      <tr>
+        <td class="tg-baqh" colspan="9"><span style="font-style:italic">after we loosed</span></td>
+      </tr>
+    </tbody>
+    </table></br>
 
 First aorist tense stem + tense formative (σα) + participle morpheme(ντ/ουσα) + case ending.  The σα+ουσα contracts to σασ in the aorist
 
