@@ -40,11 +40,11 @@ ________
 A – Background
 ~~~~~~~~~~~~~~
 
-**Participles are verbal adjectives.  As such they share characteristics of both verbs and nouns.**   
+**Participles are verbal adjectives.**  As such they share characteristics of **both verbs and nouns.**   
 A little over 50 percent of the verses in the New Testament contain one or more participles.   
 Therefore, and understanding of participles is important to understanding the Greek text. 
 
-Similar to an :ref:`adjective<adjective>`, a participle has :ref:`Gender<gender>`, :ref:`number<number>`, and :ref:`case<case>`. A participle can take an *article*, and can function as a noun.
+Similar to an :ref:`adjective<adjective>`, a participle has :ref:`Gender<gender>`, :ref:`number<number>`, and :ref:`case<case>`. A participle can take an *article*, and can function as a :ref:`noun<noun>`.
 
 Similar to a verb, a participle has :ref:`tense<tense>` */aspect* and :ref:`voice<voice>`.   It can also be modified by another *adverb*, and take a *direct object*.
 
