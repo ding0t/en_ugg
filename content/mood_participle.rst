@@ -607,15 +607,60 @@ Dative plural	λυσαμένοις	λυσaμέναις	λυσαμέμοις
 Accusative plural	λυσαμένους	λυσαμένας	λυσάμενα
 
 Formation of the First Aorist Passive Participle
+~~~~~~~~
 
 The First Aorist Passive participle is formed using the same Aorist Tense Form marker except that the eta (θη) is shortened to an epsilon (θε) +  
 Particple morpheme (ντ/ ισ) 
 
 Therefor the First Aorist Passive participle is formed by:
 
-1st Aorist stem + aorist Passive formative marker (θε) + Aorist passive participle morpheme (ντ/ ισ)+ case ending
+Table VP-8 Formation of First Aorist Passive Participle
 
-λυ + θε + ντ + ς
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-fcno{background-color:#fcff2f;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-fcno" colspan="9">Table VP-8 Formation of 1st Aorist<br>Passive Participle</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-c3ow">1st Aorist<br>Tense stem</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">Aorist Passive<br>Formative<br>Marker (θε)<br></td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">Aorist<br>Passive<br>Participle<br>Morpheme<br>(ντ/ ις)</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">case<br>ending</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">λυ</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">θε</td>
+        <td class="tg-0pky">+</td>
+        <td class="tg-c3ow">ντ</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">ες</td>
+        <td class="tg-c3ow">-&gt;</td>
+        <td class="tg-c3ow">λυθέντες</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow" colspan="9"><span style="font-style:italic">having been loosed (freed)</span></td>
+      </tr>
+    </tbody></table></br>
+
+
 
 First Aorist
 Passive Participle
