@@ -767,6 +767,57 @@ Note: [ There is no augment.  The augment for the aorist indicative tense indica
 
 
 Formation of Second Aorist Middle Participle
+~~~~~~~~~
+
+Table VP-10 Formation of Second Aorist Middle Participle
+^^^^^
+
+.. raw: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-fcno{background-color:#fcff2f;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-fcno" colspan="9">Table VP-10 Formation of 2nd  Aorist<br>Middle Participle</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-c3ow">2nd Aorist<br>Tense stem</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">Connecting<br>Vowel</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">Aorist<br>Middle<br>Participle<br>Morpheme<br>(μενο/μενη )</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">case<br>ending</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">γεν</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">ο</td>
+        <td class="tg-0pky">+</td>
+        <td class="tg-c3ow">μενο</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">ς</td>
+        <td class="tg-c3ow">-&gt;</td>
+        <td class="tg-c3ow">γενὀμενος</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow" colspan="9"><span style="font-style:italic">after he wa</span>s</td>
+      </tr>
+    </tbody>
+    </table>(/br)
+
+
 
 Second aorist tense stem + connecting vowel + participle morpheme(ντ/ουσα) + case ending.  There is no need for an Aorist form marker because the use of the Second Aorist stem serves this purpose.  The second aorist active participle will therefore look just like the present active participle except for use of the second aorist stem.
 
