@@ -687,16 +687,60 @@ Accusative plural	λυθέντας	λυθείσας	λυθέντα
 
 
 Formation of Second Aorist Active Participle
+~~~~~~~~~
 
 Second aorist tense stem + connecting vowel + participle morpheme(ντ/ουσα) + case ending.  There is no need for an Aorist form marker because the use of the Second Aorist stem serves this purpose.  The second aorist active participle will therefore look just like the present active participle except for use of the second aorist stem.
 
-Second Aorist stem + connecting vowel + participle morpheme + case ending
+Table VP-9 Formation of Second Aorist Active Participle
+^^^^^
 
-βαλ + ο +ντ -> βαλών *
+.. raw:: html
 
-Note: [ There is no augment.  The augment for the aorist indicative tense indicates an event that occurred in past time.  With participles, the emphasis is on the aspect of the action and not the time of the action.] Therefore, there is no augment.
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-fcno{background-color:#fcff2f;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-fcno" colspan="9">Table VP-9 Formation of 2nd&nbsp;&nbsp;Aorist<br>Active Participle</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-c3ow">2nd Aorist<br>Tense stem</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">Connecting<br>Vowel</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">Aorist<br>Active<br>Participle<br>Morpheme<br>(ντ)</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">case<br>ending</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">βαλ</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">ο</td>
+        <td class="tg-0pky">+</td>
+        <td class="tg-c3ow">ντ</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">ες</td>
+        <td class="tg-c3ow">-&gt;</td>
+        <td class="tg-c3ow">βαλόντες</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow" colspan="9">after casting out</td>
+      </tr>
+    </tbody>
+    </table></br>
 
-*  Similar to the Present Active Participle, there is no case ending in the nominative masculine singular causing the tau to drop off because it cannot stand at the end a word.   The omicron then lengthens to omega to compensate for the missing tau resulting in Βαλών.
+
+
 
 Second Aorist
 Active Participle
@@ -713,6 +757,12 @@ Nominative plural	βαλόντες	βαλοῦσαι	βαλόντα
 Genitive plural	βαλόντων	βαλουσῶν	βαλόντων
 Dative plural	βαλοῦσι (ν)	βαλούσαις	βαλοῦσι (ν)
 Accusative plural	βαλόντας	βαλούσας	βαλόντα
+
+
+Note: [ There is no augment.  The augment for the aorist indicative tense indicates an event that occurred in past time.  With participles, the emphasis is on the aspect of the action and not the time of the action.] Therefore, there is no augment.
+
+*  Similar to the Present Active Participle, there is no case ending in the nominative masculine singular causing the tau to drop off because it cannot stand at the end a word.   The omicron then lengthens to omega to compensate for the missing tau resulting in Βαλών.
+
 
 
 
