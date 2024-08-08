@@ -772,7 +772,7 @@ Formation of Second Aorist Middle Participle
 Table VP-10 Formation of Second Aorist Middle Participle
 ^^^^^
 
-.. raw: html
+.. raw:: html
 
     <style type="text/css">
     .tg  {border-collapse:collapse;border-spacing:0;}
@@ -819,10 +819,6 @@ Table VP-10 Formation of Second Aorist Middle Participle
 
 
 
-
-
-
-
 Second aorist tense stem + connecting vowel + participle morpheme(ντ/ουσα) + case ending.  There is no need for an Aorist form marker because the use of the Second Aorist stem serves this purpose.  The second aorist active participle will therefore look just like the present active participle except for use of the second aorist stem.
 
 Second Aorist stem + connecting vowel + participle morpheme  (μενο/μενη) + case ending
@@ -854,8 +850,11 @@ Accusative plural	γενομένους	γενομένας	γενόμενα
 
 
 Formation of Second Aorist Passive Participle
+~~~~~~~~~
 
 The theta (θ) is dropped from the particle morpheme just as it is with second aorist verbs.   It is not needed because the changes in the root notify the reader that this is second aorist verb. 
+
+
 
 Second Aorist stem + connecting vowel (ε) + participle morpheme  (ντ) + case ending
 	στραφ  + ε + ντ  + ες   ->  στράφεντες
