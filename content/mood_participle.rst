@@ -815,7 +815,7 @@ Table VP-10 Formation of Second Aorist Middle Participle
         <td class="tg-c3ow" colspan="9"><span style="font-style:italic">after he wa</span>s</td>
       </tr>
     </tbody>
-    </table>(/br)
+    </table></br>
 
 
 
@@ -852,8 +852,57 @@ Accusative plural	γενομένους	γενομένας	γενόμενα
 Formation of Second Aorist Passive Participle
 ~~~~~~~~~
 
-The theta (θ) is dropped from the particle morpheme just as it is with second aorist verbs.   It is not needed because the changes in the root notify the reader that this is second aorist verb. 
+The theta (θ) is dropped from the particle morpheme just as it is with second aorist verbs.   
+It is not needed because the changes in the root notify the reader that this is second aorist verb. 
 
+
+Table VP-11 Formation 2nd Aorist Passive Participle
+^^^^^
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-fcno{background-color:#fcff2f;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-fcno" colspan="9">Table VP-11 Formation of 2nd  Aorist<br>Passive Participle</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-c3ow">2nd Aorist<br>Tense stem</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">Connecting<br>Vowel<br>(ε)</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">Aorist<br>Passive<br>Participle<br>Morpheme<br>( ντ)</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">case<br>ending</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">στραφ</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-0pky">+</td>
+        <td class="tg-c3ow">ντ</td>
+        <td class="tg-c3ow">+</td>
+        <td class="tg-c3ow">ες</td>
+        <td class="tg-c3ow">-&gt;</td>
+        <td class="tg-c3ow">στράφεντες</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow" colspan="9">turned around</td>
+      </tr>
+    </tbody>
+    </table></br>
 
 
 Second Aorist stem + connecting vowel (ε) + participle morpheme  (ντ) + case ending
