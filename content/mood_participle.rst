@@ -819,6 +819,10 @@ Table VP-10 Formation of Second Aorist Middle Participle
 
 
 
+
+
+
+
 Second aorist tense stem + connecting vowel + participle morpheme(ντ/ουσα) + case ending.  There is no need for an Aorist form marker because the use of the Second Aorist stem serves this purpose.  The second aorist active participle will therefore look just like the present active participle except for use of the second aorist stem.
 
 Second Aorist stem + connecting vowel + participle morpheme  (μενο/μενη) + case ending
