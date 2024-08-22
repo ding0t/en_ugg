@@ -392,7 +392,7 @@ Table VP -4  Present Active Participle
     </style>
     <table class="tg"><thead>
       <tr>
-        <th class="tg-fcno" colspan="4">Table VP-4<br>Present Participles<br>Active and Middle<br>3-1-3</th>
+        <th class="tg-fcno" colspan="4">Table VP-4<br>Present Active<br>Participle<br>3-1-3</th>
       </tr></thead>
     <tbody>
       <tr>
@@ -520,21 +520,93 @@ The present Middle and Passive participle is formed by:
 
 
 
-Present Middle/Passive Participle
-Table VP-5a
-	2	1	2
-	Masculine	Feminine	Neuter
-			
-Nominative singular	λυόμενος	λυομένη	λυόμενον
-Genitive singular	λυομένου	λυομένης	λυομένου
-Dative singular	λυομένῳ	λυομέμῃ	λυομένῳ
-Accusative singular	λυόμενον	λυομένη	λυόμενον
-			
-Nominative plural	λυόμενοι	λυόμεναι	λυόμενα
-Genitive plural	λυομένων	λυομένων	λυομένων
-Dative plural	λυομένοις	λυομέναις	λυομένοις
-Accusative plural	λυομένους	λυομένας	λυόμενα
+Table VP-5a Present Middle/Passive Participle
+^^^^^
 
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-fcno{background-color:#fcff2f;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-sg5v{border-color:inherit;font-size:100%;text-align:left;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-fcno" colspan="4">Table VP-5a<br>Present <br>Middle/Passive Participles<br>2-1-2</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-7btt">Singular</td>
+        <td class="tg-zlqz" colspan="3">Active</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Nominative</td>
+        <td class="tg-sg5v">λυόμενος</td>
+        <td class="tg-0pky">λυομένη</td>
+        <td class="tg-0pky">λυόμενον</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Genitive</td>
+        <td class="tg-0pky">λυομένου</td>
+        <td class="tg-0pky">λυομένης</td>
+        <td class="tg-0pky">λυομένου</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Dative</td>
+        <td class="tg-0pky">λυομένῳ</td>
+        <td class="tg-0pky">λυομένῃ</td>
+        <td class="tg-0pky">λυομένῳ</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Accusative</td>
+        <td class="tg-0pky">λυόμενον</td>
+        <td class="tg-0pky">λυομένην</td>
+        <td class="tg-0pky">λυόμενον</td>
+      </tr>
+      <tr>
+        <td class="tg-fymr">Plural</td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Nominative</td>
+        <td class="tg-0pky">λυόμενοι</td>
+        <td class="tg-0pky">λυόμεναι</td>
+        <td class="tg-0pky">λυόμενα</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Genitive</td>
+        <td class="tg-0pky">λυομένων</td>
+        <td class="tg-0pky">λυομένων</td>
+        <td class="tg-0pky">λυομένων</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Dative</td>
+        <td class="tg-0pky">λυομένοις</td>
+        <td class="tg-0pky">λυομέναις</td>
+        <td class="tg-0pky">λυομένοις</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Accusative</td>
+        <td class="tg-0pky">λυομένους</td>
+        <td class="tg-0pky">λυομένας</td>
+        <td class="tg-0pky">λυόμενα</td>
+      </tr>
+    </tbody></table></br>
+	
+  
+ 
 
 Formation of First Aorist Active Participle
 ~~~~~~~~~
