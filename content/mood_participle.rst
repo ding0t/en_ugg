@@ -664,25 +664,99 @@ The first Aorist Active Participle is formed by:
 Note: [ There is no augment.  The augment for the aorist indicative tense indicates an event that occurred in past time.  With participles, the emphasis is on the aspect of the action and not the time of the action.] Therefore, there is no augment.
 
 
-First Aorist
-Active Participle
-Table VP-6
-	3	1	3
-	Masculine	Feminine	Neuter
-			
-Nominative singular	λύσας *	λύσασα***	λῦσαν **
-Genitive singular	λύσαντος	λυσάσης	λύσαντος
-Dative singular	λύσαντι	λυσάσῃ	λύσαντι
-Accusative singular	λύσαντα	λύσασαν	λῦσαν
-			
-Nominative plural	λύσαντες	λύσασαι	λύσαντα
-Genitive plural	λυσάντων	λυσασῶν	λυσάντων
-Dative plural	λύσασι (ν)	λυσάσαις	λύσασι (ν)
-Accusative plural	λύσαντας	λυσάσας	λύσαντα
+Table VP-6a First Aorist Active Participle
+^^^^^
 
-*  the ντ drops off because it is followed by a sigma  λυ + σα+ντ + ς -> λυ +σα + ς 
-** There is no case ending and the final tau (τ) drops off.
-*** The changes that result in dropping the ντ are complicated as the feminine form involves adding what William Mounce describes as adding a Consonantal Iota found in classical Greek to the participle morpheme (ντ).  This results in the combined tau-iota becoming a sigma which then causes the ν to drop off resulting in λυσας.   It is much easier, just to think of the feminine form marker as σας. 
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-fcno{background-color:#fcff2f;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-sg5v{border-color:inherit;font-size:100%;text-align:left;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-fcno" colspan="4">Table VP-6a<br>First Aorist<br>Active Participle<br>3-1-3</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-7btt">Singular</td>
+        <td class="tg-zlqz" colspan="3">Active</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Nominative</td>
+        <td class="tg-sg5v">λύσας&nbsp;&nbsp;*</td>
+        <td class="tg-0pky">λύσασα&nbsp;&nbsp;***</td>
+        <td class="tg-0pky">λῦσαν&nbsp;&nbsp;**</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Genitive</td>
+        <td class="tg-0pky">λύσαντος</td>
+        <td class="tg-0pky">λυσάσης</td>
+        <td class="tg-0pky">λύσαντος</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Dative</td>
+        <td class="tg-0pky">΄λύσαντι</td>
+        <td class="tg-0pky">λυσάσῃ</td>
+        <td class="tg-0pky">λύσαντι</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Accusative</td>
+        <td class="tg-0pky">λύσαντα</td>
+        <td class="tg-0pky">λύσασαν</td>
+        <td class="tg-0pky">λῦσαν</td>
+      </tr>
+      <tr>
+        <td class="tg-fymr">Plural</td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Nominative</td>
+        <td class="tg-0pky">λύσαντες</td>
+        <td class="tg-0pky">λύσασαι</td>
+        <td class="tg-0pky">λύσαντα</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Genitive</td>
+        <td class="tg-0pky">λυσάντων</td>
+        <td class="tg-0pky">λυσασῶν</td>
+        <td class="tg-0pky">λυσάντων</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Dative</td>
+        <td class="tg-0pky">λύσασι (ν)</td>
+        <td class="tg-0pky">λυσάσαις</td>
+        <td class="tg-0pky">λύσασι (ν)</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Accusative</td>
+        <td class="tg-0pky">λύσαντας</td>
+        <td class="tg-0pky">λυσάσας</td>
+        <td class="tg-0pky">λύσαντα</td>
+      </tr>
+    </tbody></table></br>
+
+
+[Note]
+
+  #.  `*` Tthe ντ drops off because it is followed by a sigma  λυ + σα+ντ + ς -> λυ +σα + ς 
+  #.  ** There is no case ending and the final tau (τ) drops off.
+  #.  *** The changes that result in dropping the ντ are complicated as the feminine form involves adding what William Mounce describes as adding a Consonantal Iota found in classical Greek to the participle morpheme (ντ).  This results in the combined tau-iota becoming a sigma which then causes the ν to drop off resulting in λυσας.   It is much easier, just to think of the feminine form marker as σας. 
+
+
 [JB check]* First aorist tense stem + tense formative (σα) + participle morpheme(ντ/ουσα) + case ending.  The σα+ουσα contracts to σασ in the aorist  λυ + σα +ντ + ες-> 
 
 Formation of the First Aorist Middle Participle Table VP-7
