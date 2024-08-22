@@ -371,8 +371,92 @@ The Present (continuous) Active participle is formed by:
 Table VP -4  Present Active Participle
 ^^^^^^^^
 
+.. raw:: html
 
-3-1-3
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-fcno{background-color:#fcff2f;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-8zwo{font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-fcno" colspan="4">Table VP-4<br>Present Participles<br>Active and Middle<br>3-1-3</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-7btt">Singular</td>
+        <td class="tg-zlqz" colspan="3">Active</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Nominative</td>
+        <td class="tg-c3ow">λύων</td>
+        <td class="tg-c3ow">λύουσα</td>
+        <td class="tg-0pky">λῦον</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Genitive</td>
+        <td class="tg-0pky">λύοντος</td>
+        <td class="tg-0pky">λυούσης</td>
+        <td class="tg-0pky">λύοντος</td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">Dative</td>
+        <td class="tg-0lax">λύοντι</td>
+        <td class="tg-0lax">λυούσῃ</td>
+        <td class="tg-0lax">λύοντι</td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">Accusative</td>
+        <td class="tg-0lax">λύοντα</td>
+        <td class="tg-0lax">λύουσαν</td>
+        <td class="tg-0lax">λῦον</td>
+      </tr>
+      <tr>
+        <td class="tg-1wig">Plural</td>
+        <td class="tg-y6fn"></td>
+        <td class="tg-y6fn"></td>
+        <td class="tg-y6fn"></td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">Nominative</td>
+        <td class="tg-0lax">λύοντες</td>
+        <td class="tg-0lax">λύουσαι</td>
+        <td class="tg-0lax">λύοντα</td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">Genitive</td>
+        <td class="tg-0lax">λυόντων</td>
+        <td class="tg-0lax">λυουσῶν</td>
+        <td class="tg-0lax">λύοντων</td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">Dative</td>
+        <td class="tg-0lax">λύουσι(ν)</td>
+        <td class="tg-0lax">λυούσαις</td>
+        <td class="tg-0lax">λύουσι(ν)</td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">Accusative</td>
+        <td class="tg-0lax">λύοντας</td>
+        <td class="tg-0lax">λυούσας</td>
+        <td class="tg-0lax">λύοντα</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+
  
 
 Notes:
