@@ -460,9 +460,9 @@ Table VP -4  Present Active Participle
  
 
 Notes:
-  #1  There is no case ending for the nominative masculine singular.  Therefore, the final tau (τ) drops off and the omicron lengthens to omega (ω).
-  #2  Similar to the nominative masculine singular, there is no case ending for the nominative (and accusative) neuter singular participle.   Therefore, the final tau (τ) drops off.  However, in the neuter the omicron does not lengthen resulting in λῦον.
-  #3  Because the ντ is followed by a sigma (σ), the ντ drops out. λυ ο ντ σι -> λυ ο σι The omicron (ο) then lengthens to ου to compensate for the loss.  λυ ο σι -> λυ ου σι.
+  #.  There is no case ending for the nominative masculine singular.  Therefore, the final tau (τ) drops off and the omicron lengthens to omega (ω).
+  #.  Similar to the nominative masculine singular, there is no case ending for the nominative (and accusative) neuter singular participle.   Therefore, the final tau (τ) drops off.  However, in the neuter the omicron does not lengthen resulting in λῦον.
+  #.  Because the ντ is followed by a sigma (σ), the ντ drops out. λυ ο ντ σι -> λυ ο σι The omicron (ο) then lengthens to ου to compensate for the loss.  λυ ο σι -> λυ ου σι.
 
 Formation of the Present Middle/Passive Participle
 ~~~~~~~
