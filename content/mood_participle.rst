@@ -443,7 +443,7 @@ Table VP -4  Present Active Participle
       </tr>
       <tr>
         <td class="tg-8zwo">Dative</td>
-        <td class="tg-0lax">λύουσι ***(ν)</td>
+        <td class="tg-0lax">λύουσι(ν) ***</td>
         <td class="tg-0lax">λυούσαις</td>
         <td class="tg-0lax">λύουσι(ν)</td>
       </tr>
