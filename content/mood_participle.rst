@@ -616,6 +616,8 @@ Table VP-6 Formation of 1st Aorist Active Participle
 
 The first Aorist Active Participle is formed by:
 
+First aorist tense stem + tense formative (σα) + participle morpheme(ντ/ουσα) + case ending.  The σα+ουσα contracts to σασ in the aorist  λυ + σα +ντ + ες-> λύσαντες
+
 .. raw:: html
 
     <style type="text/css">
@@ -757,7 +759,7 @@ Table VP-6a First Aorist Active Participle
   #.  *** The changes that result in dropping the ντ are complicated as the feminine form involves adding what William Mounce describes as adding a Consonantal Iota found in classical Greek to the participle morpheme (ντ).  This results in the combined tau-iota becoming a sigma which then causes the ν to drop off resulting in λυσας.   It is much easier, just to think of the feminine form marker as σας. 
 
 
-[JB check]* First aorist tense stem + tense formative (σα) + participle morpheme(ντ/ουσα) + case ending.  The σα+ουσα contracts to σασ in the aorist  λυ + σα +ντ + ες-> 
+
 
 Formation of the First Aorist Middle Participle Table VP-7
 ~~~~~~~~~
