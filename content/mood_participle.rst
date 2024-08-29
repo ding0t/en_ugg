@@ -1048,13 +1048,14 @@ Table VP-8a First Aorist Passive Participle
       </tr>
     </tbody></table></br>
 
+Notes:
+  `*` The ντ drops out because it is followed by a sigma (σ).  λυ + θε + ντ + ς -> λυ + θε + ς .  The epsilon then lengthens to (ει) to compensate for the loss  -> λυ + θει + ς.
 
-* The ντ drops out because it is followed by a sigma (σ) λυ + θε + ντ + ς -> λυ + θε + ς .  The epsilon  then lengthens to (ει) to compensate for the loss
- -> λυ + θει + ς.
+  ** The changes that result in dropping the ντ are complicated as the feminine form involves adding what William Mounce describes as a Consonantal Iota found in classical Greek. This then causes the combined tau-iota to form a sigma.  The nu drops off because it is followed by a sigma.   The epsilon in the aorist form marker θε then undergoes compensatory lengthening to become θει resulting in θεισ.   It is much easier just to think of the Aorist Passive Participle feminine morpheme as θεις.
 
-**  There is no case ending.  The tau then drops out because it cannot stand at the end of a word.  λυ + θε + ντ + -    -> λυ + θε + ντ -> λυθέν.
+  ***  There is no case ending.  The tau then drops out because it cannot stand at the end of a word.  λυ + θε + ντ + -    -> λυ + θε + ντ -> λυθέν.
 
-*** The changes that result in dropping the ντ are complicated as the feminine form involves adding what William Mounce describes as a Consonantal Iota found in classical Greek. This then causes the combined tau-iota to form a sigma.  The nu drops off because it is followed by a sigma.   The epsilon in the aorist form marker θε then undergoes compensatory lengthening to become θει resulting in θεισ.   It is much easier just to think of the Aorist Passive Participle feminine morpheme as θεις.
+
 
 
 
