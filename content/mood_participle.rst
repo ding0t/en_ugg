@@ -1113,23 +1113,93 @@ Table VP-9 Formation of Second Aorist Active Participle
     </table></br>
 
 
+Table VP-9a Second Aorist Active Participle
+^^^^^
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-fcno{background-color:#fcff2f;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-sg5v{border-color:inherit;font-size:100%;text-align:left;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-fcno" colspan="4">Table VP-9a<br>Second<br>Active Participle<br>3-1-3</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-7btt">Singular</td>
+        <td class="tg-zlqz" colspan="3">Active</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Nominative</td>
+        <td class="tg-sg5v">Βαλών</td>
+        <td class="tg-0pky">βαλοῦσα</td>
+        <td class="tg-0pky">βαλόν</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Genitive</td>
+        <td class="tg-0pky">Βαλόντος</td>
+        <td class="tg-0pky">βαλούσης</td>
+        <td class="tg-0pky">βαλόντος</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Dative</td>
+        <td class="tg-0pky">βαλόντι</td>
+        <td class="tg-0pky">βαλούσῃ</td>
+        <td class="tg-0pky">Βαλόντι</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Accusative</td>
+        <td class="tg-0pky">βαλόντα</td>
+        <td class="tg-0pky">βαλοῦσαν</td>
+        <td class="tg-0pky">βαλόν</td>
+      </tr>
+      <tr>
+        <td class="tg-fymr">Plural</td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Nominative</td>
+        <td class="tg-0pky">βαλόντες</td>
+        <td class="tg-0pky">βαλοῦσαι</td>
+        <td class="tg-0pky">βαλόντα</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Genitive</td>
+        <td class="tg-0pky">βαλόντων</td>
+        <td class="tg-0pky">βαλουσῶν</td>
+        <td class="tg-0pky">βαλόντων</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Dative</td>
+        <td class="tg-0pky">βαλοῦσι (ν)</td>
+        <td class="tg-0pky">βαλούσαις</td>
+        <td class="tg-0pky">βαλοῦσι (ν)</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Accusative</td>
+        <td class="tg-0pky">βαλόντας</td>
+        <td class="tg-0pky">βαλούσας</td>
+        <td class="tg-0pky">βαλόντα</td>
+      </tr>
+    </tbody></table></br>
 
 
-Second Aorist
-Active Participle
-Table VP-9
-	3	1	3
-	Masculine	Feminine	Neuter
-			
-Nominative singular	βαλών	βαλοῦσα	βαλόν
-Genitive singular	βαλόντος	βαλούσης	βαλόντος
-Dative singular	βαλόντι	βαλούσῃ	βαλόντι
-Accusative singular	βαλόντα	βαλοῦσαν	βαλόν
-			
-Nominative plural	βαλόντες	βαλοῦσαι	βαλόντα
-Genitive plural	βαλόντων	βαλουσῶν	βαλόντων
-Dative plural	βαλοῦσι (ν)	βαλούσαις	βαλοῦσι (ν)
-Accusative plural	βαλόντας	βαλούσας	βαλόντα
+
 
 
 Note: [ There is no augment.  The augment for the aorist indicative tense indicates an event that occurred in past time.  With participles, the emphasis is on the aspect of the action and not the time of the action.] Therefore, there is no augment.
