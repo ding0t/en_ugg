@@ -1139,7 +1139,7 @@ Table VP-9a Second Aorist Active Participle
     </style>
     <table class="tg"><thead>
       <tr>
-        <th class="tg-fcno" colspan="4">Table VP-9a<br>Second<br>Active Participle<br>3-1-3</th>
+        <th class="tg-fcno" colspan="4">Table VP-9a<br>Second Aorist<br>Active Participle<br>3-1-3</th>
       </tr></thead>
     <tbody>
       <tr>
