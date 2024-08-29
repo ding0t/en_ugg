@@ -964,23 +964,91 @@ Table VP-8 Formation of First Aorist Passive Participle
       </tr>
     </tbody></table></br>
 
+Table VP-8a First Aorist Passive Participle
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-fcno{background-color:#fcff2f;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-sg5v{border-color:inherit;font-size:100%;text-align:left;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-fcno" colspan="4">Table VP-8a<br>First Aorist<br>Passive Participle<br>3-1-3</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-7btt">Singular</td>
+        <td class="tg-zlqz" colspan="3">Active</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Nominative</td>
+        <td class="tg-sg5v">λυθείς&nbsp;&nbsp;*</td>
+        <td class="tg-0pky">λυθεῖσα  **</td>
+        <td class="tg-0pky">λυθέν ***</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Genitive</td>
+        <td class="tg-0pky">λυθέντος</td>
+        <td class="tg-0pky">λυθείσης</td>
+        <td class="tg-0pky">λυθέντος</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Dative</td>
+        <td class="tg-0pky">λυθέντι</td>
+        <td class="tg-0pky">λυθείσῃ</td>
+        <td class="tg-0pky">λυθέντι</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Accusative</td>
+        <td class="tg-0pky">λυθέντα</td>
+        <td class="tg-0pky">λυθεῖσαν</td>
+        <td class="tg-0pky">λυθέν</td>
+      </tr>
+      <tr>
+        <td class="tg-fymr">Plural</td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Nominative</td>
+        <td class="tg-0pky">λυθένες</td>
+        <td class="tg-0pky">λυθεῖσαι</td>
+        <td class="tg-0pky">λυθέντα</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Genitive</td>
+        <td class="tg-0pky">λυθέντων</td>
+        <td class="tg-0pky">λυθεισῶν</td>
+        <td class="tg-0pky">λυθέντων</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Dative</td>
+        <td class="tg-0pky">λυθεῖσι (ν)</td>
+        <td class="tg-0pky">λυθείσαις</td>
+        <td class="tg-0pky">λυθεῖσι (ν)</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Accusative</td>
+        <td class="tg-0pky">λυθέντας</td>
+        <td class="tg-0pky">λυθείσας</td>
+        <td class="tg-0pky">λυθέντα</td>
+      </tr>
+    </tbody></table></br>
 
 
-First Aorist
-Passive Participle
-Table VP-8
-	3	1	3
-	Masculine	Feminine	Neuter
-			
-Nominative singular	λυθείς*	λυθεῖσα***	λυθέν**
-Genitive singular	λυθέντος	λυθείσης	λυθέντος
-Dative singular	λυθέντι	λυθείσῃ	λυθέντι
-Accusative singular	λυθέντα	λυθεῖσαν	λυθέν
-			
-Nominative plural	λυθένες	λυθεῖσαι	λυθέντα
-Genitive plural	λυθέντων	λυθεισῶν	λυθέντων
-Dative plural	λυθεῖσι (ν)	λυθείσαις	λυθεῖσι (ν)
-Accusative plural	λυθέντας	λυθείσας	λυθέντα
 * The ντ drops out because it is followed by a sigma (σ) λυ + θε + ντ + ς -> λυ + θε + ς .  The epsilon  then lengthens to (ει) to compensate for the loss
  -> λυ + θει + ς.
 
