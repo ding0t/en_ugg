@@ -1215,6 +1215,12 @@ Formation of Second Aorist Middle Participle
 Table VP-10 Formation of Second Aorist Middle Participle
 ^^^^^
 
+The Second Aorist Middle Participle is formed by:
+ 
+  Second aorist tense stem + connecting vowel + participle morpheme (μενο/μενη) + case ending.  
+  There is no need for an Aorist form marker because the use of the Second Aorist stem serves this purpose.  
+  The second aorist active participle will therefore look just like the present active participle except for use of the second aorist stem.
+
 .. raw:: html
 
     <style type="text/css">
@@ -1261,19 +1267,93 @@ Table VP-10 Formation of Second Aorist Middle Participle
     </table></br>
 
 
-
-Second aorist tense stem + connecting vowel + participle morpheme(ντ/ουσα) + case ending.  There is no need for an Aorist form marker because the use of the Second Aorist stem serves this purpose.  The second aorist active participle will therefore look just like the present active participle except for use of the second aorist stem.
-
-Second Aorist stem + connecting vowel + participle morpheme  (μενο/μενη) + case ending
-
-γεν + ο +μεν +ος -> γενόμενος
-
-
-
-
-Table VP-10 Second Aorist Middle Participle 
+Table VP-10a Second Aorist Middle Participle 
 
 	Built on the verb γίνομαι ( I am, I become, I am born)
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-fcno{background-color:#fcff2f;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-sg5v{border-color:inherit;font-size:100%;text-align:left;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-fcno" colspan="4">Table VP-10a<br>Second Aorist<br>Middle Participle<br>2-1-2</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-7btt">Singular</td>
+        <td class="tg-zlqz" colspan="3">Active</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Nominative</td>
+        <td class="tg-sg5v">γενόμενος</td>
+        <td class="tg-0pky">γενομένη</td>
+        <td class="tg-0pky">γενόμενον</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Genitive</td>
+        <td class="tg-0pky">γενομένου</td>
+        <td class="tg-0pky">γενομένης</td>
+        <td class="tg-0pky">γενομένου</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Dative</td>
+        <td class="tg-0pky">γενομένῳ</td>
+        <td class="tg-0pky">γενομένῃ</td>
+        <td class="tg-0pky">γενομένῳ</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Accusative</td>
+        <td class="tg-0pky">γενόμενον</td>
+        <td class="tg-0pky">γενομένην</td>
+        <td class="tg-0pky">γενόμενον</td>
+      </tr>
+      <tr>
+        <td class="tg-fymr">Plural</td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Nominative</td>
+        <td class="tg-0pky">γενόμενοι</td>
+        <td class="tg-0pky">γενόμεναι</td>
+        <td class="tg-0pky">γενόμενα</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Genitive</td>
+        <td class="tg-0pky">γενομένων</td>
+        <td class="tg-0pky">γενομένων</td>
+        <td class="tg-0pky">γενομένων</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Dative</td>
+        <td class="tg-0pky">γενομένοις</td>
+        <td class="tg-0pky">γενομέναις</td>
+        <td class="tg-0pky">γενομένοις</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Accusative</td>
+        <td class="tg-0pky">γενομένους</td>
+        <td class="tg-0pky">γενομένας</td>
+        <td class="tg-0pky">γενόμενα</td>
+      </tr>
+    </tbody></table></br>
+
+
 
 Second Aorist
 Middle Participle
