@@ -1366,7 +1366,7 @@ Table VP-11 Formation 2nd Aorist Passive Participle
 
 The second Aorist Passive participle is formed with:
 
-  theSecond Aorist stem + connecting vowel (ε) + participle morpheme  (ντ) + case ending
+  the Second Aorist stem + connecting vowel (ε) + participle morpheme  (ντ) + case ending
 
 
 .. raw:: html
@@ -1507,7 +1507,7 @@ Note:
 
   `*` There is no case ending in the first person nominative singular with the result that the word ends with the participle morpheme.  the nu tau (ντ) then drops out because it cannot stand at the end of the word.   The epsilon (ε) then lengthens to (ει) to compensate for the missing letters. 
 
-	** There is no case ending in the first person nominative singular.  However only the tau drops out.  We have seen this before with neuter verbs.
+  ** There is no case ending in the first person nominative singular.  However only the tau drops out.  We have seen this before with neuter verbs.
 
 Examples:
 ________
