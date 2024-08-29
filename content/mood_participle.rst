@@ -819,24 +819,96 @@ Therefor the First Aorist middle participle is formed by:
 
 
 
-First Aorist 
-Middle Participle 
-Table VP-7a
+Table VP-7a First Aorist Middle Participle 
+^^^^^
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-fcno{background-color:#fcff2f;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-sg5v{border-color:inherit;font-size:100%;text-align:left;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-fcno" colspan="4">Table VP-7a<br>First Aorist<br>Middle Participle<br>2-1-2</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-7btt">Singular</td>
+        <td class="tg-zlqz" colspan="3">Active</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Nominative</td>
+        <td class="tg-sg5v">λυσάμενος</td>
+        <td class="tg-0pky">λυσαμένη</td>
+        <td class="tg-0pky">λυσάμενον</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Genitive</td>
+        <td class="tg-0pky">λυσαμένου</td>
+        <td class="tg-0pky">λυσαμένης</td>
+        <td class="tg-0pky">λυσαμένου</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Dative</td>
+        <td class="tg-0pky">λυσαμένῳ</td>
+        <td class="tg-0pky">λυσαμένῃ</td>
+        <td class="tg-0pky">λυσαμένῳ</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Accusative</td>
+        <td class="tg-0pky">λυσάμενον</td>
+        <td class="tg-0pky">λυσαμένην</td>
+        <td class="tg-0pky">λυσάμενον</td>
+      </tr>
+      <tr>
+        <td class="tg-fymr">Plural</td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Nominative</td>
+        <td class="tg-0pky">λυσάμενοι</td>
+        <td class="tg-0pky">λυσαμέναι</td>
+        <td class="tg-0pky">λυσάμενα</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Genitive</td>
+        <td class="tg-0pky">λυσαμένων</td>
+        <td class="tg-0pky">λυσαμένων</td>
+        <td class="tg-0pky">λυσαμένων</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Dative</td>
+        <td class="tg-0pky">λυσαμένοις</td>
+        <td class="tg-0pky">λυσαμέναις</td>
+        <td class="tg-0pky">λυσαμένοις</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Accusative</td>
+        <td class="tg-0pky">λυσαμένους</td>
+        <td class="tg-0pky">λυσαμένας</td>
+        <td class="tg-0pky">λυσάμενα</td>
+      </tr>
+    </tbody></table></br>
+
+    
 
 
 
-	2	1	2
-	Masculine	Feminine	Neuter
-			
-Nominative singular	λυσάμενος	λυσαμένη	λυσάμενον
-Genitive singular	λυσαμένου	λυσαμένης	λυσαμένου
-Dative singular	λυσαμένῳ	λυσαμένῃ	λυσαμένῳ
-Accusative singular	λυσάμενον	λυσαμένην	λυσάμενον
-			
-Nominative plural	λυσάμενοι	λυσάμεναι	λυσάμενα
-Genitive plural	λυσαμένων	λυσαμένων	λυσαμένων
-Dative plural	λυσαμένοις	λυσaμέναις	λυσαμέμοις
-Accusative plural	λυσαμένους	λυσαμένας	λυσάμενα
+
 
 Formation of the First Aorist Passive Participle
 ~~~~~~~~
