@@ -1354,24 +1354,6 @@ Table VP-10a Second Aorist Middle Participle
     </tbody></table></br>
 
 
-
-Second Aorist
-Middle Participle
-Table VP-10
-	2	1	2
-	Masculine	Feminine	Neuter
-			
-Nominative singular	γενόμενος	γενομένη	γενόμενον
-Genitive singular	γενομένου	γενομέης	γενομένου
-Dative singular	γενομένῳ	γενομένῃ	γενομένῳ
-Accusative singular	γενόμενον	γενομένην	γενόμενον
-			
-Nominative plural	γενόμενοι	γενόμεναι	γενόμενα
-Genitive plural	γενομένων	γενομένων	γενομένων
-Dative plural	γενομένοις	γενομέναις	γενομένοις
-Accusative plural	γενομένους	γενομένας	γενόμενα
-
-
 Formation of Second Aorist Passive Participle
 ~~~~~~~~~
 
@@ -1381,6 +1363,11 @@ It is not needed because the changes in the root notify the reader that this is 
 
 Table VP-11 Formation 2nd Aorist Passive Participle
 ^^^^^
+
+The second Aorist Passive participle is formed with:
+
+  theSecond Aorist stem + connecting vowel (ε) + participle morpheme  (ντ) + case ending
+
 
 .. raw:: html
 
@@ -1428,39 +1415,102 @@ Table VP-11 Formation 2nd Aorist Passive Participle
     </table></br>
 
 
-Second Aorist stem + connecting vowel (ε) + participle morpheme  (ντ) + case ending
-	στραφ  + ε + ντ  + ες   ->  στράφεντες
-
-
-
-Table VP-11 Second Aorist Passive Participle
+Table VP-11a Second Aorist Passive Participle
+^^^^^
 
  Based on στρέφω (I turn)
  
+.. raw:: html
 
-Second Aorist
-Passive Participle
-Table VP-11
-	3	1	3
-	Masculine	Feminine	Neuter
-			
-Nominative singular	στραφείς  *	στραφεῖσα	στραφέν  **
-Genitive singular	στραφέντος	στραφεῖσης	στραφέντος
-Dative singular	στραφέντι	στραφέςῃ	στραφέντι
-Accusative singular	στραφέντα		στραφέν
-			
-Nominative plural	στραφέντες	στραφεῖσαι	στραφέντα
-Genitive plural	στραφέντων	στραφεισῶν	στραφέντων
-Dative plural	στραφεῖσι (ν)	στραφείσαις	στραφεῖσι (ν)
-Accusative plural	στραφέντας	στραφείσας	στραφέντα
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-fcno{background-color:#fcff2f;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-sg5v{border-color:inherit;font-size:100%;text-align:left;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-fcno" colspan="4">Table VP-11a<br>Second Aorist<br>Passive Participle<br>3-1-3</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-7btt">Singular</td>
+        <td class="tg-zlqz" colspan="3">Active</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Nominative</td>
+        <td class="tg-sg5v">στρφείς&nbsp;&nbsp;*</td>
+        <td class="tg-0pky">στραφεῖσα</td>
+        <td class="tg-0pky">στραφέν  **</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Genitive</td>
+        <td class="tg-0pky">στραφέντος</td>
+        <td class="tg-0pky">στραφεῖσης</td>
+        <td class="tg-0pky">στραφέντος</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Dative</td>
+        <td class="tg-0pky">στραφέντι</td>
+        <td class="tg-0pky">στραφείσῃ</td>
+        <td class="tg-0pky">στραφέντι</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Accusative</td>
+        <td class="tg-0pky">στραφέντα</td>
+        <td class="tg-0pky">στραφέῖςαν</td>
+        <td class="tg-0pky">στραφέν</td>
+      </tr>
+      <tr>
+        <td class="tg-fymr">Plural</td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Nominative</td>
+        <td class="tg-0pky">στραφέντες</td>
+        <td class="tg-0pky">στραφεῖσαι</td>
+        <td class="tg-0pky">στραφέντα</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Genitive</td>
+        <td class="tg-0pky">στραφέντων</td>
+        <td class="tg-0pky">στραφεισῶν</td>
+        <td class="tg-0pky">στραφέντων</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Dative</td>
+        <td class="tg-0pky">στραφεῖσι (ν)</td>
+        <td class="tg-0pky">στραφεῖσαις</td>
+        <td class="tg-0pky">στραφεῖσι (ν)</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Accusative</td>
+        <td class="tg-0pky">στραφέντας</td>
+        <td class="tg-0pky">στραφεῖσας</td>
+        <td class="tg-0pky">στραφέντα</td>
+      </tr>
+    </tbody></table></br>
+
 
 Note:  
 
-*There is no case ending in the first person nominative singular with the result that the word ends with the participle morpheme.  the nu tau (ντ) then drops out because it cannot stand at the end of the word.   The epsilon (ε) then lengthens to (ει) to compensate for the missing letters. 
+  `*` There is no case ending in the first person nominative singular with the result that the word ends with the participle morpheme.  the nu tau (ντ) then drops out because it cannot stand at the end of the word.   The epsilon (ε) then lengthens to (ει) to compensate for the missing letters. 
 
 	** There is no case ending in the first person nominative singular.  However only the tau drops out.  We have seen this before with neuter verbs.
 
 Examples:
+________
 
 
 VP-E1  Example of Present Participle continuous action
