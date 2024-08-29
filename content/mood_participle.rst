@@ -1062,7 +1062,11 @@ Notes:
 Formation of Second Aorist Active Participle
 ~~~~~~~~~
 
-Second aorist tense stem + connecting vowel + participle morpheme(ντ/ουσα) + case ending.  There is no need for an Aorist form marker because the use of the Second Aorist stem serves this purpose.  The second aorist active participle will therefore look just like the present active participle except for use of the second aorist stem.
+Second aorist tense stem + connecting vowel + participle morpheme(ντ/ουσα) + case ending.  
+
+There is no need for an Aorist form marker because the use of the Second Aorist stem serves this purpose.  The augment for the aorist indicative tense
+indicates an event that occurred in past time.  With participles, the emphasis is on the aspect of the action and not the time of the action.
+Therefore, there is no augment.  The second aorist active participle will therefore look just like the present active participle except for use of the second aorist stem.
 
 Table VP-9 Formation of Second Aorist Active Participle
 ^^^^^
@@ -1144,7 +1148,7 @@ Table VP-9a Second Aorist Active Participle
       </tr>
       <tr>
         <td class="tg-f8tv">Nominative</td>
-        <td class="tg-sg5v">Βαλών</td>
+        <td class="tg-sg5v">Βαλών  *</td>
         <td class="tg-0pky">βαλοῦσα</td>
         <td class="tg-0pky">βαλόν</td>
       </tr>
@@ -1198,13 +1202,9 @@ Table VP-9a Second Aorist Active Participle
       </tr>
     </tbody></table></br>
 
+Note:   
 
-
-
-
-Note: [ There is no augment.  The augment for the aorist indicative tense indicates an event that occurred in past time.  With participles, the emphasis is on the aspect of the action and not the time of the action.] Therefore, there is no augment.
-
-*  Similar to the Present Active Participle, there is no case ending in the nominative masculine singular causing the tau to drop off because it cannot stand at the end a word.   The omicron then lengthens to omega to compensate for the missing tau resulting in Βαλών.
+  `*`  Similar to the Present Active Participle, there is no case ending in the nominative masculine singular causing the tau to drop off because it cannot stand at the end a word.   The omicron then lengthens to omega to compensate for the missing tau resulting in Βαλών.
 
 
 
