@@ -1543,10 +1543,11 @@ He was simply known as John the one who baptizes because this was a regular part
 In addition, because John the Baptist was already dead, he could not have been baptizing people at the time the speaker was speaking.
 This should serve as a reminder for the need to take into account the context of the participle.  
 
+VP-E2
 
 .. csv-table::  VP-E2  Mark 6:14
 
-  καὶ,ἔλεγον,ὅτι,"Ἰωάννης,ὁ,**βαπτίζων**,ἐγήγερται,ἐκ,νεκρῶν
+  καὶ,ἔλεγον,ὅτι,Ἰωάννης,ὁ,**βαπτίζων**,ἐγήγερται,ἐκ,νεκρῶν
   kai,elegon,hoti,"Iōannēs,ho,**baptizōn**,egēgertai,ek,nekrōn
   and,they,were saying,that,John,the,**Baptist**,has been raised,from,death
 
