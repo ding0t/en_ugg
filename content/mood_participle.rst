@@ -1514,7 +1514,7 @@ ________
 
 
 VP-E1  Example of Present Participle Continuous Action
-~~~~~~
+^^^^^
 
 The time of action is indicated by the main verb.  Therefore, the emphasis of a participle in the present tense is toward the aspect (or type) of action.
 Use of the present tense generally indicates continuous or ongoing action in relation to the main verb.   
@@ -1529,20 +1529,26 @@ Use of the present tense generally indicates continuous or ongoing action in rel
 
 
 VP-E2  Example of Present Participle Undefined Action
-~~~~~
+^^^^^^
 
 While the basic rule is that use of a participle in the present tense indicates continuous action (or on going action) at the time of the main verb, there are exceptions.
 
-One of the clearest exceptions is found in Mark 6:14.  John the Baptist could not have been continually baptizing people after he was killed, and certainly there were times when he paused from his activities to eat and sleep.   He was simply known as John the one who baptizes because this was a regular part of his ministry when he was alive.  In addition, because John the Baptist was already dead, he could not have been baptizing people at the time the speaker was speaking.  This should serve as a reminder for the need to take into account the context of the participle.  
+One of the clearest exceptions is found in Mark 6:14.  John the Baptist could not have been continually baptizing people after he was killed,
+and certainly there were times when he paused from his activities to eat and sleep.
+He was simply known as John the one who baptizes because this was a regular part of his ministry when he was alive.
+In addition, because John the Baptist was already dead, he could not have been baptizing people at the time the speaker was speaking.
+This should serve as a reminder for the need to take into account the context of the participle.  
 
-Mark 6:14
-καὶ ἔλεγον, ὅτι "Ἰωάννης ὁ βαπτίζων ἐγήγερται ἐκ νεκρῶν
-kai elegon, hoti "Iōannēs ho baptizōn egēgertai ek nekrōn
-and they were saying that John the Baptist has been raised from death
+.. csv-tables::  VP-E2  Mark 6:14
 
-and some were saying, “John the Baptist has been raised from the dead
+  καὶ,ἔλεγον,ὅτι,"Ἰωάννης,ὁ,**βαπτίζων**,ἐγήγερται,ἐκ,νεκρῶν
+  kai,elegon,hoti,"Iōannēs,ho,**baptizōn**,egēgertai,ek,nekrōn
+  and,they,were saying,that,John,the,**Baptist**,has been raised,from,death
+
+*and some were saying, “John the* **Baptist** *has been raised from the dead.*
 
 VP-E3  Example of Aorist  Participle undefined action
+~~~~~~
 
 John 2:3
 καὶ ὑστερήσαντος οἴνου, λέγει ἡ μήτηρ τοῦ Ἰησοῦ…  
