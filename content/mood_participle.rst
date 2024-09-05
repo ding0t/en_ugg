@@ -1513,11 +1513,13 @@ Examples:
 ________
 
 
-VP-E1  Example of Present Participle Continuous Action
-^^^^^
+Example of Present Participle Continuous Action
+~~~~~
 
 The time of action is indicated by the main verb.  Therefore, the emphasis of a participle in the present tense is toward the aspect (or type) of action.
 Use of the present tense generally indicates continuous or ongoing action in relation to the main verb.   
+
+Example VP-E1 Present Participle continuous action
 
 .. CSV-Table::  VP-E1   1 John 3:7
 
@@ -1542,7 +1544,7 @@ In addition, because John the Baptist was already dead, he could not have been b
 This should serve as a reminder for the need to take into account the context of the participle.  
 
 
-.. csv-table:: VP-E2  Mark 6:14
+.. CSV-Table::  VP-E2  Mark 6:14
 
   καὶ,ἔλεγον,ὅτι,"Ἰωάννης,ὁ,**βαπτίζων**,ἐγήγερται,ἐκ,νεκρῶν
   kai,elegon,hoti,"Iōannēs,ho,**baptizōn**,egēgertai,ek,nekrōn
@@ -1554,13 +1556,14 @@ This should serve as a reminder for the need to take into account the context of
 VP-E3  Example of Aorist  Participle undefined action
 ~~~~~~
 
-.. cav-table:: John 2:3
+.. csv-table:: John 2:3
 
   καὶ,**ὑστερήσαντος**,οἴνου,λέγει,ἡ,μήτηρ,τοῦ,Ἰησοῦ…  
   kai,**hysterēsantos**,oinou,legei,hē,mētēr,tou,Iēsou
   and,**having run out**,of wine,she said,the,mother,of,Jesus
 
 *And* **having run out**  *of wine, the mother of Jesus says …* 
+
 
 .. csv-table:: 
 
