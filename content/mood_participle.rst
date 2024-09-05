@@ -1513,18 +1513,24 @@ Examples:
 ________
 
 
-VP-E1  Example of Present Participle continuous action
+VP-E1  Example of Present Participle Continuous Action
+~~~~~~
 
-The time of action is indicated by the main verb.  Therefore, the emphasis of a participle in the present tense is toward the aspect (or type) of action.  Use of the present tense generally indicates continuous or ongoing action in relation to the main verb.   
+The time of action is indicated by the main verb.  Therefore, the emphasis of a participle in the present tense is toward the aspect (or type) of action.
+Use of the present tense generally indicates continuous or ongoing action in relation to the main verb.   
 
-1 John 3:7
-ὁ ποιῶν τὴν δικαιοσύνην, δίκαιός ἐστιν.
-ho poiōn tēn dikaiosynēn, dikaios estin
-The one who practices the righteousness righteous he is
+.. CSV-Table::  VP-E1   1 John 3:7
 
-The one doing righteousness is righteous		
+  ὁ,**ποιῶν**,τὴν,δικαιοσύνην,δίκαιός,ἐστιν.
+  ho,**poiōn**,tēn,dikaiosynēn,dikaios,estin
+  The,**one who practices**,the,righteousness,righteous,he is
 
-VP-E2  Example of Present Participle undefined action
+*The* **one doing** *righteousness is righteous.*		
+
+
+VP-E2  Example of Present Participle Undefined Action
+~~~~~
+
 While the basic rule is that use of a participle in the present tense indicates continuous action (or on going action) at the time of the main verb, there are exceptions.
 
 One of the clearest exceptions is found in Mark 6:14.  John the Baptist could not have been continually baptizing people after he was killed, and certainly there were times when he paused from his activities to eat and sleep.   He was simply known as John the one who baptizes because this was a regular part of his ministry when he was alive.  In addition, because John the Baptist was already dead, he could not have been baptizing people at the time the speaker was speaking.  This should serve as a reminder for the need to take into account the context of the participle.  
