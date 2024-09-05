@@ -1549,7 +1549,7 @@ VP-E2
 
   καὶ,ἔλεγον,ὅτι,Ἰωάννης,ὁ,**βαπτίζων**,ἐγήγερται,ἐκ,νεκρῶν
   kai,elegon,hoti,Iōannēs,ho,**baptizōn**,egēgertai,ek,nekrōn
-  and,they,were saying,that,John,the,**Baptist**,has been raised,from,death
+  and,they were saying,that,John,the,**Baptist**,has been raised,from,death
 
 *and some were saying, “John the*  **Baptist**  *has been raised from the dead.*
 
@@ -1568,8 +1568,8 @@ VP-E3  Example of Aorist  Participle undefined action
 
 .. csv-table:: 
 
-  "οἶνον,οὐκ,ἔχουσιν."
-  "oinon,ouk,echousin."
+  οἶνον,οὐκ,ἔχουσιν.
+  oinon,ouk,echousin.
   wine,not,they have
 
 *“They do not have wine.”*
