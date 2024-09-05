@@ -1539,7 +1539,7 @@ He was simply known as John the one who baptizes because this was a regular part
 In addition, because John the Baptist was already dead, he could not have been baptizing people at the time the speaker was speaking.
 This should serve as a reminder for the need to take into account the context of the participle.  
 
-.. csv-tables::  VP-E2  Mark 6:14
+.. csv-table::  VP-E2  Mark 6:14
 
   καὶ,ἔλεγον,ὅτι,"Ἰωάννης,ὁ,**βαπτίζων**,ἐγήγερται,ἐκ,νεκρῶν
   kai,elegon,hoti,"Iōannēs,ho,**baptizōn**,egēgertai,ek,nekrōn
@@ -1550,18 +1550,22 @@ This should serve as a reminder for the need to take into account the context of
 VP-E3  Example of Aorist  Participle undefined action
 ~~~~~~
 
-John 2:3
-καὶ ὑστερήσαντος οἴνου, λέγει ἡ μήτηρ τοῦ Ἰησοῦ…  
-kai hysterēsantos oinou, legei hē mētēr tou Iēsou
-and having run out of wine, she said the mother of Jesus
+.. cav-table:: John 2:3
 
-And having run out of wine, the mother of Jesus says … 
+  καὶ,**ὑστερήσαντος**,οἴνου,λέγει,ἡ,μήτηρ,τοῦ,Ἰησοῦ…  
+  kai,**hysterēsantos**,oinou,legei,hē,mētēr,tou,Iēsou
+  and,**having run out**,of wine,she said,the,mother,of,Jesus
 
-"οἶνον οὐκ ἔχουσιν."
-"oinon ouk echousin."
-Wine  not    they have
+*And* **having run out**  *of wine, the mother of Jesus says …* 
 
-“They do not have wine.”
+.. csv-table:: 
+
+  "οἶνον,οὐκ,ἔχουσιν."
+  "oinon,ouk,echousin."
+  wine,not,they have
+
+*“They do not have wine.”*
+
 
 VP-E4  Example of Perfect  Participle completed action
 The perfect tense is used to indicate action completed prior to the time of the main verb.   
