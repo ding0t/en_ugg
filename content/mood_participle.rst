@@ -1545,10 +1545,10 @@ This should serve as a reminder for the need to take into account the context of
 
 VP-E2
 
-.. csv-table::  VP-E2  Mark 6:14
+.. csv-table:: VP-E2  Mark 6:14
 
   καὶ,ἔλεγον,ὅτι,Ἰωάννης,ὁ,**βαπτίζων**,ἐγήγερται,ἐκ,νεκρῶν
-  kai,elegon,hoti,"Iōannēs,ho,**baptizōn**,egēgertai,ek,nekrōn
+  kai,elegon,hoti,Iōannēs,ho,**baptizōn**,egēgertai,ek,nekrōn
   and,they,were saying,that,John,the,**Baptist**,has been raised,from,death
 
 *and some were saying, “John the*  **Baptist**  *has been raised from the dead.*
