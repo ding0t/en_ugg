@@ -1547,6 +1547,7 @@ This should serve as a reminder for the need to take into account the context of
 
 *and some were saying, “John the* **Baptist** *has been raised from the dead.*
 
+
 VP-E3  Example of Aorist  Participle undefined action
 ~~~~~~
 
