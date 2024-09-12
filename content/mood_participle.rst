@@ -1699,22 +1699,28 @@ VP-E11  Example of  Adverbial Participle – Adverbs of Condition
 Adverbs of condition are similar to a first class condition statement.   If this…. Then that.  
 It is appropriate to add the word “if” in translating Participle Adverbs of Condition.
 
-Gal 6:9
-καιρῷ γὰρ ἰδίῳ, θερίσομεν μὴ ἐκλυόμενοι
-kairō gar idiō, therisomen mē eklyomenoi
-in time for one’s own, we will reap (if) not giving up
+.. csv-table:: Gal 6:9
 
-for in due time, not becoming weary, we will reap.  [ It could also be translated, “for in due time we will reap, if we do not lose heart/give up”
+  καιρῷ,γὰρ,ἰδίῳ,θερίσομεν,μὴ,**ἐκλυόμενοι**
+  kairō,gar,idiō,therisomen,mē,**eklyomenoi**
+  in,time,for,one’s own,we will reap,(if) not,**giving up**
+
+*for in due time, not* **becoming weary**, *we will reap.*  
+[ It could also be translated, “*for in due time we will reap, if* **we do not lose heart/give up”**
 
 
 VP-E12  Example of  Adverbial Participle – Adverbs of Concession
+~~~~~
 
-Romans 1:21
-διότι γνόντες τὸν Θεὸν, οὐχ ὡς Θεὸν ἐδόξασαν
-dioti gnontes ton Theon, ouch hōs Theon edoxasan
-for/because (even though) they knew the God, not as God they glorified
+.. csv-table:: Romans 1:21
 
-For having known God, they did not glorify {him} as God [or this could be translated “for even though they knew God, they did not glorify (him) as God”
+  διότι,**γνόντες**,τὸν,Θεὸν,οὐχ,ὡς,Θεὸν,ἐδόξασαν
+  dioti,**gnontes**,ton,Theon,ouch,hōs,Theon,edoxasan
+  for/because,**(even though) they knew**,the,God,not,as,God,they glorified
+
+*For* **having known God**, *they did not glorify {him} as God.* 
+[or this could be translated “*for* **even though they knew** *God, they did not glorify (him) as God*”
+
 
 VP-E13  Example of  Adverbial Participle – Adverbs of Purpose
 
