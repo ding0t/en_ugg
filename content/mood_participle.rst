@@ -61,7 +61,7 @@ Tense/Aspect
 
   1)  **Aspect**  - Aspect refers to the type of action.  
 
-      a)	*Continuous action* is reflected by use of the present tense stem.   [See Example VP-E1]
+      a)	*Continuous action* is reflected by use of the present tense stem.   [See `Example VP-E1 <https://ugg.readthedocs.io/en/latest/mood_participle.html#example-of-present-participle-continuous-action>`_]
 
       b)	*Undefined action* is reflected by use of the aorist tense stem  [See Example VP-E3]
 
