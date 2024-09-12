@@ -1762,13 +1762,15 @@ VP-E14  Example of  Adverbial Participle- Adverbs of Result
 
 
 VP-E15  Example of  Adverbial Participle – Attendant Circumstance
+~~~~~
 
-Luke 16:6
-δέξαι σου τὰ γράμματα καὶ καθίσας ταχέως γράψον πεντήκοντα.
-dexai‘ sou ta grammata kai kathisas tacheōs grapson pentēkonta.
-You take of you the writing/account and having sat down write fifty
+.. csv-table:: Luke 16:6
 
-Take your bill and, sitting down, quickly write 50.
+  δέξαι,σου,τὰ,γράμματα,καὶ,**καθίσας**,ταχέως,γράψον,πεντήκοντα.
+  dexai,sou,ta,grammata,kai,**kathisas**,tacheōs,grapson,pentēkonta.
+  You take,of you,the,writing/account,and,**having sat down**,write,fifty
+
+*Take your bill and,* **sitting down,** *quickly write 50.*
 
 
 
