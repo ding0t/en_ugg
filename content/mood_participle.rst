@@ -1638,24 +1638,33 @@ It could refer to continuous action or simply an action that has occurred.
 VP-E8  Example of  Adverbial Participle – Temporal use
 ~~~~~
 
+.. csv-table:: Mk 2:14
 
-Mk 2:14
-καὶ παράγων εἶδεν Λευεὶν τὸν τοῦ Ἁλφαίου
-kai paragōn eiden Leuein ton tou Halphaiou
-and while he was passing by he saw Levi the (son)of Alphaeus
+  καὶ, **παράγων**,εἶδεν,Λευεὶν,τὸν,τοῦ,Ἁλφαίου
+  kai,**paragōn**,eiden,Leuein,ton,tou,Halphaiou
+  and,**while he was passing by**,he saw,Levi,the,(son)of Alphaeus
 
-And passing by, he saw Levi the {son} of Alphaeus
+*And* **passing by**, *he saw Levi the {son} of Alphaeus*
 
-Note:   In this instance the participle (παράγων) is a present active participle nominative masculine singular.   It is modifying the verb εἶδεν which is an aorist active indicative 3 person singular verb.  The present participle would imply continuous action, but it takes its time from the main verb which is aorist.   It would therefore be appropriate to translate this verse as “ when he was passing by, or while he was passing by … he saw Levi”
+Note:   In this instance the participle (παράγων) is a present active participle nominative masculine singular.  
+It is modifying the verb εἶδεν which is an aorist active indicative 3 person singular verb.  
+The present participle would imply continuous action, but it takes its time from the main verb which is aorist.   
+It would therefore be appropriate to translate this verse as “ when he was passing by, or while he was passing by … he saw Levi”
 
 VP-E9  Example of  Adverbial Participle – Adverbs of Manner (or Means)
-Acts 8:39
-ἐπορεύετο γὰρ τὴν ὁδὸν αὐτοῦ χαίρων
-eporeueto gar tēn hodon autou chairōn
-he was going for the way of him rejoicing
+~~~~~
 
-for he went on his way rejoicing.
-Note:    The main verb  ἐπορεύετο is in the imperfect tense which implies continuous action.  Therefore, this verse could also be translated as  (and he was going on his way rejoicing).  
+.. csv-table:: Acts 8:39
+
+  ἐπορεύετο,γὰρ,τὴν ὁδὸν,αὐτοῦ,**χαίρων**
+  eporeueto,gar,tēn,hodon,autou,**chairōn**
+  he was going,for,the,way,of him,**rejoicing**
+
+*for he went on his way* **rejoicing.**
+
+Note:    The main verb  ἐπορεύετο is in the imperfect tense which implies continuous action.  
+Therefore, this verse could also be translated as  (and he was going on his way rejoicing).  
+
 
 VP-E10  Example of  Adverbial Participle – Adverbs of Cause
 
