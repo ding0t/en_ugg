@@ -1666,9 +1666,11 @@ Note:    The main verb  ἐπορεύετο is in the imperfect tense which impl
 Therefore, this verse could also be translated as  (and he was going on his way rejoicing).  
 
 
-VP-E10  Example of  Adverbial Participle – Adverbs of Cause
+Example of  Adverbial Participle – Adverbs of Cause
 ~~~~~
 
+Table VP-E-10
+^^^^^
 .. csv-table:: John 4:6
 
   Ἰησοῦς,**κεκοπιακὼς**,ἐκ,τῆς,ὁδοιπορίας,ἐκαθέζετο
@@ -1679,6 +1681,8 @@ VP-E10  Example of  Adverbial Participle – Adverbs of Cause
 
 or 
 
+Table VP-E10a
+^^^^^
 .. csv-table:: Jn 2:23
 
   πολλοὶ,ἐπίστευσαν,**θεωροῦντες**,αὐτοῦ,τὰ,σημεῖα,ἃ,ἐποίει
@@ -1688,8 +1692,12 @@ or
 *many believed* … **seeing his signs** *that he was doing.*  Or this could be translated
 *many believed* …. **Because they saw** *his signs (which) he was doing.* 
 
+
 VP-E11  Example of  Adverbial Participle – Adverbs of Condition
-Adverbs of condition are similar to a first class condition statement.   If this…. Then that.  It is appropriate to add the word “if” in translating Participle Adverbs of Condition.
+~~~~~
+
+Adverbs of condition are similar to a first class condition statement.   If this…. Then that.  
+It is appropriate to add the word “if” in translating Participle Adverbs of Condition.
 
 Gal 6:9
 καιρῷ γὰρ ἰδίῳ, θερίσομεν μὴ ἐκλυόμενοι
