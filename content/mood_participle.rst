@@ -1576,26 +1576,31 @@ VP-E3  Example of Aorist  Participle undefined action
 
 
 VP-E4  Example of Perfect  Participle completed action
+~~~~~
+
 The perfect tense is used to indicate action completed prior to the time of the main verb.   
 
-Mark 1:6
-καὶ ἦν ὁ Ἰωάννης ἐνδεδυμένος τρίχας καμήλου
-kai ēn ho Iōannēs endedymenos trichas kamēlou
-and he was John having been clothed in hair of camel
+.. csv-table:: Mark 1:6
 
-And John was clothed with camel hair
+  καὶ,ἦν,ὁ,Ἰωάννης,**ἐνδεδυμένος**,τρίχας,καμήλου
+  kai,ēn,ho,Iōannēs,**endedymenos**,trichas,kamēlou
+  and,he was,John,**having been clothed**,in hair,of camel
+
+*And John* **was clothed** *with camel hair*
 
 
 VP-E5  Example of Future  Participle 
+~~~~~
 
 The future tense is used to indicate action that will be completed after the time of the main verb.
 
-John 6:64
-ᾔδει γὰρ ἐξ ἀρχῆς ὁ Ἰησοῦς, …τίς ἐστιν ὁ παραδώσων αὐτόν.
-ēdei gar ex archēs ho Iēsous, …tis estin ho paradōsōn auton.
-He knew for from beginning the Jesus … who it is the one who would betray him
+.. csv-table:: John 6:64
 
-For Jesus knew from the beginning … who was the one who would betray him.
+  ᾔδει,γὰρ,ἐξ,ἀρχῆς,ὁ,Ἰησοῦς,τίς,ἐστιν,ὁ,**παραδώσων**,αὐτόν.
+  ēdei,gar,ex,archēs,ho,Iēsous,tis,estin,ho,**paradōsōn**,auton.
+  He knew,for,from beginning,the,Jesus,who,it is,the,**one who would betray**,him
+
+*For Jesus knew from the beginning … who was the* **one who would betray** *him.*
 
 VP-E6  Example of  Participle Attributive use 
 
