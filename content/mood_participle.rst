@@ -1602,14 +1602,16 @@ The future tense is used to indicate action that will be completed after the tim
 
 *For Jesus knew from the beginning … who was the* **one who would betray** *him.*
 
-VP-E6  Example of  Participle Attributive use 
+VP-E6  Example of Participle Attributive use
+~~~~~ 
 
-Matthew 16:16 
-σὺ εἶ ὁ Χριστὸς, ὁ Υἱὸς τοῦ Θεοῦ τοῦ ζῶντος.
-sy ei ho Christos, ho Huios tou Theou tou zōntos.
-You you are the Christ the Son of the God the one who is living (continuously)
+.. csv-table:: Matthew 16:16
 
-You are the Christ, the Son of the living God.
+  σὺ,εἶ,ὁ,Χριστὸς,ὁ,Υἱὸς,τοῦ,Θεοῦ,τοῦ,**ζῶντος**
+  sy,ei,ho,Christos,ho,Huios,tou,Theou,tou,**zōntos**
+  You,you are,the,Christ,the,Son,of the,God,the,**one who is living (continuously)**
+
+*You are the Christ, the Son of the* **living** *God.*
 
 
 VP-E7  Example of  Participle Substantive use 
