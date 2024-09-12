@@ -1720,6 +1720,7 @@ VP-E12  Example of  Adverbial Participle – Adverbs of Concession
   for/because, **(even though) they knew**,the,God,not,as,God,they glorified
 
 *For* **having known God**, *they did not glorify {him} as God.* 
+
 [or this could be translated “*for* **even though they knew** *God, they did not glorify (him) as God*”
 
 
@@ -1743,7 +1744,7 @@ VP-E14  Example of  Adverbial Participle- Adverbs of Result
 
   οὐκέτι,ἀφίετε,αὐτὸν,οὐδὲν,ποιῆσαι,τῷ,πατρὶ,ἢ, τῇ, μητρί 
   οὐκέτι,ἀφίετε,αὐτὸν,οὐδὲν,ποιῆσαι,τῷ,πατρὶ,ἢ,τῇ,μητρί
-  no longer,you permit,him,anything,to do,for (his) father,or, his mother
+  no longer,you permit,him,anything,to do,for (his),father,or,his, mother
 
 .. csv-table:: verse 13a
 
