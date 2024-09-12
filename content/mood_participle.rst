@@ -1678,6 +1678,7 @@ VP-E10  Example of  Adverbial Participle – Adverbs of Cause
 *Jesus,* **having grown weary** *from the journey, was sitting*
 
 or 
+
 .. csv-table:: Jn 2:23
 
   πολλοὶ,ἐπίστευσαν,**θεωροῦντες**,αὐτοῦ,τὰ,σημεῖα,ἃ,ἐποίει
