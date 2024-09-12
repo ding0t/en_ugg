@@ -1703,9 +1703,10 @@ It is appropriate to add the word “if” in translating Participle Adverbs of 
 
   καιρῷ,γὰρ,ἰδίῳ,θερίσομεν,μὴ,**ἐκλυόμενοι**
   kairō,gar,idiō,therisomen,mē,**eklyomenoi**
-  in,time,for,one’s own,we will reap,(if) not,**giving up**
+  in time,for,one’s own,we will reap,(if) not,**giving up**
 
-*for in due time, not* **becoming weary**, *we will reap.*  
+*for in due time, not* **becoming weary**, *we will reap.* 
+
 [ It could also be translated, “*for in due time we will reap, if* **we do not lose heart/give up”**
 
 
@@ -1716,33 +1717,43 @@ VP-E12  Example of  Adverbial Participle – Adverbs of Concession
 
   διότι,**γνόντες**,τὸν,Θεὸν,οὐχ,ὡς,Θεὸν,ἐδόξασαν
   dioti,**gnontes**,ton,Theon,ouch,hōs,Theon,edoxasan
-  for/because,**(even though) they knew**,the,God,not,as,God,they glorified
+  for/because, **(even though) they knew**,the,God,not,as,God,they glorified
 
 *For* **having known God**, *they did not glorify {him} as God.* 
 [or this could be translated “*for* **even though they knew** *God, they did not glorify (him) as God*”
 
 
 VP-E13  Example of  Adverbial Participle – Adverbs of Purpose
+~~~~~~
 
-Mathew 19:3
-καὶ προσῆλθον αὐτῷ Φαρισαῖοι, πειράζοντες αὐτὸν
-kai prosēlthon autō Pharisaioi, peirazontes auton
-and they came to him Pharisees with the purpose of testing him
+.. csv-table:: Mathew 19:3
 
-Pharisees approached him, to test him… [ in this example, the Adverbial participle of purpose, is translated as an infinitive.
+  καὶ,προσῆλθον,αὐτῷ,Φαρισαῖοι,**πειράζοντες**,αὐτὸν
+  kai,prosēlthon,autō,Pharisaioi,**peirazontes**,auton
+  and,they came,to him,Pharisees,**with the purpose of testing**,him
+
+*Pharisees approached him,* **to test** *him… *
+
+[In this example, the Adverbial participle of purpose, is translated as an infinitive.]
 
 VP-E14  Example of  Adverbial Participle- Adverbs of Result
+~~~~~
 
-Mark 7:12--13a
-οὐκέτι, ἀφίετε, αὐτὸν, οὐδὲν, ποιῆσαι, τῷ, πατρὶ, ἢ, τῇ, μητρί, 
-οὐκέτι,ἀφίετε,αὐτὸν,οὐδὲν,ποιῆσαι,τῷ,πατρὶ,ἢ,τῇ,μητρί, 
-no longer,you permit,him,anything,to do,for (his) father,or, his mother
+.. csv-table:: Mark 7:12--13a
 
-13 ἀκυροῦντες τὸν λόγον τοῦ Θεοῦ
-13 ἀκυροῦντες τὸν λόγον τοῦ Θεοῦ
-With the result of invalidating, the, word, of the,God
+  οὐκέτι,ἀφίετε,αὐτὸν,οὐδὲν,ποιῆσαι,τῷ,πατρὶ,ἢ, τῇ, μητρί 
+  οὐκέτι,ἀφίετε,αὐτὸν,οὐδὲν,ποιῆσαι,τῷ,πατρὶ,ἢ,τῇ,μητρί
+  no longer,you permit,him,anything,to do,for (his) father,or, his mother
 
-you no longer permit him to do anything for {his} father or {his} mother, 13 nullifying the word of God   [ or with the result of nullifying the word of God.
+.. csv-table:: verse 13a
+
+  **ἀκυροῦντες**,τὸν,λόγον,τοῦ,Θεοῦ
+  **ἀκυροῦντες**,τὸν,λόγον,τοῦ,Θεοῦ
+  **With the result of invalidating**,the,word,of the,God
+
+*You no longer permit him to do anything for {his} father or {his} mother*, 13 **nullifying** *the word of God.* 
+
+[ or **with the result of nullifying** *the word of God.*
 
 
 
