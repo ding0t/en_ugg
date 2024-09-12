@@ -1614,20 +1614,29 @@ VP-E6  Example of Participle Attributive use
 *You are the Christ, the Son of the* **living** *God.*
 
 
-VP-E7  Example of  Participle Substantive use 
+VP-E7  Example of  Participle Substantive use
+~~~~
 
-If a participle is being used as a noun (substantive use), it will be in the case that a noun would be.  If it is functioning as the subject of the sentence, it will be in the nominative case.  If it is functioning as the direct object of the verb, it will be in the accusative case.
+If a participle is being used as a noun (substantive use), it will be in the case that the noun would be.  
+If it is functioning as the subject of the sentence, it will be in the nominative case.  
+If it is functioning as the direct object of the verb, it will be in the accusative case.
 
-In this example πιστεύσας is in the nominative case and has the definite article.  It is joined with another participle in the nominative case. They are both substantive participles and acting as the subject of the sentence.  Because both participles are in the aorist tense, the aspect of the action is undefined. It could refer to continuous action or simply an action that has occurred. 
+In this example πιστεύσας is in the nominative case and has the definite article.  It is joined with another participle in the nominative case. 
+They are both substantive participles and acting as the subject of the sentence.  
+Because both participles are in the aorist tense, the aspect of the action is undefined. 
+It could refer to continuous action or simply an action that has occurred. 
 
-Mark 16:16
-Ὁ πιστεύσας καὶ βαπτισθεὶς σωθήσεται
-Hο pisteusas kai baptistheis sōthēsetai
-The one who has believed and who has been baptized will be saved
+.. csv-table:: VP-E7 Mark 16:16
 
-He who believes and is baptized will be saved.
+  Ὁ,**πιστεύσας**,καὶ,**βαπτισθεὶς**,σωθήσεται
+  Hο,**pisteusas**,kai,**baptistheis**,sōthēsetai
+ The,**one who has believed**,and,**who has been baptized**,will be saved
+
+*He* **who believes** *and* **is baptized** *will be saved.*
+
 
 VP-E8  Example of  Adverbial Participle – Temporal use
+~~~~~
 
 
 Mk 2:14
