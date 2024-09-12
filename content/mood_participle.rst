@@ -1667,21 +1667,25 @@ Therefore, this verse could also be translated as  (and he was going on his way 
 
 
 VP-E10  Example of  Adverbial Participle – Adverbs of Cause
+~~~~~
 
-John 4:6
-Ἰησοῦς κεκοπιακὼς ἐκ τῆς ὁδοιπορίας, ἐκαθέζετο
-Iēsous kekopiakōs ek tēs hodoiporias, ekathezeto
-Jesus because he was tired/exhausted from the journey, he was sitting
+.. csv-table:: John 4:6
 
-Jesus, having grown weary from the journey, was sitting
+  Ἰησοῦς,**κεκοπιακὼς**,ἐκ,τῆς,ὁδοιπορίας,ἐκαθέζετο
+  Iēsous,**kekopiakōs**,ek,tēs,hodoiporias,ekathezeto
+  Jesus,**because he was tired/exhausted**,from,the,journey,he was sitting
 
-Could have used Jn 2: 23
-πολλοὶ ἐπίστευσαν … θεωροῦντες αὐτοῦ τὰ σημεῖα ἃ ἐποίει
-polloi episteusan … theōrountes autou ta sēmeia ha epoiei
-many they believed … having seen his the signs which he was doing
+*Jesus,* **having grown weary** *from the journey, was sitting*
 
-many believed … seeing his signs that he was doing.  Or this could be translated
-many believed …. Because they saw his signs (which) he was doing. 
+or 
+.. csv-table:: Jn 2:23
+
+  πολλοὶ,ἐπίστευσαν,**θεωροῦντες**,αὐτοῦ,τὰ,σημεῖα,ἃ,ἐποίει
+  polloi,episteusan,**theōrountes**,autou,ta,sēmeia,ha,epoiei
+  many,they believed,**having seen**,his,the,signs,which,he was doing
+
+*many believed* … **seeing his signs** *that he was doing.*  Or this could be translated
+*many believed* …. **Because they saw** *his signs (which) he was doing.* 
 
 VP-E11  Example of  Adverbial Participle – Adverbs of Condition
 Adverbs of condition are similar to a first class condition statement.   If this…. Then that.  It is appropriate to add the word “if” in translating Participle Adverbs of Condition.
