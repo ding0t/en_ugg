@@ -1642,7 +1642,7 @@ VP-E8  Example of  Adverbial Participle – Temporal use
 
   καὶ, **παράγων**,εἶδεν,Λευεὶν,τὸν,τοῦ,Ἁλφαίου
   kai,**paragōn**,eiden,Leuein,ton,tou,Halphaiou
-  and,**while he was passing by**,he saw,Levi,the,(son)of Alphaeus
+  and,**while he was passing by**,he saw,Levi,the,(son),of Alphaeus
 
 *And* **passing by**, *he saw Levi the {son} of Alphaeus*
 
@@ -1656,7 +1656,7 @@ VP-E9  Example of  Adverbial Participle – Adverbs of Manner (or Means)
 
 .. csv-table:: Acts 8:39
 
-  ἐπορεύετο,γὰρ,τὴν ὁδὸν,αὐτοῦ,**χαίρων**
+  ἐπορεύετο,γὰρ,τὴν,ὁδὸν,αὐτοῦ,**χαίρων**
   eporeueto,gar,tēn,hodon,autou,**chairōn**
   he was going,for,the,way,of him,**rejoicing**
 
