@@ -134,7 +134,7 @@ e.	Adverbal Participles may be classified as:
     The concessive tone of the participle can be conveyed with the words (*even though, although, in spite of, or despite*). [See `Example VP-E12 <https://ugg.readthedocs.io/en/latest/mood_participle.html#vp-e12-example-of-adverbial-participle-adverbs-of-concession>`_]
 
   6)  **Adverbs of Purpose** -  are used to indicate the *purpose* for a given action.  They express the *intent* of the person carrying out the action.
-   It is similar to the adverb of cause in that both answer the question why?)  
+  It is similar to the adverb of cause in that both answer the question why?)  
    Adverbial participles of purpose can be translated with the phrase “*for the purpose of*” or as an infinitive.  [See `Example VP-E13 <https://ugg.readthedocs.io/en/latest/mood_participle.html#vp-e13-example-of-adverbial-participle-adverbs-of-purpose>`_]
 
   7)  **Adverbs of Result** – indicates the results of the action of the main verb.
@@ -145,7 +145,7 @@ e.	Adverbal Participles may be classified as:
 
         •  This category should only be chosen if the participles does not fit into any other category.
         •  A participle of attendant circumstances describes (1) an action that is dependent upon the main verb; (2) the emphasis is on the main verb; and, (3) the action described by the participle is simply incidental to the main verb.
-        •  Generally the participle will precede the main verb in both word order and time of the event, but not necessarily.  [ See `Example VP-E15 <https://ugg.readthedocs.io/en/latest/numeral_indeclinable.html>`_]
+        •  Generally the participle will precede the main verb in both word order and time of the event, but not necessarily.  [ See `Example VP-E15 <https://ugg.readthedocs.io/en/latest/mood_participle.html#vp-e15-example-of-adverbial-participle-attendant-circumstance>`_]
  
 
 
