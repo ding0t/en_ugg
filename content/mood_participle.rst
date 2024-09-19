@@ -71,7 +71,7 @@ Tense/Aspect
 
       a)  The *perfect tense* generally corresponds to action completed before the time of the main verb.
 
-      b)  The *aorist tense* is undefined, but may indicate action completed prior to the time of the main verb or contemporaneous with the time of the main verb.
+      b)  The *aorist tense* is undefined, but may indicate action completed prior to the time of the main verb or contemporaneous with the time of the main verb. [See `Example VP-3 and VP-3a <https://ugg.readthedocs.io/en/latest/mood_participle.html#vp-e3-example-of-aorist-participle-undefined-action>`_}
 
       c)  The *present tense* may be used to refer to action that is contemporaneous with the main verb or the future.  However, there are exceptions.  [ See `Example VP-E2 <https://ugg.readthedocs.io/en/latest/mood_participle.html#vp-e2-example-of-present-participle-undefined-action>`_]
 
@@ -1579,7 +1579,7 @@ VP-E3a Example of Aorist Participle contemporanous action
 
 In this example ἀποκριθεὶς is an aorist passive participle, yet the action is contemporaneous.  
 εἶπεν, the main verb, is in the aorist tense indicating undefined action.
-λέγων is a present active participle    
+λέγων is a present active participle.    
 
 .. csv-table:: Matthew 22:1
 
