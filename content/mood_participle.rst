@@ -1574,6 +1574,20 @@ VP-E3  Example of Aorist  Participle undefined action
 
 *“They do not have wine.”*
 
+VP-E3 Example of Aorist Participle contemporanous action
+~~~~~~~
+
+In this example ἀποκριθεὶς is an aorist passive participle, yet the action is contemporaneous.  
+εἶπεν, the main verb, is in the aorist tense indicating undefined action.
+λέγων is a present active participle    
+
+.. csv-table:: Matthew 22:1
+
+  καὶ,**ἀποκριθεὶς**,ὁ,Ἰησοῦς,πάλιν,εἶπεν,ἐν,παραβολαῖς,αὐτοῖς,λέγων
+  kai,**apokritheis**,ho,Iēsous,palin,eipen,en,parabolais,autois,legōn
+  and,**answering**,the,Jesus,again,he said,in,parables,to them,saying
+
+ *And* **answering**, *Jesus again spoke to them in parables, saying...* 
 
 VP-E4  Example of Perfect  Participle completed action
 ~~~~~
