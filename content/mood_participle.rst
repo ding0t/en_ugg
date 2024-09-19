@@ -128,9 +128,10 @@ e.	Adverbal Participles may be classified as:
     The causal since of the participle may be brought out by using the word “*because*” or “*since*”.
     The causal participle usually precedes the verb it modifies.  [See `Example VP-E10 <https://ugg.readthedocs.io/en/latest/mood_participle.html#table-vp-e-10>`_]
 
-  4)  **Adverbs of Condition** – describe a *condition* for which the fulfillment of the main verb depends. [See `Example VP-E11 <https://ugg.readthedocs.io/en/latest/mood_participle.html#vp-e11-example-of-adverbial-participle-adverbs-of-condition`>_]
+  4)  **Adverbs of Condition** – describe a *condition* for which the fulfillment of the main verb depends. [See `Example VP-E11 <https://ugg.readthedocs.io/en/latest/mood_participle.html#vp-e11-example-of-adverbial-participle-adverbs-of-condition>`_]
 
-  5)  **Adverbs of Concession**- are used when the action of the main verb is true or occurred even though the action of the participle were present.  The concessive tone of the participle can be conveyed with the words (*even though, although, in spite of, or despite*). [See Example VP-E12]
+  5)  **Adverbs of Concession**- are used when the action of the main verb is true or occurred even though the action of the participle were present.
+    The concessive tone of the participle can be conveyed with the words (*even though, although, in spite of, or despite*). [See `Example VP-E12 <https://ugg.readthedocs.io/en/latest/mood_participle.html#vp-e12-example-of-adverbial-participle-adverbs-of-concession>`_]
 
   6)  **Adverbs of Purpose** -  are used to indicate the *purpose* for a given action.  They express the *intent* of the person carrying out the action. It is similar to the adverb of cause in that both answer the question why?)  Adverbial participles of purpose can be translated with the phrase “*for the purpose of*” or as an infinitive.  [See Example VP-E13]
 
