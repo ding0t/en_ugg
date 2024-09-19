@@ -65,7 +65,7 @@ Tense/Aspect
 
       b)	*Undefined action* is reflected by use of the aorist tense stem  [See `Example VP-E3 <https://ugg.readthedocs.io/en/latest/mood_participle.html#vp-e3-example-of-aorist-participle-undefined-action>`_]
 
-      c)  *Completed action* is reflected by use of the aorist or perfect tense stem.  [See `Example VP-E4 <https://ugg.readthedocs.io/en/latest/mood_participle.html#vp-e4-example-of-perfect-participle-completed-action>`_]
+      c)  *Completed action* is reflected by use of the aorist or perfect tense stem.  [See `Example VP-E4 <https://ugg.readthedocs.io/en/latest/mood_participle.html#vp-e4-example-of-perfect-participle-completed-action>`_ and `Example VP-E5 <https://ugg.readthedocs.io/en/latest/mood_participle.html#vp-e4-example-of-perfect-participle-completed-action>`_.]
 
   2)	**Time** – As a Verbal-adjective, the time of the action is relative to the time of the main verb.  Therefore:
 
