@@ -92,7 +92,8 @@ In this sense, they qualify or limit the noun.  Like other adjectives the partic
 		If it is being used as a noun (substantive use), it will be in the case that a noun would be.  If it is functioning as the subject of the sentence, 
 		it will be in the nominative case.  If it is functioning as the direct object of the verb, it will be in the accusative case.  
 
-        If the participle is being used as a noun there will probably not be another noun in the sentence that agrees with the participle in case, number, and gender unless it is part of a series.  [See Example VP-E7]
+        If the participle is being used as a noun there will probably not be another noun in the sentence that agrees with the participle in case,
+        number, and gender unless it is part of a series.  [See `Example VP-E7 <https://ugg.readthedocs.io/en/latest/mood_participle.html#vp-e6-example-of-participle-attributive-use>`_]
 
         If a definite article precedes the participle, the emphasis of the participle is adjectival.   
 		
@@ -114,7 +115,7 @@ d.	Even though it is adverbial, it will still agree with a related noun in case 
 
 e.	Adverbal Participles may be classified as:
 
-  1)  **Temporal Adverbs** – Adverbal participles are often translated temporally with the use of the helping word (*while*- present tense , or *after* -aorist, imperfect, perfect, or pluperfect tense).   If the participle is in the  imperfect tense continuous action is implied.   This is also often the case with the present tense.   Therefore a translation of *while making*, or *before making* may be appropriate to reflect the continuous nature of the action.  Temporal participles answer the question of “*When*?” for the verb it is modifying. [ See Example VP-E8]
+  1)  **Temporal Adverbs** – Adverbal participles are often translated temporally with the use of the helping word (*while*- present tense , or *after* -aorist, imperfect, perfect, or pluperfect tense).   If the participle is in the  imperfect tense continuous action is implied.   This is also often the case with the present tense.   Therefore a translation of *while making*, or *before making* may be appropriate to reflect the continuous nature of the action.  Temporal participles answer the question of “*When*?” for the verb it is modifying. [ See `Example VP-E8 <https://ugg.readthedocs.io/en/latest/mood_participle.html#vp-e8-example-of-adverbial-participle-temporal-use>`_]
 
   2)  **Adverbs of Manner (or Means)**- A participle may describe the *manner* or the *means* by which an action is carried out.   They answer the question, *How*. As such it could reflect an emotion or attitude or how the action was carried out.  In this case, the time of the participle is usually contemporaneous with the main verb (present tense or sometimes aorist tense).   It usually follows the main verb.  [See Example VP-E9]
 
