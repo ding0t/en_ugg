@@ -75,7 +75,7 @@ Tense/Aspect
 
       c)  The *present tense* may be used to refer to action that is contemporaneous with the main verb or the future.  However, there are exceptions.  [ See `Example VP-E2 <https://ugg.readthedocs.io/en/latest/mood_participle.html#vp-e2-example-of-present-participle-undefined-action>`_]
 
-      d)  The *future tense* refers to action that occurs after the time of the main verb. [ see example VP-E5]
+      d)  The *future tense* refers to action that occurs after the time of the main verb. [ see `Example VP-E5 <https://ugg.readthedocs.io/en/latest/mood_participle.html#vp-e5-example-of-future-participle>`_]
 
       
 Adjectival Usage -  Participles may be used to modify a noun or a pronoun.
@@ -86,7 +86,7 @@ In this sense, they qualify or limit the noun.  Like other adjectives the partic
   1)  The Participle will **agree** with the noun that it is modifying in **case, number, and gender.**
 
   		a)  **Attributive**  – The attributive use refers to a participle that is used to modify a noun or pronoun.  
-		It is “attributing” some characteristic to the noun or pronoun that makes it distinctive, by assigning some quality or characteristic to the noun.  [See Example VP-E6]
+		It is “attributing” some characteristic to the noun or pronoun that makes it distinctive, by assigning some quality or characteristic to the noun.  [See `Example VP-E6 <https://ugg.readthedocs.io/en/latest/mood_participle.html#vp-e6-example-of-participle-attributive-use>`_]
 
 		b)  **Substantive** - Participles may also be used in place of a noun just like any other adjective.  
 		If it is being used as a noun (substantive use), it will be in the case that a noun would be.  If it is functioning as the subject of the sentence, 
