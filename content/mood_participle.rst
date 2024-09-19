@@ -115,8 +115,7 @@ d.	Even though it is adverbial, it will still agree with a related noun in case 
 
 e.	Adverbal Participles may be classified as:
 
-  1)  **Temporal Adverbs** – Adverbal participles are often translated temporally with the use of the helping word (*while*- present tense ,
-   or *after* -aorist, imperfect, perfect, or pluperfect tense).   If the participle is in the  imperfect tense continuous action is implied.
+  1)  **Temporal Adverbs** – Adverbal participles are often translated temporally with the use of the helping word (*while*- present tense, or *after* -aorist, imperfect, perfect, or pluperfect tense).   If the participle is in the  imperfect tense continuous action is implied.
    This is also often the case with the present tense.   Therefore a translation of *while making*, or *before making* may be appropriate to reflect
    the continuous nature of the action.  Temporal participles answer the question of “*When*?” for the verb it is modifying. [ See `Example VP-E8 <https://ugg.readthedocs.io/en/latest/mood_participle.html#vp-e8-example-of-adverbial-participle-temporal-use>`_]
 
@@ -125,9 +124,11 @@ e.	Adverbal Participles may be classified as:
   the time of the participle is usually contemporaneous with the main verb (present tense or sometimes aorist tense).   
   It usually follows the main verb.  [See `Example VP-E9 <https://ugg.readthedocs.io/en/latest/mood_participle.html#vp-e9-example-of-adverbial-participle-adverbs-of-manner-or-means>`_ ,]
 
-  3)  **Adverbs of Cause** – indicates the reason or cause for the action of the participle.   It answers the question (*Why*?)  The causal since of the participle may be brought out by using the word “*because*” or “*since*”.  The causal participle usually precedes the verb it modifies.  [See Example VP-E10]
+  3)  **Adverbs of Cause** – indicates the reason or cause for the action of the participle.   It answers the question (*Why*?)
+    The causal since of the participle may be brought out by using the word “*because*” or “*since*”.
+    The causal participle usually precedes the verb it modifies.  [See `Example VP-E10 <https://ugg.readthedocs.io/en/latest/mood_participle.html#table-vp-e-10>`_]
 
-  4)  **Adverbs of Condition** – describe a *condition* for which the fulfillment of the main verb depends. [See Example VP-E11]
+  4)  **Adverbs of Condition** – describe a *condition* for which the fulfillment of the main verb depends. [See `Example VP-E11 <https://ugg.readthedocs.io/en/latest/mood_participle.html#vp-e11-example-of-adverbial-participle-adverbs-of-condition`>_]
 
   5)  **Adverbs of Concession**- are used when the action of the main verb is true or occurred even though the action of the participle were present.  The concessive tone of the participle can be conveyed with the words (*even though, although, in spite of, or despite*). [See Example VP-E12]
 
