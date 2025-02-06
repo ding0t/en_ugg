@@ -91,6 +91,8 @@ There are only 5 Perfect imperatives that occur in the New Testament.
   *  ἔρρωσθε – Perfect Passive Imperative second person plural – may you all fare well or (May it go well with you) or may you all be strong – typical closing for a letter.
   *  ἴστε –  (occurs three times) Perfect Active Imperative second person plural – know! (know this and know it for sure!)
 
+Imperative Morpheme Chart
+^^^^^
 
 .. raw:: html
 
@@ -151,11 +153,13 @@ There are only 5 Perfect imperatives that occur in the New Testament.
     </tbody></table></br>
 
 
-Note:   The Second Singular imperative forms are irregular and will have to be learned for each verb or identified through the use of a lexicon.
+**Note:**   The Second Singular imperative forms are irregular and will have to be learned for each verb or identified through the use of a lexicon.
 
 
 
-Table V-IM-3 Formation of the Present Active Imperative Verb
+Table V-IM-3 Formation of Present Active Imperative Verb
+^^^^^
+
 The Present Active Imperative Verb is formed by using the 1) Present Tense Stem and 2) adding a Connecting Vowel plus 3) the appropriate Imperative morpheme.
 Table V-IM-3
 Present Active Imperative Verb
