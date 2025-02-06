@@ -92,17 +92,69 @@ There are only 5 Perfect imperatives that occur in the New Testament.
   *  ἴστε –  (occurs three times) Perfect Active Imperative second person plural – know! (know this and know it for sure!)
 
 
-Imperative Morpheme Chart  V- IM-2
-	Present Active,
-Aorist Active, and
-Aorist Passive	Middle/passive
-Single		
-2nd person	Irregular	Irregular
-3rd person	τω	σθω
-Plural		
-2nd person	τε	σθε
-3rd person	τωσαν	σθωσαν
+.. raw:; html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
+    .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-6qw1{background-color:#c0c0c0;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-7btt" colspan="3">Imperative Morpheme Chart<br>V-IM-2</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-0lax"></td>
+        <td class="tg-1wig">Present Active,<br>Aorist Active, and<br>Aorist Passive</td>
+        <td class="tg-1wig">Middle/Passive</td>
+      </tr>
+      <tr>
+        <td class="tg-baqh"><span style="font-weight:bold">Single</span></td>
+        <td class="tg-y6fn"></td>
+        <td class="tg-y6fn"></td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">2nd Person</td>
+        <td class="tg-baqh">Irregular</td>
+        <td class="tg-baqh">Irregular</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">3rd Person</td>
+        <td class="tg-baqh">τω</td>
+        <td class="tg-baqh">σθω</td>
+      </tr>
+      <tr>
+        <td class="tg-amwm">Plural</td>
+        <td class="tg-6qw1"></td>
+        <td class="tg-6qw1"></td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">2nd Person</td>
+        <td class="tg-baqh">τε</td>
+        <td class="tg-baqh">σθε</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">3rd Person</td>
+        <td class="tg-baqh">τωσαν</td>
+        <td class="tg-baqh">σθωσαν</td>
+      </tr>
+    </tbody></table></br>
+
+
 Note:   The Second Singular imperative forms are irregular and will have to be learned for each verb or identified through the use of a lexicon.
+
+
+
 Table V-IM-3 Formation of the Present Active Imperative Verb
 The Present Active Imperative Verb is formed by using the 1) Present Tense Stem and 2) adding a Connecting Vowel plus 3) the appropriate Imperative morpheme.
 Table V-IM-3
