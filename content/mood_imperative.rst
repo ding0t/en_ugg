@@ -57,7 +57,7 @@ The English language limits the use of the imperative to the second person.  How
 
 Because the Imperative mood expresses the intention of the speaker it always implies something that will incur in the future.  The time is therefore future.  Imperative verbs in the aorist tense are used to express action as a whole.  It does not speak to the duration, repetition, or continuity of the action.   [See Example V-IM-12]
 
-Present imperative refers to action that is to be repeated or continuous in nature.  [See Example V-IM-12a]
+Present imperative verbs refers to action that is to be repeated or continuous in nature.  [See Example V-IM-12a]
 
 Verbs in the imperative mood occur 1,877 times in the New Testament.
 
@@ -86,9 +86,12 @@ The basic form for a verb in the imperative mood is given in:
   *  Table V-MT-3 Aorist Passive Imperative verbs
 
 There are only 5 Perfect imperatives that occur in the New Testament.
-	πεφίμωσο – Perfect Passive Imperative second person singular – let it be quiet
-ἔρρωσθε – Perfect Passive Imperative second person plural – may you all fare well or (May it go well with you) or may you all be strong – typical closing for a letter.
-ἴστε –  (occurs three times) Perfect Active Imperative second person plural – know! (know this and know it for sure!)
+
+  *  πεφίμωσο – Perfect Passive Imperative second person singular – let it be quiet
+  *  ἔρρωσθε – Perfect Passive Imperative second person plural – may you all fare well or (May it go well with you) or may you all be strong – typical closing for a letter.
+  *  ἴστε –  (occurs three times) Perfect Active Imperative second person plural – know! (know this and know it for sure!)
+
+
 Imperative Morpheme Chart  V- IM-2
 	Present Active,
 Aorist Active, and
