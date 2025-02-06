@@ -29,6 +29,9 @@ Example V-IM- 1
 Article
 -------
 
+Overview
+~~~~~~~~
+
 The mood of a verb represents its relation to reality as portrayed by the speaker. An action (or an event) can be presented as being 1) real, or 2) potential.
 
 
@@ -54,7 +57,7 @@ The English language limits the use of the imperative to the second person.  How
 
 Because the Imperative mood expresses the intention of the speaker it always implies something that will incur in the future.  The time is therefore future.  Imperative verbs in the aorist tense are used to express action as a whole.  It does not speak to the duration, repetition, or continuity of the action.   [See Example V-IM-12]
 
-The present imperative refers to action that is to be repeated or continuous in nature.  [See Example V-IM-12a]
+Present imperative refers to action that is to be repeated or continuous in nature.  [See Example V-IM-12a]
 
 Verbs in the imperative mood occur 1,877 times in the New Testament.
 
@@ -63,21 +66,25 @@ Imperatives may also be used as a prohibition and as such are preceded with the 
 
 There are six ways to say no in the Greek. [ See Example V-IM-17]
 
-1.	Οὐ plus the indicative – simple negation
-2.	μή  plus an aorist imperative  - simple prohibition
-3.	μή plus a present imperative – continually prohibits and action
-4.	μή plus aorist subjunctive – stronger negation than option 1.
-5.	οὐ μή  -  no never – strongest way to say no
-6.	μή plus the optative mood – a negative wish… may it never be.
+  1.  Οὐ plus the indicative – simple negation
+  2.  μή  plus an aorist imperative  - simple prohibition
+  3.  μή plus a present imperative – continually prohibits and action
+  4.  μή plus aorist subjunctive – stronger negation than option 1.
+  5.  οὐ μή  -  no never – strongest way to say no
+  6.  μή plus the optative mood – a negative wish… may it never be.
 
 
 Form:
+~~~~
+
 The basic form for a verb in the imperative mood is given in:
-•	Table V-MT-1a Active Imperative Verbs (Thematic Uncontracted)
-•	Table V-MT-1b Present Active Imperative Verbs (Thematic contracted) 
-•	Table V-MT-2a Middle/Passive uncontracted verbs¶
-•	Table V-MT-2b Present Middle/Passive Contracted verbs
-•	Table V-MT-3 Aorist Passive Imperative verbs
+
+  *  Table V-MT-1a Active Imperative Verbs (Thematic Uncontracted)
+  *  Table V-MT-1b Present Active Imperative Verbs (Thematic contracted) 
+  *  Table V-MT-2a Middle/Passive uncontracted verbs¶
+  *  Table V-MT-2b Present Middle/Passive Contracted verbs
+  *  Table V-MT-3 Aorist Passive Imperative verbs
+
 There are only 5 Perfect imperatives that occur in the New Testament.
 	πεφίμωσο – Perfect Passive Imperative second person singular – let it be quiet
 ἔρρωσθε – Perfect Passive Imperative second person plural – may you all fare well or (May it go well with you) or may you all be strong – typical closing for a letter.
