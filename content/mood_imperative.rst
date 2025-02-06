@@ -92,7 +92,7 @@ There are only 5 Perfect imperatives that occur in the New Testament.
   *  ἴστε –  (occurs three times) Perfect Active Imperative second person plural – know! (know this and know it for sure!)
 
 
-.. raw:; html
+.. raw:: html
 
     <style type="text/css">
     .tg  {border-collapse:collapse;border-spacing:0;}
