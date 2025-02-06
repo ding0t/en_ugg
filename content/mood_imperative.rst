@@ -32,24 +32,22 @@ Article
 The mood of a verb represents its relation to reality as portrayed by the speaker. An action (or an event) can be presented as being 1) real, or 2) potential.
 
 
-  *	 If the action is being portrayed as real (or actual), the indicative mood will be used. This is the most frequent mood used in the New Testament and it occurs 15,643 times.
-  * 	The Subjunctive Mood is used to portray an action that is probable or desired.
-  * 	The degree of reality is further removed with the Optative mood is used to portray and action that is possible.   
+  *	 If the action is being portrayed as real (or actual), the *Indicative* mood will be used. This is the most frequent mood used in the New Testament and it occurs 15,643 times.
+  * 	The *Subjunctive* mood is used to portray an action that is probable or desired.
+  * 	The degree of reality is further removed when the *Optative* mood is used to portray and action that is possible.   
 
-The Imperative mood is the mood of intention.  It expresses the intention of the speaker rather than the reality of an event.  
+The **Imperative** mood is the mood of intention.  It expresses the intention of the speaker rather than the reality of an event.  
 The event may happen or not happen.  It is an appeal from the will (the intention) of the speaker to the will of the hearer.  
 As such it includes commands, orders, directions, prayers, and requests.
 
 It is therefore used:
 
   1.	When a superior commands or orders a subordinate to carry out a specific action.  [See Example V-IM-12]
-
     a.	This force may be reduced to directing someone to do something. [See Example V-IM-13]
-
   2.	It may be directed to a superior, when there is an expectation that the request is something that the superior would grant.  [See Example V-IM-14]
    
-  3.	Prayers and petitions to a superior are often expressed in the imperative mood, with the understanding that the superior is still sovereign.  
-    In this sense, it becomes more of a request or a request that can be expected to be answered in the affirmative because it is something the superior would be expected to normally grant. [ See Example V-IM-15]
+  3.	Prayers and petitions to a superior are often expressed in the imperative mood, with the understanding that the superior is still sovereign.
+  In this sense, it becomes more of a request or a request that can be expected to be answered in the affirmative because it is something the superior would be expected to normally grant. [ See Example V-IM-15]
 
 The English language limits the use of the imperative to the second person.  However, third person singular and third person plural imperatives occur in the New Testament.  Third person imperatives are generally translated as “Let us”, “Let them”, “Let him”, or “Let her”.   This does not decrease the force of the imperative. It is still an imperative and should be understood as an imperative.  [See Example V-IM-16]
 
