@@ -104,7 +104,7 @@ Imperative Morpheme Chart
       font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
     .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
     .tg .tg-baqh{text-align:center;vertical-align:top}
-    .tg .tg-7btt{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-7btt{background-color:#fcff2f;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
     .tg .tg-0lax{text-align:left;vertical-align:top}
     .tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
     .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
