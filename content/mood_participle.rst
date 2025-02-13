@@ -2,7 +2,7 @@
 
 .. _mood_participle:
 
-Mood participle  [UNDER CONSTRUCTION]
+Mood participle  
 ===============
 
 Glossary
