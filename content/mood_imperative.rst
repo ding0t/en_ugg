@@ -2,7 +2,7 @@
 
 .. _mood_imperative:
 
-Mood imperative
+Mood imperative  [U N D E R    C O N S T R U C T I O N]
 ===============
 
 Glossary
@@ -26,7 +26,7 @@ Example V-IM- 1
 
 
 
-Article
+Article [ U N D E R     C O N S T R U C T I O N ]
 -------
 
 Overview
@@ -160,13 +160,58 @@ Imperative Morpheme Chart
 Table V-IM-3 Formation of Present Active Imperative Verb
 ^^^^^
 
-The Present Active Imperative Verb is formed by using the 1) Present Tense Stem and 2) adding a Connecting Vowel plus 3) the appropriate Imperative morpheme.
-Table V-IM-3
-Present Active Imperative Verb
-Present Tense Stem	+	Connecting Vowel	+	Imperative Morpheme		
-λυ	+	ε	+	τω	->	λυέτω
-Let him loose (them)
-Note: by using the present tense, there is an implication to be continually loosing (or freeing) them. 
+The Present Active Imperative Verb is formed by using:
+
+the 1) Present Tense Stem and 2) adding a Connecting Vowel plus 3) the appropriate Imperative morpheme.
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-abx8{background-color:#c0c0c0;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-fcno{background-color:#fcff2f;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-6v43{background-color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-7g6k{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-82fe{border-color:inherit;font-size:100%;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-fcno" colspan="7">Table V-IM-3<br>Present Active Imperative Verb</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-7g6k">Present<br>Tense<br>Stem</td>
+        <td class="tg-7g6k">+</td>
+        <td class="tg-7g6k">Connecting<br>Vowel</td>
+        <td class="tg-7g6k">+</td>
+        <td class="tg-6v43">Imperative<br>Morpheme</td>
+        <td class="tg-abx8"></td>
+        <td class="tg-abx8"></td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">λυ</td>
+        <td class="tg-82fe">+</td>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-c3ow"><span style="font-weight:bold">+</span></td>
+        <td class="tg-baqh">τω</td>
+        <td class="tg-amwm">-&gt;</td>
+        <td class="tg-baqh">λυέτω</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow" colspan="7"><span style="font-style:italic">Let him loose&nbsp;&nbsp;(them)</span></td>
+      </tr>
+    </tbody>
+    </table></br>
+
+[**Note**]: by using the present tense, there is an implication to be continually loosing (or freeing) them. 
 
 
 V-IM-3a
