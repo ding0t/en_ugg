@@ -530,8 +530,63 @@ Plural
 
 
 Table V-IM-8  Formation of the Second Aorist  Middle  Imperative Verb
-The 2nd Aorist Middle Imperative Verb is formed just like the Present Tense Middle/Passive Imperative Verb.  The only difference is the use of the 2nd Aorist tense formative.  There is no Aorist tense formative because the use of the 2nd aorist tense stem serves to notify the reader that this is an aorist verb.  
-It is therefore formed by using 1) the un-augmented 2nd Aorist Tense Stem, and 2) adding a connecting vowel, and 3) the appropriate Imperative Morpheme.
+^^^^^
+
+The 2nd Aorist Middle Imperative Verb is formed just like the Present Tense Middle/Passive Imperative Verb.
+The only difference is the use of the 2nd Aorist tense formative.  
+There is no Aorist tense formative because the use of the 2nd aorist tense stem serves to notify the reader that this is an aorist verb.
+
+The Second Aorist Middle Imperative verb is therefore formed by using:
+
+  1) the un-augmented 2nd Aorist Tense Stem, and 2) adding a connecting vowel, and 3) the appropriate Imperative Morpheme.
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-abx8{background-color:#c0c0c0;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-fcno{background-color:#fcff2f;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-6v43{background-color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-7g6k{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-82fe{border-color:inherit;font-size:100%;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-fcno" colspan="7"><span style="font-weight:bold">Table V-IM-8</span><br><span style="font-weight:bold;color:#343434">Formation of the</span><br><span style="font-weight:bold;color:#343434">2nd Aorist Middle Imperative Ver8</span></th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-7g6k">Unaugmented<br>2nd Aorist<br>Tense Stem</td>
+        <td class="tg-7g6k">+</td>
+        <td class="tg-7g6k">Connecting<br>Vowel</td>
+        <td class="tg-7g6k">+</td>
+        <td class="tg-6v43">Imperative<br>Middle<br>Morpheme</td>
+        <td class="tg-abx8"></td>
+        <td class="tg-abx8"></td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">γεν</td>
+        <td class="tg-82fe">+</td>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-c3ow"><span style="font-weight:bold">+</span></td>
+        <td class="tg-baqh">σθω</td>
+        <td class="tg-amwm">-&gt;</td>
+        <td class="tg-baqh">γενέσθω</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow" colspan="7"><span style="font-style:italic">Let him become!</span></td>
+      </tr>
+    </tbody></table></br>
+
+
 Table V-IM-8
 2nd Aorist Middle Imperative Verb
 Un-augmented 2nd Aorist Tense Stem	+	Connecting Vowel	+	Imperative Morpheme		
