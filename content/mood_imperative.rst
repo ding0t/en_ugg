@@ -2,7 +2,7 @@
 
 .. _mood_imperative:
 
-Mood imperative  [U N D E R    C O N S T R U C T I O N]
+Mood imperative  <style="color:#FE0000">[U N D E R    C O N S T R U C T I O N]
 ===============
 
 Glossary
