@@ -225,6 +225,55 @@ Plural
 [*  Note:]  The Second Person plural λύετε is the same form for both the Second Person plural indicative and the Second Person plural imperative. The translator must make a decision as to if it is to be interpreted as an indicative or imperative verb based on the context.  [See example XXX below.]
 
 Table V-IM-4  Formation of the 1st Aorist Active Imperative Verb
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-abx8{background-color:#c0c0c0;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-fcno{background-color:#fcff2f;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-6v43{background-color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-7g6k{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-82fe{border-color:inherit;font-size:100%;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-fcno" colspan="7"><span style="font-weight:bold">Table V-IM-4</span><br><span style="font-weight:bold;color:#343434">1st Aorist Active Imperative Verb</span></th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-7g6k">Unaugmented<br>Aorist Tense<br>Stem</td>
+        <td class="tg-7g6k">+</td>
+        <td class="tg-7g6k">Tense <br>Formative</td>
+        <td class="tg-7g6k">+</td>
+        <td class="tg-6v43">Imperative<br>Morpheme</td>
+        <td class="tg-abx8"></td>
+        <td class="tg-abx8"></td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">λυ</td>
+        <td class="tg-82fe">+</td>
+        <td class="tg-c3ow">σα</td>
+        <td class="tg-c3ow"><span style="font-weight:bold">+</span></td>
+        <td class="tg-baqh">τω</td>
+        <td class="tg-amwm">-&gt;</td>
+        <td class="tg-baqh">λυσάτω</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow" colspan="7"><span style="font-style:italic">Let him loose&nbsp;&nbsp;(them)</span></td>
+      </tr>
+    </tbody>
+    </table></br>
+
+
 The Aorist Active Imperative Verb is formed by using 1) the un-augmented Aorist Tense Stem, and 2) adding the aorist tense formative (σα), and 3) the appropriate Imperative Morpheme.
 
 Table V-IM-4
