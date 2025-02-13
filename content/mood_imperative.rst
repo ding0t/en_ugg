@@ -560,7 +560,7 @@ The Second Aorist Middle Imperative verb is therefore formed by using:
     </style>
     <table class="tg"><thead>
       <tr>
-        <th class="tg-fcno" colspan="7"><span style="font-weight:bold">Table V-IM-8</span><br><span style="font-weight:bold;color:#343434">Formation of the</span><br><span style="font-weight:bold;color:#343434">2nd Aorist Middle Imperative Ver8</span></th>
+        <th class="tg-fcno" colspan="7"><span style="font-weight:bold">Table V-IM-8</span><br><span style="font-weight:bold;color:#343434">Formation of the</span><br><span style="font-weight:bold;color:#343434">2nd Aorist Middle Imperative Verb</span></th>
       </tr></thead>
     <tbody>
       <tr>
@@ -627,7 +627,7 @@ The First Aorist Passive Imperative verb is formed with:
     </style>
     <table class="tg"><thead>
       <tr>
-        <th class="tg-fcno" colspan="7"><span style="font-weight:bold">Table V-IM-9</span><br><span style="font-weight:bold;color:#343434">Formation of the</span><br><span style="font-weight:bold;color:#343434">First Aorist Passive Imperative Ver8</span></th>
+        <th class="tg-fcno" colspan="7"><span style="font-weight:bold">Table V-IM-9</span><br><span style="font-weight:bold;color:#343434">Formation of the</span><br><span style="font-weight:bold;color:#343434">First Aorist Passive Imperative Verb</span></th>
       </tr></thead>
     <tbody>
       <tr>
@@ -667,14 +667,64 @@ Plural
 3 Person	λυθήτωσαν	Let them loosed! 
 
 Table V-IM-10 Formation of the Second Aorist Passive Imperative Verb
-The Second Aorist Passive Imperative verb is formed with the un-augmented Second aorist tense stem plus + the Tense Formative (η) + Imperative Active (and Aorist passive) morpheme.  As we saw with First and Second Aorist passive verbs the Theta (θ) is dropped from the tense formative θη and become just η.  Second Aorist Passive Imperatives are rare in the New Testament.   There are only 80 Aorist Passive Imperatives and most are 1st Aorist.  There are less than 10 Second Aorist Passive Imperative verbs in the New Testament. 
-Table V-IM-10
-Formation of the Second Aorist Passive Imperative Verb
-2nd Aorist Tense Stem	+	Tense
-Formative	+	Imperative Active/Passive
-Morpheme		
-αποστραφ	+	η	+	τι	->	ἀποστράφητι
-Be turned back/ Return!
+^^^^^
+
+ The Second Aorist Passive Imperative verb is formed with:
+  1) the un-augmented Second Aorist tense stem plus + 2) the Tense Formative (η) + 3) Imperative Active (and Aorist Passive) morpheme. 
+  
+  As we saw with First and Second Aorist passive verbs the Theta (θ) is dropped from the tense formative θη and becomes just η.  
+  Second Aorist Passive Imperatives are rare in the New Testament.   There are only 80 Aorist Passive Imperatives and most are 1st Aorist.  
+  There are less than 10 Second Aorist Passive Imperative verbs in the New Testament. 
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-abx8{background-color:#c0c0c0;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-fcno{background-color:#fcff2f;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-6v43{background-color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-7g6k{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-82fe{border-color:inherit;font-size:100%;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-fcno" colspan="7"><span style="font-weight:bold">Table V-IM-10</span><br><span style="font-weight:bold;color:#343434">Formation of the</span><br><span style="font-weight:bold;color:#343434">Second Aorist Passive Imperative Verb</span></th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-7g6k">Unaugmented<br>2nd Aorist<br>Tense Stem</td>
+        <td class="tg-7g6k">+</td>
+        <td class="tg-7g6k">Tense<br>Formative</td>
+        <td class="tg-7g6k">+</td>
+        <td class="tg-6v43">Imperative<br>Active &amp; Aorist Passive<br>Morpheme</td>
+        <td class="tg-abx8"></td>
+        <td class="tg-abx8"></td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf">αποστραφ</td>
+        <td class="tg-82fe">+</td>
+        <td class="tg-c3ow">η</td>
+        <td class="tg-c3ow"><span style="font-weight:bold">+</span></td>
+        <td class="tg-baqh">τι</td>
+        <td class="tg-amwm">-&gt;</td>
+        <td class="tg-baqh">ἀποστράφητι</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow" colspan="7"><span style="font-style:italic">Be turned back1 / Return!</span></td>
+      </tr>
+    </tbody></table></br>
+
+
+
+
 V-IM-10a
 2nd Aorist Passive Imperative Verb
 Single		
