@@ -486,7 +486,7 @@ The First Aorist Middle Imperative is formed with:
       </tr></thead>
     <tbody>
       <tr>
-        <td class="tg-7g6k">Unaugmented<br>Aorist<br>Tense<br>Stem</td>
+        <td class="tg-7g6k">Unaugmented<br>Aorist Tense<br>Stem</td>
         <td class="tg-7g6k">+</td>
         <td class="tg-7g6k">Tense<br>Formative</td>
         <td class="tg-7g6k">+</td>
