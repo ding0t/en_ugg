@@ -214,15 +214,67 @@ the 1) Present Tense Stem and 2) adding a Connecting Vowel plus 3) the appropria
 [**Note**]: by using the present tense, there is an implication to be continually loosing (or freeing) them. 
 
 
-V-IM-3a
-Present Active Imperative Verb
-Single		
-2 Person	λῦε	You loose!
-3 Person	λυέτω	Let him loose!
-Plural		
-2 Person	λὐετε *	You (all) loose!
-3 Person	λυέτωσαν	Let them loose!
-[*  Note:]  The Second Person plural λύετε is the same form for both the Second Person plural indicative and the Second Person plural imperative. The translator must make a decision as to if it is to be interpreted as an indicative or imperative verb based on the context.  [See example XXX below.]
+V-IM-3a Present Active Imperative Verb
+^^^^^
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-btz9{background-color:#fcff2f;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-btz9" colspan="3">V-IM-3a<br>Present Active Imperative Verb</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-3xi5"><span style="font-weight:bold">Single</span></td>
+        <td class="tg-zlqz"></td>
+        <td class="tg-zlqz"></td>
+      </tr>
+      <tr>
+        <td class="tg-baqh">2 Person</td>
+        <td class="tg-0lax">λῦε</td>
+        <td class="tg-0lax">You loose!</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3 Person</td>
+        <td class="tg-0pky">λυέτω</td>
+        <td class="tg-0pky">Let him loose!</td>
+      </tr>
+      <tr>
+        <td class="tg-1wig">Plural</td>
+        <td class="tg-y6fn"></td>
+        <td class="tg-y6fn"></td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">2 Person</td>
+        <td class="tg-0lax">λυέτε&nbsp;&nbsp;*</td>
+        <td class="tg-0lax">You (all) loose!</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">3 Person</td>
+        <td class="tg-0lax">λυέτωσαν</td>
+        <td class="tg-0lax">Let them loose!</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+
+[*  Note:]  The Second Person plural λύετε is the same form for both the Second Person plural indicative and the Second Person plural imperative. 
+The translator must make a decision as to if it is to be interpreted as an indicative or imperative verb based on the context.  [See example XXX below.]
 
 Table V-IM-4  Formation of the 1st Aorist Active Imperative Verb
 ^^^^^^^^^^^
