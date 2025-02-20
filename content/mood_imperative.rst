@@ -392,8 +392,7 @@ V-IM-4a 1st Aorist Active Imperative Verb
 [Note:]
   *  With the aorist tense there is no implication of repeated action.
   
-  **  The Second Person plural λύσατε is the same form for both the Second Person plural indicative and the Second Person plural imperative.
-   The translator must make a decision as to if it is to be interpreted as an indicative or imperative verb based on the context.  [See example XXX below.]
+  **    The Second Person plural λύσατε is the same form for both the Second Person plural indicative and the Second Person plural imperative. The translator must make a decision as to if it is to be interpreted as an indicative or imperative verb based on the context.  [See example XXX below.]
 
 
 Table V-IM-5  Formation of the 2nd Aorist Active Imperative Verb
@@ -455,22 +454,67 @@ It is therefore formed by using:
     </table></br>
 
 
+V-IM-5a 2nd  Aorist Active Imperative Verb
+^^^^^
 
-Table V-IM-5
-2nd  Aorist Active Imperative Verb
-Unaugmented 2nd Aorist Tense Stem	+	Connecting Vowel	+	Imperative Morpheme		
-λαβ	+	ε	+	τω	->	λαβέτω
-Let him take or receive (it)!
+.. raw:: html
 
-V-IM-5a
-2nd  Aorist Active Imperative Verb
-Single		
-2 Person	λάβε	Receive it!
-3 Person	λαβέτω	Let him receive it!
-Plural		
-2 Person	λαβέτε	You(all) receive it!
-3 Person	λαβέτωσαν	Let them receive it!
-[*  Note:]  The Second Person plural λαβέτε is the same form for both the Second Person plural indicative and the Second Person plural imperative. The translator must make a decision as to if it is to be interpreted as an indicative or imperative verb based on the context.  [See example XXX below.]
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-btz9{background-color:#fcff2f;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-btz9" colspan="3">V-IM-5a<br>2ndt Aorist* Active Imperative Verb</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-3xi5"><span style="font-weight:bold">Single</span></td>
+        <td class="tg-zlqz"></td>
+        <td class="tg-zlqz"></td>
+      </tr>
+      <tr>
+        <td class="tg-baqh">2 Person</td>
+        <td class="tg-0lax">λάβε</td>
+        <td class="tg-0lax">You receive (it)!</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3 Person</td>
+        <td class="tg-0pky">λαβέτω</td>
+        <td class="tg-0pky">Let him receive (it)!</td>
+      </tr>
+      <tr>
+        <td class="tg-1wig">Plural</td>
+        <td class="tg-y6fn"></td>
+        <td class="tg-y6fn"></td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">2 Person</td>
+        <td class="tg-0lax">λαβέτε *</td>
+        <td class="tg-0lax">You (all) receive (it)!</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">3 Person</td>
+        <td class="tg-0lax">λαβέτωσαν</td>
+        <td class="tg-0lax">Let them receive (it)!</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+
+[*  Note:]  The Second Person plural λαβέτε is the same form for both the Second Person plural indicative and the Second Person plural imperative.
+The translator must make a decision as to if it is to be interpreted as an indicative or imperative verb based on the context.  [See example XXX below.]
 
 
 
