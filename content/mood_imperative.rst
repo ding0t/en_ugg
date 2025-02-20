@@ -281,7 +281,7 @@ Table V-IM-4  Formation of the 1st Aorist Active Imperative Verb
 
 The Aorist Active Imperative Verb is formed by using:
 
-1) the un-augmented Aorist Tense Stem, and 2) adding the aorist tense formative (σα), and 3) the appropriate Imperative Morpheme.
+  1) the un-augmented Aorist Tense Stem, and 2) adding the aorist tense formative (σα), and 3) the appropriate Imperative Morpheme.
 
 .. raw:: html
 
@@ -331,25 +331,70 @@ The Aorist Active Imperative Verb is formed by using:
     </table></br>
 
 
+V-IM-4a 1st Aorist Active Imperative Verb
+^^^^^
 
+.. raw:: html
 
-Table V-IM-4
-1st Aorist Active Imperative Verb
-Unaugmented Aorist Tense Stem	+	Tense
-Formative	+	Imperative Morpheme		
-λυ	+	σα	+	τω	->	λυέτω
-Let him loose (them)
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-btz9{background-color:#fcff2f;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-btz9" colspan="3">V-IM-4a<br>1st Aorist* Active Imperative Verb</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-3xi5"><span style="font-weight:bold">Single</span></td>
+        <td class="tg-zlqz"></td>
+        <td class="tg-zlqz"></td>
+      </tr>
+      <tr>
+        <td class="tg-baqh">2 Person</td>
+        <td class="tg-0lax">λῦσον</td>
+        <td class="tg-0lax">You loose!</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3 Person</td>
+        <td class="tg-0pky">λυσάτω</td>
+        <td class="tg-0pky">Let him loose!</td>
+      </tr>
+      <tr>
+        <td class="tg-1wig">Plural</td>
+        <td class="tg-y6fn"></td>
+        <td class="tg-y6fn"></td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">2 Person</td>
+        <td class="tg-0lax">λύσατε **</td>
+        <td class="tg-0lax">You (all) loose!</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">3 Person</td>
+        <td class="tg-0lax">λυσάτωσαν</td>
+        <td class="tg-0lax">Let them loose!</td>
+      </tr>
+    </tbody>
+    </table></br>
 
-V-IM-4a
-1st Aorist Active Imperative Verb
-Single		
-2 Person	λῦσον	You loose!
-3 Person	λυσάτω	Let Him loose!
-Plural		
-2 Person	λὐσατε	You (all) loose!
-3 Person	λυσάτωσαν	Let them loose!
-Note:  with the aorist tense there is no implication of repeated action.
-[*  Note:]  The Second Person plural λύσατε is the same form for both the Second Person plural indicative and the Second Person plural imperative. The translator must make a decision as to if it is to be interpreted as an indicative or imperative verb based on the context.  [See example XXX below.]
+[Note:]
+  *  With the aorist tense there is no implication of repeated action.
+  
+  **  The Second Person plural λύσατε is the same form for both the Second Person plural indicative and the Second Person plural imperative.
+   The translator must make a decision as to if it is to be interpreted as an indicative or imperative verb based on the context.  [See example XXX below.]
+
 
 Table V-IM-5  Formation of the 2nd Aorist Active Imperative Verb
 ^^^^^
