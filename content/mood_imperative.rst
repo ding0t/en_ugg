@@ -390,9 +390,9 @@ V-IM-4a 1st Aorist Active Imperative Verb
     </table></br>
 
 [Note:]
-  *  With the aorist tense there is no implication of repeated action.
+  \*  With the aorist tense there is no implication of repeated action.
   
-  \**The Second Person plural λύσατε is the same form for both the Second Person plural indicative and the Second Person plural imperative. The translator must make a decision as to if it is to be interpreted as an indicative or imperative verb based on the context.  [See example XXX below.]
+  \**  The Second Person plural λύσατε is the same form for both the Second Person plural indicative and the Second Person plural imperative. The translator must make a decision as to if it is to be interpreted as an indicative or imperative verb based on the context.  [See example XXX below.]
 
 
 Table V-IM-5  Formation of the 2nd Aorist Active Imperative Verb
@@ -573,24 +573,65 @@ Just like the Present Active Imperative Verb, the Present Middle Imperative Verb
 
     
 
+V-IM-6a Present Middle/Passive Imperative Verb
+^^^^^
 
-Table V-IM-6
-Formation of the Present  Middle/Passive Imperative Verb
-Present Tense Stem	+	Connecting Vowel	+	Imperative Middle/Passive
-Morpheme		
-λυ	+	ε	+	σθε	->	λύεσθε
-You all be loosed! (or loose yourselves!)
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-btz9{background-color:#fcff2f;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-btz9" colspan="3">V-IM-6a<br>Present Middle/Passive Imperative Verb</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-3xi5"><span style="font-weight:bold">Single</span></td>
+        <td class="tg-zlqz"></td>
+        <td class="tg-zlqz"></td>
+      </tr>
+      <tr>
+        <td class="tg-baqh">2 Person</td>
+        <td class="tg-0lax">λύου</td>
+        <td class="tg-0lax">You loose yourself!</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3 Person</td>
+        <td class="tg-0pky">λυέσθω</td>
+        <td class="tg-0pky">Let him loose himself!</td>
+      </tr>
+      <tr>
+        <td class="tg-1wig">Plural</td>
+        <td class="tg-y6fn"></td>
+        <td class="tg-y6fn"></td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">2 Person</td>
+        <td class="tg-0lax">λύεσθε *</td>
+        <td class="tg-0lax">You (all) loose yourselves!</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">3 Person</td>
+        <td class="tg-0lax">λυέσθωσαν</td>
+        <td class="tg-0lax">Let them loose themselves!</td>
+      </tr>
+    </tbody>
+    </table></br>
 
 
-V-IM-6a
-Present Middle/Passive Imperative Verb
-Single		
-2 Person	λύου	You loose yourself or 
-be loosed
-3 Person	λυέσθω	Let him loose himself or be loosed
-Plural		
-2 Person	λὐεσθε *	You (all) loose yourselves or be loosed
-3 Person	λυέσθωσαν	Let them loose themselves or be loosed
 [*  Note:]  The Second Person Middle plural λύεσθε is the same form for both the Second Person Middle plural indicative and the Second Person Middle plural imperative. The translator must make a decision as to if it is to be interpreted as an indicative or imperative verb based on the context.  [See example XXX below.]
 
 
