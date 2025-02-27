@@ -984,7 +984,7 @@ Table V-IM-10 Formation of the Second Aorist Passive Imperative Verb
   
   As we saw with First and Second Aorist passive verbs the Theta (θ) is dropped from the tense formative θη and becomes just η.  
  
- Second Aorist Passive Imperatives are rare in the New Testament.   There are only 80 Aorist Passive Imperatives and most are 1st Aorist.  
+  Second Aorist Passive Imperatives are rare in the New Testament.   There are only 80 Aorist Passive Imperatives and most are 1st Aorist.  
   There are less than 10 Second Aorist Passive Imperative verbs in the New Testament. 
 
 .. raw:: html
@@ -1106,18 +1106,26 @@ Example V-IM-11 - Simple command aorist tense
 **Pay back** *to everyone {your} obligations.*
 
 
+
 Example V-IM-12 - Simple command present tense
-The present imperative refers to action that is to be repeated or continuous in nature.  However, this should not be taken as a hard and fast rule.    Jesus, as the superior, issues a command in the present tense to Phillip in the first example and Peter in the second example.
+^^^^^
 
-	John 1:43 – continual action
-	καὶ εὑρίσκει Φίλιππον, καὶ λέγει αὐτῷ ὁ Ἰησοῦς, "ἀκολούθει μοι
-	kai heuriskei Philippon, kai legei autō ho Iēsous, "akolouthei moi
-	and He finds Phillip, and He said to him the Jesus continually follow me
+The present imperative refers to action that is to be repeated or continuous in nature.  However, this should not be taken as a hard and fast rule.    
+Jesus, as the superior, issues a command in the present tense to Phillip in the first example and Peter in the second example.
 
-	and he finds Philip and says to him, “Follow me.”	
+.. csv-table:: V-IM-12 John 1:43
+
+  καὶ,εὑρίσκει,Φίλιππον,καὶ,λέγει,αὐτῷ,ὁ,Ἰησοῦς,**ἀκολούθει**,μοι
+  kai,heuriskei,Philippon,kai,legei,autō,ho,Iēsous,**akolouthei**,moi
+  and,He finds,Phillip,and,He said,to him,the,Jesus,**continually follow**,me
+
+	*and he finds Philip and says to him,* **“Follow me.”**
+
 	[Note:  It is difficult to pick up the nuance of the present tense in the English translation.]
 
-	Example V-IM-12a – continual action
+Example V-IM-12a – continual action
+^^^^
+
 John 21:15 – continual action
 	λέγει αὐτῷ, ποίμαινε τὰ πρόβατά μου.
 	legei autō, poimaine ta probata mou
