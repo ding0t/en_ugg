@@ -805,7 +805,8 @@ The Second Aorist Middle Imperative verb is therefore formed by using:
       </tr>
     </tbody></table></br>
 
-
+V-IM-8a 2nd Aorist Middle Imperative Verb
+^^^^
 
 .. raw:: html
 
