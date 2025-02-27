@@ -916,17 +916,63 @@ The First Aorist Passive Imperative verb is formed with:
     </tbody></table></br>
 
 
+V-IM-9a  1st Aorist Passive Imperative Verb
+^^^^^
 
+.. raw:: html
 
-V-IM-9a
-1st Aorist Passive Imperative Verb
-Single		
-2 Person	λύθητι	Let you be loosed! 
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-btz9{background-color:#fcff2f;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-btz9" colspan="3">V-IM-9a<br>1st Aorist Passive Imperative Verb</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-3xi5"><span style="font-weight:bold">Single</span></td>
+        <td class="tg-zlqz"></td>
+        <td class="tg-zlqz"></td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">2 Person</td>
+        <td class="tg-0pky">λύθητι</td>
+        <td class="tg-0pky">Let you be loosed! </td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3 Person</td>
+        <td class="tg-0pky">λυθήτω</td>
+        <td class="tg-0pky">Let him be loosed!</td>
+      </tr>
+      <tr>
+        <td class="tg-fymr">Plural</td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">2 Person</td>
+        <td class="tg-0pky">λύθητε</td>
+        <td class="tg-0pky">You (all) be loosed!</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3 Person</td>
+        <td class="tg-0pky">λυθήτωσαν</td>
+        <td class="tg-0pky">Let them be loosed!</td>
+      </tr>
+    </tbody>
+    </table></br>
 
-3 Person	λυθήτω	Let him be loosed! 
-Plural		
-2 Person	λὐθητε	You (all) be loosed!
-3 Person	λυθήτωσαν	Let them loosed! 
 
 Table V-IM-10 Formation of the Second Aorist Passive Imperative Verb
 ^^^^^
