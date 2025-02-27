@@ -973,7 +973,7 @@ V-IM-9a  1st Aorist Passive Imperative Verb
     </tbody>
     </table></br>
 
-[Note]  Let them be loosed could also be translated "Let them be freed" or "Let them be untied" depending on the context.
+[Note]  *"Let them be loosed"* could also be translated *"Let them be freed"* or *"Let them be untied"* depending on the context.
 
 
 Table V-IM-10 Formation of the Second Aorist Passive Imperative Verb
@@ -1097,16 +1097,21 @@ Plural
 3 Person	ἀποστραφήτωσαν	You all be turned back! Return!
 
 Examples:
+~~~~~~
+
 Example V-IM-11 - Simple command aorist tense
+^^^^^
 	A simple command from a superior to a subordinate is indicated by use of a verb in the imperative mood with the aorist tense.  The aorist tense is used to express action as a whole.  It does not speak to the duration, repetition, or continuity of the action.   
  
+.. csvtable:: V-IM-11 Romans 13:7
 
-Romans 13:7 – simple command aorist tense
-ἀπόδοτε πᾶσι τὰς ὀφειλάς
-apodote pasi tas opheilas
-You Give to all/everyone the things owed
+  **ἀπόδοτε**,πᾶσι,τὰς,ὀφειλάς
+  **apodote**,pasi,tas,opheilas
+  **You give**,to all/everyone,the,things owed
 
-Pay back to everyone {your} obligations
+**Pay back** *to everyone {your} obligations.*
+
+
 Example V-IM-12 - Simple command present tense
 The present imperative refers to action that is to be repeated or continuous in nature.  However, this should not be taken as a hard and fast rule.    Jesus, as the superior, issues a command in the present tense to Phillip in the first example and Peter in the second example.
 
