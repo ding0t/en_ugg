@@ -983,7 +983,8 @@ Table V-IM-10 Formation of the Second Aorist Passive Imperative Verb
   1) the un-augmented Second Aorist tense stem plus + 2) the Tense Formative (η) + 3) Imperative Active (and Aorist Passive) morpheme. 
   
   As we saw with First and Second Aorist passive verbs the Theta (θ) is dropped from the tense formative θη and becomes just η.  
-  Second Aorist Passive Imperatives are rare in the New Testament.   There are only 80 Aorist Passive Imperatives and most are 1st Aorist.  
+ 
+ Second Aorist Passive Imperatives are rare in the New Testament.   There are only 80 Aorist Passive Imperatives and most are 1st Aorist.  
   There are less than 10 Second Aorist Passive Imperative verbs in the New Testament. 
 
 .. raw:: html
@@ -1088,14 +1089,7 @@ V-IM-10a 2nd Aorist Passive Imperative Verb
       </tr>
     </tbody></table>
 
-    
-Single		
-2 Person	ἀποστράφητι	Βε turned back! Return!
-3 Person	ἀποστραφήτω	Βε turned back! Return!
-Plural		
-2 Person	ἀποστράφητε	You all bε turned back! Return!
-3 Person	ἀποστραφήτωσαν	You all be turned back! Return!
-
+  
 Examples:
 ~~~~~~
 
@@ -1103,7 +1097,7 @@ Example V-IM-11 - Simple command aorist tense
 ^^^^^
 	A simple command from a superior to a subordinate is indicated by use of a verb in the imperative mood with the aorist tense.  The aorist tense is used to express action as a whole.  It does not speak to the duration, repetition, or continuity of the action.   
  
-.. csvtable:: V-IM-11 Romans 13:7
+.. csv-table:: V-IM-11 Romans 13:7
 
   **ἀπόδοτε**,πᾶσι,τὰς,ὀφειλάς
   **apodote**,pasi,tas,opheilas
