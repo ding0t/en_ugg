@@ -1119,9 +1119,10 @@ Jesus, as the superior, issues a command in the present tense to Phillip in the 
   kai,heuriskei,Philippon,kai,legei,autō,ho,Iēsous,**akolouthei**,moi
   and,He finds,Phillip,and,He said,to him,the,Jesus,**continually follow**,me
 
-	*and he finds Philip and says to him,* **“Follow me.”**
 
-	[Note:  It is difficult to pick up the nuance of the present tense in the English translation.]
+*and he finds Philip and says to him,* **“Follow me.”**
+
+[Note:  It is difficult to pick up the nuance of the present tense in the English translation.]
 
 Example V-IM-12a – continual action
 ^^^^
