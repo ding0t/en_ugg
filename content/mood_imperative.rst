@@ -1178,7 +1178,7 @@ the intent of the Greek imperative when addressing a superior.]
 Example V-IM-15 – Imperative in prayers
 ^^^^
 
-In the same manner the Imperative used to address a superior;
+In the same manner the Imperative is used to address a superior;
 prayers and petitions to a sovereign king (or to God) are often expressed in the imperative mood,
 with the understanding that the superior is still sovereign.  
   
@@ -1195,13 +1195,20 @@ because it is something the superior would be expected to normally grant.
 
 
 Example V-IM-16 Third Person Imperative commands
-Third person imperatives are generally translated as “Let us”, “Let them”, “Let him”, or “Let her” or “He must” or “They must.” The use of an exclamation mark in the English language may also be used to emphasize the force of the imperative.   The use of the more permissive language of “Let Him/her” does not decrease the force of the imperative. It is still an imperative and should be understood as an imperative.  
-Mark 13:14
-ὁ ἀναγινώσκων νοείτω, τότε οἱ ἐν τῇ Ἰουδαίᾳ, φευγέτωσαν
-ho anaginōskōn noeitō, tote hoi en tē Ioudaia, pheugetōsan
-The one who read let him understand, then those in the Judea must flee
+^^^^
 
-let the reader understand, then let those {who are} in Judea flee
+Third person imperatives are generally translated as “Let us”, “Let them”, “Let him”, or “Let her” or “He must” or “They must.” 
+The use of an exclamation mark in the English language may also be used to emphasize the force of the imperative.
+The use of the more permissive language of “Let Him/her” does not decrease the force of the imperative.
+It is still an imperative and should be understood as an imperative.  
+
+.. csv-table:: Mark 13:14
+
+  ὁ,ἀναγινώσκων,νοείτω,τότε,οἱ,ἐν,τῇ,Ἰουδαίᾳ,**φευγέτωσαν**
+  ho,anaginōskōn,noeitō,tote,hoi,en,tē,Ioudaia,**pheugetōsan**
+  The,one who,reads,let him understand,then,those,in the Judea,**must flee**
+
+*let the reader understand, then let those {who are} in Judea* **flee**
 
 [V-IM-17]   Examples of ways to say no
 	The indicative tense is used with οὐ.  All other tenses use μή for negation.
