@@ -1206,21 +1206,26 @@ It is still an imperative and should be understood as an imperative.
 
   ὁ,ἀναγινώσκων,νοείτω,τότε,οἱ,ἐν,τῇ,Ἰουδαίᾳ,**φευγέτωσαν**
   ho,anaginōskōn,noeitō,tote,hoi,en,tē,Ioudaia,**pheugetōsan**
-  The,one who reads,let him understand,then,those,(who are)in,the,Judea,**must flee**
+  The,one who reads,let him understand,then,those,(who are) in,the,Judea,**must flee**
 
 *let the reader understand, then let those {who are} in Judea* **flee**
 
 [V-IM-17]   Examples of ways to say no
-	The indicative tense is used with οὐ.  All other tenses use μή for negation.
-1.	Simple no - Οὐ plus the indicative – simple negation
-[We would also include a noun with οὐ in this category.]  
+^^^^
 
-John 4:17
-ἀπεκρίθη ἡ γυνὴ καὶ εἶπεν αὐτῷ, "οὐκ ἔχω ἄνδρα
-apekrithē hē gynē kai eipen autō, "ouk echō andra
-She answered the woman and she said to him not I have a husband
+[Note:] 	The indicative tense is used with οὐ.  All other tenses use μή for negation.
 
-The woman answered and said to him, “I do not have a husband
+  1.	Simple no - Οὐ plus the indicative – simple negation
+
+    [We would also include a noun with οὐ in this category.]  
+
+    .. csv-table:: Simple no - John 4:17
+
+      ἀπεκρίθη,ἡ,γυνὴ,καὶ,εἶπεν,αὐτῷ,**οὐκ**,**ἔχω**,ἄνδρα
+      apekrithē,hē,gynē,kai,eipen,autō,**ouk**,**echō**,andra
+      She answered,the,woman,and,she said,to him,**not**,**I have**,a husband
+
+    *The woman answered and said to him,* **I do not have** *a husband*.
 
 
 Mathew 4:4  - Noun with οὐ
