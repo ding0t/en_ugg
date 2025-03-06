@@ -1206,7 +1206,7 @@ It is still an imperative and should be understood as an imperative.
 
   ὁ,ἀναγινώσκων,νοείτω,τότε,οἱ,ἐν,τῇ,Ἰουδαίᾳ,**φευγέτωσαν**
   ho,anaginōskōn,noeitō,tote,hoi,en,tē,Ioudaia,**pheugetōsan**
-  The,one who,reads,let him understand,then,those,in the Judea,**must flee**
+  The,one who reads,let him understand,then,those,(who are)in,the,Judea,**must flee**
 
 *let the reader understand, then let those {who are} in Judea* **flee**
 
