@@ -1179,11 +1179,11 @@ Example V-IM-15 – Imperative in prayers
 ^^^^
 
 In the same manner the Imperative used to address a superior;
-  prayers and petitions to a sovereign king (or to God) are often expressed in the imperative mood,
-  with the understanding that the superior is still sovereign.  
+prayers and petitions to a sovereign king (or to God) are often expressed in the imperative mood,
+with the understanding that the superior is still sovereign.  
   
-  With this in mind, the imperative becomes more of a request or a request that can be expected to be answered in the affirmative
-  because it is something the superior would be expected to normally grant.
+With this in mind, the imperative becomes more of a request or a request that can be expected to be answered in the affirmative
+because it is something the superior would be expected to normally grant.
 
 .. csv-table:: Acts 1:24 – Imperative in prayer
 
