@@ -1130,6 +1130,7 @@ Example V-IM-12a – continual action
 In this case the "continual" aspect of the action would be in iterations.  It would involve repeating the task on a regular basis.
 
 .. csv-table:: John 21:15 – continual action
+
   λέγει,αὐτῷ,**ποίμαινε**,τὰ,πρόβατά,μου
   legei,autō,**poimaine**,ta,probata,mou
   he says,to him,**[repeatedly] feed**,my,sheep
