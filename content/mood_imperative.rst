@@ -1142,7 +1142,7 @@ In this case the "continual" aspect of the action would be in iterations.  It wo
 Example V-IM 13 Command reduced to direction
 ^^^^
 
-	In this example the force of the command is reduced to simple direction. 
+	In this example the force of the command is reduced to simple direction.
   It is in the present tense, but the impact of the present tense seems to reflect action as a whole.  
   This reminds us that the translator must always be sensitive to take into account the overall context.  
   Jesus is not asking Thomas to continually or repeatedly stick his finger into his side.
@@ -1150,11 +1150,11 @@ Example V-IM 13 Command reduced to direction
 	
   .. csv-table:: John 20:27 – action as a whole -simple direction
 	
-  εἶτα λέγει τῷ Θωμᾷ, "φέρε τὸν δάκτυλόν σου ὧδε
-	eita legei tō Thōma, "phere ton daktylon sou hōde
-	then he says to Thomas put the finger of you here
+    εἶτα,λέγει,τῷ,Θωμᾷ,**φέρε**,τὸν,δάκτυλόν,σου,ὧδε
+	  eita,legei,tō,Thōma,**phere**,ton,daktylon,sou,hōde
+	  then,he says,to,Thomas,**put**,the,finger,of you,here
 
-	Then he says to Thomas, “Place your finger here
+	*Then he says to Thomas,* **“Place** *your finger here.*
 
 Example V-IM-14 – Imperative used to address a superior
 	
