@@ -1163,9 +1163,9 @@ The imperative may be directed to a superior, when there is an expectation that 
 
 .. csv-table::	John 4:31 –addressing a superior
  
-  ἠρώτων,αὐτὸν,οἱ,μαθηταὶ,λέγοντες,Ῥαββεί,**φάγε.**
-  ἠρώτων,αὐτὸν,hoi,mathētai,legontes,Rhabbei,**phage**
-  They were asking,him,the,disciples,saying,Rabbi,**eat**
+  ἠρώτων,αὐτὸν,οἱ,μαθηταὶ,λέγοντες,"Ῥαββεί,**φάγε".**
+  ἠρώτων,αὐτὸν,hoi,mathētai,legontes,"Rhabbei,**phage".**
+  They were asking,him,the,disciples,saying,"Rabbi,**eat".**
 
 *The disciples were urging him, saying,“Rabbi,**eat.”**
 
