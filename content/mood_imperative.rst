@@ -1187,7 +1187,7 @@ In the same manner the Imperative used to address a superior;
 
 .. csv-table:: Acts 1:24 – Imperative in prayer
 
-  εἶπαν,σὺ Κύριε,καρδιογνῶστα,πάντων,**ἀνάδειξον**,ὃν,ἐξελέξω
+  εἶπαν,σὺ,Κύριε,καρδιογνῶστα,πάντων,**ἀνάδειξον**,ὃν,ἐξελέξω
   eipan,sy,Kyrie,kardiognōsta,pantōn,**anadeixon**,hon,exelexō
   They said,you,Lord,who knows,all,**show**,whom,you chose 
 	
