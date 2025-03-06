@@ -1167,7 +1167,7 @@ The imperative may be directed to a superior, when there is an expectation that 
   ἠρώτων,αὐτὸν,hoi,mathētai,legontes,Rhabbei,**phage.**
   They were asking,him,the,disciples,saying,Rabbi,**eat.**
 
-*The disciples were urging him, saying,Rabbi,**eat.**
+*The disciples were urging him, saying,Rabbi,* **eat.**
 
 [ Note: This verse uses an imperfect active verb ἠρώτων combined with a present active participle λέγοντες. This would imply repeated urging.
 ἐρωτἀω would normally be translated “asking” but in this case urging was used to pick up on the imperative φάγε and
@@ -1187,11 +1187,11 @@ In the same manner the Imperative used to address a superior;
 
 .. csv-table:: Acts 1:24 – Imperative in prayer
 
-  εἶπαν,"σὺ Κύριε,καρδιογνῶστα,πάντων,**ἀνάδειξον**,ὃν,ἐξελέξω
-  eipan,"sy,Kyrie,kardiognōsta,pantōn,**anadeixon**,hon,exelexō
+  εἶπαν,σὺ Κύριε,καρδιογνῶστα,πάντων,**ἀνάδειξον**,ὃν,ἐξελέξω
+  eipan,sy,Kyrie,kardiognōsta,pantōn,**anadeixon**,hon,exelexō
   They said,you,Lord,who knows,all,**show**,whom,you chose 
 	
-They said, “You, Lord, heart-knower of all,**show** which one …you have chosen.
+*They said, You, Lord, heart-knower of all,* **show**  *which one …you have chosen.*
 
 
 Example V-IM-16 Third Person Imperative commands
