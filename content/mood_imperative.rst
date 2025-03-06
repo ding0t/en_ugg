@@ -1163,12 +1163,16 @@ The imperative may be directed to a superior, when there is an expectation that 
 
 .. csv-table::	John 4:31 –addressing a superior
  
-		ἠρώτων αὐτὸνοἱ μαθηταὶ λέγοντες, Ῥαββεί, φάγε.
-		ἠρώτων αὐτὸν hoi mathētai legontes, "Rhabbei, phage
-		They were asking him the disciples saying   Rabbi eat
+  ἠρώτων,αὐτὸνοἱ,μαθηταὶ,λέγοντες,Ῥαββεί,**φάγε.**
+  ἠρώτων,αὐτὸν,hoi,mathētai,legontes,Rhabbei,**phage**
+  They were asking,him,the,disciples,saying,Rabbi,**eat**
 
-		the disciples were urging him, saying, “Rabbi, eat.”
-	[ Note: This verse uses an imperfect active verb ἠρώτων combined with a present active participle λέγοντες. This would imply repeated urging.  ἐρωτἀω would normally be translated “asking” but in this case urging was used το pick up on the imperative φάγε and to reduce the force of the imperative in English to urging to reflect the tone of the request to be in accordance with the intent of the Greek imperative when addressing a superior.]
+*The disciples were urging him, saying,“Rabbi,**eat.”**
+
+[ Note: This verse uses an imperfect active verb ἠρώτων combined with a present active participle λέγοντες. This would imply repeated urging.
+ἐρωτἀω would normally be translated “asking” but in this case urging was used το pick up on the imperative φάγε and
+to reduce the force of the imperative in English to urging to reflect the tone of the request to be in accordance with 
+the intent of the Greek imperative when addressing a superior.]
 
 
 Example V-IM-15 – Imperative in prayers
