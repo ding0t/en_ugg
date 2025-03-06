@@ -1227,17 +1227,19 @@ It is still an imperative and should be understood as an imperative.
 
     *The woman answered and said to him,* **I do not have** *a husband*.
 
+    .. csv-table:: Mathew 4:4  - Noun with οὐ
 
-Mathew 4:4  - Noun with οὐ
-γέγραπται, οὐκ‘ ἐπ’ ἄρτῳ μόνῳ ζήσεται ὁ ἄνθρωπος
-gegraptai, ouk‘ ep’ artō monō zēsetai ho anthrōpos
-It is written not on bread alone he will live the man
+      γέγραπται,**οὐκ**,**ἐπ’ ἄρτῳ**,μόνῳ,ζήσεται,ὁ,ἄνθρωπος
+      gegraptai,**ouk**,**ep’ artō**,monō,zēsetai,ho,anthrōpos
+      It is written,**not**,**on bread**,alone,he will live,the,man
 
-It is written, Man will not live by bread alone…
-
+    *It is written, Man* **will not live by bread** *alone*
 
 
-2.	μή  plus an aorist imperative  - simple prohibition  Matt 10:26
+
+  2.	μή  plus an aorist imperative  - simple prohibition
+  
+    Matt 10:26
 [We would also include μή with an infinitive (a verbal noun) or participle (a verbal adjective) in this category.
 
 Matthew 10:26
