@@ -1142,25 +1142,27 @@ In this case the "continual" aspect of the action would be in iterations.  It wo
 Example V-IM 13 Command reduced to direction
 ^^^^
 
-	In this example the force of the command is reduced to simple direction.
-  It is in the present tense, but the impact of the present tense seems to reflect action as a whole.  
-  This reminds us that the translator must always be sensitive to take into account the overall context.  
-  Jesus is not asking Thomas to continually or repeatedly stick his finger into his side.
+In this example the force of the command is reduced to simple direction.
+The command is in the present tense, but the impact of the present tense seems to reflect action as a whole.  
+This reminds us that the translator must always be sensitive to take into account the overall context.  
+Jesus is not asking Thomas to continually or repeatedly stick his finger into his side.
 
 	
-  .. csv-table:: John 20:27 – action as a whole -simple direction
+.. csv-table:: John 20:27 – action as a whole -simple direction
 	
-    εἶτα,λέγει,τῷ,Θωμᾷ,**φέρε**,τὸν,δάκτυλόν,σου,ὧδε
-	  eita,legei,tō,Thōma,**phere**,ton,daktylon,sou,hōde
-	  then,he says,to,Thomas,**put**,the,finger,of you,here
+  εἶτα,λέγει,τῷ,Θωμᾷ,**φέρε**,τὸν,δάκτυλόν,σου,ὧδε
+	eita,legei,tō,Thōma,**phere**,ton,daktylon,sou,hōde
+	then,he says,to,Thomas,**put**,the,finger,of you,here
 
-	*Then he says to Thomas,* **“Place** *your finger here.*
+*Then he says to Thomas,* **“Place** *your finger here.*
 
 Example V-IM-14 – Imperative used to address a superior
+^^^^
 	
 The imperative may be directed to a superior, when there is an expectation that the request is something that the superior would grant.
 
-		John 4:31 – 
+.. csv-table::	John 4:31 –addressing a superior
+ 
 		ἠρώτων αὐτὸνοἱ μαθηταὶ λέγοντες, Ῥαββεί, φάγε.
 		ἠρώτων αὐτὸν hoi mathētai legontes, "Rhabbei, phage
 		They were asking him the disciples saying   Rabbi eat
