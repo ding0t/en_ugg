@@ -1170,20 +1170,30 @@ The imperative may be directed to a superior, when there is an expectation that 
 *The disciples were urging him, saying,“Rabbi,**eat.”**
 
 [ Note: This verse uses an imperfect active verb ἠρώτων combined with a present active participle λέγοντες. This would imply repeated urging.
-ἐρωτἀω would normally be translated “asking” but in this case urging was used το pick up on the imperative φάγε and
+ἐρωτἀω would normally be translated “asking” but in this case urging was used to pick up on the imperative φάγε and
 to reduce the force of the imperative in English to urging to reflect the tone of the request to be in accordance with 
 the intent of the Greek imperative when addressing a superior.]
 
 
 Example V-IM-15 – Imperative in prayers
+^^^^
 
-Like the Imperative used to address a superior, prayers and petitions to a sovereign king or to God are often expressed in the imperative mood, with the understanding that the superior is still sovereign.  With this in mind, the imperative becomes more of a request or a request that can be expected to be answered in the affirmative because it is something the superior would be expected to normally grant.
+In the same manner the Imperative used to address a superior;
+  prayers and petitions to a sovereign king (or to God) are often expressed in the imperative mood,
+  with the understanding that the superior is still sovereign.  
+  
+  With this in mind, the imperative becomes more of a request or a request that can be expected to be answered in the affirmative
+  because it is something the superior would be expected to normally grant.
 
-Acts 1:24 – Imperative in prayer
-εἶπαν, "σὺ Κύριε, καρδιογνῶστα πάντων, ἀνάδειξον ὃν ἐξελέξω
-eipan, "sy Kyrie, kardiognōsta pantōn, anadeixon hon exelexō
-They said you Lord who knows all show whom you chose 
-	they said, “You, Lord, heart-knower of all, show which one …you have chosen
+.. csv-table:: Acts 1:24 – Imperative in prayer
+
+  εἶπαν,"σὺ Κύριε,καρδιογνῶστα,πάντων,**ἀνάδειξον**,ὃν,ἐξελέξω
+  eipan,"sy,Kyrie,kardiognōsta,pantōn,**anadeixon**,hon,exelexō
+  They said,you,Lord,who knows,all,**show**,whom,you chose 
+	
+They said, “You, Lord, heart-knower of all,**show** which one …you have chosen.
+
+
 Example V-IM-16 Third Person Imperative commands
 Third person imperatives are generally translated as “Let us”, “Let them”, “Let him”, or “Let her” or “He must” or “They must.” The use of an exclamation mark in the English language may also be used to emphasize the force of the imperative.   The use of the more permissive language of “Let Him/her” does not decrease the force of the imperative. It is still an imperative and should be understood as an imperative.  
 Mark 13:14
