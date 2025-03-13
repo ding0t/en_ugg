@@ -1211,6 +1211,7 @@ It is still an imperative and should be understood as an imperative.
 *let the reader understand, then let those {who are} in Judea* **flee**
 
 or 
+
 .. csv-table:: 1 Corinthians 3:18
 
   μηδεὶς,ἑαυτὸν,**ἐξαπατάτω**
