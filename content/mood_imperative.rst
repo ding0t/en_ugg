@@ -1210,6 +1210,18 @@ It is still an imperative and should be understood as an imperative.
 
 *let the reader understand, then let those {who are} in Judea* **flee**
 
+or 
+.. csv-table:: 1 Corinthians 3:18
+
+  μηδεὶς,ἑαυτὸν,**ἐξαπατάτω**
+  mēdeis,heauton,**exapatatō**
+  (Let) noone,himself,**he deceives**
+
+**Let** *no one* **deceive** *himself*
+[Note: also later in the same verse there is the verb γενέσθω which is translated "Let him become."
+
+
+
 [V-IM-17]   Examples of ways to say no
 ^^^^
 
