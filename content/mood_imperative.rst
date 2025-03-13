@@ -1219,6 +1219,7 @@ or
   (Let) noone,himself,**he deceives**
 
 **Let** *no one* **deceive** *himself*
+
 [Note: also later in the same verse there is the verb γενέσθω which is translated "Let him become."
 
 
@@ -1228,7 +1229,7 @@ or
 
 [Note:] 	The indicative tense is used with οὐ.  All other tenses use μή for negation.
 
-  1.	Simple no - Οὐ plus the indicative – simple negation
+  1.	**Simple no - Οὐ plus the indicative – simple negation**
 
     [We would also include a noun with οὐ in this category.]  
 
@@ -1240,6 +1241,10 @@ or
 
     *The woman answered and said to him,* **I do not have** *a husband*.
 
+or  **example 1(b)**
+
+    noun with ού
+
     .. csv-table:: Mathew 4:4  - Noun with οὐ
 
       γέγραπται,**οὐκ**,**ἐπ’ ἄρτῳ**,μόνῳ,ζήσεται,ὁ,ἄνθρωπος
@@ -1250,31 +1255,38 @@ or
 
 
 
-  2.	μή  plus an aorist imperative  - simple prohibition
+  2.	**μή  plus an aorist imperative  - simple prohibition**
   
     Matt 10:26
 [We would also include μή with an infinitive (a verbal noun) or participle (a verbal adjective) in this category.
 
-Matthew 10:26
-μὴ οὖν φοβηθῆτε αὐτούς
-mē oun phobēthēte autous
+.. csv-table:: Matthew 10:26
 
-Therefore, do not fear them… (for there is nothing hidden that will not be revealed.)
+  **μὴ**,οὖν,**φοβηθῆτε**,αὐτούς
+  **mē**,oun,**phobēthēte**,autous
+  **not**,therefore,**you (all) fear**,them
 
-Matthew 5:39 – example with an infinitive
-δὲ λέγω ὑμῖν, μὴ ἀντιστῆναι τῷ πονηρῷ
-de legō hymin, mē antistēnai tō ponērō
-but I say to you not to resist the evil (man)
+*Therefore,* **do not fear** *them…* (for there is nothing hidden that will not be revealed.)
 
-But I tell you not to resist the evil person
+or **example 2(b)** example with an infinitive
 
+.. csv-table::  Matthew 5:39 – example with an infinitive
 
-Matthew 3:10 – example with a participle
-πᾶν οὖν δένδρον μὴ ποιοῦν καρπὸν καλὸν ἐκκόπτεται
-pan oun dendron mē poioun karpon kalon ekkoptetai
-every therefore tree not producing fruit good is cut down
+  δὲ,λέγω,ὑμῖν,**μὴ**,**ἀντιστῆναι**,τῷ,πονηρῷ
+  de,legō,hymin,**mē**,**antistēnai**,tō,ponērō
+  but,I say,to you,**not**,**to resist**,the,evil (man)
 
-every tree not producing good fruit is chopped down
+*But I tell you* **not to resist** *the evil person*
+
+or **Example 2(c)** example with a participle
+
+.. csv-table:: Matthew 3:10 – example with a participle
+
+  πᾶν,οὖν,δένδρον,**μὴ**,**ποιοῦν**,καρπὸν,καλὸν,ἐκκόπτεται
+  pan,oun,dendron,**mē**,**poioun**,karpon,kalon,ekkoptetai
+  every,therefore,tree,**not**,**producing**,fruit,good,is cut down
+
+*every tree* **not producing** *good fruit is chopped down*
 
 
 
