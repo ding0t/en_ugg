@@ -1255,12 +1255,11 @@ or  **example 1(b)**
 
 
 
-  2.	**μή  plus an aorist imperative  - simple prohibition**
-  
-    Matt 10:26
-[We would also include μή with an infinitive (a verbal noun) or participle (a verbal adjective) in this category.
+  2.	**μή  plus an aorist imperative  - simple prohibition**      Matt 10:26
 
-.. csv-table:: Matthew 10:26
+[Note]: We would also include μή with an infinitive (a verbal noun) or participle (a verbal adjective) in this category.
+
+.. csv-table:: Matthew 10:26 μή  plus an aorist imperative
 
   **μὴ**,οὖν,**φοβηθῆτε**,αὐτούς
   **mē**,oun,**phobēthēte**,autous
@@ -1290,14 +1289,17 @@ or **Example 2(c)** example with a participle
 
 
 
-3.	μή plus a present imperative – continually prohibits and action
+3.	**μή plus a present imperative – continually prohibits and action**
 
-Matthew 6:19
-μὴ θησαυρίζετε ὑμῖν θησαυροὺς ἐπὶ τῆς γῆς
-mē thēsaurizete hymin thēsaurous epi tēs gēs
-not store up    for yourself treasures on the earth
+.. csv-table:: Matthew 6:19 μή plus a present imperative
 
-Do not store up for yourselves treasures on the earth [ or to emphasize the continual prohibition, this verse could be translated “Do not store up for yourselves treasures on the earth (now or in the future).”]
+  **μὴ**,**θησαυρίζετε**,ὑμῖν,θησαυροὺς,ἐπὶ,τῆς,γῆς
+  **mē**,**thēsaurizete**,hymin,thēsaurous,epi,tēs,gēs
+  **not**,**You (all) store up**,for yourself,treasures,on,the,earth
+
+**Do not store up** *for yourselves treasures on the earth* 
+
+Note: [ or to emphasize the continual prohibition, this verse could be translated “Do not store up for yourselves treasures on the earth now or in the future.”]
 
 4.	μή plus aorist subjunctive – stronger negation than option 1. 
 
