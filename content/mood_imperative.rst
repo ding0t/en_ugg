@@ -45,7 +45,7 @@ As such it includes commands, orders, directions, prayers, and requests.
 
 It is therefore used:
 
-  1.	When a superior commands or orders a subordinate to carry out a specific action.  [See `Example V-IM-12 <https://ugg.readthedocs.io/en/latest/mood_imperative.html#example-v-im-12a-continual-action>`_]
+  1.	When a superior commands or orders a subordinate to carry out a specific action.  [See `Example V-IM-12 <https://ugg.readthedocs.io/en/latest/mood_imperative.html#example-v-im-12-simple-command-present-tense>`_]
     a.	This force may be reduced to directing someone to do something. [See `Example V-IM-13 <https://ugg.readthedocs.io/en/latest/mood_imperative.html#example-v-im-13-command-reduced-to-direction>`_ ,]
   2.	It may be directed to a superior, when there is an expectation that the request is something that the superior would grant.  [See Example V-IM-14]
    
