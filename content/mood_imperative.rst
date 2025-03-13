@@ -1329,10 +1329,11 @@ Note: [ or to emphasize the continual prohibition, this verse could be translate
 
 6.	**μή plus the optative mood – a negative wish… may it never be.**
 
-Romans 3:31
-νόμον οὖν καταργοῦμεν διὰ τῆς πίστεως? μὴ γένοιτο!
-nomon oun katargoumen dia tēs pisteōs? mē genoito!
-(the) law therefore do we nullify through the faith   May it never be!
+.. csv-table:: Romans 3:31 μή plus the optative mood
 
-Do we then nullify {the} law through the {same} faith? May it never be!
+  νόμον,οὖν,καταργοῦμεν,διὰ,τῆς,πίστεως?,**μὴ**,**γένοιτο!**
+  nomon,oun,katargoumen,dia,tēs,pisteōs?,**mē**,**genoito!**
+  (the) law,therefore,do we nullify,through,the,faith,**May it never**,be!
+
+*Do we then nullify {the} law through the {same} faith?* **May it never** *be!*
 
