@@ -1289,7 +1289,7 @@ or **Example 2(c)** example with a participle
 
 
 
-3.	**μή plus a present imperative – continually prohibits and action**
+3.	**μή plus a present imperative – continually prohibits an action**
 
 .. csv-table:: Matthew 6:19 μή plus a present imperative
 
@@ -1301,14 +1301,15 @@ or **Example 2(c)** example with a participle
 
 Note: [ or to emphasize the continual prohibition, this verse could be translated “Do not store up for yourselves treasures on the earth now or in the future.”]
 
-4.	μή plus aorist subjunctive – stronger negation than option 1. 
+4.	**μή plus aorist subjunctive – stronger negation than option 1.**
 
-Matthew 1:20
-μὴ φοβηθῇς παραλαβεῖν Μαρίαν τὴν γυναῖκά σου
-mē phobēthēs paralabein Marian tēn gynaika sou
-not you be afraid to take Mary   the wife of you
+.. csv-table:: Matthew 1:20 μή plus aorist subjunctive
 
-you should not fear to take Mary as your wife
+  **μὴ**,φοβηθῇς,**παραλαβεῖν**,Μαρίαν,τὴν,γυναῖκά,σου
+  **mē**,phobēthēs,**paralabein**,Marian,tēn,gynaika,sou
+  **not**you be afraid,**to take**,Mary,the,wife,of you
+
+*you should* **not** *fear* **to take** *Mary as your wife*
 
 
 5.	οὐ μή  -  no never – strongest way to say no
