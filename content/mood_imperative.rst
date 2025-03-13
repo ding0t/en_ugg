@@ -1318,7 +1318,7 @@ Note: [ or to emphasize the continual prohibition, this verse could be translate
 
   ἐὰν,μὴ,στραφῆτε,…,**οὐ μὴ**,εἰσέλθητε,εἰς,τὴν,Βασιλείαν,τῶν,Οὐρανῶν.
   ean,mē,straphēte,…,**ou mē**,eiselthēte,eis,tēn,Basileian,tōn,Ouranōn
-  if,not,you (all) repent,**no never**,will you (all),enter,into,the,kingdom,of,heaven
+  if,not,you (all) repent,...,**no never**,will you (all),enter,into,the,kingdom,of,heaven
 
 *unless you would turn, you* **may certainly not** *enter into the kingdom of the heavens.*
 
