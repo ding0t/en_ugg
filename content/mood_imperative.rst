@@ -1289,7 +1289,7 @@ or **Example 2(c)** example with a participle
 
 
 
-3.	**μή plus a present imperative – continually prohibits an action**
+3.	**μή plus a present imperative** – *continually prohibits an action*
 
 .. csv-table:: Matthew 6:19 μή plus a present imperative
 
@@ -1312,19 +1312,22 @@ Note: [ or to emphasize the continual prohibition, this verse could be translate
 *you should* **not** *fear* **to take** *Mary as your wife*
 
 
-5.	οὐ μή  -  no never – strongest way to say no
+5.	**οὐ μή  -  no never – strongest way to say no**
 
-Matthew 18:3
-ἐὰν μὴ στραφῆτε … οὐ μὴ εἰσέλθητε εἰς τὴν Βασιλείαν τῶν Οὐρανῶν.
-ean mē straphēte … ou mē eiselthēte eis tēn Basileian tōn Ouranōn
-if not you repent      no never will you enter into the kingdom of heaven
+.. csv-table:: Matthew 18:3 οὐ μή 
 
-unless you would turn, you may certainly not enter into the kingdom of the heavens This is really bad wording from our Unfolding Word literal text.   I suggest we drop it all together.
-[ This could also be translated “Unless you change (your manner of life) you will never enter the Kingdom of Heaven. JB translation]   [ NASB – Unless you are converted… you will not enter the kingdom of heaven;   NIV/ ESV – Unless you change… you will never enter the kingdom of heaven.]
+  ἐὰν,μὴ,στραφῆτε,…,**οὐ μὴ**,εἰσέλθητε,εἰς,τὴν,Βασιλείαν,τῶν,Οὐρανῶν.
+  ean,mē,straphēte,…,**ou mē**,eiselthēte,eis,tēn,Basileian,tōn,Ouranōn
+  if,not,you (all) repent,**no never**,will you (all),enter,into,the,kingdom,of,heaven
 
-[Note:  ἐὰν μὴ στραφῆτε  is similar to the example preceding this example “μή plus an aorist subjunctive”
+*unless you would turn, you* **may certainly not** *enter into the kingdom of the heavens.*
 
-6.	μή plus the optative mood – a negative wish… may it never be.
+[ This could also be translated “*Unless you change (your manner of life) you* **will never** *enter the Kingdom of Heaven.* ]
+
+[Note:]  ἐὰν μὴ στραφῆτε  is similar to the example preceding this example “μή plus an aorist subjunctive”
+
+
+6.	**μή plus the optative mood – a negative wish… may it never be.**
 
 Romans 3:31
 νόμον οὖν καταργοῦμεν διὰ τῆς πίστεως? μὴ γένοιτο!
