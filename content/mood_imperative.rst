@@ -523,7 +523,7 @@ Table V-IM-6  Formation of the Present Middle/Passive  Imperative Verb
 
 Just like the Present Active Imperative Verb, the Present Middle Imperative Verb is formed by using:
 
-  the 1) Present Tense Stem and 2) adding a Connecting Vowel plus 3) and the appropriate Middle/Passive Imperative morpheme from column 2 of `Table-V-IM-2 <https://ugg.readthedocs.io/en/latest/mood_imperative.html#imperative-morpheme-chart>`_ instead of the active imperative morpheme.
+  the 1) Present Tense Stem and 2) adding a Connecting Vowel plus 3) and the appropriate Middle/Passive Imperative morpheme in column 2 of `Table-V-IM-2 <https://ugg.readthedocs.io/en/latest/mood_imperative.html#imperative-morpheme-chart>`_ instead of the active imperative morpheme.
 
 .. raw:: html
 
@@ -640,7 +640,7 @@ Table V-IM-7  Formation of the First  Aorist  Middle  Imperative Verb
 
 The First Aorist Middle Imperative is formed with:
 
-1) the un-augmented First Aorist tense stem plus 2) the Aorist tense formative + 3)the Imperative Middle/Passive morpheme.
+1) the un-augmented First Aorist tense stem plus 2) the Aorist tense formative + 3) the appropriate Imperative Middle/Passive morpheme from column 2 in `Table-V-IM-2 <https://ugg.readthedocs.io/en/latest/mood_imperative.html#imperative-morpheme-chart>`_ .
 
 .. raw:: html
 
@@ -757,7 +757,7 @@ There is no Aorist tense formative because the use of the 2nd aorist tense stem 
 
 The Second Aorist Middle Imperative verb is therefore formed by using:
 
-  1) the un-augmented 2nd Aorist Tense Stem, and 2) adding a connecting vowel, and 3) the appropriate Imperative Morpheme.
+  1) the un-augmented 2nd Aorist Tense Stem, and 2) adding a connecting vowel, and 3) the appropriate Imperative Morpheme from Column 2 in `Table-V-IM-2 <https://ugg.readthedocs.io/en/latest/mood_imperative.html#imperative-morpheme-chart>`_.
 
 .. raw:: html
 
