@@ -47,10 +47,10 @@ It is therefore used:
 
   1.	When a superior commands or orders a subordinate to carry out a specific action.  [See `Example V-IM-12 <https://ugg.readthedocs.io/en/latest/mood_imperative.html#example-v-im-12-simple-command-present-tense>`_]
     a.	This force may be reduced to directing someone to do something. [See `Example V-IM-13 <https://ugg.readthedocs.io/en/latest/mood_imperative.html#example-v-im-13-command-reduced-to-direction>`_ ]
-  2.	It may be directed to a superior, when there is an expectation that the request is something that the superior would grant.  [See `Example V-IM-14 <https://ugg.readthedocs.io/en/latest/mood_imperative.html#example-v-im-14-imperative-used-to-address-a-superior>` ]
+  2.	It may be directed to a superior, when there is an expectation that the request is something that the superior would grant.  [See `Example V-IM-14 <https://ugg.readthedocs.io/en/latest/mood_imperative.html#example-v-im-14-imperative-used-to-address-a-superior>`_]
    
   3.	Prayers and petitions to a superior are often expressed in the imperative mood, with the understanding that the superior is still sovereign.
-  In this sense, it becomes more of a request or a request that can be expected to be answered in the affirmative because it is something the superior would be expected to normally grant. [ See `Example V-IM-15 <https://ugg.readthedocs.io/en/latest/mood_imperative.html#example-v-im-15-imperative-in-prayers>` ]
+  In this sense, it becomes more of a request or a request that can be expected to be answered in the affirmative because it is something the superior would be expected to normally grant. [ See `Example V-IM-15 <https://ugg.readthedocs.io/en/latest/mood_imperative.html#example-v-im-15-imperative-in-prayers>`_]
 
 The English language limits the use of the imperative to the second person.  However, third person singular and third person plural imperatives occur in the New Testament.  Third person imperatives are generally translated as “Let us”, “Let them”, “Let him”, or “Let her”.   This does not decrease the force of the imperative. It is still an imperative and should be understood as an imperative.  [See Example V-IM-16]
 
