@@ -867,7 +867,7 @@ Table V-IM-9 Formation of the First Aorist Passive Imperative Verb
 ^^^^^
 
 The First Aorist Passive Imperative verb is formed with:
-  1) the un-augmented First Aorist Passive tense stem plus 2) the Aorist Tense formative + 3)the Imperative Active (and Aorist passive) morpheme.
+  1) the un-augmented First Aorist Passive tense stem plus 2) the Aorist Tense formative + 3) the Imperative Active (and Aorist passive) morpheme found in column 1 of `Table-V-IM-2 <https://ugg.readthedocs.io/en/latest/mood_imperative.html#imperative-morpheme-chart>`_ .
 
 .. raw:: html
 
@@ -980,7 +980,7 @@ Table V-IM-10 Formation of the Second Aorist Passive Imperative Verb
 ^^^^^
 
  The Second Aorist Passive Imperative verb is formed with:
-  1) the un-augmented Second Aorist tense stem plus + 2) the Tense Formative (η) + 3) Imperative Active (and Aorist Passive) morpheme. 
+  1) the un-augmented Second Aorist tense stem plus + 2) the Tense Formative (η) + 3) Imperative Active (and Aorist Passive) morpheme found in column 1 of `Table-V-IM-2 <https://ugg.readthedocs.io/en/latest/mood_imperative.html#imperative-morpheme-chart>`_. 
   
   As we saw with First and Second Aorist passive verbs the Theta (θ) is dropped from the tense formative θη and becomes just η.  
  
