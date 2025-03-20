@@ -523,7 +523,7 @@ Table V-IM-6  Formation of the Present Middle/Passive  Imperative Verb
 
 Just like the Present Active Imperative Verb, the Present Middle Imperative Verb is formed by using:
 
-  the 1) Present Tense Stem and 2) adding a Connecting Vowel plus 3) and the appropriate Middle/Passive Imperative morpheme from column 2 of `Table-V-IM-2 <https://ugg.readthedocs.io/en/latest/mood_imperative.html#imperative-morpheme-chart>`_instead of the active imperative morpheme.
+  the 1) Present Tense Stem and 2) adding a Connecting Vowel plus 3) and the appropriate Middle/Passive Imperative morpheme from column 2 of `Table-V-IM-2 <https://ugg.readthedocs.io/en/latest/mood_imperative.html#imperative-morpheme-chart>`_ instead of the active imperative morpheme.
 
 .. raw:: html
 
