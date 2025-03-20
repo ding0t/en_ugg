@@ -64,7 +64,7 @@ Verbs in the imperative mood occur 1,877 times in the New Testament.
 Imperatives may also be used as a prohibition and as such are preceded with the particle μη.
 Μη is used as the particle for negation in all moods except the indicative mood. 
 
-There are six ways to say no in the Greek. [ See Example V-IM-17]
+There are six ways to say no in the Greek. [ See `Example V-IM-17 <https://ugg.readthedocs.io/en/latest/mood_imperative.html#v-im-17-examples-of-ways-to-say-no>`_]
 
   1.  Οὐ plus the indicative – simple negation
   2.  μή  plus an aorist imperative  - simple prohibition
