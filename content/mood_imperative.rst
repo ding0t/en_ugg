@@ -79,8 +79,8 @@ Form:
 
 The basic form for a verb in the imperative mood is given in:
 
-  *  Table V-MT-1a Active Imperative Verbs (Thematic Uncontracted)
-  *  Table V-MT-1b Present Active Imperative Verbs (Thematic contracted) 
+  *  `Table V-MT-1a <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-mt-1a-active-imperative-verbs-thematic-uncontracted>`_ Active Imperative Verbs (Thematic Uncontracted)
+  *  `Table V-MT-1b <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-mt-1b-present-active-imperative-verbs-thematic-contracted>`_ Present Active Imperative Verbs (Thematic contracted) 
   *  Table V-MT-2a Middle/Passive uncontracted verbs¶
   *  Table V-MT-2b Present Middle/Passive Contracted verbs
   *  Table V-MT-3 Aorist Passive Imperative verbs
