@@ -117,8 +117,8 @@ Imperative Morpheme Chart
     <tbody>
       <tr>
         <td class="tg-0lax"></td>
-        <td class="tg-1wig">Present Active,<br>Aorist Active, and<br>Aorist Passive</td>
-        <td class="tg-1wig">Middle/Passive</td>
+        <td class="tg-1wig">Present Active,<br>Aorist Active, and<br>Aorist Passive<br>Column 1</td>
+        <td class="tg-1wig">Middle/Passive<br><br><br>Column 2</td>
       </tr>
       <tr>
         <td class="tg-baqh"><span style="font-weight:bold">Single</span></td>
