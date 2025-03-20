@@ -117,8 +117,8 @@ Imperative Morpheme Chart
     <tbody>
       <tr>
         <td class="tg-0lax"></td>
-        <td class="tg-1wig">Present Active,<br>Aorist Active, and<br>Aorist Passive<br>Column 1</td>
-        <td class="tg-1wig">Middle/Passive<br><br><br>Column 2</td>
+        <td class="tg-1wig">Present Active,<br>Aorist Active, and<br>Aorist Passive<br><br>Column 1</td>
+        <td class="tg-1wig">Middle/Passive<br><br><br><br>Column 2</td>
       </tr>
       <tr>
         <td class="tg-baqh"><span style="font-weight:bold">Single</span></td>
@@ -162,7 +162,7 @@ Table V-IM-3 Formation of Present Active Imperative Verb
 
 The Present Active Imperative Verb is formed by using:
 
-the 1) Present Tense Stem and 2) adding a Connecting Vowel plus 3) the appropriate Imperative morpheme.
+the 1) Present Tense Stem and 2) adding a Connecting Vowel plus 3) the appropriate Imperative morpheme from column 1 of `Table-V-IM-2 <https://ugg.readthedocs.io/en/latest/mood_imperative.html#imperative-morpheme-chart>`_.
 
 .. raw:: html
 
