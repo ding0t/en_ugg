@@ -55,9 +55,9 @@ It is therefore used:
 The English language limits the use of the imperative to the second person.  However, third person singular and third person plural imperatives occur in the New Testament.  Third person imperatives are generally translated as “Let us”, “Let them”, “Let him”, or “Let her”.   This does not decrease the force of the imperative. It is still an imperative and should be understood as an imperative.  [See `Example V-IM-16 <https://ugg.readthedocs.io/en/latest/mood_imperative.html#example-v-im-16-third-person-imperative-commands>`_]
 
 
-Because the Imperative mood expresses the intention of the speaker it always implies something that will incur in the future.  The time is therefore future.  Imperative verbs in the aorist tense are used to express action as a whole.  It does not speak to the duration, repetition, or continuity of the action.   [See `Example V-IM-12 <https://ugg.readthedocs.io/en/latest/mood_imperative.html#example-v-im-12-simple-command-present-tense>`_]
+Because the Imperative mood expresses the intention of the speaker it always implies something that will incur in the future.  The time is therefore future.  Imperative verbs in the aorist tense are used to express action as a whole.  It does not speak to the duration, repetition, or continuity of the action.   [See `Example V-IM-11 <https://ugg.readthedocs.io/en/latest/mood_imperative.html#example-v-im-11-simple-command-aorist-tense>`_]
 
-Present imperative verbs refers to action that is to be repeated or continuous in nature.  [See Example V-IM-12a]
+Present imperative verbs refers to action that is to be repeated or continuous in nature.  [See `Example V-IM-12a <https://ugg.readthedocs.io/en/latest/mood_imperative.html#example-v-im-12a-continual-action>`_]
 
 Verbs in the imperative mood occur 1,877 times in the New Testament.
 
