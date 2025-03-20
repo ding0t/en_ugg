@@ -274,7 +274,7 @@ V-IM-3a Present Active Imperative Verb
 
 
 [*  Note:]  The Second Person plural λύετε is the same form for both the Second Person plural indicative and the Second Person plural imperative. 
-The translator must make a decision as to if it is to be interpreted as an indicative or imperative verb based on the context.  [See example XXX below.]
+The translator must make a decision as to if it is to be interpreted as an indicative or imperative verb based on the context.
 
 Table V-IM-4  Formation of the 1st Aorist Active Imperative Verb
 ^^^^^^^^^^^
@@ -392,7 +392,7 @@ V-IM-4a 1st Aorist Active Imperative Verb
 [Note:]
   \*  With the aorist tense there is no implication of repeated action.
   
-  \**  The Second Person plural λύσατε is the same form for both the Second Person plural indicative and the Second Person plural imperative. The translator must make a decision as to if it is to be interpreted as an indicative or imperative verb based on the context.  [See example XXX below.]
+  \**  The Second Person plural λύσατε is the same form for both the Second Person plural indicative and the Second Person plural imperative. The translator must make a decision as to if it is to be interpreted as an indicative or imperative verb based on the context.
 
 
 Table V-IM-5  Formation of the 2nd Aorist Active Imperative Verb
@@ -514,7 +514,7 @@ V-IM-5a 2nd  Aorist Active Imperative Verb
 
 
 [*  Note:]  The Second Person plural λαβέτε is the same form for both the Second Person plural indicative and the Second Person plural imperative.
-The translator must make a decision as to if it is to be interpreted as an indicative or imperative verb based on the context.  [See example XXX below.]
+The translator must make a decision as to if it is to be interpreted as an indicative or imperative verb based on the context.
 
 
 
@@ -632,7 +632,7 @@ V-IM-6a Present Middle/Passive Imperative Verb
     </table></br>
 
 
-[*  Note:]  The Second Person Middle plural λύεσθε is the same form for both the Second Person Middle plural indicative and the Second Person Middle plural imperative. The translator must make a decision as to if it is to be interpreted as an indicative or imperative verb based on the context.  [See example XXX below.]
+[*  Note:]  The Second Person Middle plural λύεσθε is the same form for both the Second Person Middle plural indicative and the Second Person Middle plural imperative. The translator must make a decision as to if it is to be interpreted as an indicative or imperative verb based on the context.
 
 
 Table V-IM-7  Formation of the First  Aorist  Middle  Imperative Verb
