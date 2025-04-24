@@ -17,3 +17,6 @@ and do **not** grieve the Holy Spirit of God
 
 Article
 -------
+
+See `Example V-IM-17 <https://ugg.readthedocs.io/en/latest/mood_imperative.html#v-im-17-examples-of-ways-to-say-no>`_  in the article on Imperatives
+for 5 ways to say no.
