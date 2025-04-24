@@ -1224,7 +1224,7 @@ or
 
 
 
-[V-IM-17]   Examples of ways to say no
+Example V-IM-17   Examples of ways to say no
 ^^^^
 
 [Note:] 	The indicative tense is used with οὐ.  All other tenses use μή for negation.
