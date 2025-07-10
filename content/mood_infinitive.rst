@@ -5,17 +5,23 @@
 Mood infinitive
 ===============
 
-Glossary
+Glossary    [UNDER  CONSTRUCTION1]
 --------
 
 An **infinitive** is a verbal noun (e.g., *to eat*, *to run*, *to go*).
-It expresses aspect and voice like other (finite) verbs, but does not
-indicate person or number. It can take an object, but usually does not
-explicitly express a subject.
+It expresses aspect (*simple, continuous, or repeated action*) and voice (*active, middle, or passive*) like other (finite) verbs, but does not
+indicate person or number. It can take an object, but usually does not explicitly express a subject.
 
-οὓς οὐκ ἔξεστιν **φαγεῖν** εἰ μὴ τοῖς ἱερεῦσιν, (Mrk 2:26)
+**Example**
 
-it is not lawful for anyone **to eat** except the priests
+cvs-table::  Example V-NM-1 Mark 2:26
+
+  οὓς,οὐκ,ἔξεστιν,**φαγεῖν**,εἰ μὴ,τοῖς,ἱερεῦσιν, 
+  hous,ouk,exestin,**phagein**,ei mē,tous,hiereis
+  which,(is) not,authorized,**to eat**,except,the,priests
+
+*which is not lawful* **to eat**, *except for the priests*
+
 
 Article
 -------
