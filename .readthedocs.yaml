@@ -8,7 +8,7 @@ build:
   jobs:
     pre_build:
       - mkdir -p $READTHEDOCS_OUTPUT/pdf
-      - wget https://www.sbl-site.org/Fonts/SBL_grk.ttf -O $READTHEDOCS_OUTPUT/pdf/SBL_grk.ttf
+      - wget https://www.sbl-site.org/wp-content/themes/basket/fonts/bib-fonts/SBL_grk.ttf
 
 # Build documentation in the docs/ directory with Sphinx
 sphinx:
