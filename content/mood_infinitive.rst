@@ -87,7 +87,7 @@ The article can be in any of the cases.  If the infinitive is preceded by a prep
 Infinitives occur 2,290 times in the New Testament of which only a little over 300 times are with the article.   The vast majority (well over 1,700 times) are without the article.
 
 
-Form
+Form1
 ~~~~~
 
 The basic form for Infinitives are given in:
