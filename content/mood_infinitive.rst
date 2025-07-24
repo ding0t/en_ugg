@@ -26,6 +26,9 @@ cvs-table::  Example V-NM-1 Mark 2:26
 Article  [ UNDER  CONSTRUCTION}]
 -------
 
+Background
+~~~~~~~~~
+
 **Infinitives**  are nouns formed from a verb.  Therefore, they are referred to as *Verbal Nouns*.  
 
 **Verbal Characteristics:**
@@ -84,13 +87,77 @@ The article can be in any of the cases.  If the infinitive is preceded by a prep
 Infinitives occur 2,290 times in the New Testament of which only a little over 300 times are with the article.   The vast majority (well over 1,700 times) are without the article.
 
 
-FORM
+Form
+~~~~~
 
 The basic form for Infinitives are given in:
-•	Table V-NT Verb Infinitive Morpheme Chart, and 
-•	Table V-NT-1 Verb Infinitive with theme vowels
-Table V-NM-2 Verb Infinitive Morpheme Chart¶
-Table V-NM-2
+  *  `Table V-NT Infinitive Morpheme Chart <https://ugg.readthedocs.io/en/latest/paradigms.html#verbs-infinitive>`_ (presented below with comments), and 
+  *  `Table V-NT-1 Infinitive with theme vowels <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-nt-1-verb-infinitive-with-theme-vowels>`_
+ 
+
+Table V-NM-2 Infinitive Morpheme
+^^^^^
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-4erg{border-color:inherit;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-4yb7{background-color:#ffffff;border-color:inherit;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-yk7f{background-color:#ffffff;border-color:#000000;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-wovw{background-color:#fffc9e;border-color:#000000;text-align:center;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-6t3r{font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
+    .tg .tg-c6of{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-wovw" colspan="5"><span style="font-weight:bold">Table V-NT</span><br><span style="font-weight:bold">Non-Indicative </span><br><span style="font-weight:bold">Infinitive - Morpheme Chart</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-fymr"></td>
+        <td class="tg-4yb7">Present</td>
+        <td class="tg-4yb7">1st Aorist</td>
+        <td class="tg-4yb7">2nd Aorist</td>
+        <td class="tg-6t3r">Perfect</td>
+      </tr>
+      <tr>
+        <td class="tg-yk7f">Active</td>
+        <td class="tg-iks7">ειν</td>
+        <td class="tg-c6of">σαι</td>
+        <td class="tg-0pky">ειν</td>
+        <td class="tg-0lax">κεναι</td>
+      </tr>
+      <tr>
+        <td class="tg-yk7f">Middle</td>
+        <td class="tg-iks7">εσθαι</td>
+        <td class="tg-c6of">σασθαι</td>
+        <td class="tg-c6of">εσθαι</td>
+        <td class="tg-0lax">σθαι</td>
+      </tr>
+      <tr>
+        <td class="tg-4erg">Passive</td>
+        <td class="tg-0pky">εσθαι</td>
+        <td class="tg-0pky">θηναι</td>
+        <td class="tg-0pky">ηναι</td>
+        <td class="tg-0lax">σθαι</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+
+
+
 Infinitive - Morpheme Chart
 	Present	1st Aorist	2nd Aorist	Perfect
 Active	ειν	σαι	ειν	κεναι
