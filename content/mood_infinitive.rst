@@ -30,15 +30,15 @@ Article  [ UNDER  CONSTRUCTION}]
 
 **Verbal Characteristics:**
 
-The *verbal characteristics* of an Infinitives includes tense (Present, Aorist, and Perfect).
+The *verbal characteristics* of Infinitives includes tense (Present, Aorist, and Perfect).
 
-    The tense of an Infinitive does not refer to time, but does refer to Aspect.
+    The tense of an Infinitive does not refer to time, but does refer to **Aspect**.
 
       *  The Present tense is used to portray continuous or repeated action. 
       *  The Aorist tense is used to portray simple or undefined action.
       *  The Perfect tense is used to portray completed action.
 
-The Verbal characteristics of an Infinitive also includes Voice.
+The *Verbal characteristics* of an Infinitive also includes **Voice**.
 
       *  Active Voice – when the subject does the action of the infinitive. 
       *  Middle Voice – when the subject does the action on itself or in many cases when the verb is deponent.
