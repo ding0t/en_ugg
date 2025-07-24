@@ -38,7 +38,7 @@ The *verbal characteristics* of Infinitives includes tense (Present, Aorist, and
       *  The Aorist tense is used to portray simple or undefined action.
       *  The Perfect tense is used to portray completed action.
 
-The *Verbal characteristics* of an Infinitive also includes **Voice**.
+The *Verbal characteristics* of Infinitives also includes **Voice**.
 
       *  Active Voice – when the subject does the action of the infinitive. 
       *  Middle Voice – when the subject does the action on itself or in many cases when the verb is deponent.
@@ -48,19 +48,21 @@ The Infinitive can be modified by an adverb.
 
 The Infinitive can take an object.
 
-The Infinitive is indeclinable with the result that the person and number do not change.   
-An Infinitive may have a noun or pronoun *in the 3rd person singular accusative form* that acts as the subject of the infinitive.  (See example… V-NM-8)
+The Infinitive is indeclinable with the result that the person and number do not change.
+
+Infinitives may have a noun or pronoun **in the 3rd person singular accusative form** that *acts as the subject* of the infinitive.  (See example… V-NM-8)
 
 
 The Verbal uses of the infinitive include:
-1.	Purpose [See example]
-2.	Result   [See example]
-3.	Cause/Reason   [See example]
-4.	Time (with the aid of a preposition)   [See examples]
-a.	πρὸ (with the genitive- τοῦ), or πριν, or  πριν ἤ - followed by the infinitive - ( gloss - before )
-b.	ἐν  (with the dative – τῷ) followed by the infinitive – (gloss – as, when, while)
-c.	μετὰ (with the accusative – τὀ) followed by the infinitive – (gloss – after)
-d.	ἕως (with the genitive - τοῦ) followed by the infinitive – (gloss – until)
+
+  1.  Purpose [See example]
+  2.  Result   [See example]
+  3.  Cause/Reason   [See example]
+  4.  Time (with the aid of a preposition)   [See examples]
+    a.  πρὸ (with the genitive- τοῦ), or πριν, or  πριν ἤ - followed by the infinitive - ( gloss - before )
+    b.  ἐν  (with the dative – τῷ) followed by the infinitive – (gloss – as, when, while)
+    c.  μετὰ (with the accusative – τὀ) followed by the infinitive – (gloss – after)
+    d.  ἕως (with the genitive - τοῦ) followed by the infinitive – (gloss – until)
 
 
 Characteristics similar to a noun (Substantive Use):
