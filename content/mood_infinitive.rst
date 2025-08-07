@@ -23,7 +23,7 @@ indicate person or number. It can take an object, but usually does not explicitl
 *which is not lawful* **to eat**, *except for the priests*
 
 
-Article  [ UNDER  CONSTRUCTION}]
+Article  [ UNDER  CONSTRUCTION]
 -------
 
 Background
@@ -33,23 +33,23 @@ Background
 
 **Verbal Characteristics:**
 
-The *verbal characteristics* of Infinitives includes tense (Present, Aorist, and Perfect).
+  1)  The *verbal characteristics* of Infinitives includes tense (Present, Aorist, and Perfect).
 
-    The tense of an Infinitive does not refer to time, but does refer to **Aspect**.
+      The tense of an Infinitive does not refer to time, but does refer to **Aspect**.
 
-      *  The Present tense is used to portray continuous or repeated action. 
-      *  The Aorist tense is used to portray simple or undefined action.
-      *  The Perfect tense is used to portray completed action.
+        *  The Present tense is used to portray continuous or repeated action. 
+        *  The Aorist tense is used to portray simple or undefined action.
+        *  The Perfect tense is used to portray completed action.
 
-The *Verbal characteristics* of Infinitives also includes **Voice**.
+  2)  The *Verbal characteristics* of Infinitives also includes **Voice**.
 
       *  Active Voice – when the subject does the action of the infinitive. 
       *  Middle Voice – when the subject does the action on itself or in many cases when the verb is deponent.
       *  Passive Voice – when the subject is acted upon by something else.  It is the recipient of the action.
 
-The Infinitive can be modified by an adverb.
+  3)  The Infinitive can be modified by an adverb.
 
-The Infinitive can take an object.
+  4)  The Infinitive can take an object.
 
 The Infinitive is indeclinable with the result that the person and number do not change.
 
