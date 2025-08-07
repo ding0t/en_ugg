@@ -56,7 +56,7 @@ The Infinitive is indeclinable with the result that the person and number do not
 Infinitives may have a noun or pronoun **in the 3rd person singular accusative form** that *acts as the subject* of the infinitive.  (See example… V-NM-8)
 
 
-The Verbal uses of the infinitive include:
+**The Verbal uses of the infinitive include:**
 
   1.  Purpose [See example]
   2.  Result   [See example]
@@ -68,18 +68,17 @@ The Verbal uses of the infinitive include:
     d.  ἕως (with the genitive - τοῦ) followed by the infinitive – (gloss – until)
 
 
-Characteristics similar to a noun (Substantive Use):
+**Characteristics similar to a noun (Substantive Use):**
 
-	It can take an article.  If the article is present, it will generally be the single neuter article (τὀ).
-		
-The article can be in any of the cases.  If the infinitive is preceded by a preposition, an article will be present and the case of the article will be determined by the preposition. 
+	1.  It can take an article.  If the article is present, it will generally be the single neuter article (τὀ).
+  2.  The article can be in any of the cases.  If the infinitive is preceded by a preposition, an article will be present and the case of the article will be determined by the preposition. 
 
 	As a Substantive, an Infinitive can be used as:
-•	The subject of a sentence,
-•	A direct or indirect object in the sentence,
-•	An adjective to modify another word, 
-•	In apposition to a noun, or
-•	It can be qualified by an adjective.
+    a.  The subject of a sentence,
+    b.  A direct or indirect object in the sentence,
+    c.  An adjective to modify another word, 
+    d.  In apposition to a noun, or
+    e.  It can be qualified by an adjective.
 
 
 
