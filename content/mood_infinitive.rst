@@ -168,33 +168,31 @@ The Infinitive is formed by adding the Infinitive morpheme to the verbal root.
       overflow:hidden;padding:10px 5px;word-break:normal;}
     .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
       font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-    .tg .tg-w1ir{background-color:#c0c0c0;border-color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
-    .tg .tg-pnhl{background-color:#c0c0c0;border-color:#c0c0c0;text-align:left;vertical-align:top}
-    .tg .tg-btz9{background-color:#fcff2f;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-c82p{background-color:#fffe65;border-color:inherit;text-align:center;vertical-align:top}
     .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-7g6k{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
-    .tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
-    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
     </style>
     <table class="tg"><thead>
       <tr>
-        <th class="tg-btz9" colspan="5">V-NM-3<br>Present Infinitive</th>
+        <th class="tg-c82p" colspan="5">V-NM-3<br>Present Infinitive</th>
       </tr></thead>
     <tbody>
       <tr>
-        <td class="tg-3xi5">Present Tense Stem</td>
-        <td class="tg-7g6k">+</td>
-        <td class="tg-w1ir">Infinitive Morpheme</td>
-        <td class="tg-pnhl"></td>
-        <td class="tg-y6fn"></td>
+        <td class="tg-c3ow">Present Tense Stem</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-c3ow">Infinitive Morpheme</td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
       </tr>
       <tr>
         <td class="tg-c3ow">λυ</td>
         <td class="tg-c3ow"><span style="font-weight:bold">+</span></td>
         <td class="tg-c3ow">ειν</td>
-        <td class="tg-0lax">-&gt;</td>
-        <td class="tg-0lax">λύειν</td>
+        <td class="tg-fymr">-&gt;</td>
+        <td class="tg-0pky">λύειν</td>
       </tr>
       <tr>
         <td class="tg-c3ow" colspan="5">to loose</td>
