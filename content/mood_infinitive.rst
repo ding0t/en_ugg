@@ -168,11 +168,12 @@ The Infinitive is formed by adding the Infinitive morpheme to the verbal root.
       overflow:hidden;padding:10px 5px;word-break:normal;}
     .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
       font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-    .tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-w1ir{background-color:#c0c0c0;border-color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
     .tg .tg-pnhl{background-color:#c0c0c0;border-color:#c0c0c0;text-align:left;vertical-align:top}
     .tg .tg-btz9{background-color:#fcff2f;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
     .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
     .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-7g6k{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
     .tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
     .tg .tg-0lax{text-align:left;vertical-align:top}
     </style>
@@ -183,8 +184,8 @@ The Infinitive is formed by adding the Infinitive morpheme to the verbal root.
     <tbody>
       <tr>
         <td class="tg-3xi5">Present Tense Stem</td>
-        <td class="tg-3xi5">+</td>
-        <td class="tg-3xi5">Infinitive Morpheme</td>
+        <td class="tg-7g6k">+</td>
+        <td class="tg-w1ir">Infinitive Morpheme</td>
         <td class="tg-pnhl"></td>
         <td class="tg-y6fn"></td>
       </tr>
