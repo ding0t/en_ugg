@@ -71,9 +71,8 @@ Infinitives may have a noun or pronoun **in the 3rd person singular accusative f
 **Characteristics similar to a noun (Substantive Use):**
 
 	1.  It can take an article.  If the article is present, it will generally be the single neuter article (τὀ).
-  2.  The article can be in any of the cases.  If the infinitive is preceded by a preposition, an article will be present and the case of the article will be determined by the preposition. 
-
-	As a Substantive, an Infinitive can be used as:
+  2.  The article can be in any of the cases.  If the infinitive is preceded by a preposition, an article will be present and the case of the article will be determined by the preposition.
+	3.  As a Substantive, an Infinitive can be used as:
     a.  The subject of a sentence,
     b.  A direct or indirect object in the sentence,
     c.  An adjective to modify another word, 
