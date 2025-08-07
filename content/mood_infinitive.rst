@@ -204,15 +204,68 @@ Note: by using the present tense, there is an implication to continually or repe
 
 
 Table  V-NM-4   Paradigm Present and Aorist Infinitive
-Table V-NM-4
-Present and Aorist Infinitive Paradigm
-	Lexical Form	Active	Middle	Passive
-Present	λύω	λύειν	λύεσθαι	λύεσθαι
-1st Aorist	λύω	λῦσαι	λύσασθαι	λυθῆναι
-2nd Aorist	λάμβανω	λάβειν	λάβεσθαι	λημφθῆναι
-Note: The 2 Aorist Active indicative is ἔλαβον; therefore, the Aorist active and middle infinitives are formed off of the verbal root λαβ.  The Aorist Passive indicative is ἐλήμφθην, Therefore, one would expect the Aorist Passive Infinitive to be λήμφναι, but in this case it is treated like a 1st Aorist infinitive resulting in  λημφ + θηναι  ->  λημφθήναι.
+^^^^
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-34fe{background-color:#c0c0c0;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-eix7{background-color:#f8ff00;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-eix7" colspan="5">V-NM-4<br>Present and Aorist Infinitive Paradigm</th>
+       </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-34fe"></td>
+        <td class="tg-7btt">Lexical Form</td>
+        <td class="tg-c3ow"><span style="font-weight:bold">Active</span></td>
+        <td class="tg-0pky"><span style="font-weight:bold">Middle</span></td>
+        <td class="tg-fymr">Passive</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow"><span style="font-weight:bold">Present</span></td>
+        <td class="tg-c3ow">λύω</td>
+        <td class="tg-c3ow">λύειν</td>
+        <td class="tg-0pky">λύεσθαι</td>
+        <td class="tg-0pky">λύεσθαι</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky"><span style="font-weight:bold">1st Aorist</span></td>
+        <td class="tg-c3ow">λύω</td>
+        <td class="tg-0pky">λῦσαι</td>
+        <td class="tg-0pky">λύσασθαι</td>
+        <td class="tg-0pky">λυθῆναι</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky"><span style="font-weight:bold">2nd Aorist</span></td>
+        <td class="tg-c3ow">λάμβανω</td>
+        <td class="tg-0pky">λάβειν</td>
+        <td class="tg-0pky">λάβεσθαι</td>
+        <td class="tg-0pky">λημφθῆναι</td>
+      </tr>
+    </tbody></table></br>
+
+Note: 
+    The 2 Aorist Active indicative is ἔλαβον; therefore, the Aorist active and middle infinitives are formed off of the verbal root λαβ.  The Aorist Passive indicative is ἐλήμφθην, Therefore, one would expect the Aorist Passive Infinitive to be λήμφναι, but in this case it is treated like a 1st Aorist infinitive resulting in  λημφ + θηναι  ->  λημφθήναι.
+
+
 Table V-NM-5 Future and Perfect Infinitives
+^^^^
+
 The Future Infinitive is formed by adding the Future Tense Formative (σ) to the appropriate  Tense stem (Present active or aorist passive without the augment)  and then adding the Present Infinitive morpheme (active, middle, or passive) as appropriate.
+
+
 Table V-NM-5
 Formation of Future Infinitive
 Tense Stem	
