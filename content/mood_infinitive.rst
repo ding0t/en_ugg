@@ -183,8 +183,8 @@ The Infinitive is formed by adding the Infinitive morpheme to the verbal root.
     <tbody>
       <tr>
         <td class="tg-3xi5">Present Tense Stem</td>
-        <td class="tg-zlqz">+</td>
-        <td class="tg-zlqz">Infinitive Morpheme</td>
+        <td class="tg-3xi5">+</td>
+        <td class="tg-3xi5">Infinitive Morpheme</td>
         <td class="tg-pnhl"></td>
         <td class="tg-y6fn"></td>
       </tr>
