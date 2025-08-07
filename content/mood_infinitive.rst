@@ -151,16 +151,15 @@ Table V-NM-2 Infinitive Morpheme
     </table></br>
 
 
+Note:   1) The Active and Middle morphemes are the same for both the Present and 2nd Aorist tense; and 
+      2) the Perfect Middle and Perfect Passive morphemes are the same. 
 
-
-Infinitive - Morpheme Chart
-	Present	1st Aorist	2nd Aorist	Perfect
-Active	ειν	σαι	ειν	κεναι
-Middle	εσθαι	σασθαι	εσθαι	σθαι
-Passive	εσθαι	θηναι	ηναι	σθαι
-Note:   1) The Active and Middle morphemes are the same for both the Present and 2nd Aorist tense; and 2) the Perfect Middle and Perfect Passive morphemes are the same. 
 Table V-NM-3 Formation of the Present and Aorist Infinitive
+^^^^
+
 The Infinitive is formed by adding the Infinitive morpheme to the verbal root.
+
+
 Table V-NM-3
 Present Infinitive
 Present Tense Stem	+	Infinitive Morpheme		
