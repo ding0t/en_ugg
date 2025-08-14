@@ -422,23 +422,25 @@ Examples:
 Verbal uses of the infinitive:
 
 V-NM-6  Infinitive of Purpose
+^^^^^
 
-An  Infinitive of Purpose may or may not be preceded by the definite article.  
 
-Prepositions indicating  purpose such as (ἐις  τὸ)  or (πρὁς τό) may be followed by an infinitive.  
+  *  An  Infinitive of Purpose may or may not be preceded by the definite article.  
+  *  Prepositions indicating  purpose such as (ἐις  τὸ)  or (πρὁς τό) may be followed by an infinitive.  
+  *  An infinitive preceded by an article in the genitive (τοῦ) may be used to indicate purpose.
 
-An infinitive preceded by an article in the genitive (τοῦ) may be used to indicate purpose.
+**Example V-NM-6 Infinitive of Purpose with no article**
 
-Example V-NM-6 Infinitive of Purpose with no article
 
-Matthew 2:2  
-καὶ ἤλθομεν προσκυνῆσαι αὐτῷ
-kai ēlthomen proskynēsai autō	
-and we came  to worship   Him	
+.. csv-table::  Matthew 2:2  
 
-and (we) came to worship him
+  καὶ,ἤλθομεν,**προσκυνῆσαι**,αὐτῷ
+  kai,ēlthomen,**proskynēsai**,autō	
+  and,we came,**to worship**.Him	
 
-Example V-NM-6a   Infinitive of Purpose preceded by ἔις
+*and (we) came* **to worship** *Him*
+
+**Example V-NM-6a   Infinitive of Purpose preceded by ἔις**
 
 Matthew 26:2
 ὁ Υἱὸς τοῦ Ἀνθρώπου παραδίδοται                      εἰς τὸ σταυρωθῆναι.
