@@ -446,7 +446,7 @@ V-NM-6  Infinitive of Purpose
 
   ὁ,Υἱὸς,τοῦ,Aνθρώπου,παραδίδοται,**εἰς**,**τὸ**,**σταυρωθῆναι** 
   ho,Huios,tou,Anthrōpou,paradidotai,**eis**,**to**,**staurōthēnai**
- The,Son,of,man,is being handed over,**into,**the**,**to be crucified**
+ The,Son,of,man,is being handed over,**into**,**the**,**to be crucified**
 
 *the Son of Man is being handed over* **to be crucified.**
 
@@ -468,14 +468,16 @@ The infinitive of purpose places a stress on the intention of the person carryin
 
 **Example V-NM-6c  Infinitive of Purpose preceded by definite article in the Genitive (τοῦ)**
 
-Matthew 3:13
-παραγίνεται ὁ Ἰησοῦς…  πρὸς τὸν Ἰωάννην, τοῦ βαπτισθῆναι ὑπ’ αὐτοῦ
-paraginetai ho Iēsous…  pros ton Iōannēn, tou baptisthēnai hyp’ autou
-He came     the Jesus        to    the John        to   be baptized   by    him
+.. csv-table:: Matthew 3:13
 
-Jesus comes…    to John, to be baptized by him.
+  παραγίνεται,ὁ,Ἰησοῦς,…,πρὸς,τὸν,Ἰωάννην,**τοῦ**,**βαπτισθῆναι**,ὑπ’,αὐτοῦ
+  paraginetai,ho,Iēsous,…,pros,ton,Iōannēn,**tou**,**baptisthēnai**,hyp’,autou
+  He came,the,Jesus,to,,the,John,**to**,**be baptized**,by,him
+
+*Jesus comes…    to John*,**to be baptized** *by him.*
 
 V-NM-7  Infinitives of Result
+^^^^^
 
 Infinitives of Result place an emphasis on the outcome or result of the verb.   
 
