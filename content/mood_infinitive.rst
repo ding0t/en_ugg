@@ -455,13 +455,14 @@ V-NM-6  Infinitive of Purpose
 
 The infinitive of purpose places a stress on the intention of the person carrying out the action.  Therefore it is appropriate to insert such key words as “In order to”, or “for the purpose of” in the translation.
 
-.. cav-table:: Matthew 6:1
+.. csv-table:: Matthew 6:1
 
   τὴν,δικαιοσύνην,ὑμῶν,μὴ,ποιεῖν,ἔμπροσθεν,τῶν,ἀνθρώπων,**πρὸς**,**τὸ**,**θεαθῆναι**,αὐτοῖς
   tēn,dikaiosynēn,hymōn,mē,poiein,emprosthen,tōn,anthrōpōn,**pros**,**to**,**theathēnai**,autois
   the,righteousness,of you all,not,to do,before,the,men,**in order to**,**the**,**be seen**,by them
 
 *not to do your righteousness before men* **to be seen** *by them*	, or
+
 *Do not do your righteousness before men* **to be seen** by them*
 
 
