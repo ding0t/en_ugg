@@ -436,19 +436,23 @@ V-NM-6  Infinitive of Purpose
 
   καὶ,ἤλθομεν,**προσκυνῆσαι**,αὐτῷ
   kai,ēlthomen,**proskynēsai**,autō	
-  and,we came,**to worship**.Him	
+  and,we came,**to worship**,Him	
 
 *and (we) came* **to worship** *Him*
 
 **Example V-NM-6a   Infinitive of Purpose preceded by ἔις**
 
-Matthew 26:2
-ὁ Υἱὸς τοῦ Ἀνθρώπου παραδίδοται                      εἰς τὸ σταυρωθῆναι.
-ho Huios tou Anthrōpou paradidotai                     eis to staurōthēnai
-The Son of   man               is being handed over   into   the   to be crucified
+.. csv-table:: Matthew 26:2
 
-the Son of Man is being handed over to be crucified.”
-Example V-NM-6b   Infinitive of Purpose preceded by πρός
+  ὁ,Υἱὸς,τοῦ,Aνθρώπου,παραδίδοται,**εἰς**,**τὸ**,**σταυρωθῆναι** 
+  ho,Huios,tou,Anthrōpou,paradidotai,**eis**,**to**,**staurōthēnai**
+ The,Son,of,man,is being handed over,**into,**the**,**to be crucified**
+
+*the Son of Man is being handed over* **to be crucified.**
+
+**Example V-NM-6b   Infinitive of Purpose preceded by πρός**
+
+
 The infinitive of purpose places a stress on the intention of the person carrying out the action.  Therefore it is appropriate to insert such key words as “In order to”, or “for the purpose of” in the translation.
 
 Matthew 6:1
