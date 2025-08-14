@@ -500,15 +500,16 @@ Key words that may help in translating are  “with the result that”, “so th
 
 **Example V-NM-7a   Infinitive of Result with τοῦ**
 
-Acts 18:10
-οὐδεὶς ἐπιθήσεταί σοι τοῦ κακῶσαί σε, διότι λαός ἐστί μοι πολὺς
-oudeis epithēsetai soi tou kakōsai se,        dioti        laos   esti moi polys
-no one  will attack you so as to harm you, because people are my many
+.. csv-table:: Acts 18:10
 
-no one will attack you to harm you, for I have many people.
+  οὐδεὶς,ἐπιθήσεταί,σοι,**τοῦ**,**κακῶσαί**,σε,διότι,λαός,ἐστί,μοι,πολὺς
+  oudeis,epithēsetai,soi,**tou**,**kakōsai**,se,dioti,laos,esti,moi,polys
+  no one,will attack,you,**so as**,**to harm**,you,because,people,are,my,many
+
+*No one will attack you* **to harm** *you, for I have many people.*
 
 
-Example V-NM-7b  Infinitive of Result with εἰς τό
+**Example V-NM-7b  Infinitive of Result with εἰς τό**
 
 Romans 6:12
 μὴ  … βασιλευέτω ἡ ἁμαρτία ἐν … ὑμῶν σώματι, εἰς τὸ ὑπακούειν ταῖς ἐπιθυμίαις αὐτοῦ
