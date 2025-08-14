@@ -265,22 +265,62 @@ Table V-NM-5 Future and Perfect Infinitives
 
 The Future Infinitive is formed by adding the Future Tense Formative (σ) to the appropriate  Tense stem (Present active or aorist passive without the augment)  and then adding the Present Infinitive morpheme (active, middle, or passive) as appropriate.
 
+.. raw:: html
 
-Table V-NM-5
-Formation of Future Infinitive
-Tense Stem	
-+	Tense
-Formative	
-+	Present
-Infinitive
-Morpheme	
-->	
-λυ	+	σ	+	ειν	->	λὐσειν
-To loose
-Technically, the Future Infinitive is formed by the Tense Stem + the Tense Formative (σ) + a connecting vowel (ε) + the Present Infinitive Morpheme which is (εν).   The two epsilons then contract to ει resulting in ειν.   σ  + ε + εν ->        σ + εε+ ν ->    σ + ει + ν -> σειν.
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-zv36{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-i1lm{background-color:#f8ff00;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-i1lm" colspan="7">Table V-NM-5<br>Formation of Future Infinitive</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-fymr">Tense Stem</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-fymr">Tense<br>Formative</td>
+        <td class="tg-1wig">+</td>
+        <td class="tg-1wig">Present<br>Infinitive<br>Morpheme</td>
+        <td class="tg-1wig">-&gt;</td>
+        <td class="tg-0lax"></td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">λυ</td>
+        <td class="tg-zv36">+</td>
+        <td class="tg-3xi5">σ</td>
+        <td class="tg-1wig">+</td>
+        <td class="tg-baqh">ειν</td>
+        <td class="tg-1wig">-&gt;</td>
+        <td class="tg-0lax">λὐσειν</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow" colspan="7">to loose</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+
+Technically, the **Future Infinitive** is formed by the Tense Stem + the Tense Formative (σ) + a connecting vowel (ε) + the Present Infinitive Morpheme which is (εν).   The two epsilons then contract to ει resulting in ειν.   σ  + ε + εν ->        σ + εε+ ν ->    σ + ει + ν -> σειν.
 It is a lot easier to just learn the Future Infinitive Morpheme as ειν.
-The Perfect Infinitive is formed by Reduplication + the Perfect Active Tense Stem + the Tense Formative + the Infinitive Morpheme. (κεναι).    We have already seen the kappa followed by a vowel as a perfect tense indicator. 
-[Note: For a 2nd Perfect Infinitive,  the reduplication would be just the vowel epsilon (ε) without the consonant.   Also, the kappa (κ) is dropped from the Infinitive Morpheme for a 2nd Perfect.]   
+
+The **Perfect Infinitive** is formed by Reduplication + the Perfect Active Tense Stem + the Tense Formative + the Infinitive Morpheme. (κεναι).    We have already seen the kappa followed by a vowel as a perfect tense indicator. 
+
+The **2nd Perfect Infinitive**,  the reduplication would be just the vowel epsilon (ε) without the consonant.   Also, the kappa (κ) is dropped from the Infinitive Morpheme for a 2nd Perfect.]   
+
+
 Table V-NM-5a
 Formation of Perfect  Infinitive
 Reduplication	
