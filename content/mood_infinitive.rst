@@ -320,18 +320,59 @@ The **Perfect Infinitive** is formed by Reduplication + the Perfect Active Tense
 
 The **2nd Perfect Infinitive**,  the reduplication would be just the vowel epsilon (ε) without the consonant.   Also, the kappa (κ) is dropped from the Infinitive Morpheme for a 2nd Perfect.]   
 
+.. raw:: html
 
-Table V-NM-5a
-Formation of Perfect  Infinitive
-Reduplication	
-+	Tense
-stem	
-+	Tense Formative	
-+	Infinitive
-Morpheme	
-->	
-λε	+	λυ	+	κε	+	ναι	->	λελύκεναι
-		To have loosed
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-zv36{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-i1lm{background-color:#f8ff00;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-i1lm" colspan="9">Table V-NM-5a<br>Formation of Perfect Infinitive</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-fymr">Reduplication</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-fymr">Tense<br>stem</td>
+        <td class="tg-1wig">+</td>
+        <td class="tg-1wig">Tense<br>Formative</td>
+        <td class="tg-1wig">+</td>
+        <td class="tg-1wig">Infinitive<br>Morpheme</td>
+        <td class="tg-1wig">-&gt;</td>
+        <td class="tg-0lax"></td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">λε</td>
+        <td class="tg-zv36">+</td>
+        <td class="tg-3xi5">λυ</td>
+        <td class="tg-1wig">+</td>
+        <td class="tg-baqh">κε</td>
+        <td class="tg-1wig">-&gt;</td>
+        <td class="tg-baqh">ναι</td>
+        <td class="tg-0lax">-&gt;</td>
+        <td class="tg-0lax">λελύκεναι</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow" colspan="9">to have loosed</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+
+
 Table V-NM-5b
 Perfect and Future Infinitive Paradigm
 	Lexical Form	Active	Middle
