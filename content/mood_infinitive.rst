@@ -372,15 +372,53 @@ The **2nd Perfect Infinitive**,  the reduplication would be just the vowel epsil
     </table></br>
 
 
+.. raw:: html
 
-Table V-NM-5b
-Perfect and Future Infinitive Paradigm
-	Lexical Form	Active	Middle
-Future	λύω	λύσειν	λύσεσθαι
-Perfect	λύω	λελυκέναι	λελύσθαι
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-i1lm{background-color:#f8ff00;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-6e8n{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-i1lm" colspan="4">Table V-NM-5b<br>Perfect and Future Infinitive Paradigm</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-6e8n"></td>
+        <td class="tg-7btt">Lexical<br>Form</td>
+        <td class="tg-fymr">Active</td>
+        <td class="tg-1wig">Middle</td>
+      </tr>
+      <tr>
+        <td class="tg-7btt">Future</td>
+        <td class="tg-3xi5">λύω</td>
+        <td class="tg-3xi5">λύσεον</td>
+        <td class="tg-baqh">λύσεσθαι</td>
+      </tr>
+      <tr>
+        <td class="tg-7btt">Perfect</td>
+        <td class="tg-c3ow">λύω</td>
+        <td class="tg-c3ow">λελυκέναι</td>
+        <td class="tg-baqh">λελύσθαι</td>
+      </tr>
+    </tbody>
+    </table></br>
 
 
 Examples:
+~~~~~
+
 Verbal uses of the infinitive:
 
 V-NM-6  Infinitive of Purpose
