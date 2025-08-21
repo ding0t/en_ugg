@@ -511,16 +511,17 @@ Key words that may help in translating are  “with the result that”, “so th
 
 **Example V-NM-7b  Infinitive of Result with εἰς τό**
 
-Romans 6:12
-μὴ  … βασιλευέτω ἡ ἁμαρτία ἐν … ὑμῶν σώματι, εἰς τὸ ὑπακούειν ταῖς ἐπιθυμίαις αὐτοῦ
-mē  … basileuetō hē hamartia en … hymōn sōmati, eis to hypakouein tais epithymiais autou
-not     let reign     the sin            in       your     body   so that you obey   the   desires       of it
+.. csv-table:: Romans 6:12
 
-do not let sin rule in your … body, in order to obey its lusts.
+  μὴ,…,βασιλευέτω,ἡ,ἁμαρτία,ἐν,…,ὑμῶν,σώματι,**εἰς**,**τὸ**,**ὑπακούειν**,ταῖς,ἐπιθυμίαις,αὐτοῦ
+  mē,…,basileuetō,hē,hamartia,en,…,hymōn,sōmati,**eis**,**to**,**hypakouein**,tais,epithymiais,autou
+  not,_let reign,the,sin,_,in,your,body,**so that**,,**you obey**,the,desires,of it
+
+*do not let sin rule in your … body*, **in order to obey** *its lusts.*
 
 
 
-Example V-NM-7c  Infinitive of Result with ὥστε
+**Example V-NM-7c  Infinitive of Result with ὥστε**
 
 The Infinitive of Result with ὥστε  may be actual or intended.
 
