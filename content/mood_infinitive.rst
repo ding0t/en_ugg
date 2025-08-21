@@ -525,14 +525,15 @@ Key words that may help in translating are  “with the result that”, “so th
 
 The Infinitive of Result with ὥστε  may be actual or intended.
 
-Matthew 13:54
-ἐδίδασκεν αὐτοὺς ἐν τῇ συναγωγῇ αὐτῶν, ὥστε ἐκπλήσσεσθαι αὐτοὺς
-edidasken autous en tē synagōgē autōn,                 hōste ekplēssesthai autous
-He was teaching them in the synagogue of them  resulting in  to   amaze          them
+.. csv-table:: Matthew 13:54
 
-he taught them in their synagogue so as to astonish them
+  ἐδίδασκεν,αὐτοὺς,ἐν,τῇ,συναγωγῇ,αὐτῶν,**ὥστε**,**ἐκπλήσσεσθαι**,αὐτοὺς
+  edidasken,autous,en,tē,synagōgē,autōn,**hōste**,**ekplēssesthai**,autous
+  He was teaching,them,in,the,synagogue,of them,**resulting in**,**to amaze**,them
 
-Example V-NM-8    Infinitive of Cause/Reason
+*He taught them in their synagogue* **so as to astonish** *them*
+
+**Example V-NM-8    Infinitive of Cause/Reason**
 
 	The Infinitive of cause, gives the reason for the occurrence of an action.
 
