@@ -533,7 +533,8 @@ The Infinitive of Result with ὥστε  may be actual or intended.
 
 *He taught them in their synagogue* **so as to astonish** *them*
 
-**Example V-NM-8    Infinitive of Cause/Reason**
+Example V-NM-8    Infinitive of Cause/Reason
+^^^^^
 
 	The Infinitive of cause, gives the reason for the occurrence of an action.
 
@@ -542,16 +543,19 @@ The Infinitive of Result with ὥστε  may be actual or intended.
 
 The following example comes from John 2:24.   In this passage we are told that Jesus was not entrusting himself to men even those who claimed to believe in Him.   Why?   What was the reason or cause?
 
-John 2:24
-διὰ τὸ αὐτὸν γινώσκειν πάντας
-dia to auton ginōskein pantas
-because the He to know all (men)
+  csv-table:: John 2:24
 
-because he knew all {men}	   literal translation (old)
+  **διὰ**,**τὸ**,αὐτὸν,**γινώσκειν**,πάντας
+  **dia**,**to**,auton,**ginōskein**,pantas
+  **because**,**the**,He,**to know**,all (men)
+
+**because he knew** *all {men}*	   literal translation (old)
 
 [Note: αὐτον is acting as the subject of the infinitive.]
 
 Example V-NM-9    Infinitive of Time
+^^^^
+
 Time (with the aid of a preposition)   
 The infinitive may be used with a preposition to indicate a time relationship between two events.  One event may occur (“before”, or “while”, or “after” , or “until”) another event. 
 πρὸ (with or without the genitive- τοῦ), or πριν, or  πριν ἤ - followed by the infinitive  may be translated with the  gloss – before.
