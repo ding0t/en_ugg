@@ -515,7 +515,7 @@ Key words that may help in translating are  “with the result that”, “so th
 
   μὴ,…,βασιλευέτω,ἡ,ἁμαρτία,ἐν,…,ὑμῶν,σώματι,**εἰς**,**τὸ**,**ὑπακούειν**,ταῖς,ἐπιθυμίαις,αὐτοῦ
   mē,…,basileuetō,hē,hamartia,en,…,hymōn,sōmati,**eis**,**to**,**hypakouein**,tais,epithymiais,autou
-  not,_,let reign,the,sin,_,in,your,body,**so that**,,**you obey**,the,desires,of it
+  not,_,let reign,the,sin,in,_,your,body,**so that**,,**you obey**,the,desires,of it
 
 *do not let sin rule in your … body*, **in order to obey** *its lusts.*
 
