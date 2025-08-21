@@ -515,7 +515,7 @@ Key words that may help in translating are  “with the result that”, “so th
 
   μὴ,…,βασιλευέτω,ἡ,ἁμαρτία,ἐν,…,ὑμῶν,σώματι,**εἰς**,**τὸ**,**ὑπακούειν**,ταῖς,ἐπιθυμίαις,αὐτοῦ
   mē,…,basileuetō,hē,hamartia,en,…,hymōn,sōmati,**eis**,**to**,**hypakouein**,tais,epithymiais,autou
-  not,_let reign,the,sin,_,in,your,body,**so that**,,**you obey**,the,desires,of it
+  not,_,let reign,the,sin,_,in,your,body,**so that**,,**you obey**,the,desires,of it
 
 *do not let sin rule in your … body*, **in order to obey** *its lusts.*
 
@@ -529,7 +529,7 @@ The Infinitive of Result with ὥστε  may be actual or intended.
 
   ἐδίδασκεν,αὐτοὺς,ἐν,τῇ,συναγωγῇ,αὐτῶν,**ὥστε**,**ἐκπλήσσεσθαι**,αὐτοὺς
   edidasken,autous,en,tē,synagōgē,autōn,**hōste**,**ekplēssesthai**,autous
-  He was teaching,them,in,the,synagogue,of them,**resulting in**,**to amaze**,them
+  He was teaching,them,in,the,synagogue,of them,**so as**,**to amaze**,them
 
 *He taught them in their synagogue* **so as to astonish** *them*
 
@@ -543,7 +543,7 @@ Example V-NM-8    Infinitive of Cause/Reason
 
 The following example comes from John 2:24.   In this passage we are told that Jesus was not entrusting himself to men even those who claimed to believe in Him.   Why?   What was the reason or cause?
 
-  csv-table:: John 2:24
+..  csv-table:: John 2:24
 
   **διὰ**,**τὸ**,αὐτὸν,**γινώσκειν**,πάντας
   **dia**,**to**,auton,**ginōskein**,pantas
