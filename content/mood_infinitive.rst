@@ -479,7 +479,8 @@ The infinitive of purpose places a stress on the intention of the person carryin
 V-NM-7  Infinitives of Result
 ^^^^^
 
-  *  Infinitives of Result place an emphasis on the outcome or result of the verb.   
+Infinitives of Result place an emphasis on the outcome or result of the verb.   
+
   *  Infinitives of result may or may not be preceded by the definite article in the genitive case (τοῦ).
   *  Infinitives of result may be preceded by a number of prepositions, εἰς τό, or ὥστε, or  ώς with the infinitive
   *  It may be noted that each of these forms (with an infinitive) can also be used to express purpose.  The interpreter must determine as to if the writer intended to convey a meaning of purpose or of result based on context.  It should also be kept in mind that just because the speaker intends for a particular result to occur, it may not actually happen. 
