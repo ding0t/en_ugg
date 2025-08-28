@@ -557,15 +557,18 @@ Example V-NM-9    Infinitive of Time
 ^^^^
 
 Time (with the aid of a preposition)   
+
 The infinitive may be used with a preposition to indicate a time relationship between two events.  One event may occur (“before”, or “while”, or “after” , or “until”) another event. 
-πρὸ (with or without the genitive- τοῦ), or πριν, or  πριν ἤ - followed by the infinitive  may be translated with the  gloss – before.
 
-Jn 13:19
-ἀπ’ ἄρτι λέγω ὑμῖν πρὸ τοῦ γενέσθαι
-ap’ arti legō hymin pro tou genesthai
-from now I am telling you before the to happen
+**πρὸ** (with or without the genitive- τοῦ), or **πριν**, or  **πριν ἤ** - followed by the infinitive  may be translated with the  gloss – *before.*
 
-From this moment I tell you, before it happens
+.. csv-table:: Jn 13:19
+
+  ἀπ’,ἄρτι,λέγω,ὑμῖν,**πρὸ**,**τοῦ**,**γενέσθαι**
+  ap’,arti,legō,hymin,**pro**,**tou**,**genesthai**
+  from,now,I am telling,you,**before**,**the**,**to happen**
+
+*From this moment I tell you,* **before it happens**
 
 
 Example V-NM-9a    Infinitive of Time ἐν
