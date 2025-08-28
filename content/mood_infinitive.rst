@@ -597,7 +597,7 @@ The infinitive may be used with a preposition to indicate a time relationship be
   but,**after**,...,**am raised**,I,I will go before,you,into,the,Galilee (region) 
 
 
- *But* **after I am raised up**, *I will go before you into Galilee*
+*But* **after I am raised up**, *I will go before you into Galilee*
 
 
   **Example V-NM-9c    Infinitive of Time  ἕως**
