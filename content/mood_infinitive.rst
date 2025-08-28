@@ -571,17 +571,19 @@ The infinitive may be used with a preposition to indicate a time relationship be
 *From this moment I tell you,* **before it happens**
 
 
-Example V-NM-9a    Infinitive of Time ἐν
-	ἐν  (with the dative – τῷ) followed by the infinitive  may be translated with the gloss – as, when, or while
+**Example V-NM-9a    Infinitive of Time ἐν**
+
+	**ἐν**  *(with the dative – τῷ)* followed by the infinitive  may be translated with the gloss – *as, when, or while*
 
 	The following example occurs in Luke 2:6.   Mary and Joseph had just arrived in Bethlehem. 
 	
-Luke 2:6
-	ἐγένετο δὲ        ἐν τῷ εἶναι αὐτοὺς ἐκεῖ, ἐπλήσθησαν αἱ ἡμέραι τοῦ τεκεῖν αὐτήν
-	egeneto de       en tō einai autous ekei, eplēsthēsan hai hēmerai tou tekein autēn
-	it happened and  while  were  they there,  they were completed the days – to give birth her
+.. csv-table:: Luke 2:6
 
-And it happened that, while they were there, the days were fulfilled for her to deliver.
+  ἐγένετο,δὲ,**ἐν**,**τῷ**,**εἶναι**,αὐτοὺς,ἐκεῖ,ἐπλήσθησαν,αἱ,ἡμέραι,τοῦ,τεκεῖν,αὐτήν
+	egeneto,de,**en**,**tō**,**einai**,autous,ekei,eplēsthēsan,hai,hēmerai,tou,tekein,autēn
+	it happened,and,**while**,,**were**,they,there,they were completed,the,days,,to give birth,to her
+
+*And it happened* **that, while** *they* **were** *there, the days were fulfilled for her to deliver.*
 
 	Example V-NM-9b    Infinitive of Time μετὰ
 	
