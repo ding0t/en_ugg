@@ -597,15 +597,17 @@ The infinitive may be used with a preposition to indicate a time relationship be
 
  *But* **after I am raised up**, *I will go before you into Galilee*
 
-Example V-NM-9c    Infinitive of Time  ἕως
+  **Example V-NM-9c    Infinitive of Time  ἕως**
 
-  ἕως (with the genitive - τοῦ) followed by the infinitive may be translated with the gloss – until
-Acts 8:40
-Φίλιππος … εὐηγγελίζετο τὰς πόλεις πάσας, ἕως τοῦ ἐλθεῖν αὐτὸν εἰς Καισάρειαν.
-Philippos … euēngelizeto tas poleis pasas, heōs tou elthein auton eis Kaisareian
-Phillip …   was preaching   in the cities all     until   to came       he      into Caesarea
+    **ἕως** *(with the genitive - τοῦ)* followed by the infinitive may be translated with the gloss – *until*
 
-Philip … was proclaiming the gospel to all the cities until he came to Caesarea.
+.. Csv-table:: Acts 8:40
+
+  Φίλιππος,…,εὐηγγελίζετο,τὰς,πόλεις,πάσας,**ἕως**,**τοῦ**,**ἐλθεῖν**,αὐτὸν,εἰς,Καισάρειαν.
+  Philippos,…,euēngelizeto,tas,poleis,pasas,**heōs**,**tou**,**elthein**,auton,eis,Kaisareian
+  Phillip,…,was preaching the good news,in the,cities,all,**until**,,**to came**,he,into,Caesarea
+
+*Philip … was proclaiming the gospel to all the cities* **until he came** *to Caesarea.*
 
 
 Noun uses of an Infinitive:
