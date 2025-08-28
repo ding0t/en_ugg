@@ -493,7 +493,7 @@ Key words that may help in translating are  “with the result that”, “so th
 
   ἐνίκησεν,ὁ,λέων,ὁ,ἐκ,τῆς,φυλῆς,Ἰούδα,…,**ἀνοῖξαι**,τὸ,βιβλίον
   enikēsen,ho,leōn,ho,ek,tēs,phylēs,Iouda,…,**anoixai**,to,biblion
-  he has conquered,the,lion,the (one),out of,the,tribe,of Judah,**so as to open**,the,book
+  he has conquered,the,lion,the (one),out of,the,tribe,of Judah,**so as**,**to open**,the,book
 
 *Behold, the Lion who is from the tribe of Judah … has conquered* **in order to open** *the scroll.*
 
