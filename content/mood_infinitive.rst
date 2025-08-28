@@ -591,11 +591,11 @@ The infinitive may be used with a preposition to indicate a time relationship be
 
 .. csv-table:: Mark 14:28
 
-ἀλλὰ μετὰ τὸ ἐγερθῆναί με, προάξω           ὑμᾶς εἰς τὴν Γαλιλαίαν
-alla meta to egerthēnai me, proaxō              hymas eis tēn Galilaian
-but after       am raised     I     I will go before  you   into  the Galilee (region) 
+  ἀλλὰ,**μετὰ**,**τὸ**,**ἐγερθῆναί**,με,προάξω,ὑμᾶς,εἰς,τὴν,Γαλιλαίαν
+  alla,**meta**,**to**,**egerthēnai**,me,proaxō,hymas,eis,tēn,Galilaian
+  but,**after**,...,**am raised**,I,I will go before,you,into,the,Galilee (region) 
 
- But after I am raised up, I will go before you into Galilee
+ *But* **after I am raised up**, *I will go before you into Galilee*
 
 Example V-NM-9c    Infinitive of Time  ἕως
 
