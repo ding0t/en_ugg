@@ -504,7 +504,7 @@ Key words that may help in translating are  “with the result that”, “so th
 
   οὐδεὶς,ἐπιθήσεταί,σοι,**τοῦ**,**κακῶσαί**,σε,διότι,λαός,ἐστί,μοι,πολὺς
   oudeis,epithēsetai,soi,**tou**,**kakōsai**,se,dioti,laos,esti,moi,polys
-  no one,will attack,you,**so as**,**to harm**,you,because,people,are,my,many
+  no one,will attack,you,the,**so as to harm**,you,because,people,are,my,many
 
 *No one will attack you* **to harm** *you, for I have many people.*
 
