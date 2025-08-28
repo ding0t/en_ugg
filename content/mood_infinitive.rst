@@ -571,7 +571,7 @@ The infinitive may be used with a preposition to indicate a time relationship be
 *From this moment I tell you,* **before it happens**
 
 
-**Example V-NM-9a    Infinitive of Time ἐν**
+  **Example V-NM-9a    Infinitive of Time ἐν**
 
 	**ἐν**  *(with the dative – τῷ)* followed by the infinitive  may be translated with the gloss – *as, when, or while*
 
@@ -581,15 +581,16 @@ The infinitive may be used with a preposition to indicate a time relationship be
 
   ἐγένετο,δὲ,**ἐν**,**τῷ**,**εἶναι**,αὐτοὺς,ἐκεῖ,ἐπλήσθησαν,αἱ,ἡμέραι,τοῦ,τεκεῖν,αὐτήν
 	egeneto,de,**en**,**tō**,**einai**,autous,ekei,eplēsthēsan,hai,hēmerai,tou,tekein,autēn
-	it happened,and,**while**,,**were**,they,there,they were completed,the,days,,to give birth,to her
+	it happened,and,**while**,...,**were**,they,there,they were completed,the,days,...,to give birth,to her
 
 *And it happened* **that, while** *they* **were** *there, the days were fulfilled for her to deliver.*
 
-	Example V-NM-9b    Infinitive of Time μετὰ
+  **Example V-NM-9b    Infinitive of Time μετὰ**
 	
-μετὰ (with the accusative – τὀ) followed by the infinitive may be translated with the gloss – after.
+    **μετὰ** *(with the accusative – τὀ)* followed by the infinitive may be translated with the gloss – *after.*
 
-Mark 14:28
+.. csv-table:: Mark 14:28
+
 ἀλλὰ μετὰ τὸ ἐγερθῆναί με, προάξω           ὑμᾶς εἰς τὴν Γαλιλαίαν
 alla meta to egerthēnai me, proaxō              hymas eis tēn Galilaian
 but after       am raised     I     I will go before  you   into  the Galilee (region) 
