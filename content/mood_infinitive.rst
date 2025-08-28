@@ -419,7 +419,7 @@ The **2nd Perfect Infinitive**,  the reduplication would be just the vowel epsil
 Examples:
 ~~~~~
 
-Verbal uses of the infinitive:
+**Verbal uses of the infinitive:**
 
 V-NM-6  Infinitive of Purpose
 ^^^^^
@@ -634,20 +634,21 @@ An Infinitive can be used as the subject of a sentence.   This is especially the
 
   ἐμοὶ,γὰρ,**τὸ**,**ζῆν**,Χριστὸς,καὶ,**τὸ**,**ἀποθανεῖν**,κέρδος. 
 	emoi,gar,**to**,**zēn**,Christos,kai,**to**,**apothanein**,kerdos
-	To me,for,**to**,**live**,(is) Christ,and,**the**,**to die**,(is) gain
+	To me,for,**to**,**live**,(is) Christ,and,**to**,**die**,(is) gain
 
 *For to me* **to live** *is Christ, and* **to die** is gain*
 
-Example V-NM-10a  Infinitive as A direct or indirect object
+  **Example V-NM-10a  Infinitive as A direct or indirect object**
 
 	An infinitive can be used as a direct or indirect object in a sentence.  The infinitive may or may not have the article.
 
-	Luke 7:40
-	 εἶπεν πρὸς αὐτόν, Σίμων, ἔχω σοί τι εἰπεῖν
-	 eipen pros auton, Simōn, echō soi ti eipein
-	He said to him   Simon       I have to you something   to say
+.. csv-table:: Luke 7:40
 
-	He said to him, “Simon, I have something to say to you
+  εἶπεν,πρὸςαὐτόν,Σίμων,ἔχω,σοί,τι,**εἰπεῖν**
+  eipen,pros,auton,Simōn,echō,soi,ti,**eipein**
+  He said,to,him,Simon,I have,to you,something,**to say**
+
+*He said to him, “Simon, I have something* **to say** *to you*
 
 Example V-NM-10b Infinitive modifying another word
 
