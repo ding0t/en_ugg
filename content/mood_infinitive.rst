@@ -613,19 +613,30 @@ The infinitive may be used with a preposition to indicate a time relationship be
 *Philip … was proclaiming the gospel to all the cities* **until he came** *to Caesarea.*
 
 
-Noun uses of an Infinitive:
-As a Substantive, an Infinitive can be used as:
+**Noun uses of an Infinitive:**
+
+As a **Substantive**, an Infinitive can be used as:
 
 Example V-NM-10  Infinitive as the subject of sentence
+^^^^^
 
-An Infinitive can be used as the subject of a sentence.   This is especially to when a complementary verb such as δεῖ (it is necessary), ἔξεστιν (it is permitted), μἐλλω (I am about), δὐnαμαι (I am able), ἄρχομαι (I am beginning), θἐλω (I wish), κελεὐω (I command), and  ὀφείλω (I ought) are followed by an infinitive. 
+An Infinitive can be used as the subject of a sentence.   This is especially the case when a complementary verb such as:
+  *  δεῖ (it is necessary), 
+  *  ἔξεστιν (it is permitted), 
+  *  μἐλλω (I am about), 
+  *  δὐnαμαι (I am able), 
+  *  ἄρχομαι (I am beginning), 
+  *  θἐλω (I wish), 
+  *  κελεὐω (I command), and  
+  *  ὀφείλω (I ought) are followed by an infinitive. 
 
-	Philippians 1:21
-	ἐμοὶ γὰρ τὸ ζῆν Χριστὸς, καὶ τὸ ἀποθανεῖν κέρδος. 
-	emoi gar to zēn Christos, kai to apothanein kerdos
-	To me for to live (is) Christ, an to die               (is) gain
+.. csv-table:: Philippians 1:21
 
-	For to me to live is Christ, and to die is gain
+  ἐμοὶ,γὰρ,**τὸ**,**ζῆν**,Χριστὸς,καὶ,**τὸ**,**ἀποθανεῖν**,κέρδος. 
+	emoi,gar,**to**,**zēn**,Christos,kai,**to**,**apothanein**,kerdos
+	To me,for,**to**,**live**,(is) Christ,and,**the**,**to die**,(is) gain
+
+*For to me* **to live** *is Christ, and* **to die** is gain*
 
 Example V-NM-10a  Infinitive as A direct or indirect object
 
