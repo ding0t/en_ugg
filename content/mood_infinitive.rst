@@ -650,19 +650,18 @@ An Infinitive can be used as the subject of a sentence.   This is especially the
 
 *He said to him, “Simon, I have something* **to say** *to you*
 
-Example V-NM-10b Infinitive modifying another word
+**Example V-NM-10b Infinitive modifying another word**
 
-An Infinitive may be used as an adjective to modify another word. When used to modify another noun or adjective the infinitive may occur with  or without the article.  When used as an adjective it is often used epexegetically to explain , clarify, or qualify the preceding noun.
+An Infinitive may be used as an adjective to modify another word. When used to modify another noun or adjective the infinitive may occur with
+or without the article.  When used as an adjective it is often used epexegetically to explain, clarify, or qualify the preceding noun.
 
-John 4:32
-ὁ δὲ εἶπεν αὐτοῖς, ἐγὼ βρῶσιν ἔχω φαγεῖν, ἣν ὑμεῖς οὐκ οἴδατε
-ho de eipen autois, egō brōsin echō phagein, hēn hymeis ouk oidate
-He but he said to them I food  I have  to eat     that  you      not    you know
+.. csv-table:: John 4:32
 
-But he said to them, “I have food to eat that you do not know.”
+  ὁ,δὲ,εἶπεν,αὐτοῖς,ἐγὼ,βρῶσιν,ἔχω,**φαγεῖν**,ἣν,ὑμεῖς,οὐκ,οἴδατε
+  ho,de,eipen,autois,egō,brōsin,echō,**phagein**,hēn,hymeis,ouk,oidate
+  He,but,he said,to them,I,food,I have,**to eat**,which,you,not,you know
 
-
-
+*But he said to them, “I have food* **to eat** *that you do not know.”*
 
  
 Example V-NM-10c Infinitive of apposition
