@@ -684,7 +684,7 @@ Note:  In this case , the infinitive phrase ,* “ἀπέχεσθαι (to be awa
 It could also be translated as *“This is your sanctification,* **namely** *for you* **to abstain** *from sexual immorality. *
 
 
-**Example V-NM-10d adjective modifying an Infinitive  **
+**Example V-NM-10d Adjective Modifying an Infinitive**
 
 An infinitive can also be qualified by an adjective or an adjectival phrase.
 In the following example an infinitive (τὸ ἐπιτελέσαι) is modified by an infinitival phrase (ἐκ τοῦ ἔχειν).
