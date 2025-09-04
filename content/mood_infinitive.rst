@@ -664,21 +664,23 @@ or without the article.  When used as an adjective it is often used epexegetical
 *But he said to them, “I have food* **to eat** *that you do not know.”*
 
  
-Example V-NM-10c Infinitive of apposition
-An infinitive can be used in apposition to another noun.  In this case it defines the noun as opposed to adding an explanatory comment about the noun.  The helping word “Namely” could be used to identify the appositional use of a word.
+**Example V-NM-10c Infinitive of apposition**
+An infinitive can be used in apposition to another noun.  In this case it defines the noun as opposed to adding an explanatory comment about the noun.
+The helping word “Namely” could be used to identify the appositional use of a word.
 
 The passage begins with “This is the will of God… 
 
-1 Thessalonians 4:3
-ὁ ἁγιασμὸς ὑμῶν, ἀπέχεσθαι ὑμᾶς ἀπὸ τῆς πορνείας
- ho hagiasmos hymōn, apechesthai hymas apo tēs porneias
-the sanctification your   to abstain you         from the sexual immorality
+.. csv-table:: 1 Thessalonians 4:3
 
-your sanctification: that you keep yourselves from sexual immorality
+  ὁ,ἁγιασμὸς,ὑμῶν,**ἀπέχεσθαι**,ὑμᾶς,ἀπὸ,τῆς,πορνείας
+  ho,hagiasmos,hymōn,**apechesthai**,hymas,apo,tēs,porneias
+  the,sanctification,your,**to abstain**,you,from,the,sexual immorality
 
-In this case , the infinitive phrase , “ἀπέχεσθαι (to be away from, to abstain) from sexual immorality”  defines the noun hagiasmos (sanctification).  
+*your sanctification:**that you keep**,*yourselves,from,sexual immorality*
 
-It could also be translated as “This is your sanctification, namely for you to abstain from sexual immorality. 
+Note:  In this case , the infinitive phrase ,* “ἀπέχεσθαι (to be away from, to abstain) from sexual immorality” * defines the noun hagiasmos (sanctification).  
+
+It could also be translated as *“This is your sanctification,* **namely** *for you* **to abstain** *from sexual immorality. *
 
 
 Example V-NM-10d adjective modifying an Infinitive  
