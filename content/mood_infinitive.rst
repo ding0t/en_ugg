@@ -58,7 +58,7 @@ Infinitives may have a noun or pronoun **in the 3rd person singular accusative f
 
 **The Verbal uses of the infinitive include:**
 
-  1.  Purpose [See example]
+  1.  Purpose [See `Infinitive of Purpose <https://ugg.readthedocs.io/en/latest/mood_infinitive.html#v-nm-6-infinitive-of-purpose>`_ ]
   2.  Result   [See example]
   3.  Cause/Reason   [See example]
   4.  Time (with the aid of a preposition)   [See examples]
