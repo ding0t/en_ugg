@@ -665,6 +665,7 @@ or without the article.  When used as an adjective it is often used epexegetical
 
  
 **Example V-NM-10c Infinitive of apposition**
+
 An infinitive can be used in apposition to another noun.  In this case it defines the noun as opposed to adding an explanatory comment about the noun.
 The helping word “Namely” could be used to identify the appositional use of a word.
 
@@ -683,13 +684,15 @@ Note:  In this case , the infinitive phrase ,* “ἀπέχεσθαι (to be awa
 It could also be translated as *“This is your sanctification,* **namely** *for you* **to abstain** *from sexual immorality. *
 
 
-Example V-NM-10d adjective modifying an Infinitive  
+**Example V-NM-10d adjective modifying an Infinitive  **
 
-An infinitive can also be qualified by an adjective or an adjectival phrase.  In the following example an infinitive (τὸ ἐπιτελέσαι) is modified by an infinitival phrase (ἐκ τοῦ ἔχειν).
+An infinitive can also be qualified by an adjective or an adjectival phrase.
+In the following example an infinitive (τὸ ἐπιτελέσαι) is modified by an infinitival phrase (ἐκ τοῦ ἔχειν).
 
-2 Corinthians 8:11
- οὕτως καὶ τὸ ἐπιτελέσαι ἐκ τοῦ ἔχειν
-houtōs kai to epitelesai ek tou echein
-thus     also the  completing  it) from (what you) have
+..  csv-table:: 2 Corinthians 8:11
 
-so also there may be the completion, from what you have
+  οὕτως,καὶ,τὸ,ἐπιτελέσαι,**ἐκ**,**τοῦ**,**ἔχειν**
+  houtōs,kai,to,epitelesai,**ek**,**tou**,**echein**
+  thus,also,the,completing it,**from**,**what**,**(you) have**
+
+*so also there may be the completion,* **from what you have**
