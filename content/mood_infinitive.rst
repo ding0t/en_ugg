@@ -568,7 +568,9 @@ The infinitive may be used with a preposition to indicate a time relationship be
 
   **πρὸ** (with or without the genitive- τοῦ), or **πριν**, or  **πριν ἤ** - followed by the infinitive  may be translated with the  gloss – *before.*
 
-Example V-NM-9 Infinitive of Time with the aid of the preposition *προ* or *πριν*.
+Example V-NM-9 Infinitive of Time with the aid of the preposition *προ* or *πριν*
+^^^^^
+
 
 .. csv-table:: Jn 13:19
 
