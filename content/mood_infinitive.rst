@@ -417,20 +417,20 @@ The **2nd Perfect Infinitive**,  the reduplication would be just the vowel epsil
 
 
 Examples:
-~~~~~
+______
 
 **Verbal uses of the infinitive:**
 
 V-NM-6  Infinitive of Purpose
-^^^^^
+~~~~~
 
 
   *  An  Infinitive of Purpose may or may not be preceded by the definite article.  
   *  Prepositions indicating  purpose such as (ἐις  τὸ)  or (πρὁς τό) may be followed by an infinitive.  
   *  An infinitive preceded by an article in the genitive (τοῦ) may be used to indicate purpose.
 
-**Example V-NM-6 Infinitive of Purpose with no article**
-
+Example V-NM-6 Infinitive of Purpose with no article
+^^^^^^
 
 .. csv-table::  Matthew 2:2  
 
@@ -440,7 +440,8 @@ V-NM-6  Infinitive of Purpose
 
 *and (we) came* **to worship** *Him*
 
-**Example V-NM-6a   Infinitive of Purpose preceded by ἔις**
+Example V-NM-6a   Infinitive of Purpose preceded by ἔις
+^^^^^^
 
 .. csv-table:: Matthew 26:2
 
@@ -450,9 +451,8 @@ V-NM-6  Infinitive of Purpose
 
 *the Son of Man is being handed over* **to be crucified.**
 
-**Example V-NM-6b   Infinitive of Purpose preceded by πρός**
-
-
+Example V-NM-6b   Infinitive of Purpose preceded by πρός
+^^^^^
 The infinitive of purpose places a stress on the intention of the person carrying out the action.  Therefore it is appropriate to insert such key words as “In order to”, or “for the purpose of” in the translation.
 
 .. csv-table:: Matthew 6:1
@@ -466,7 +466,8 @@ The infinitive of purpose places a stress on the intention of the person carryin
 *Do not do your righteousness before men* **to be seen** by them*
 
 
-**Example V-NM-6c  Infinitive of Purpose preceded by definite article in the Genitive (τοῦ)**
+Example V-NM-6c  Infinitive of Purpose preceded by definite article in the Genitive (τοῦ)
+^^^^^
 
 .. csv-table:: Matthew 3:13
 
@@ -477,7 +478,7 @@ The infinitive of purpose places a stress on the intention of the person carryin
 *Jesus comes…    to John*,**to be baptized** *by him.*
 
 V-NM-7  Infinitives of Result
-^^^^^
+~~~~~
 
   *  Infinitives of Result place an emphasis on the outcome or result of the verb.   
   *  Infinitives of result may or may not be preceded by the definite article in the genitive case (τοῦ).
@@ -487,7 +488,8 @@ V-NM-7  Infinitives of Result
 Key words that may help in translating are  “with the result that”, “so that”, or “so as.”
 
 
-**Example V-NM-7 Infinitive of Result with no article**
+Example V-NM-7 Infinitive of Result with no article
+^^^^^
 
 .. csv-table:: Rev 5:5
 
@@ -498,7 +500,8 @@ Key words that may help in translating are  “with the result that”, “so th
 *Behold, the Lion who is from the tribe of Judah … has conquered* **in order to open** *the scroll.*
 
 
-**Example V-NM-7a   Infinitive of Result with τοῦ**
+Example V-NM-7a   Infinitive of Result with τοῦ
+^^^^^
 
 .. csv-table:: Acts 18:10
 
@@ -509,7 +512,8 @@ Key words that may help in translating are  “with the result that”, “so th
 *No one will attack you* **to harm** *you, for I have many people.*
 
 
-**Example V-NM-7b  Infinitive of Result with εἰς τό**
+Example V-NM-7b  Infinitive of Result with εἰς τό
+^^^^^
 
 .. csv-table:: Romans 6:12
 
@@ -521,7 +525,8 @@ Key words that may help in translating are  “with the result that”, “so th
 
 
 
-**Example V-NM-7c  Infinitive of Result with ὥστε**
+Example V-NM-7c  Infinitive of Result with ὥστε
+^^^^^
 
 The Infinitive of Result with ὥστε  may be actual or intended.
 
@@ -534,7 +539,7 @@ The Infinitive of Result with ὥστε  may be actual or intended.
 *He taught them in their synagogue* **so as to astonish** *them*
 
 Example V-NM-8    Infinitive of Cause/Reason
-^^^^^
+~~~~~
 
 	The Infinitive of cause, gives the reason for the occurrence of an action.
 
@@ -554,7 +559,7 @@ The following example comes from John 2:24.   In this passage we are told that J
 [Note: αὐτον is acting as the subject of the infinitive.]
 
 Example V-NM-9    Infinitive of Time
-^^^^
+~~~~~
 
 Time (with the aid of a preposition)   
 
@@ -571,7 +576,8 @@ The infinitive may be used with a preposition to indicate a time relationship be
 *From this moment I tell you,* **before it happens**
 
 
-  **Example V-NM-9a    Infinitive of Time ἐν**
+ Example V-NM-9a    Infinitive of Time ἐν
+ ^^^^^
 
 	**ἐν**  *(with the dative – τῷ)* followed by the infinitive  may be translated with the gloss – *as, when, or while*
 
@@ -585,7 +591,8 @@ The infinitive may be used with a preposition to indicate a time relationship be
 
 *And it happened* **that, while** *they* **were** *there, the days were fulfilled for her to deliver.*
 
-  **Example V-NM-9b    Infinitive of Time μετὰ**
+ Example V-NM-9b    Infinitive of Time μετὰ
+ ^^^^^
 	
     **μετὰ** *(with the accusative – τὀ)* followed by the infinitive may be translated with the gloss – *after.*
 
@@ -600,7 +607,8 @@ The infinitive may be used with a preposition to indicate a time relationship be
 *But* **after I am raised up**, *I will go before you into Galilee*
 
 
-  **Example V-NM-9c    Infinitive of Time  ἕως**
+ Example V-NM-9c    Infinitive of Time  ἕως
+ ^^^^^
 
     **ἕως** *(with the genitive - τοῦ)* followed by the infinitive may be translated with the gloss – *until*
 
@@ -613,7 +621,8 @@ The infinitive may be used with a preposition to indicate a time relationship be
 *Philip … was proclaiming the gospel to all the cities* **until he came** *to Caesarea.*
 
 
-**Noun uses of an Infinitive:**
+Noun uses of an Infinitive:
+~~~~~
 
 As a **Substantive**, an Infinitive can be used as:
 
