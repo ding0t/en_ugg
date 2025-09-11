@@ -84,7 +84,6 @@ Infinitives occur 2,290 times in the New Testament of which only a little over 3
 Form
 ~~~~
 
-
 The basic form for Infinitives are given in:
   *  `Table V-NT Infinitive Morpheme Chart <https://ugg.readthedocs.io/en/latest/paradigms.html#verbs-infinitive>`_ (presented below with comments), and 
   *  `Table V-NT-1 Infinitive with theme vowels <https://ugg.readthedocs.io/en/latest/paradigms.html#table-v-nt-1-verb-infinitive-with-theme-vowels>`_
@@ -647,7 +646,8 @@ An Infinitive can be used as the subject of a sentence.   This is especially the
 
 *For to me* **to live** *is Christ, and* **to die** is gain*
 
-  **Example V-NM-10a  Infinitive as A direct or indirect object**
+ *Example V-NM-10a  Infinitive as A direct or indirect object
+ ^^^^^
 
 	An infinitive can be used as a direct or indirect object in a sentence.  The infinitive may or may not have the article.
 
@@ -659,7 +659,8 @@ An Infinitive can be used as the subject of a sentence.   This is especially the
 
 *He said to him, “Simon, I have something* **to say** *to you*
 
-**Example V-NM-10b Infinitive modifying another word**
+Example V-NM-10b Infinitive modifying another word
+^^^^^
 
 An Infinitive may be used as an adjective to modify another word. When used to modify another noun or adjective the infinitive may occur with
 or without the article.  When used as an adjective it is often used epexegetically to explain, clarify, or qualify the preceding noun.
@@ -673,7 +674,8 @@ or without the article.  When used as an adjective it is often used epexegetical
 *But he said to them, “I have food* **to eat** *that you do not know.”*
 
  
-**Example V-NM-10c Infinitive of apposition**
+Example V-NM-10c Infinitive of apposition
+^^^^^
 
 An infinitive can be used in apposition to another noun.  In this case it defines the noun as opposed to adding an explanatory comment about the noun.
 The helping word “Namely” could be used to identify the appositional use of a word.
@@ -693,7 +695,8 @@ Note:  In this case , the infinitive phrase ,* “ἀπέχεσθαι (to be awa
 It could also be translated as *“This is your sanctification,* **namely** *for you* **to abstain** *from sexual immorality. *
 
 
-**Example V-NM-10d Adjective Modifying an Infinitive**
+Example V-NM-10d Adjective Modifying an Infinitive
+^^^^^
 
 An infinitive can also be qualified by an adjective or an adjectival phrase.
 In the following example an infinitive (τὸ ἐπιτελέσαι) is modified by an infinitival phrase (ἐκ τοῦ ἔχειν).
