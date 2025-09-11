@@ -581,8 +581,8 @@ Example V-NM-9 Infinitive of Time with the aid of the preposition *προ* or *�
 *From this moment I tell you,* **before it happens**
 
 
- Example V-NM-9a    Infinitive of Time ἐν
- ^^^^^
+Example V-NM-9a    Infinitive of Time ἐν
+^^^^^
 
 	**ἐν**  *(with the dative – τῷ)* followed by the infinitive  may be translated with the gloss – *as, when, or while*
 
@@ -596,8 +596,8 @@ Example V-NM-9 Infinitive of Time with the aid of the preposition *προ* or *�
 
 *And it happened* **that, while** *they* **were** *there, the days were fulfilled for her to deliver.*
 
- Example V-NM-9b  Infinitive of Time (μετὰ)
- ^^^^^
+Example V-NM-9b  Infinitive of Time (μετὰ)
+^^^^^
 	
     **μετὰ** *(with the accusative – τὀ)* followed by the infinitive may be translated with the gloss – *after.*
 
@@ -612,8 +612,8 @@ Example V-NM-9 Infinitive of Time with the aid of the preposition *προ* or *�
 *But* **after I am raised up**, *I will go before you into Galilee*
 
 
- Example V-NM-9c    Infinitive of Time (ἕως)
- ^^^^^
+Example V-NM-9c    Infinitive of Time (ἕως)
+^^^^^
 
     **ἕως** *(with the genitive - τοῦ)* followed by the infinitive may be translated with the gloss – *until*
 
