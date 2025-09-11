@@ -561,7 +561,8 @@ The following example comes from John 2:24.   In this passage we are told that J
 Example V-NM-9 Infinitive of Time
 ~~~~~
 
-  **Time (with the aid of a preposition)**
+
+  Time (with the aid of a preposition)
 
 The infinitive may be used with a preposition to indicate a time relationship between two events.  One event may occur (“before”, or “while”, or “after” , or “until”) another event. 
 
@@ -591,7 +592,7 @@ The infinitive may be used with a preposition to indicate a time relationship be
 
 *And it happened* **that, while** *they* **were** *there, the days were fulfilled for her to deliver.*
 
- Example V-NM-9b    Infinitive of Time μετὰ
+ Example V-NM-9b  Infinitive of Time (μετὰ)
  ^^^^^
 	
     **μετὰ** *(with the accusative – τὀ)* followed by the infinitive may be translated with the gloss – *after.*
@@ -607,7 +608,7 @@ The infinitive may be used with a preposition to indicate a time relationship be
 *But* **after I am raised up**, *I will go before you into Galilee*
 
 
- Example V-NM-9c    Infinitive of Time  ἕως
+ Example V-NM-9c    Infinitive of Time (ἕως)
  ^^^^^
 
     **ἕως** *(with the genitive - τοῦ)* followed by the infinitive may be translated with the gloss – *until*
