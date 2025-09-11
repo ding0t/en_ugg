@@ -558,7 +558,7 @@ The following example comes from John 2:24.   In this passage we are told that J
 [Note: αὐτον is acting as the subject of the infinitive.]
 
 Example V-NM-9    Infinitive of Time
-~~~~~
+~~~~
 
 Time (with the aid of a preposition)   
 
