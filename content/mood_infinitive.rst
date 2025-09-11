@@ -417,7 +417,7 @@ The **2nd Perfect Infinitive**,  the reduplication would be just the vowel epsil
 
 
 Examples:
-______
+-----
 
 **Verbal uses of the infinitive:**
 
