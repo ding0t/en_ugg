@@ -77,7 +77,7 @@ Infinitives may have a noun or pronoun **in the 3rd person singular accusative f
       b.  A direct or indirect object in the sentence, [See `Direst or Indirect Object <https://ugg.readthedocs.io/en/latest/mood_infinitive.html#example-v-nm-10a-infinitive-as-a-direct-or-indirect-object>`_]
       c.  An adjective to modify another word, [See `Adjective <https://ugg.readthedocs.io/en/latest/mood_infinitive.html#example-v-nm-10b-infinitive-modifying-another-word>`_]
       d.  In apposition to a noun, or [See `Apposition <https://ugg.readthedocs.io/en/latest/mood_infinitive.html#example-v-nm-10c-infinitive-of-apposition>`_]
-      e.  It can be qualified by an adjective.
+      e.  It can be qualified by an adjective. [See `Qualified <https://ugg.readthedocs.io/en/latest/mood_infinitive.html#example-v-nm-10d-adjective-modifying-an-infinitive>`_]
 
 Infinitives occur 2,290 times in the New Testament of which only a little over 300 times are with the article.   The vast majority (well over 1,700 times) are without the article.
 
@@ -702,7 +702,7 @@ Note:  In this case , the infinitive phrase ,* “ἀπέχεσθαι (to be awa
 It could also be translated as *“This is your sanctification,* **namely** *for you* **to abstain** *from sexual immorality. *
 
 
-Example V-NM-10d Adjective Modifying an Infinitive
+Example V-NM-10d Infinitives qualified by an adjective
 ^^^^^
 
 An infinitive can also be qualified by an adjective or an adjectival phrase.
