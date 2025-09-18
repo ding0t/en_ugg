@@ -49,7 +49,7 @@ Background
 
   3)  The Infinitive can be modified by an adverb. (See the Verbal uses of the Infinitive below)
 
-  4)  The Infinitive can take an object. 
+  4)  The Infinitive can take an object. ( See charistics similar to a noun 3b below)
 
 The Infinitive is indeclinable with the result that the person and number do not change.
 
