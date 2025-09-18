@@ -74,8 +74,8 @@ Infinitives may have a noun or pronoun **in the 3rd person singular accusative f
     2.  The article can be in any of the cases.  If the infinitive is preceded by a preposition, an article will be present and the case of the article will be determined by the preposition.
     3.  As a Substantive, an Infinitive can be used as:
       a.  The subject of a sentence, [See `Subject <https://ugg.readthedocs.io/en/latest/mood_infinitive.html#example-v-nm-10-infinitive-as-the-subject-of-sentence>`_]
-      b.  A direct or indirect object in the sentence, [See `adjective <https://ugg.readthedocs.io/en/latest/mood_infinitive.html#example-v-nm-10b-infinitive-modifying-another-word>`_]
-      c.  An adjective to modify another word, 
+      b.  A direct or indirect object in the sentence, 
+      c.  An adjective to modify another word, [See `adjective <https://ugg.readthedocs.io/en/latest/mood_infinitive.html#example-v-nm-10b-infinitive-modifying-another-word>`_]
       d.  In apposition to a noun, or
       e.  It can be qualified by an adjective.
 
@@ -652,8 +652,9 @@ An Infinitive can be used as the subject of a sentence.   This is especially the
 
 *For to me* **to live** *is Christ, and* **to die** is gain*
 
-Example V-NM-10a  Infinitive as A direct or indirect object
- ^^^^^
+
+Example V-NM-10a  Infinitive as a direct or indirect object
+^^^^^
 
 	An infinitive can be used as a direct or indirect object in a sentence.  The infinitive may or may not have the article.
 
