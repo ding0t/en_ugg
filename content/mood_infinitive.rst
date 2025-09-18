@@ -75,7 +75,7 @@ Infinitives may have a noun or pronoun **in the 3rd person singular accusative f
     3.  As a Substantive, an Infinitive can be used as:
       a.  The subject of a sentence, [See `Subject <https://ugg.readthedocs.io/en/latest/mood_infinitive.html#example-v-nm-10-infinitive-as-the-subject-of-sentence>`_]
       b.  A direct or indirect object in the sentence, [See `Direst or Indirect Object <https://ugg.readthedocs.io/en/latest/mood_infinitive.html#example-v-nm-10a-infinitive-as-a-direct-or-indirect-object>`_]
-      c.  An adjective to modify another word, [See `adjective <https://ugg.readthedocs.io/en/latest/mood_infinitive.html#example-v-nm-10b-infinitive-modifying-another-word>`_]
+      c.  An adjective to modify another word, [See `Adjective <https://ugg.readthedocs.io/en/latest/mood_infinitive.html#example-v-nm-10b-infinitive-modifying-another-word>`_]
       d.  In apposition to a noun, or [See `Apposition <https://ugg.readthedocs.io/en/latest/mood_infinitive.html#example-v-nm-10c-infinitive-of-apposition>`_]
       e.  It can be qualified by an adjective.
 
@@ -681,7 +681,7 @@ or without the article.  When used as an adjective it is often used epexegetical
 *But he said to them, “I have food* **to eat** *that you do not know.”*
 
  
-Example V-NM-10c Infinitive of apposition
+Example V-NM-10c Infinitive of Apposition
 ^^^^^
 
 An infinitive can be used in apposition to another noun.  In this case it defines the noun as opposed to adding an explanatory comment about the noun.
