@@ -652,7 +652,7 @@ An Infinitive can be used as the subject of a sentence.   This is especially the
 
 *For to me* **to live** *is Christ, and* **to die** is gain*
 
- *Example V-NM-10a  Infinitive as A direct or indirect object
+Example V-NM-10a  Infinitive as A direct or indirect object
  ^^^^^
 
 	An infinitive can be used as a direct or indirect object in a sentence.  The infinitive may or may not have the article.
