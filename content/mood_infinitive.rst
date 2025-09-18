@@ -62,8 +62,8 @@ Infinitives may have a noun or pronoun **in the 3rd person singular accusative f
   2.  Result   [See `Infinitives of Result V-NM-7 <https://ugg.readthedocs.io/en/latest/mood_infinitive.html#v-nm-7-infinitives-of-result>`_]
   3.  Cause/Reason   [See `Infinitives of Cause/Result V-NM-8 <https://ugg.readthedocs.io/en/latest/mood_infinitive.html#example-v-nm-8-infinitive-of-cause-reason>`_]
   4.  Time (with the aid of a preposition)   [See `Infinitive of Time V-NM-9 <https://ugg.readthedocs.io/en/latest/mood_infinitive.html#v-nm-9-infinitive-of-time>`_]
-    a.  πρὸ (with the genitive- τοῦ), or πριν, or  πριν ἤ - followed by the infinitive - ( gloss - before ) [See `πριν <https://ugg.readthedocs.io/en/latest/mood_infinitive.html#example-v-nm-9-infinitive-of-time-with-the-aid-of-the-preposition-or>`_]
-    b.  ἐν  (with the dative – τῷ) followed by the infinitive – (gloss – as, when, while)
+    a.  πρὸ (with the genitive- τοῦ), or πριν, or  πριν ἤ - followed by the infinitive - ( gloss - before ) [See `προ or πριν <https://ugg.readthedocs.io/en/latest/mood_infinitive.html#example-v-nm-9-infinitive-of-time-with-the-aid-of-the-preposition-or>`_]
+    b.  ἐν  (with the dative – τῷ) followed by the infinitive – (gloss – as, when, while) [See `εν <https://ugg.readthedocs.io/en/latest/mood_infinitive.html#example-v-nm-9a-infinitive-of-time>`_]
     c.  μετὰ (with the accusative – τὀ) followed by the infinitive – (gloss – after)
     d.  ἕως (with the genitive - τοῦ) followed by the infinitive – (gloss – until)
 
