@@ -47,13 +47,13 @@ Background
       *  Middle Voice – when the subject does the action on itself or in many cases when the verb is deponent.
       *  Passive Voice – when the subject is acted upon by something else.  It is the recipient of the action.
 
-  3)  The Infinitive can be modified by an adverb.
+  3)  The Infinitive can be modified by an adverb. (See the Verbal uses of the Infinitive below)
 
-  4)  The Infinitive can take an object.
+  4)  The Infinitive can take an object. 
 
 The Infinitive is indeclinable with the result that the person and number do not change.
 
-Infinitives may have a noun or pronoun **in the 3rd person singular accusative form** that *acts as the subject* of the infinitive.  (See example… V-NM-8)
+Infinitives may have a noun or pronoun **in the 3rd person singular accusative form** (although it can be in the plural) that *acts as the subject* of the infinitive.  [See `Example… V-NM-9a <https://ugg.readthedocs.io/en/latest/mood_infinitive.html#example-v-nm-9a-infinitive-of-time>`_)
 
 
 **The Verbal uses of the infinitive include:**
@@ -595,6 +595,10 @@ Example V-NM-9a    Infinitive of Time ἐν
 	it happened,and,**while**,...,**were**,they,there,they were completed,the,days,...,to give birth,to her
 
 *And it happened* **that, while** *they* **were** *there, the days were fulfilled for her to deliver.*
+
+[Note]:  In this example note that "αὐτοὺς" is in the accusative case but serves as the subject of the infinitive "εἶναι".
+As a verbal noun, an infinitive cannot have a subject, but be on the look out for a noun in the accustive that acts
+as if it were the subject of the infinitive.  In this instance the pronoun is in the accusative plural instead of accusative singular.
 
 Example V-NM-9b  Infinitive of Time (μετὰ)
 ^^^^^
