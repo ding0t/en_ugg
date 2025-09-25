@@ -701,9 +701,9 @@ The passage begins with “This is the will of God…
 
 *your sanctification:* **that you keep** *yourselves from sexual immorality*
 
-Note:  In this case , the infinitive phrase ,* “ἀπέχεσθαι (to be away from, to abstain) from sexual immorality” * defines the noun hagiasmos (sanctification).  
+Note:  In this case , the infinitive phrase , *“ἀπέχεσθαι (to be away from, to abstain) from sexual immorality”* defines the noun hagiasmos (sanctification).  
 
-It could also be translated as *“This is your sanctification,* **namely** *for you* **to abstain** *from sexual immorality. *
+It could also be translated as *“This is your sanctification,* **namely** *for you* **to abstain** *from sexual immorality.*
 
 
 Example V-NM-10d Infinitives qualified by an adjective
