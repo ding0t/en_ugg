@@ -5,7 +5,7 @@
 Mood infinitive
 ===============
 
-Glossary    [UNDER  CONSTRUCTION1]
+Glossary 
 --------
 
 An **infinitive** is a verbal noun (e.g., *to eat*, *to run*, *to go*).
@@ -23,7 +23,7 @@ indicate person or number. It can take an object, but usually does not explicitl
 *which is not lawful* **to eat**, *except for the priests*
 
 
-Article  [ UNDER  CONSTRUCTION]
+Article
 -------
 
 Background
