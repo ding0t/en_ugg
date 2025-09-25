@@ -654,7 +654,7 @@ An Infinitive can be used as the subject of a sentence.   This is especially the
 	emoi,gar,**to**,**zēn**,Christos,kai,**to**,**apothanein**,kerdos
 	To me,for,**to**,**live**,(is) Christ,and,**to**,**die**,(is) gain
 
-*For to me* **to live** *is Christ, and* **to die** is gain*
+*For to me* **to live** *is Christ, and* **to die** *is gain*
 
 
 Example V-NM-10a  Infinitive as a direct or indirect object
