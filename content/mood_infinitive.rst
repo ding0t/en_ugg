@@ -699,7 +699,7 @@ The passage begins with “This is the will of God…
   ho,hagiasmos,hymōn,**apechesthai**,hymas,apo,tēs,porneias
   the,sanctification,your,**to abstain**,you,from,the,sexual immorality
 
-*your sanctification:* **that you keep**,*yourselves,from,sexual immorality*
+*your sanctification:* **that you keep** *yourselves from sexual immorality*
 
 Note:  In this case , the infinitive phrase ,* “ἀπέχεσθαι (to be away from, to abstain) from sexual immorality” * defines the noun hagiasmos (sanctification).  
 
