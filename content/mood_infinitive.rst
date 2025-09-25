@@ -668,7 +668,7 @@ Example V-NM-10a  Infinitive as a direct or indirect object
   eipen,pros,auton,Simōn,echō,soi,ti,**eipein**
   He said,to,him,Simon,I have,to you,something,**to say**
 
-*He said to him, “Simon, I have something* **to say** *to you*
+*He said to him, “Simon, I have something* **to say** *to you"*.
 
 Example V-NM-10b Infinitive modifying another word
 ^^^^^
