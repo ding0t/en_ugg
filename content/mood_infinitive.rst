@@ -317,7 +317,7 @@ It is a lot easier to just learn the Future Infinitive Morpheme as ειν.
 
 The **Perfect Infinitive** is formed by Reduplication + the Perfect Active Tense Stem + the Tense Formative + the Infinitive Morpheme. (κεναι).    We have already seen the kappa followed by a vowel as a perfect tense indicator. 
 
-The **2nd Perfect Infinitive**,  the reduplication would be just the vowel epsilon (ε) without the consonant.   Also, the kappa (κ) is dropped from the Infinitive Morpheme for a 2nd Perfect.]   
+The **2nd Perfect Infinitive**,  the reduplication would be just the vowel epsilon (ε) without the consonant.   Also, the kappa (κ) is dropped from the Infinitive Morpheme for a 2nd Perfect.  
 
 .. raw:: html
 
