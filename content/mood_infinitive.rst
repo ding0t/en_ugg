@@ -474,7 +474,7 @@ Example V-NM-6c  Infinitive of Purpose preceded by definite article in the Genit
   paraginetai,ho,Iēsous,…,pros,ton,Iōannēn,**tou**,**baptisthēnai**,hyp’,autou
   He came,the,Jesus,to,,the,John,**to**,**be baptized**,by,him
 
-*Jesus comes…    to John*,**to be baptized** *by him.*
+*Jesus comes…    to John*, **to be baptized** *by him.*
 
 V-NM-7  Infinitives of Result
 ~~~~~
