@@ -462,7 +462,7 @@ The infinitive of purpose places a stress on the intention of the person carryin
 
 *not to do your righteousness before men* **to be seen** *by them*	, or
 
-*Do not do your righteousness before men* **to be seen** by them*
+*Do not do your righteousness before men* **to be seen** *by them*
 
 
 Example V-NM-6c  Infinitive of Purpose preceded by definite article in the Genitive (τοῦ)
