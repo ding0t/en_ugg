@@ -12,12 +12,12 @@ Summary
 Article
 -------
 In Koiné Greek, adjectives generally match the noun they describe in :ref:`gender<gender>` and :ref:`number<number>`.
-Attributive adjectives specifically must also match the noun they describe in :ref:`case<case>`.
+Attributive adjectives specifically must also match the nouns they describe in :ref:`case<case>`.
 Any Greek adjective can take the form of all three genders: :ref:`masculine<gender_masculine>`, :ref:`feminine<gender_feminine>`, and  :ref:`neuter<gender_neuter>`. 
 Adjectives show these various forms by using the same kinds of word endings as nouns.
-Greek adjectives are listed in a lexicon according to the masculine nominative singular form.
+Greek adjectives are listed in a lexicon according to their masculine nominative singular forms.
 
-.. note:: Adjectives change form according to the base form of the adjective itself, NOT the base form of the noun it is describing. For example, the feminine dative singular form of the adjective πάς is always πάςῃ. The form will not change when describing any feminine dative noun. This remains true regardless of the kind of feminine dative word ending that appears on the noun.
+.. note:: An adjectives changes form according to the base form of the adjective itself, NOT the base form of the noun it is describing. For example, the feminine dative singular form of the adjective πάς is always πάςῃ. The form will not change when describing any feminine dative noun. This remains true regardless of the kind of feminine dative word ending that appears on the noun.
 
 Form
 ----
