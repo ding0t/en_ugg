@@ -5,16 +5,23 @@
 Mood optative
 =============
 
-Glossary
+Glossary  [UNDER CONSTRUCTION]
 --------
 
-The **optative mood** indicates that the speaker is referring to the
-verbal action as a contingent possibility (even less assured than the
-subjunctive mood) (e.g., *he might eat*).
 
-Μηκέτι ἐκ σοῦ εἰς τὸν αἰῶνα μηδεὶς καρπὸν **φάγοι**. (Mrk 11:14)
+The **Optative mood** indicates that the speaker is referring to a verbal action as a contingent possibility
+(even less assured than the subjunctive mood) (e.g., he might eat).
 
-**May** no one ever again **eat** fruit from you!
+Example – V-MO-1 
+.. csv-table:: V-MO-!  Mark 11:14
+
+  μηκέτι,εἰς,τὸν,αἰῶνα,ἐκ,σοῦ,μηδεὶς,καρπὸν,**φάγοι**
+  mēketi,eis,ton,aiōna,ek,sou,mēdeis,karpon,**phagoi**
+  no longer,into,the,ages,from,you,no one,fruit,**may eat**
+
+**May** *no one any longer* **eat** *fruit from you to eternity!*
+
+
 
 Article
 -------
