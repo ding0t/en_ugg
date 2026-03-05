@@ -79,6 +79,7 @@ The Present Active Optative verb is formed with the:
 
   present tense stem + theme vowel (ο) + mood formative (ι) +  μι (1st person singular) or secondary personal ending.
 
+
 It is easier to think of the Mood formative  as “οι”.   
   However, for athematic verbs, the mood formative is ιη. [εἴη-12 times and δύναιντο-2 times [in this case the connecting vowel (ο) is omitted because the tense stem ends with an “α”. 
 
