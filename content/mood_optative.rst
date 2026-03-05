@@ -72,7 +72,7 @@ The Paradigms for forms in the Optative Mood are shown in:
 
 The Optative mood expresses a wish for something to occur. Therefore, when the optative is used with either the present or the aorist tense, the focus is on the type of action (continuous or simple), not on the time of the action. [See `Present tense-aspect <https://ugg.readthedocs.io/en/latest/tense_present.html#present-tense-aspect>`_]
 
-Formation of the Present Optative Verb
+Table V-MO-2 Formation of the Present Optative Verb
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The Present Active Optative verb is formed with the:
