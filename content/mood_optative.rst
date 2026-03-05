@@ -27,19 +27,22 @@ Example – V-MO-1
 Article  [Under Construction]
 -------
 
-It has been said that the Optative mood is the mood of wishing, or remote possibility, or contingent possibility.   
-	The Indicative Mood is used to portray an action as reality.
-	The Subjunctive Mood is used to portray an action as possible or probable.
 
-In contrast, the Optative mood is used to portray an action a step further from reality--in this case, as a wish, or remote, or contingent possibility.   The optative mood can also be used to express a prayer or make a request.
+It has been said that the Optative mood is the mood of wishing, or remote possibility, or contingent possibility.   
+	
+  *  The **Indicative Mood** is used to portray an action as reality.
+  *  The **Subjunctive Mood** is used to portray an action as possible or probable.
+
+In contrast, the **Optative Mood** is used to portray an action a step further from reality--in this case, as a wish,
+or remote, or contingent possibility.   The optative mood can also be used to express a prayer or make a request.
 
 	In this article we will look at the:
 
-•	Voluntative Optative – used to express an obtainable wish or a polite request [See Example V-MO-11]
-o	Including an expression of abhorrence (or negative wish) [See Example V-MO-12]
-o	To express a prayer  [See Example V-MO-13]
-•	Deliberative Optative – when the optative is used where there is an expression of doubt (if it were possible).  [See Example V-MO-14]
-•	Potential Optative – usually with an expression of condition. [V-MO-15]
+  *  Voluntative Optative – used to express an obtainable wish or a polite request [See Example V-MO-11]
+    *  Including an expression of abhorrence (or negative wish) [See Example V-MO-12]
+    *  To express a prayer  [See Example V-MO-13]
+  *  Deliberative Optative – when the optative is used where there is an expression of doubt (if it were possible).  [See Example V-MO-14]
+  *  Potential Optative – usually with an expression of condition. [V-MO-15]
 		
 
 The Optative mood is infrequently used and only occurs 68 times in the Greek New Testament.	
