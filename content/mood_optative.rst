@@ -137,18 +137,66 @@ Note:  `*`  μι for the 1st person singular, or the normal secondary personal e
 
 
 
-Table V-MO-3
-Formation of the
-Present Middle/Passive 
-Optative Verb
-Present
-Tense
-Stem	+	Mood formative	+	Secondary Personal Ending	->	paradigm
-λυ	+	οι	+	μην	->	λύοιμην 
-I may be loosed
+Table V-MO-3  Formation of the Present Middle/Passive Optative Verb
+~~~~~~
 
-Note:  The optative uses μι for the first person singular personal ending and secondary personal endings 
-For the 1st person plural personal ending and all 2nd and 3rd person personal endings.
+The Present Middle/Passive Optative verb is formed with the:
+
+Present Tense Stem	+	Mood formative	+	Secondary Personal Ending	
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-zv36{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-i1lm{background-color:#f8ff00;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-7g6k{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-i1lm" colspan="7">Table V-MO-3<br>Formation of the<br>Present Middle/Passive<br>Optative Verb</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-zv36">Present<br>Tense <br>Stem</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-fymr">Mood<br>Formative</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-1wig">Secondary<br>Personal<br>Ending</td>
+        <td class="tg-1wig">-&gt;</td>
+        <td class="tg-1wig">Paradigm</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">λυ</td>
+        <td class="tg-7g6k">+</td>
+        <td class="tg-3xi5">οι</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-0lax">μην</td>
+        <td class="tg-1wig">-&gt;</td>
+        <td class="tg-0lax">λύοιμην</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf" colspan="7">I may be loosed</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+
+
+
+Note:  The optative uses μι for the first person singular personal ending and
+secondary personal endings for the 1st person plural personal ending and all 2nd and 3rd person personal endings.
  
 				
 
