@@ -54,9 +54,9 @@ The Optative mood is infrequently used and only occurs 68 times in the Greek New
   *  It is frequently used in the negative sense as an expression of abhorrence or just plain repulsiveness of the thought.  It is an expression of a negative wish that this would not be the case.  The modern-day person would probably say something like “Perish the thought,”  or “No! Never!”, or “It can’t be.”   “μὴ γένοιτο” is often translated with expressions such as “May it never be!”, or “Heaven forbid,” or “Far be the thought.”  [See Example V-MO-12]
   *  The Voluntative Optitave can also be used to politely make a request of someone or a superior. This use of the Voluntative optative does not indicate any reduction of the speaker’s expectation that the request will be granted.  [See example V-MO-13]
 
-The **Deliberative Optative** occurs when there is a degree of uncertainty (or doubts) in the speaker’s mind about the outcome.  The presence of the particle “ἄν” would further increase the level of uncertainty.
+The **Deliberative Optative** occurs when there is a degree of uncertainty (or doubt) in the speaker’s mind about the outcome.  The presence of the particle “ἄν” would further increase the level of uncertainty.
 There are 11 occurrences of the Deliberative Optative, all of which are in the book of Luke or Acts. 
-See Example [ Luke 18:36]   Blind man confused by the noise of a crowd going by..    [See Example V-MO-14]
+See Example [Luke 18:36]   Blind man confused by the noise of a crowd going by..    [See Example V-MO-14]
 
 The **Potential Optative** involves a degree of uncertainty and is conditioned on some other factor.  Often, the uncertainty is contained within an implied question.  [See Example V-MO-15]
 
@@ -65,10 +65,10 @@ The **Potential Optative** involves a degree of uncertainty and is conditioned o
 Form
 ____
 	
-The Paradigms for forms in the Optative Mood are shown in :
+The Paradigms for forms in the Optative Mood are shown in:
 
-A verb in the Optative mood will never have an augment because the time is always future.  
-A verb in the Optative mood will use the mood formative “οι”, except in the first aorist tense. The presence of the “οι” is a key indicator that the verb is in the optative mood. 
+  *  A verb in the Optative mood will never have an augment because the time is always future.  
+  *  A verb in the Optative mood will use the mood formative “οι”, except in the first aorist tense. The presence of the “οι” is a key indicator that the verb is in the optative mood. 
 
 The Optative mood expresses a wish for something to occur. Therefore, when the optative is used with either the present or the aorist tense, the focus is on the type of action (continuous or simple), not on the time of the action. [think about hyperlink of “type” and “time”]
 
