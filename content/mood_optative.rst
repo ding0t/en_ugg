@@ -73,20 +73,64 @@ The Paradigms for forms in the Optative Mood are shown in:
 The Optative mood expresses a wish for something to occur. Therefore, when the optative is used with either the present or the aorist tense, the focus is on the type of action (continuous or simple), not on the time of the action. [See `Present tense-aspect <https://ugg.readthedocs.io/en/latest/tense_present.html#present-tense-aspect>`_]
 
 Formation of the Present Optative Verb
-The present active optative verb is formed with the:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Present tense stem + theme vowel (ο) + mood formative (ι) +  μι (1st person singular) or secondary personal ending.
+The Present Active Optative verb is formed with the:
+
+  present tense stem + theme vowel (ο) + mood formative (ι) +  μι (1st person singular) or secondary personal ending.
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-zv36{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-i1lm{background-color:#f8ff00;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-7g6k{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-i1lm" colspan="7">Table V-MO-2<br>Formation of the<br>Present Active Optative Verb</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-zv36">Present<br>Tense <br>Stem</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-fymr">Mood<br>Formative</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-1wig">Secondary<br>Personal<br>Ending</td>
+        <td class="tg-1wig">-&gt;</td>
+        <td class="tg-1wig">Paradigm</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">λυ</td>
+        <td class="tg-7g6k">+</td>
+        <td class="tg-3xi5">οι</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-0lax">μι *<br>οις</td>
+        <td class="tg-1wig">-&gt;</td>
+        <td class="tg-0lax">λύομι<br>λύοις</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf" colspan="7">I may loose</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+
 It is easier to think of the Mood formative  as “οι”.   However, for athematic verbs, the mood formative is ιη. [εἴη-12 times and δύναιντο-2 times [in this case the connecting vowel (ο) is omitted because the tense stem ends with an “α”. 
 
-Table V-MO-2
-Formation of the
-Present Active 
-Optative Verb
-Present
-Tense
-Stem	+	Mood formative	+	Secondary Personal Ending	->	paradigm
-λυ	+	οι	+	μι *        οις	->	λύοιμι   λύοις
-I may loose
+
 
 
 Table V-MO-3
