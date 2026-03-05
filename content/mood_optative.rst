@@ -38,30 +38,32 @@ or remote, or contingent possibility.   The optative mood can also be used to ex
 
 	In this article we will look at the:
 
-  *  Voluntative Optative – used to express an obtainable wish or a polite request [See Example V-MO-11]
+  1)  Voluntative Optative – used to express an obtainable wish or a polite request [See Example V-MO-11]
     *  Including an expression of abhorrence (or negative wish) [See Example V-MO-12]
     *  To express a prayer  [See Example V-MO-13]
-  *  Deliberative Optative – when the optative is used where there is an expression of doubt (if it were possible).  [See Example V-MO-14]
-  *  Potential Optative – usually with an expression of condition. [V-MO-15]
+  2)  Deliberative Optative – when the optative is used where there is an expression of doubt (if it were possible).  [See Example V-MO-14]
+  3)  Potential Optative – usually with an expression of condition. [V-MO-15]
 		
 
 The Optative mood is infrequently used and only occurs 68 times in the Greek New Testament.	
-15 out of 17 times (or 22%) γένοιτο is used in the phrase μὴ γένοιτο [“May it never be!].  However, this could just be an expression of abhorrence. 
+15 out of 17 times (or 22%) γένοιτο is used in the phrase μὴ γένοιτο [“May it never be!].  As such, this could just be an expression of abhorrence. 
 
-	The most frequent use of the Optative is as a Voluntative Optative.  
-•	In this sense, it is often used to express the desire of one’s heart (wish) that he or she views as obtainable.  [See example V-MO- 11] 
-•	It is frequently used in the negative sense as an expression of abhorrence or just plain repulsiveness of the thought.  It is an expression of a negative wish that this would not be the case.  The modern-day person would probably say something like “Perish the thought,”  or “No! Never!”, or “It can’t be.”   “μὴ γένοιτο” is often translated with expressions such as “May it never be!”, or “Heaven forbid,” or “Far be the thought.”  [See Example V-MO-12]
-•	 The Voluntative Optitave can also be used to politely make a request of someone or a superior. This use of the Voluntative optative does not indicate any reduction of the speaker’s expectation that the request will be granted.  [See example V-MO-13]
+	The most frequent use of the Optative is as a **Voluntative Optative.**
 
-The Deliberative Optative occurs when there is a degree of uncertainty (or doubts) in the speaker’s mind about the outcome.  The presence of the particle “ἄν” would further increase the level of uncertainty.
+  *  In this sense, it is often used to express the desire of one’s heart (wish) that he or she views as obtainable.  [See example V-MO- 11] 
+  *  It is frequently used in the negative sense as an expression of abhorrence or just plain repulsiveness of the thought.  It is an expression of a negative wish that this would not be the case.  The modern-day person would probably say something like “Perish the thought,”  or “No! Never!”, or “It can’t be.”   “μὴ γένοιτο” is often translated with expressions such as “May it never be!”, or “Heaven forbid,” or “Far be the thought.”  [See Example V-MO-12]
+  *  The Voluntative Optitave can also be used to politely make a request of someone or a superior. This use of the Voluntative optative does not indicate any reduction of the speaker’s expectation that the request will be granted.  [See example V-MO-13]
+
+The **Deliberative Optative** occurs when there is a degree of uncertainty (or doubts) in the speaker’s mind about the outcome.  The presence of the particle “ἄν” would further increase the level of uncertainty.
 There are 11 occurrences of the Deliberative Optative, all of which are in the book of Luke or Acts. 
 See Example [ Luke 18:36]   Blind man confused by the noise of a crowd going by..    [See Example V-MO-14]
 
-The Potential Optative involves a degree of uncertainty and is conditioned on some other factor.  Often, the uncertainty is contained within an implied question.  [See Example V-MO-15]
+The **Potential Optative** involves a degree of uncertainty and is conditioned on some other factor.  Often, the uncertainty is contained within an implied question.  [See Example V-MO-15]
 
 		
  
 Form
+____
 	
 The Paradigms for forms in the Optative Mood are shown in :
 
