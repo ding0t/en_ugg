@@ -196,7 +196,8 @@ Present Tense Stem	+	Mood formative	+	Secondary Personal Ending
 
 
 Note:  The optative uses μι for the first person singular personal ending and
-secondary personal endings for the 1st person plural personal ending and all 2nd and 3rd person personal endings.
+
+      secondary personal endings for the 1st person plural personal ending and all 2nd and 3rd person personal endings.
  
 				
 
