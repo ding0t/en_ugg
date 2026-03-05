@@ -122,7 +122,7 @@ It is easier to think of the Mood formative  as “οι”.
         <td class="tg-7g6k">+</td>
         <td class="tg-3xi5">οι</td>
         <td class="tg-7btt">+</td>
-        <td class="tg-0lax">μι *<br> ς/td>
+        <td class="tg-0lax">μι *<br> ς</td>
         <td class="tg-1wig">-&gt;</td>
         <td class="tg-0lax">λύομι<br>λύοις</td>
       </tr>
