@@ -5,7 +5,7 @@
 Mood optative
 =============
 
-Glossary  [UNDER CONSTRUCTION]
+Glossary     [UNDER CONSTRUCTION]
 --------
 
 
