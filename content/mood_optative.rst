@@ -13,7 +13,8 @@ The **Optative mood** indicates that the speaker is referring to a verbal action
 (even less assured than the subjunctive mood) (e.g., he might eat).
 
 Example – V-MO-1 
-.. csv-table:: V-MO-!  Mark 11:14
+
+.. csv-table:: V-MO-1  Mark 11:14
 
   μηκέτι,εἰς,τὸν,αἰῶνα,ἐκ,σοῦ,μηδεὶς,καρπὸν,**φάγοι**
   mēketi,eis,ton,aiōna,ek,sou,mēdeis,karpon,**phagoi**
