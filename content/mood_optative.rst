@@ -70,7 +70,7 @@ The Paradigms for forms in the Optative Mood are shown in:
   *  A verb in the Optative mood will never have an augment because the time is always future.  
   *  A verb in the Optative mood will use the mood formative “οι”, except in the first aorist tense. The presence of the “οι” is a key indicator that the verb is in the optative mood. 
 
-The Optative mood expresses a wish for something to occur. Therefore, when the optative is used with either the present or the aorist tense, the focus is on the type of action (continuous or simple), not on the time of the action. [think about hyperlink of “type” and “time”]
+The Optative mood expresses a wish for something to occur. Therefore, when the optative is used with either the present or the aorist tense, the focus is on the type of action (continuous or simple), not on the time of the action. [See :ref:`Present tense-aspect<https://ugg.readthedocs.io/en/latest/tense_present.html#present-tense-aspect>`]
 
 Formation of the Present Optative Verb
 The present active optative verb is formed with the:
