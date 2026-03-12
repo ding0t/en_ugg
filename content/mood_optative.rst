@@ -284,7 +284,7 @@ Formation of the First Aorist Optative
   *  The Optative verbs use secondary personal endings, however, the first person singular ending is "μι" instead of the normal personal ending for the first person singular. 
 
 
-Table V-MO-5 Formation of the 1st Aorist Active Tense Optative Verb
+Table V-MO-5 Formation of the 1st Aorist Active Optative Verb
 ~~~~
 
 The 1st Aorist Active Optative verb is formed with the:
@@ -312,7 +312,7 @@ unaugmented 1st Aorist Tense Stem	+	Tense formative (σα) + Mood formative (ι)
     </style>
     <table class="tg"><thead>
       <tr>
-        <th class="tg-i1lm" colspan="9">Table V-MO-5<br>Formation of the<br>1st Aorist Active Tense<br>Optative Verb</th>
+        <th class="tg-i1lm" colspan="9">Table V-MO-5<br>Formation of the<br>1st Aorist Active<br>Optative Verb</th>
       </tr></thead>
     <tbody>
       <tr>
@@ -376,7 +376,7 @@ unaugmented 1st Aorist Tense Stem	+	Tense formative (σα) + Mood formative (ι)
     </style>
     <table class="tg"><thead>
       <tr>
-        <th class="tg-i1lm" colspan="9">Table V-MO-6<br>Formation of the<br>1st Aorist Middle Tense<br>Optative Verb</th>
+        <th class="tg-i1lm" colspan="9">Table V-MO-6<br>Formation of the<br>1st Aorist Middle<br>Optative Verb</th>
       </tr></thead>
     <tbody>
       <tr>
@@ -408,7 +408,7 @@ unaugmented 1st Aorist Tense Stem	+	Tense formative (σα) + Mood formative (ι)
     </table></br>
 
 
-Table V-MO-7 Formation of the 1st Aorist Passive Tense Optative Verb
+Table V-MO-7 Formation of the 1st Aorist Passive Optative Verb
 ~~~~
 
  *  See the note on the Formation of the first Aorist Optative verb `Formation of the 1st Aorist Optative <https://ugg.readthedocs.io/en/latest/mood_optative.html#formation-of-the-first-aorist-optative>`_
@@ -439,7 +439,7 @@ unaugmented 1st Aorist Tense Stem	+	Tense formative (θε) + Mood formative (ι�
     </style>
     <table class="tg"><thead>
       <tr>
-        <th class="tg-i1lm" colspan="9">Table V-MO-7<br>Formation of the<br>1st Aorist Passive Tense<br>Optative Verb</th>
+        <th class="tg-i1lm" colspan="9">Table V-MO-7<br>Formation of the<br>1st Aorist Passive<br>Optative Verb</th>
       </tr></thead>
     <tbody>
       <tr>
