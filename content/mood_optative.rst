@@ -201,9 +201,10 @@ Note:
  
 				
 
-Table V-MO-4 
-Optative Mood
-Present & Middle/Passive Tense
+Table V-MO-4 Optative Mood Present & Middle/Passive Tense
+~~~~~
+
+
 Table 
 	Active	Middle / Passive
 Single		
@@ -227,10 +228,68 @@ The tense formative for the aorist passive is θε and with the addition of the 
 
 However, first person singular personal ending is μι instead of the normal absence of a personal ending for the first person singular.
 
-Table V-MO-5
-Formation of the
-1st Aorist Active Tense
-Optative Verb
+Table V-MO-5 Formation of the 1st Aorist Active Tense Optative Verb
+~~~~
+
+The 1st Aorist Active Optative verb is formed with the:
+
+unaugmented 1st Aorist Tense Stem	+	Tense formative (σα) + Mood formative (ι) +	Secondary Personal Ending.
+This creates the pattern - 	σαι which appears in the first aorist optitive verbs (except the first aorist passive verbs which have a θειη).
+
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-i1lm{background-color:#f8ff00;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-7g6k{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-i1lm" colspan="9">Table V-MO-5<br>Formation of the<br>1st Aorist Active Tense<br>Optative Verb</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-7g6k">un-augmented<br>1st Aorist<br>Tense<br>stem</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-7btt">Tense <br>Formative</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-7btt">Mood<br>Formative</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-7btt">Secondary<br>Personal<br>ending</td>
+        <td class="tg-amwm">-&gt;</td>
+        <td class="tg-1wig">Paradigm</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">λυ</td>
+        <td class="tg-7g6k">+</td>
+        <td class="tg-3xi5">σα</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-c3ow">ι</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-c3ow">μι<br>ς</td>
+        <td class="tg-amwm">-&gt;</td>
+        <td class="tg-0lax">λύσαιμι<br>λύσαις</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf" colspan="9">I may be loosed</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+
+
 Present
 Tense
 Stem	
