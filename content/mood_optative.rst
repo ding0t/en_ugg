@@ -223,7 +223,7 @@ Table V-MO-4 Optative Mood Present & Middle/Passive Tense
     </style>
     <table class="tg"><thead>
       <tr>
-        <th class="tg-i1lm" colspan="3">Table V-MO-4<br>Optative Mood<br>Present and Middle/Passive Voice</th>
+        <th class="tg-i1lm" colspan="3">Table V-MO-4<br>Optative Mood<br>Present Active and Middle/Passive Voice</th>
       </tr></thead>
     <tbody>
       <tr>
