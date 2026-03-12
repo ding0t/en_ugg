@@ -353,6 +353,7 @@ unaugmented 1st Aorist Tense Stem	+	Tense formative (σα) + Mood formative (ι)
 
 
 Table V-MO-7 Formation of the 1st Aorist Passive Tense Optative Verb
+~~~~
 
  *  See the note on the Formation of the first Aorist Optative verb `Formation of the 1st Aorist Optative <https://ugg.readthedocs.io/en/latest/mood_optative.html#formation-of-the-first-aorist-optative>`_
 
@@ -418,7 +419,7 @@ unaugmented 1st Aorist Tense Stem	+	Tense formative (θε) + Mood formative (ι�
 
 Optative Mood
 First Aorist Tense
-Table V-MO-6
+Table V-MO-8
 	Active	Middle 	Passive
 Single			
 1 Person	λύσαιμι	λυσαίμην	λυθείην
@@ -431,31 +432,69 @@ Plural
 
 
 Formation of the 2nd Aorist Optative Verb
+~~~~
 
-Optative verbs do not have an augment because they do not refer to time in the past. 
+  *  Optative verbs do not have an augment because they do not refer to time in the past. 
+  *  There is no tense formative for second aorist verbs because the change in tense 	stem indicates that this is a second aorist verb.	
+  *  There is a connecting vowel (because the tense stem ends in a consonant)  with the addition of a mood formative creating the characteristic  “οι.”
+  *  There is no 2nd aorist passive verbs in the New Testament.
 
-	There is no tense formative for second aorist verbs because the change in tense 	stem indicates that this is a second aorist verb.	
-
-There is a connecting vowel (because of the tense stem ending in a consonant)  with the addition of a mood formative creating the characteristic  “οι.”
-
-There is no 2nd aorist passive verbs in the New Testament.
 There are no Perfect Optative verbs in the New Testament.
 
-Table V-MO-7
-Formation of the
-2nd Aorist Active 
-Optative Verb
-2nd Aorist
-Tense
-Stem	
-+	Connecting
-Vowel	
-+	Mood
-Formative	
-+	Secondary Active
-Personal Ending	->	paradigm
-λαΒ	+	ο	+	ι	+	μι	->	λάβοιμι
-may cast
+Table V-MO-9 Formation of the 2nd Aorist Active Optative Verb
+~~~~
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-i1lm{background-color:#f8ff00;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-7g6k{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-i1lm" colspan="9">Table V-MO-9<br>Formation of the<br>2nd&nbsp;&nbsp;Aorist Active<br>Optative Verb</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-7g6k">un-augmented<br>2nd Aorist<br>Tense<br>stem</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-7btt">Connecting<br>Vowel</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-7btt">Mood<br>Formative</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-7btt">Secondary<br>Active<br>Personal<br>ending</td>
+        <td class="tg-amwm">-&gt;</td>
+        <td class="tg-1wig">Paradigm</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">λαβ</td>
+        <td class="tg-7g6k">+</td>
+        <td class="tg-3xi5">ο</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-c3ow">ι</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-c3ow">μι</td>
+        <td class="tg-amwm">-&gt;</td>
+        <td class="tg-0lax">λυθείην</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf" colspan="9">I may&nbsp;&nbsp;cast</td>
+      </tr>
+    </tbody>
+    </table></br>
+
 
 
 Table V-MO-8
