@@ -231,10 +231,15 @@ However, first person singular personal ending is μι instead of the normal abs
 Table V-MO-5 Formation of the 1st Aorist Active Tense Optative Verb
 ~~~~
 
+  *  Optative verbs will not have an augment because they do not refer to time in the past.
+  *  The tense formative for the 1st aorist active and middle is "σα" and with the addition of the mood formative "ι" will become "σαι."
+  *  The tense formative for the aorist passive is "θε" and with the addition of the mood formative will become "θειη".
+  *  The Optative verbs use secondary personal endings, however, the first person singular ending is "μι" instead of the normal personal ending for the first person singular. 
+
+
 The 1st Aorist Active Optative verb is formed with the:
 
 unaugmented 1st Aorist Tense Stem	+	Tense formative (σα) + Mood formative (ι) +	Secondary Personal Ending.
-This creates the pattern - 	σαι which appears in the first aorist optitive verbs (except the first aorist passive verbs which have a θειη).
 
 
 .. raw:: html
