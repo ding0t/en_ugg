@@ -266,7 +266,7 @@ unaugmented 1st Aorist Tense Stem	+	Tense formative (σα) + Mood formative (ι)
         <td class="tg-7btt">+</td>
         <td class="tg-7btt">Mood<br>Formative</td>
         <td class="tg-7btt">+</td>
-        <td class="tg-7btt">Secondary<br>Personal<br>ending</td>
+        <td class="tg-7btt">Secondary<br>Active<br>Personal<br>ending</td>
         <td class="tg-amwm">-&gt;</td>
         <td class="tg-1wig">Paradigm</td>
       </tr>
@@ -292,20 +292,61 @@ unaugmented 1st Aorist Tense Stem	+	Tense formative (σα) + Mood formative (ι)
 Table V-MO-6 Formation of the 1st Aorist Middle Tense Optative Verb
 ~~~~
 
-See the note on the Formation of the first Aorist Optative verb `Formation of the 1st Aorist Optative <>
+See the note on the Formation of the first Aorist Optative verb `Formation of the 1st Aorist Optative <https://ugg.readthedocs.io/en/latest/mood_optative.html#formation-of-the-first-aorist-optative> `
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-i1lm{background-color:#f8ff00;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-7g6k{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-i1lm" colspan="9">Table V-MO-6<br>Formation of the<br>1st Aorist Active Tense<br>Optative Verb</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-7g6k">un-augmented<br>1st Aorist<br>Tense<br>stem</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-7btt">Tense <br>Formative</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-7btt">Mood<br>Formative</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-7btt">Secondary<br>Middle<br>Personal<br>ending</td>
+        <td class="tg-amwm">-&gt;</td>
+        <td class="tg-1wig">Paradigm</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">λυ</td>
+        <td class="tg-7g6k">+</td>
+        <td class="tg-3xi5">σα</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-c3ow">ι</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-c3ow">μην</td>
+        <td class="tg-amwm">-&gt;</td>
+        <td class="tg-0lax">λύσαιμην</td>
+      </tr> 
+      <tr>
+        <td class="tg-8bgf" colspan="9">I may loose myself</td>
+      </tr>
+    </tbody>
+    </table></br>
 
 
 
-Present
-Tense
-Stem	
-+	Tense
-formative	
-+	Mood
-Formative	
-+	Secondary Personal Ending	->	paradigm
-λυ	+	σα	+	ι	+	μην	->	λυσαίμην
-may loose
 
 
 Table V-MO-7
