@@ -233,7 +233,7 @@ Table V-MO-5 Formation of the 1st Aorist Active Tense Optative Verb
 
 The 1st Aorist Active Optative verb is formed with the:
 
-unaugmented 1st Aorist Tense Stem	+	Tense formative (σα) + Mood formative (ι) +	Secondary Personal Ending.
+unaugmented 1st Aorist Tense Stem	+	Tense formative (σα) + Mood formative (ι) +	Secondary Active Personal Ending.
 
 
 .. raw:: html
@@ -292,7 +292,13 @@ unaugmented 1st Aorist Tense Stem	+	Tense formative (σα) + Mood formative (ι)
 Table V-MO-6 Formation of the 1st Aorist Middle Tense Optative Verb
 ~~~~
 
-See the note on the Formation of the first Aorist Optative verb `Formation of the 1st Aorist Optative <https://ugg.readthedocs.io/en/latest/mood_optative.html#formation-of-the-first-aorist-optative>`_
+  *  See the note on the Formation of the first Aorist Optative verb `Formation of the 1st Aorist Optative <https://ugg.readthedocs.io/en/latest/mood_optative.html#formation-of-the-first-aorist-optative>`_
+
+  The First Aorist Middle Optative is formed with:
+
+  
+unaugmented 1st Aorist Tense Stem	+	Tense formative (σα) + Mood formative (ι) +	Secondary Middle Personal Ending.
+
 
 .. raw:: html
 
@@ -314,7 +320,7 @@ See the note on the Formation of the first Aorist Optative verb `Formation of th
     </style>
     <table class="tg"><thead>
       <tr>
-        <th class="tg-i1lm" colspan="9">Table V-MO-6<br>Formation of the<br>1st Aorist Active Tense<br>Optative Verb</th>
+        <th class="tg-i1lm" colspan="9">Table V-MO-6<br>Formation of the<br>1st Aorist Middle Tense<br>Optative Verb</th>
       </tr></thead>
     <tbody>
       <tr>
@@ -346,23 +352,66 @@ See the note on the Formation of the first Aorist Optative verb `Formation of th
     </table></br>
 
 
+Table V-MO-7 Formation of the 1st Aorist Passive Tense Optative Verb
+
+ *  See the note on the Formation of the first Aorist Optative verb `Formation of the 1st Aorist Optative <https://ugg.readthedocs.io/en/latest/mood_optative.html#formation-of-the-first-aorist-optative>`_
+
+  The First Aorist Middle Optative is formed with:
+
+  
+unaugmented 1st Aorist Tense Stem	+	Tense formative (θε) + Mood formative (ιη) +	Secondary Αctive Personal Ending.
 
 
+.. raw:: html
 
-Table V-MO-7
-Formation of the
-1st Aorist Passive Tense
-Optative Verb
-Present
-Tense
-Stem	
-+	Tense
-formative	
-+	Mood
-Formative	
-+	Secondary Personal Ending	->	paradigm
-λυ	+	θε	+	ιη	+	-	->	λυθείη
-may be  loosed
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-i1lm{background-color:#f8ff00;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-7g6k{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-i1lm" colspan="9">Table V-MO-7<br>Formation of the<br>1st Aorist Passive Tense<br>Optative Verb</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-7g6k">un-augmented<br>1st Aorist<br>Tense<br>stem</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-7btt">Tense <br>Formative</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-7btt">Mood<br>Formative</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-7btt">Secondary<br>Active<br>Personal<br>ending</td>
+        <td class="tg-amwm">-&gt;</td>
+        <td class="tg-1wig">Paradigm</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">λυ</td>
+        <td class="tg-7g6k">+</td>
+        <td class="tg-3xi5">θε</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-c3ow">ιη</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-c3ow">ν</td>
+        <td class="tg-amwm">-&gt;</td>
+        <td class="tg-0lax">λυθείην</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf" colspan="9">I may be loosed</td>
+      </tr>
+    </tbody>
+    </table></br>
 
 		Note:  There are only five occurrences of Aorist Passive Optative case in the New Testament and they are all 3rd person singular ending in θειη (τηρηθείη – may be kept; λογισθείη- may be counted, πληθυνθείη- may be multiplied- 3 times)
 
