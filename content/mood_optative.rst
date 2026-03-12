@@ -470,21 +470,95 @@ unaugmented 1st Aorist Tense Stem	+	Tense formative (θε) + Mood formative (ι�
     </tbody>
     </table></br>
 
-		Note:  There are only five occurrences of Aorist Passive Optative case in the New Testament and they are all 3rd person singular ending in θειη (τηρηθείη – may be kept; λογισθείη- may be counted, πληθυνθείη- may be multiplied- 3 times)
+		Note:  There are only five occurrences of Aorist Passive Optative case in the New Testament and they are all 3rd person singular ending in θειη 
+    
+      *  τηρηθείη – may be kept;
+      *  λογισθείη- may be counted,
+      *  πληθυνθείη- may be multiplied- 3 times)
 
 
-Optative Mood
-First Aorist Tense
-Table V-MO-8
-	Active	Middle 	Passive
-Single			
-1 Person	λύσαιμι	λυσαίμην	λυθείην
-2 Person	λύσαις	λύσαιο	λυθείης
-3 Person	λύσαι	λύσαιτο	λυθείη
-Plural			
-1 Person	λύσαιμεν	λυσαίμεθα	λυθείημεν
-2 Person	λύσαιτε	λύσαισθε	λυθείητε
-3 Person	λύσαιεν	λύσαιντο	λυθείσαν
+
+Table V-MO-8 Optative Mood First Aorist Tense
+~~~~
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-34fe{background-color:#c0c0c0;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-i1lm{background-color:#f8ff00;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-i1lm" colspan="4">Table V-MO-8<br>1st Aorist Tense<br>Optative Mood<br></th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-zlqz"></td>
+        <td class="tg-7btt">Active</td>
+        <td class="tg-7btt">Middle</td>
+        <td class="tg-1wig">Passive</td>
+      </tr>
+      <tr>
+        <td class="tg-7btt">Single</td>
+        <td class="tg-zlqz"></td>
+        <td class="tg-34fe"></td>
+        <td class="tg-y6fn"></td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">1st Person</td>
+        <td class="tg-c3ow">λύσαιμι</td>
+        <td class="tg-c3ow">λυσαίμην</td>
+        <td class="tg-0lax">λυθείην</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">2nd Person</td>
+        <td class="tg-0lax">λύσαις</td>
+        <td class="tg-0lax">λύσαιο</td>
+        <td class="tg-0lax">λυθείης</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">3rd Person</td>
+        <td class="tg-0lax">λύσαι</td>
+        <td class="tg-0lax">λύσαιτο</td>
+        <td class="tg-0lax">λυθείη</td>
+      </tr>
+      <tr>
+        <td class="tg-amwm">Plural</td>
+        <td class="tg-y6fn"></td>
+        <td class="tg-y6fn"></td>
+        <td class="tg-y6fn"></td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">1st Person</td>
+        <td class="tg-0lax">λύσαιμεν</td>
+        <td class="tg-0lax">λυσαίμεθα</td>
+        <td class="tg-0lax">λυθείημεν</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">2nd Person</td>
+        <td class="tg-0lax">λύσαιτε</td>
+        <td class="tg-0lax">λύσαισθε</td>
+        <td class="tg-0lax">λυθείητε</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">3rd Person</td>
+        <td class="tg-0lax">λύσαιεν</td>
+        <td class="tg-0lax">λύσαιντο</td>
+        <td class="tg-0lax">λυθείσαν</td>
+      </tr>
+    </tbody></table>
 
 
 Formation of the 2nd Aorist Optative Verb
