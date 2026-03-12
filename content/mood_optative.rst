@@ -497,30 +497,66 @@ Table V-MO-9 Formation of the 2nd Aorist Active Optative Verb
 
 
 
-Table V-MO-8
-Formation of the
-2nd Aorist Middle
-Optative Verb
-2nd Aorist
-Tense
-Stem	
-+	Connecting
-Vowel	
-+	Mood
-Formative	
-+	Secondary 
-Middle
-Personal Ending	->	paradigm
-λαΒ	+	ο	+	ι	+	μην	->	λάβοιμην
-may cast
+Table V-MO-10 Formation of the 2nd Aorist Middle Optative Verb
+~~~~
 
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-i1lm{background-color:#f8ff00;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-7g6k{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-i1lm" colspan="9">Table V-MO-10<br>Formation of the<br>2nd  Aorist Middle<br>Optative Verb</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-7g6k">un-augmented<br>2nd Aorist<br>Tense<br>stem</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-7btt">Connecting<br>Vowel</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-7btt">Mood<br>Formative</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-7btt">Secondary<br>Middle<br>Personal<br>ending</td>
+        <td class="tg-amwm">-&gt;</td>
+        <td class="tg-1wig">Paradigm</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">λαβ</td>
+        <td class="tg-7g6k">+</td>
+        <td class="tg-3xi5">ο</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-c3ow">ι</td>
+        <td class="tg-7btt">+</td>
+        <td class="tg-c3ow">μην</td>
+        <td class="tg-amwm">-&gt;</td>
+        <td class="tg-0lax">λάβοιμην</td>
+      </tr>
+      <tr>
+        <td class="tg-8bgf" colspan="9">I may  cast myself</td>
+      </tr>
+    </tbody>
+    </table></br>
 
 
 
 		 
 
 
-Table V-MO-9
+Table V-MO-11
 Optative Mood
 Second Aorist Tense
 Table 
