@@ -470,11 +470,11 @@ unaugmented 1st Aorist Tense Stem	+	Tense formative (θε) + Mood formative (ι�
     </tbody>
     </table></br>
 
-		Note:  There are only five occurrences of Aorist Passive Optative case in the New Testament and they are all 3rd person singular ending in θειη 
+Note:  There are only five occurrences of Aorist Passive Optative case in the New Testament and they are all 3rd person singular ending in θειη 
     
-      *  τηρηθείη – may be kept;
-      *  λογισθείη- may be counted,
-      *  πληθυνθείη- may be multiplied- 3 times)
+   *  τηρηθείη – may be kept;
+   *  λογισθείη- may be counted,
+   *  πληθυνθείη- may be multiplied- 3 times)
 
 
 
