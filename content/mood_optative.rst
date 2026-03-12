@@ -292,7 +292,7 @@ unaugmented 1st Aorist Tense Stem	+	Tense formative (σα) + Mood formative (ι)
 Table V-MO-6 Formation of the 1st Aorist Middle Tense Optative Verb
 ~~~~
 
-See the note on the Formation of the first Aorist Optative verb `Formation of the 1st Aorist Optative <https://ugg.readthedocs.io/en/latest/mood_optative.html#formation-of-the-first-aorist-optative> `
+See the note on the Formation of the first Aorist Optative verb `Formation of the 1st Aorist Optative <https://ugg.readthedocs.io/en/latest/mood_optative.html#formation-of-the-first-aorist-optative>`_
 
 .. raw:: html
 
