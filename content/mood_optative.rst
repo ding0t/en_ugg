@@ -204,18 +204,74 @@ Note:
 Table V-MO-4 Optative Mood Present & Middle/Passive Tense
 ~~~~~
 
+.. raw:: html
 
-Table 
-	Active	Middle / Passive
-Single		
-1 st Person	λύοιμι	λυοίμην / λυαίμην
-2nd Person	λύοις	λύοιο
-3 rd Person	λύοι	λύοιτο
-Plural		
-1st Person	λύοιμεν	λυοίμεθα
-2nd Person	λύοιτε	λύοισθε
-3rd Person	λύοιεν	λύοιντο
-
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-34fe{background-color:#c0c0c0;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-i1lm{background-color:#f8ff00;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-i1lm" colspan="3">Table V-MO-4<br>Optative Mood<br>Present and Middle/Passive Voice</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-zlqz"></td>
+        <td class="tg-7btt">Active</td>
+        <td class="tg-7btt">Middle/Passive</td>
+      </tr>
+      <tr>
+        <td class="tg-7btt">Single</td>
+        <td class="tg-zlqz"></td>
+        <td class="tg-34fe"></td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">1st Person</td>
+        <td class="tg-c3ow">λύοιμι</td>
+        <td class="tg-c3ow">λυοίμην<br>λυαίμην</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">2nd Person</td>
+        <td class="tg-0lax">λύοις</td>
+        <td class="tg-0lax">λύοιο</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">3rd Person</td>
+        <td class="tg-0lax">λύοι</td>
+        <td class="tg-0lax">λύοιτο</td>
+      </tr>
+      <tr>
+        <td class="tg-amwm">Plural</td>
+        <td class="tg-y6fn"></td>
+        <td class="tg-y6fn"></td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">1st Person</td>
+        <td class="tg-0lax">λύοιμεν</td>
+        <td class="tg-0lax">λύοιμεθα</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">2nd Person</td>
+        <td class="tg-0lax">λύοιτε</td>
+        <td class="tg-0lax">λύοισθε</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">3rd Person</td>
+        <td class="tg-0lax">λύοιεν</td>
+        <td class="tg-0lax">λύοιντο</td>
+      </tr>
+   </tbody></table></br>
 
 
 Formation of the First Aorist Optative
