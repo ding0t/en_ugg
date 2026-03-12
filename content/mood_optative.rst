@@ -683,12 +683,11 @@ Table V-MO-10 Formation of the 2nd Aorist Middle Optative Verb
 
 
 
-		 
+Table V-MO-11 Optative Mood Second Aorist Tense
+~~~~
 
 
-Table V-MO-11
-Optative Mood
-Second Aorist Tense
+
 Table 
 	Active	Middle 
 Single		
