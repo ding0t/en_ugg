@@ -558,7 +558,7 @@ Table V-MO-8 Optative Mood First Aorist Tense
         <td class="tg-0lax">λύσαιντο</td>
         <td class="tg-0lax">λυθείσαν</td>
       </tr>
-    </tbody></table>
+    </tbody></table></br>
 
 
 Formation of the 2nd Aorist Optative Verb
