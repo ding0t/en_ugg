@@ -219,23 +219,17 @@ Plural
 
 
 Formation of the First Aorist Optative
+~~~~~
 
-Optative verbs will not have an augment because they do not refer to time in the past. 
-
-The tense formative for the 1st aorist active and middle is σα and with the addition of the mood formative will become σαι.
-
-The tense formative for the aorist passive is θε and with the addition of the mood formative will become  θειη.
-
-However, first person singular personal ending is μι instead of the normal absence of a personal ending for the first person singular.
-
-Table V-MO-5 Formation of the 1st Aorist Active Tense Optative Verb
-~~~~
 
   *  Optative verbs will not have an augment because they do not refer to time in the past.
   *  The tense formative for the 1st aorist active and middle is "σα" and with the addition of the mood formative "ι" will become "σαι."
   *  The tense formative for the aorist passive is "θε" and with the addition of the mood formative will become "θειη".
   *  The Optative verbs use secondary personal endings, however, the first person singular ending is "μι" instead of the normal personal ending for the first person singular. 
 
+
+Table V-MO-5 Formation of the 1st Aorist Active Tense Optative Verb
+~~~~
 
 The 1st Aorist Active Optative verb is formed with the:
 
@@ -295,24 +289,13 @@ unaugmented 1st Aorist Tense Stem	+	Tense formative (σα) + Mood formative (ι)
 
 
 
-Present
-Tense
-Stem	
-+	Tense
-formative	
-+	Mood
-Formative	
-+	Secondary Personal Ending	->	paradigm
-λυ	+	σα	+	ι	+	μι	->	λύσαιμι
-may loose
+Table V-MO-6 Formation of the 1st Aorist Middle Tense Optative Verb
+~~~~
+
+See the note on the Formation of the first Aorist Optative verb `Formation of the 1st Aorist Optative <>
 
 
 
-
-Table V-MO-6
-Formation of the
-1st Aorist Middle Tense
-Optative Verb
 Present
 Tense
 Stem	
