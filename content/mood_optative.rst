@@ -843,7 +843,7 @@ V-MO-13  Voluntative Optative Example
 	
 V-MO-14   Optative used as expression of abhorrence
 ~~~~	
-	Fifteen of the seventeen occurrences of the Voluntative optative verb γίνομαι are contained in the expression “μὴ γένοιτο!” [ May it never be!]  In this context it is an expression of repussion or horror at the very thought of this occurring.   It is akin to our modern day expressions of “Perish the Thought”  or “No! Never!” or “It can’t happen!”   
+	Fifteen of the seventeen occurrences of the Voluntative optative verb γίνομαι are contained in the expression “μὴ γένοιτο!” [ May it never be!]  In this context it is an expression of repulsion or horror at the very thought of this occurring.   It is akin to our modern day expressions of “Perish the Thought”  or “No! Never!” or “It can’t happen!”   
 
 .. csv-table:: Optative used as expression of abhorrence	Romans 7:7
 
