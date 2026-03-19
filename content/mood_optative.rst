@@ -688,18 +688,75 @@ Table V-MO-10 Formation of the 2nd Aorist Middle Optative Verb
 Table V-MO-11 Optative Mood Second Aorist Tense
 ~~~~
 
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-34fe{background-color:#c0c0c0;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-i1lm{background-color:#f8ff00;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-i1lm" colspan="3">Table V-MO-11<br>2nd Aorist Tense<br>Optative Mood</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-zlqz"></td>
+        <td class="tg-7btt">Active</td>
+        <td class="tg-7btt">Middle</td>
+      </tr>
+      <tr>
+        <td class="tg-7btt">Single</td>
+        <td class="tg-zlqz"></td>
+        <td class="tg-34fe"></td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">1st Person</td>
+        <td class="tg-c3ow">λάβοιμι</td>
+        <td class="tg-c3ow">λαβοίμην</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">2nd Person</td>
+        <td class="tg-0pky">λάβοις</td>
+        <td class="tg-0pky">λάβοιο</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3rd Person</td>
+        <td class="tg-0pky">λάβοι</td>
+        <td class="tg-0pky">λάβοιτο</td>
+      </tr>
+      <tr>
+        <td class="tg-7btt">Plural</td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">1st Person</td>
+        <td class="tg-0pky">λάβοιμεν</td>
+        <td class="tg-0pky">λαβοίμεθα</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">2nd Person</td>
+        <td class="tg-0pky">λάβοιτε</td>
+        <td class="tg-0pky">λάβοισθε</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3rd Person</td>
+        <td class="tg-0pky">λάβοιεν</td>
+        <td class="tg-0pky">λάβοιντο</td>
+      </tr>
+    </tbody></table></br>
 
 
-Table 
-	Active	Middle 
-Single		
-1 Person	λάβοιμι	λαβοίμην
-2 Person	λάβοις	λάβοιο
-3 Person	λάβοι	λάβοιτο
-Plural		
-1 Person	λάβοιμεν	λαβοίμεθα
-2 Person	λάβοιτε	λάβοισθε
-3 Person	λάβοιεν	λάβοιντο
 
 
 Optative of εἰμί
