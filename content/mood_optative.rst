@@ -28,13 +28,15 @@ Article  [Under Construction]
 -------
 
 
-The Optative mood is the mood of wishing, or remote possibility, or contingent possibility.   
+The Optative mood is the mood of wishing, remote possibility, or expressing a contingent possibility.   
 	
   *  The **Indicative Mood** portrays an action as a reality.
   *  The **Subjunctive Mood** portrays action as possible or probable.
 
 In contrast, the **Optative Mood** portrays action a step further from reality--in this case, as a wish,
-or express a remote, or contingent possibility.   The optative mood can also be used to express a prayer or make a request.
+or to express a remote, or contingent possibility.   
+
+The optative mood can also be used to express a prayer or make a request.  [See also .. ]
 
 	In this article will explore the following uses of the Optative Mood:
 
