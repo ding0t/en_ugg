@@ -832,15 +832,17 @@ V-MO-13  Voluntative Optative Example
 	
 	The Voluntative Optative can be used to express what is viewed by the speaker as a wish even if it is only a mere possibility.
 
-Luke 1:38
-	εἶπεν δὲ Μαριάμ, ἰδοὺ, ἡ δούλη Κυρίου; γένοιτό μοι κατὰ τὸ ῥῆμά σου
-	eipen de Mariam, idou, hē doulē Kyriou? genoito moi kata to rhēma sou
-	said   and Mary, Behold the slave of the Lord,  “May it happen to me according (to) word of you
+.. csv-table:: Example Voluntative Optative Luke 1:38
 
-	Then Mary said, “Behold, the female slave of the Lord. May it happen to me according to your word.
+  εἶπεν,δὲ,Μαριάμ,ἰδοὺ,ἡ,δούλη,Κυρίου,**γένοιτό**,μοι,κατὰ,τὸ,ῥῆμά,σου
+  eipen,de,Mariam,idou,hē,doulē,Kyriou,**genoito**,moi,kata,to,rhēma,sou
+  said,and,Mary,Behold,the,slave,of the Lord,**May it happen**,to me,according(to),the,word,of you
+
+*Then Mary said, “Behold, the female slave of the Lord.* **May it happen** *to me according to your word.*
 
 	
-V-MO-12   Optative used as expression of abhorrence	
+V-MO-14   Optative used as expression of abhorrence
+~~~~	
 	Fifteen of the seventeen occurrences of the Voluntative optative verb γίνομαι are contained in the expression “μὴ γένοιτο!” [ May it never be!]  In this context in is an expression of abject horror at the very thought of this occurring.   It is akin to our modern day expressions of “Perish the Thought”  or “No! Never!” or “It can’t happen!”   
 
 	Romans 7:7
@@ -850,7 +852,7 @@ V-MO-12   Optative used as expression of abhorrence
 
 	What then will we say? Is the law sin? May it never be!
 
-V-MO-13  Voluntative Optative in Prayer
+V-MO-15  Voluntative Optative in Prayer
 
 	1 Peter 1:2
 	χάρις ὑμῖν καὶ εἰρήνη πληθυνθείη
@@ -859,7 +861,7 @@ V-MO-13  Voluntative Optative in Prayer
 
 	May Grace and peace be multiplied to you.
 
-V-MO-14 Deliberative Optative
+V-MO-16 Deliberative Optative
 	Luke 1:29
 	καὶ διελογίζετο ποταπὸς εἴη ὁ ἀσπασμὸς οὗτος
 	kai dielogizeto                   potapos eiē ho aspasmos houtos
@@ -867,7 +869,7 @@ V-MO-14 Deliberative Optative
 
 	and she was considering what kind of greeting this might be
 
-V-MO-15 Potential Optative
+V-MO-17 Potential Optative
 	The Potential Optative involves the particle   ἂν  which denotes a contingency. This contingency implies some unstated condition.  The statement therefore concerns a consequence of this unstated condition. 
 In the following example, Peter is left wondering within himself what the meaning of the vision might be.  What will happen?
 
