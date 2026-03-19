@@ -36,7 +36,7 @@ The Optative mood is the mood of wishing, remote possibility, or expressing a co
 In contrast, the **Optative Mood** portrays action a step further from reality--in this case, as a wish,
 or to express a remote, or contingent possibility.   
 
-The optative mood can also be used to express a prayer or make a request.  [See also .. ]
+The optative mood can also be used to express a prayer or make a request.  [See also #3 in the `Imperative Overview <https://ugg.readthedocs.io/en/latest/mood_imperative.html#overview>`_ ]
 
 	In this article will explore the following uses of the Optative Mood:
 
