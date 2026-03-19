@@ -759,27 +759,76 @@ Table V-MO-11 Optative Mood Second Aorist Tense
 
 
 
-Optative of εἰμί
+Table V-MO-12 Optative of εἰμί
+~~~~~
+
 	There are only 12 occurrences of εἰμί in the optative case in the New Testament.  They are all in the 3rd person singular present active tense, εἴη   which has a gloss of “may be” or “might be”
 
-Table V-MO-10
-Optative Mood
-Present Tense
-εἰμί
-Table 
-	Active
-Single	
-1 Person	εἴην
-2 Person	εἴης
-3 Person	εἴη
-Plural	
-1 Person	εἶμεν
-2 Person	εἶτε / εἴητε
-3 Person	εἶεν / εἴησαν
+.. raw:: html
+
+     <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-34fe{background-color:#c0c0c0;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-i1lm{background-color:#f8ff00;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-i1lm" colspan="2">Table V-MO-12<br>Optative Mood<br>Present Tense<br>εἰμί</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-zlqz"></td>
+        <td class="tg-7btt">Active</td>
+      </tr>
+      <tr>
+        <td class="tg-7btt">Single</td>
+        <td class="tg-zlqz"></td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">1st Person</td>
+        <td class="tg-c3ow">εἴην</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">2nd Person</td>
+        <td class="tg-c3ow">εἴης</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3rd Person</td>
+        <td class="tg-c3ow">εἴη</td>
+      </tr>
+      <tr>
+        <td class="tg-7btt">Plural</td>
+        <td class="tg-34fe"></td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">1st Person</td>
+        <td class="tg-c3ow">εἶημεν</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">2nd Person</td>
+        <td class="tg-c3ow">εἶτε / εἶητε</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3rd Person</td>
+        <td class="tg-c3ow">εἶεν / εἶησαν</td>
+      </tr>
+    </tbody>
+    </table></br>
+
 
 Examples
+______
 
-V-MO-11  Voluntative Optative Example
+V-MO-13  Voluntative Optative Example
+~~~~~
 	
 	The Voluntative Optative can be used to express what is viewed by the speaker as a wish even if it is only a mere possibility.
 
