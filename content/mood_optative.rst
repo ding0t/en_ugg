@@ -890,7 +890,7 @@ There are 11 occurrences of the Potential Optative in the New Testament.
 
   ἐν,ἑαυτῷ,διηπόρει,ὁ,Πέτρος,τί,**ἂν**,**εἴη**,τὸ,ὅραμα,ὃ,εἶδεν
   en,heautō,diēporei,ho,Petros,ti,**an**,**eiē**,to,horama,ho,eiden
-  in,himself,being,greatly perplexed,the,Peter,what,,**might be**,the,vision,which,he had seen
+  in,himself,being greatly perplexed,the,Peter,what,,**might be**,the,vision,which,he had seen
 
 *Peter was doubting within himself what the vision that he had seen* **might mean**
 
