@@ -881,14 +881,16 @@ V-MO-17 Potential Optative
 	The Potential Optative involves the particle   ἂν  which denotes a contingency. This contingency implies some unstated condition.  The statement therefore concerns a consequence of this unstated condition. 
 In the following example, Peter is left wondering within himself what the meaning of the vision might be.  What will happen?
 
-Potentially, there are a couple of other passages that could be classified as a Potential Optative that use  εἴ instead of ἂν  such as Acts 20:16, Acts 24.19, Acts 20.17,, and Acts 27:19 but these could be considered as deliberative optatives. 
+  *  Potentially, there are a couple of other passages that could be classified as a Potential Optative that use  εἴ instead of ἂν
+  such as Acts 20:16, Acts 24.19, Acts 20.17,, and Acts 27:19 but these could be considered as deliberative optatives. 
 
 There are 11 occurrences of the Potential Optative in the New Testament.
 	
-	Acts 10:17
-	ἐν ἑαυτῷ διηπόρει ὁ Πέτρος,                   τί ἂν εἴη τὸ ὅραμα ὃ εἶδεν
-	en heautō diēporei ho Petros,                                   ti an eiē to horama ho eiden
-	in  himself, being greatly perplexed, the Peter  what,, might be the vision which he had seen
+  .. csv-Table:: V-MO-17 Potential Optative Acts 10:17
 
- Peter was doubting within himself what the vision that he had seen might mean
+  ἐν,ἑαυτῷ,διηπόρει,ὁ,Πέτρος,τί,**ἂν**,**εἴη**,τὸ,ὅραμα,ὃ,εἶδεν
+  en,heautō,diēporei,ho,Petros,ti,**an**,**eiē**,to,horama,ho,eiden
+  in,himself,being,greatly perplexed,the,Peter,what,,**might be**,the,vision,which,he had seen
+
+*Peter was doubting within himself what the vision that he had seen* **might mean**
 
