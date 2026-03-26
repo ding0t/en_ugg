@@ -882,11 +882,11 @@ V-MO-17 Potential Optative
 In the following example, Peter is left wondering within himself what the meaning of the vision might be.  What will happen?
 
   *  Potentially, there are a couple of other passages that could be classified as a Potential Optative that use  εἴ instead of ἂν
-  such as Acts 20:16, Acts 24.19, Acts 20.17,, and Acts 27:19 but these could be considered as deliberative optatives. 
+  *  such as Acts 20:16, Acts 24.19, Acts 20.17,, and Acts 27:19 but these could be considered as deliberative optatives. 
 
 There are 11 occurrences of the Potential Optative in the New Testament.
 	
-  .. csv-Table:: V-MO-17 Potential Optative Acts 10:17
+.. csv-Table:: V-MO-17 Potential Optative Acts 10:17
 
   ἐν,ἑαυτῷ,διηπόρει,ὁ,Πέτρος,τί,**ἂν**,**εἴη**,τὸ,ὅραμα,ὃ,εἶδεν
   en,heautō,diēporei,ho,Petros,ti,**an**,**eiē**,to,horama,ho,eiden
