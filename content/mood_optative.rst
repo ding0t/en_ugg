@@ -41,9 +41,9 @@ The optative mood can also be used to express a prayer or make a request.  [See 
 	This article will explore the following uses of the Optative Mood:
 
   1)  Voluntative Optative – is used to express an obtainable wish or a polite request [See `Example V-MO-13 <https://ugg.readthedocs.io/en/latest/mood_optative.html#v-mo-13-voluntative-optative-example>`_]
-    *  Including an expression of abhorrence at a particular action(or negative wish) [See Example V-MO-12]
+    *  Including an expression of abhorrence at a particular action(or negative wish) [See `Example V-MO-14 <https://ugg.readthedocs.io/en/latest/mood_optative.html#v-mo-14-optative-used-as-expression-of-abhorrence>`_]
     *  To express a prayer  [See `Example V-MO-15 <https://ugg.readthedocs.io/en/latest/mood_optative.html#v-mo-15-voluntative-optative-in-prayer>`_]
-  2)  Deliberative Optative – is used when there is an expression of doubt in the mind of the speaker *(if it were possible)*.  [See Example V-MO-14]
+  2)  Deliberative Optative – is used when there is an expression of doubt in the mind of the speaker *(if it were possible)*.  [See `Example V-MO-16 <https://ugg.readthedocs.io/en/latest/mood_optative.html#v-mo-16-deliberative-optative>`_]
   3)  Potential Optative – usually with an expression of condition. [V-MO-15]
 		
 
