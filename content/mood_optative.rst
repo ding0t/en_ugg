@@ -40,9 +40,9 @@ The optative mood can also be used to express a prayer or make a request.  [See 
 
 	This article will explore the following uses of the Optative Mood:
 
-  1)  Voluntative Optative – is used to express an obtainable wish or a polite request [See Example V-MO-11]
+  1)  Voluntative Optative – is used to express an obtainable wish or a polite request [See `Example V-MO-11 <>]
     *  Including an expression of abhorrence at a particular action(or negative wish) [See Example V-MO-12]
-    *  To express a prayer  [See Example V-MO-13]
+    *  To express a prayer  [See `Example V-MO-13 <https://ugg.readthedocs.io/en/latest/mood_optative.html#v-mo-13-voluntative-optative-example>`_]
   2)  Deliberative Optative – is used when there is an expression of doubt in the mind of the speaker *(if it were possible)*.  [See Example V-MO-14]
   3)  Potential Optative – usually with an expression of condition. [V-MO-15]
 		
@@ -878,7 +878,7 @@ V-MO-16 Deliberative Optative
 V-MO-17 Potential Optative
 ~~~~~
 
-	The Potential Optative involves the particle   ἂν  which denotes a contingency. This contingency implies some unstated condition.  The statement therefore concerns a consequence of this unstated condition. 
+	The Potential Optative involves the particle ἂν which denotes a contingency. This contingency implies some unstated condition.  The statement therefore concerns a consequence of this unstated condition. 
 In the following example, Peter is left wondering within himself what the meaning of the vision might be.  What will happen?
 
   *  Potentially, there are a couple of other passages that could be classified as a Potential Optative that use  εἴ instead of ἂν
@@ -893,4 +893,6 @@ There are 11 occurrences of the Potential Optative in the New Testament.
   in,himself,being greatly perplexed,the,Peter,what,,**might be**,the,vision,which,he had seen
 
 *Peter was doubting within himself what the vision that he had seen* **might mean**
+
+[Note] the particle "ἂν" is an untranslated particle. 
 
