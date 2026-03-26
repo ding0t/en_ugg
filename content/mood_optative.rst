@@ -40,11 +40,11 @@ The optative mood can also be used to express a prayer or make a request.  [See 
 
 	This article will explore the following uses of the Optative Mood:
 
-  1)  Voluntative Optative – is used to express an obtainable wish or a polite request [See `Example V-MO-13 <https://ugg.readthedocs.io/en/latest/mood_optative.html#v-mo-13-voluntative-optative-example>`_]
-    *  Including an expression of abhorrence at a particular action(or negative wish) [See `Example V-MO-14 <https://ugg.readthedocs.io/en/latest/mood_optative.html#v-mo-14-optative-used-as-expression-of-abhorrence>`_]
-    *  To express a prayer  [See `Example V-MO-15 <https://ugg.readthedocs.io/en/latest/mood_optative.html#v-mo-15-voluntative-optative-in-prayer>`_]
-  2)  Deliberative Optative – is used when there is an expression of doubt in the mind of the speaker *(if it were possible)*.  [See `Example V-MO-16 <https://ugg.readthedocs.io/en/latest/mood_optative.html#v-mo-16-deliberative-optative>`_]
-  3)  Potential Optative – usually with an expression of condition. [See `Example V-MO-17 <https://ugg.readthedocs.io/en/latest/mood_optative.html#v-mo-17-potential-optative>`_]
+  1)  Voluntative Optative – is used to express an obtainable wish or a polite request
+    *  Including an expression of abhorrence at a particular action(or negative wish)
+    *  To express a prayer
+  2)  Deliberative Optative – is used when there is an expression of doubt in the mind of the speaker *(if it were possible)*.
+  3)  Potential Optative – usually with an expression of condition.
 		
 
 The Optative mood is infrequently used.  In fact, it only occurs 68 times in the Greek New Testament.	
@@ -52,7 +52,7 @@ The Optative mood is infrequently used.  In fact, it only occurs 68 times in the
 
 	The most frequently used Optative is the **Voluntative.**
 
-  *  It is often used to express the desire of one’s heart (a wish) that he or she views as obtainable.  [See example V-MO- 11] 
+  *  It is often used to express the desire of one’s heart (a wish) that he or she views as obtainable.  [See `Example V-MO- 13 <https://ugg.readthedocs.io/en/latest/mood_optative.html#v-mo-13-voluntative-optative-example>`_] 
   *  It is frequently used negatively to express abhorrence or repulsiveness of the thought.  It is an expression of a negative wish that *this* would not be the case.  The modern-day equivalent would probably be something like “Perish the thought!,”  or “No! Never!”, or “It can’t be!”   “μὴ γένοιτο” is often translated with expressions such as “May it never be!”, or “Heaven forbid!,” or “Far be the thought!”  [See Example V-MO-12]
   *  The Voluntative Optatave can also be used to politely make a request from someone, including a superior (even God Himself) . Although the Voluntative Optative is the mood of possibility, it does not indicate any reduction of the speaker’s expectation that the request will be granted.  [See example V-MO-13]
 
