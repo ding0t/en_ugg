@@ -869,13 +869,15 @@ V-MO-16 Deliberative Optative
 
 .. csv-table:: V-MO-16 Deleberative Optative Luke 1:29
 
-	καὶ διελογίζετο ποταπὸς εἴη ὁ ἀσπασμὸς οὗτος
-	kai dielogizeto                   potapos eiē ho aspasmos houtos
-	and she was pondering   what sort of   may be  the greeting  this
+  καὶ,διελογίζετο,ποταπὸς,**εἴη**,ὁ,ἀσπασμὸς,οὗτος
+  kai,dielogizeto,potapos,**eiē**,ho,aspasmos,houtos
+  and,she was pondering,what sort of,**may be**,the,greeting,this
 
-	and she was considering what kind of greeting this might be
+*and she was considering what kind of greeting this* **might be**
 
 V-MO-17 Potential Optative
+~~~~~
+
 	The Potential Optative involves the particle   ἂν  which denotes a contingency. This contingency implies some unstated condition.  The statement therefore concerns a consequence of this unstated condition. 
 In the following example, Peter is left wondering within himself what the meaning of the vision might be.  What will happen?
 
