@@ -54,13 +54,13 @@ The Optative mood is infrequently used.  In fact, it only occurs 68 times in the
 
   *  It is often used to express the desire of one’s heart (a wish) that he or she views as obtainable.  [See `Voluntative Optative Example V-MO- 13 <https://ugg.readthedocs.io/en/latest/mood_optative.html#v-mo-13-voluntative-optative-example>`_] 
   *  It is frequently used negatively to express abhorrence or repulsiveness of the thought.  It is an expression of a negative wish that *this* would not be the case.  The modern-day equivalent would probably be something like “Perish the thought!,”  or “No! Never!”, or “It can’t be!”   “μὴ γένοιτο” is often translated with expressions such as “May it never be!”, or “Heaven forbid!,” or “Far be the thought!”  [See `Example V-MO-14 <https://ugg.readthedocs.io/en/latest/mood_optative.html#v-mo-14-optative-used-as-expression-of-abhorrence>`_]
-  *  The Voluntative Optatave can also be used to politely make a request from someone, including a superior (even God Himself) . Although the Voluntative Optative is the mood of possibility, it does not indicate any reduction of the speaker’s expectation that the request will be granted.  [See `Example V-MO-15 <https://ugg.readthedocs.io/en/latest/mood_optative.html#v-mo-15-voluntative-optative-in-prayer>`_]
+  *  The Voluntative Optatave can also be used to politely make a request from someone, including a superior (even God Himself - in prayer) . Although the Voluntative Optative is the mood of possibility, it does not indicate any reduction of the speaker’s expectation that the request will be granted.  [See `Example V-MO-15 <https://ugg.readthedocs.io/en/latest/mood_optative.html#v-mo-15-voluntative-optative-in-prayer>`_]
 
 The **Deliberative Optative** occurs when there is a degree of uncertainty (or doubt) in the speaker’s mind about the outcome.  The presence of the particle “ἄν” would further increase the level of uncertainty.
 There are 11 occurrences of the Deliberative Optative, all of which are in the book of Luke or Acts. 
-See Example [Luke 18:36]   Blind man confused by the noise of a crowd going by..    [See Example V-MO-14]
+See Example [Luke 18:36]   Blind man confused by the noise of a crowd going by..    [See `Example V-MO-16 Deliberative Optative <https://ugg.readthedocs.io/en/latest/mood_optative.html#v-mo-16-deliberative-optative>`_]
 
-The **Potential Optative** involves a degree of uncertainty and is conditioned on some other factor.  Often, the uncertainty is contained within an implied question.  [See Example V-MO-15]
+The **Potential Optative** involves a degree of uncertainty and is conditioned on some other factor.  Often, the uncertainty is contained within an implied question.  [See `Example V-MO-17 Potential Optative <https://ugg.readthedocs.io/en/latest/mood_optative.html#v-mo-17-potential-optative>`_]
 
 		
  
