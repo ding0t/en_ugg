@@ -856,15 +856,19 @@ V-MO-14   Optative used as expression of abhorrence
 V-MO-15  Voluntative Optative in Prayer
 ~~~~~~~
 
-	1 Peter 1:2
-	χάρις ὑμῖν καὶ εἰρήνη πληθυνθείη
-	charis hymin kai eirēnē plēthyntheiē
-	grace to you and peace  may be multiplied
+.. csv-table:: V-MO-15 Voluntative Optative in Prayer	1 Peter 1:2
 
-	May Grace and peace be multiplied to you.
+  χάρις,ὑμῖν,καὶ,εἰρήνη,**πληθυνθείη**
+  charis,hymin,kai,eirēnē,**plēthyntheiē**
+  grace,to you,and,peace,**may be multiplied**
+
+**May** *Grace and peace* **be multiplied** *to you.*
 
 V-MO-16 Deliberative Optative
-	Luke 1:29
+~~~~~
+
+.. csv-table:: V-MO-16 Deleberative Optative Luke 1:29
+
 	καὶ διελογίζετο ποταπὸς εἴη ὁ ἀσπασμὸς οὗτος
 	kai dielogizeto                   potapos eiē ho aspasmos houtos
 	and she was pondering   what sort of   may be  the greeting  this
