@@ -29,8 +29,7 @@ Article
 
 *Then he says to his disciples, “The harvest is plentiful*, **but** *the laborers are few.*
 
-..
-..Note::  The adverbial particle **μεν** is not translated.
+.. Note::  The adverbial particle **μεν** is not translated.
 
 .. csv-table:: Luke 16:13
 
