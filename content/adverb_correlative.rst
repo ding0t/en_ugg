@@ -25,7 +25,7 @@ Article
 
   τότε,λέγει,τοῖς,μαθηταῖς,αὐτοῦ,Ὁ,**μὲν**,θερισμὸς,,πολύς,οἱ,**δὲ**,ἐργάται,,ὀλίγοι·
   tote,legei,tois,mathētais,autou,ho,**men**,therismos,,polys,hoi,**de**,ergatai,,oligoi?
-  then,he says to disciples his, the,,harvest,(is),much,the,**but**,workers,(are),few
+  then,he says,to,disciples,his,the,,harvest,(is),much,the,**but**,workers,(are),few
 
 *Then he says to his disciples, “The harvest is plentiful*, **but** *the laborers are few.*
 
