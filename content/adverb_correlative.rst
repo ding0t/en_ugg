@@ -36,6 +36,6 @@ Article
 
   **ἢ**,γὰρ,τὸν,ἕνα,μισήσει,**καὶ**,τὸν,ἕτερον,ἀγαπήσει;**ἢ**,ἑνὸς,ἀνθέξεται,**καὶ**,τοῦ,ἑτέρου,καταφρονήσει
   **ē**,gar,ton,hena,misēsei,**kai**,ton,heteron,agapēsei?,**ē**,henos,anthexetai,**kai**,tou,heterou,kataphronēsei
-**either**,for,the,one,he will hate,**and**,the,other,he will love?,**or**,one,he will be devoted,**and**,the,other,he will dispise
+  **either**,for,the,one,he will hate,**and**,the,other,he will love?,**or**,one,he will be devoted,**and**,the,other,he will dispise
 
 *for* **either** *he will hate the one* **and** *he will love the other*, **or else** *he will be devoted to one* **and** *he will despise the other*.
