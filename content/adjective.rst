@@ -253,7 +253,6 @@ These comparative adjective word endings differ according to gender:
 
 (Some irregular adjectives take the suffixes -(ι)ων or -ον instead.)
 
-.. note:: Some adjectives use the comparative word ending while conveying a superlative meaning. You must always be observant of the context and take it into account when translating an adjective with a comparative word ending.
 
 .. csv-table:: John 13:16, "a servant is not **greater** than his master"
   :header-rows: 0
@@ -261,6 +260,8 @@ These comparative adjective word endings differ according to gender:
   οὐκ,ἔστιν,δοῦλος,**μείζων**,τοῦ,κυρίου,αὐτοῦ
   ouk,estin,doulos,**meizōn**,tou,kyriou,autou
   not, he is,a slave,**greater**,than,master,his
+
+.. note:: Some adjectives use the comparative word ending while conveying a superlative meaning. You must always be observant of the context and take it into account when translating an adjective with a comparative word ending.
 
 .. csv-table:: Matthew 23:11
 
@@ -279,28 +280,18 @@ These comparative adjective word endings differ according to gender:
 .. note:: Sometime the writer will use the plain adjective (positive use) with a compartive or superlative meaning;  
     or a comparative adjective with a superlative meaning. It is therefore always important to notice the context in which the adjective is used.
 
-.. csv-table:: Mark 4:1, "and a **large** crowd gathered around him"
-  :header-rows: 0
-
-  καὶ,συνάγεται,πρὸς,αὐτὸν,ὄχλος,**πλεῖστος**
-  kai,synagetai,pros,auton,ochlos,**pleistos**
-  and,it is gathered,to,him,crowd,**very large**
-
-.. csv-table:: Luke 1:3, "**most excellent** *Theophilus*"
-  :header-rows: 0
-  
-  **κράτιστε**,Θεόφιλε
-  **kratiste**,Theophile  
-  **most excellent**,Theophilus
 
 .. _adjective-superlative:
 .. include:: en_uhg/content/includes/adjective-superlative.rst
 
 In Koiné Greek, a superlative adjective is often formed by adding a specific kind of word ending to the base form of that adjective.
 These superlative adjective word endings differ according to gender:
-*-τατος* (masculine), *-τατη* (feminine), and *-τατον* (neuter), 
+
+  *-τατος* (masculine), *-τατη* (feminine), and *-τατον* (neuter), 
+
 OR
-*-ιστος* (masculine), *-ιστη* (feminine), and *-ιστον* (neuter).
+  
+  *-ιστος* (masculine), *-ιστη* (feminine), and *-ιστον* (neuter).
 
 
 .. csv-table:: 1 Corinthians 15:9, *For I am the* **least** *of the apostles.*
@@ -320,4 +311,18 @@ OR
   
 *I am the*  **good**  *shepherd*...
 
+
+.. csv-table:: Mark 4:1, "and a **large** crowd gathered around him"
+  :header-rows: 0
+
+  καὶ,συνάγεται,πρὸς,αὐτὸν,ὄχλος,**πλεῖστος**
+  kai,synagetai,pros,auton,ochlos,**pleistos**
+  and,it is gathered,to,him,crowd,**very large**
+
+.. csv-table:: Luke 1:3, "**most excellent** *Theophilus*"
+  :header-rows: 0
+  
+  **κράτιστε**,Θεόφιλε
+  **kratiste**,Theophile  
+  **most excellent**,Theophilus
 
