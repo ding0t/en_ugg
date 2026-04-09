@@ -261,7 +261,16 @@ These comparative adjective word endings differ according to gender:
   οὐκ,ἔστιν,δοῦλος,**μείζων**,τοῦ,κυρίου,αὐτοῦ
   ouk,estin,doulos,**meizōn**,tou,kyriou,autou
   not, he is,a slave,**greater**,than,master,his
-   
+
+.. csv-table:: Matthew 23:11
+
+  ὁ,δὲ,**μείζων**,ὑμῶν,ἔσται,ὑμῶν,διάκονος
+  ho,de,**meizōn**,hymōn,estai,hymōn,diakonos
+  but,the,**greatest**,of you,will be,of you,servant
+
+*But the* **greatest** *among you will be your servant*  
+[NOTE]  Jesus is speaking to the crowds and to his disciples and so in this context a superlative use would normally be used.
+
 
 .. _adjective-intensive:
 .. include:: en_uhg/content/includes/adjective-intensive.rst
@@ -285,13 +294,13 @@ These comparative adjective word endings differ according to gender:
 .. _adjective-superlative:
 .. include:: en_uhg/content/includes/adjective-superlative.rst
 
-In Koiné Greek, a comparative adjective is often formed by adding a specific kind of word ending to the base form of that adjective.
-These comparative adjective word endings differ according to gender:
+In Koiné Greek, a superlative adjective is often formed by adding a specific kind of word ending to the base form of that adjective.
+These superlative adjective word endings differ according to gender:
 *-τατος* (masculine), *-τατη* (feminine), and *-τατον* (neuter), 
 OR
 *-ιστος* (masculine), *-ιστη* (feminine), and *-ιστον* (neuter).
 
-.. note:: Some adjectives use the superlative word ending when the intent is comparative or a comparative ending when the intent is superlative. It is therefore important to note and consider context when translating adjectives with comparative or superlative word endings.
+.. note:: Some adjectives may use a superlative word ending when the intent is comparative. It is therefore important to note and consider context when translating adjectives with a superlative word ending.
 
 .. csv-table:: 1 Corinthians 15:9, *For I am the* **least** *of the apostles.*
   :header-rows: 0
