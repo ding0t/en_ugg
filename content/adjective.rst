@@ -269,13 +269,14 @@ These comparative adjective word endings differ according to gender:
   but,the,**greatest**,of you,will be,of you,servant
 
 *But the* **greatest** *among you will be your servant*  
-[NOTE]  Jesus is speaking to the crowds and to his disciples and so in this context a superlative use would normally be expected.
+
+[NOTE] In Matthew 23:11, Jesus is speaking to the crowds and to his disciples and so in this context a superlative use would normally be expected.
 
 
 .. _adjective-intensive:
 .. include:: en_uhg/content/includes/adjective-intensive.rst
 
-.. note:: Sometime the writer will use the plain adgective (positive use) with a compartive or superlative meaning;  
+.. note:: Sometime the writer will use the plain adjective (positive use) with a compartive or superlative meaning;  
     or a comparative adjective with a superlative meaning. It is therefore always important to notice the context in which the adjective is used.
 
 .. csv-table:: Mark 4:1, "and a **large** crowd gathered around him"
