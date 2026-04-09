@@ -291,7 +291,7 @@ These comparative adjective word endings differ according to gender:
 OR
 *-ιστος* (masculine), *-ιστη* (feminine), and *-ιστον* (neuter).
 
-.. note:: Some adjectives use the superlative word ending when the intent is comparative or a comparative ending when the intent is superlative. It is therefore important to note and consider context when translating an adjective with comparative or superlative word endings.
+.. note:: Some adjectives use the superlative word ending when the intent is comparative or a comparative ending when the intent is superlative. It is therefore important to note and consider context when translating adjectives with comparative or superlative word endings.
 
 .. csv-table:: 1 Corinthians 15:9, *For I am the* **least** *of the apostles.*
   :header-rows: 0
