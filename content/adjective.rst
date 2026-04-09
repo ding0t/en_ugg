@@ -263,6 +263,9 @@ These comparative adjective word endings differ according to gender:
 
 .. note:: Some adjectives use the comparative word ending while conveying a superlative meaning. You must always be observant of the context and take it into account when translating an adjective with a comparative word ending.
 
+
+In Matthew 23:11, Jesus is speaking to the crowds and to his disciples and so in this context a superlative use would normally be expected.
+
 .. csv-table:: Matthew 23:11
 
   ὁ,δὲ,**μείζων**,ὑμῶν,ἔσται,ὑμῶν,διάκονος
@@ -271,13 +274,13 @@ These comparative adjective word endings differ according to gender:
 
 *But the* **greatest** *among you will be your servant*  
 
-[NOTE] In Matthew 23:11, Jesus is speaking to the crowds and to his disciples and so in this context a superlative use would normally be expected.
+
 
 
 .. _adjective-intensive:
 .. include:: en_uhg/content/includes/adjective-intensive.rst
 
-.. note:: Sometime the writer will use the plain adjective (positive use) with a compartive or superlative meaning;  
+.. note:: Sometime the writer will use the plain adjective (positive use) with a comparative or superlative meaning;  
     or a comparative adjective with a superlative meaning. It is therefore always important to notice the context in which the adjective is used.
 
 
