@@ -253,7 +253,7 @@ These comparative adjective word endings differ according to gender:
 
 (Some irregular adjectives take the suffixes -(ι)ων or -ον instead.)
 
-.. note:: Some adjectives use the comparative word ending to indicate a superlative adjective instead. You must always be observant of the context and take it into account when translating an adjective with a comparative word ending.
+.. note:: Some adjectives use the comparative word ending while conveying a superlative meaning. You must always be observant of the context and take it into account when translating an adjective with a comparative word ending.
 
 .. csv-table:: John 13:16, "a servant is not **greater** than his master"
   :header-rows: 0
@@ -269,13 +269,14 @@ These comparative adjective word endings differ according to gender:
   but,the,**greatest**,of you,will be,of you,servant
 
 *But the* **greatest** *among you will be your servant*  
-[NOTE]  Jesus is speaking to the crowds and to his disciples and so in this context a superlative use would normally be used.
+[NOTE]  Jesus is speaking to the crowds and to his disciples and so in this context a superlative use would normally be expected.
 
 
 .. _adjective-intensive:
 .. include:: en_uhg/content/includes/adjective-intensive.rst
 
-.. note:: Sometime both/either comparative and/or superlative word endings can be used to express an intensive meaning to that particular adjective rather than either a comparative meaning or a superlative meaning.
+.. note:: Sometime the writer will use the plain adgective (positive use) with a compartive or superlative meaning;  
+    or a comparative adjective with a superlative meaning. It is therefore always important to notice the context in which the adjective is used.
 
 .. csv-table:: Mark 4:1, "and a **large** crowd gathered around him"
   :header-rows: 0
@@ -300,7 +301,6 @@ These superlative adjective word endings differ according to gender:
 OR
 *-ιστος* (masculine), *-ιστη* (feminine), and *-ιστον* (neuter).
 
-.. note:: Some adjectives may use a superlative word ending when the intent is comparative. It is therefore important to note and consider context when translating adjectives with a superlative word ending.
 
 .. csv-table:: 1 Corinthians 15:9, *For I am the* **least** *of the apostles.*
   :header-rows: 0
