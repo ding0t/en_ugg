@@ -58,7 +58,7 @@ Table A-2 [2-1-2 adjectives] α
 Table A-2 displays 2-1-2 uncontracted adjectives
     with the feminine in "α" and the neuter in "ον"
 
-.. csv-table:: ἃγioς, "holy"
+.. csv-table:: [2-1-2] α - ἃγioς, "holy"
   :header-rows: 1
 
   ,Masculine,Feminine,Neuter
@@ -75,7 +75,13 @@ Table A-2 displays 2-1-2 uncontracted adjectives
   Accusative,ἁγίους,ἁγίας,ἃγια
   Vocative,ἃγιοι,ἃγιαι,ἃγια
 
-.. csv-table:: ἂλλος, "other, another"
+Table A-3 [2-1-2] ο
+^^^^^^^^^^^
+
+Table A-3 displays 2-1-2 uncontracted adjectives
+    with an "ο" in the neuter 
+
+.. csv-table:: [2-1-2] ο -ἂλλος, "other, another"
   :header-rows: 1
 
   ,Masculine,Feminine,Neuter
@@ -90,8 +96,14 @@ Table A-2 displays 2-1-2 uncontracted adjectives
   Dative,ἂλλοις,ἂλλαις,ἂλλοις
   Accusative,ἂλλους,ἂλλας,ἂλλα
 
+Table A-4 [3-1-3] 
+^^^^^^^^^^^
 
-.. csv-table:: πᾶς, "all, every"
+Table A-4 is a paradigm for adjectives with stems ending in a "ντ"
+  
+  The stem in the masculine and neuter singular is παντ.   When adding the "σ" in the nominative singular or   "σι in the dative plural the ντ drops out and the adjective then becomes πας or πασι.
+
+.. csv-table:: [3-1-3]  πᾶς, "all, every"
   :header-rows: 1
 
   ,Masculine,Feminine,Neuter
