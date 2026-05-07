@@ -329,3 +329,5 @@ OR
   **kratiste**,Theophile  
   **most excellent**,Theophilus
 
+Table of common comparative and Superlatives
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
