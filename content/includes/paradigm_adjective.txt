@@ -28,10 +28,10 @@ In the feminine declension, the final vowel will remain an alpha, and not length
   ,Masculine,Feminine,Neuter
   *Singular*,,,
   Nominative,ἅγιος,ἁγία,ἅγιον
-  Vocative,ἅγιε,ἁγία,ἅγιον
   Genitive,ἁγίου,ἁγιάς,ἁγίου
   Dative,ἁγίῳ,ἁγἰᾳ,ἁγίῳ
   Accusative,ἃγιον,ἁγίαν,ἃγιον
+  Vocative,ἅγιε,ἁγία,ἅγιον
   *Plural*,,,
   Nominative_Vocative,ἃγιοι,ἃγιαι,ἃγια
   Genitive,ἁγίων,ἁγίων,ἁγίων
@@ -50,10 +50,10 @@ When the letter **immediately preceding the case ending for an adjective is not 
   ,Masculine,Feminine,Neuter
   *Singular*,,,
   Nominative,ἀγαθός,ἀγαθή,ἀγαθόν
-  Vocative,ἀγαθέ,ἀγαθή,ἀγαθόν
   Genitive,ἀγαθοῦ,ἀγαθῆς,ἀγαθοῦ
   Dative,ἀγαθῷ,ἀγαθῇ,ἀγαθῷ
   Accusative,ἀγαθόν,ἀγαθήν,ἀγαθόν
+  Vocative,ἀγαθέ,ἀγαθή,ἀγαθόν
   *Plural*,,,
   Nominative_Vocative,ἀγαθοί,ἀγαθαί,ἀγαθά
   Genitive,ἀγαθῶν,ἀγαθῶν,ἀγαθῶν
