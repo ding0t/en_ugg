@@ -29,6 +29,15 @@ However, there are more sets of word endings for adjectives in Greek than are li
 See `adjective_paradigms <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_ for more.
 See especially Master Table 1 and Master Table 2 :ref:`Master Tables<paradigms>`.
 
+  *  `2-1-2 Uncontracted adjectives <https://ugg.readthedocs.io/en/latest/paradigms.html#uncontracted-adjectives>`_
+  *  `2-1-2 Contract adjectives <https://ugg.readthedocs.io/en/latest/paradigms.html#uncontracted-adjectives>`_
+  *  `2-1-2 Special paradigms <https://ugg.readthedocs.io/en/latest/paradigms.html#special-paradigms>`_
+  *  `3-1-3 Adjectives <https://ugg.readthedocs.io/en/latest/paradigms.html#id6>`_
+  *  `2-2-2 άμαρτωλός <https://ugg.readthedocs.io/en/latest/paradigms.html#id7>`_
+  *  `3-3-3 Adjectives <https://ugg.readthedocs.io/en/latest/paradigms.html#id8>`_
+  *  `Cardinal numerals <https://ugg.readthedocs.io/en/latest/paradigms.html#cardinals-numerals>`_
+
+
 Table A-1 [2-1-2 adjectives] η  
 ^^^^^^^^^
 
