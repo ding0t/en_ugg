@@ -31,9 +31,11 @@ See especially Master Table 1 and Master Table 2 :ref:`Master Tables<paradigms>`
 
 Table A-1 [2-1-2 adjectives] η  
 ^^^^^^^^^
-Table A-1 displays 2-1-2 adjectives with the feminine in "η" and the neuter in "ον"
 
-.. csv-table::  [2-1-2] ἀγαθός, "good"
+Table A-1 displays 2-1-2 uncontracted adjectives
+    with the feminine in "η" and the neuter in "ον"
+
+.. csv-table::  [2-1-2] η - ἀγαθός,"good"
   :header-rows: 1
 
   ,Masculine,Feminine,Neuter
@@ -50,7 +52,7 @@ Table A-1 displays 2-1-2 adjectives with the feminine in "η" and the neuter in 
   Accusative,ἀγαθούς,ἀγαθάς,ἀγαθά
   Vocative,ἀγαθοί,ἀγαθαί,ἀγαθά
 
-</br>
+</br></br>
 
 
 .. csv-table:: ἃγioς, "holy"
