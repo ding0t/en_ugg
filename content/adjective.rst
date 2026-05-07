@@ -52,8 +52,11 @@ Table A-1 displays 2-1-2 uncontracted adjectives
   Accusative,ἀγαθούς,ἀγαθάς,ἀγαθά
   Vocative,ἀγαθοί,ἀγαθαί,ἀγαθά
 
-</br></br>
+Table A-2 [2-1-2 adjectives] α
+^^^^^^^^^^^
 
+Table A-2 displays 2-1-2 uncontracted adjectives
+    with the feminine in "α" and the neuter in "ον"
 
 .. csv-table:: ἃγioς, "holy"
   :header-rows: 1
