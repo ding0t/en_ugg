@@ -29,7 +29,11 @@ However, there are more sets of word endings for adjectives in Greek than are li
 See `adjective_paradigms <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_ for more.
 See especially Master Table 1 and Master Table 2 :ref:`Master Tables<paradigms>`.
 
-.. csv-table:: ἀγαθός, "good"
+Table A-1 [2-1-2 adjectives] η  
+^^^^^^^^^
+Table A-1 displays 2-1-2 adjectives with the feminine in "η" and the neuter in "ον"
+
+.. csv-table::  [2-1-2] ἀγαθός, "good"
   :header-rows: 1
 
   ,Masculine,Feminine,Neuter
@@ -45,6 +49,9 @@ See especially Master Table 1 and Master Table 2 :ref:`Master Tables<paradigms>`
   Dative,ἀγαθοῖς,ἀγαθαῖς,ἀγαθοῖς
   Accusative,ἀγαθούς,ἀγαθάς,ἀγαθά
   Vocative,ἀγαθοί,ἀγαθαί,ἀγαθά
+
+</br>
+
 
 .. csv-table:: ἃγioς, "holy"
   :header-rows: 1
