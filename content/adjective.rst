@@ -30,7 +30,7 @@ See `adjective_paradigms <https://ugg.readthedocs.io/en/latest/paradigms.html#ad
 See especially Master Table 1 and Master Table 2 :ref:`Master Tables<paradigms>`.
 
   *  `2-1-2 Uncontracted adjectives <https://ugg.readthedocs.io/en/latest/paradigms.html#uncontracted-adjectives>`_
-  *  `2-1-2 Contract adjectives <https://ugg.readthedocs.io/en/latest/paradigms.html#uncontracted-adjectives>`_
+  *  `2-1-2 Contract adjectives <https://ugg.readthedocs.io/en/latest/paradigms.html#contract-adjectives>`_
   *  `2-1-2 Special paradigms <https://ugg.readthedocs.io/en/latest/paradigms.html#special-paradigms>`_
   *  `3-1-3 Adjectives <https://ugg.readthedocs.io/en/latest/paradigms.html#id6>`_
   *  `2-2-2 άμαρτωλός <https://ugg.readthedocs.io/en/latest/paradigms.html#id7>`_
