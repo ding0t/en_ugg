@@ -140,6 +140,8 @@ Example  A-5 agreement in number and gender
   ho,eulogēsas,hēmas,en,**pasē**,**eulogia**,**pneumatikē**
   who,has blessed,us,with,**every**,**blessing**,**spiritual**
 
+*who has blessed us with* **every spiritual blessing**
+
 In the above example the adjectives πάςῃ and πνευματικῇ are in feminine singular form.
 They agree with the noun εὐλογιᾳ in gender and number.  
 These adjectives are both attributive.
@@ -148,13 +150,15 @@ Therefore, they also agree in case.
 Example A-6 agreement in gender
 ^^^^^^^
 
-.. csv-table:: John 10:11, "I am the **good shepherd.**"
+.. csv-table:: John 10:11, 
   :header-rows: 0
   
   ἐγώ,εἰμι,ὁ,**ποιμὴν**,ὁ,**καλός.**
   Egō,eimi,ho,**poimēn**,ho,**kalos.**
   I,I am,the,**shepherd**,the,**good**
   
+*I am the* **good shepherd.**
+
 The adjective always appears in the form that represents the true gender of the noun.
 The pronoun ἐγώ ("I") is in singular form; (but is it masculine, feminine, or neuter?)
 The above example is a statement of Jesus (a man).
@@ -175,13 +179,14 @@ The noun being described by an ascriptive adjective may or may not be paired wit
 Example A-7 ascriptive adjective
 ^^^^^^
 
-.. csv-table:: 1 John 2:7, "I am not writing a **new commandment** to you, but an **old commandment...**"
+.. csv-table:: 1 John 2:7
   :header-rows: 0
 
   οὐκ,,**ἐντολὴν**,**καινὴν**,γράφω,ὑμῖν,ἀλλ’,,**ἐντολὴν**,**παλαιὰν**
   ouk,,**entolēn**,**kainēn**,graphō,hymin,all’,,**entolēn**,**palaian**
   not,**commandment**,**new**,I write,to you,but,**commandment**,**old**
   
+*I am not writing a* **new commandment** *to you, but an* **old commandment...**
 
 Restrictive adjectives
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -192,12 +197,14 @@ The noun being described by a restrictive adjective may or may not be paired wit
 Example A-8 restrictive adjective
 ^^^^^
 
-.. csv-table:: John 2:1, "and there was a wedding on **the third day**"
+.. csv-table:: John 2:1
   :header-rows: 0
 
   Καὶ,**τῇ**,**ἡμέρᾳ**,**τῇ**,**τρίτῃ**,γάμος,ἐγένετο
   Kai,**tē**,**hēmera**,**tē**,**trite**,gamos,egeneto
   And,**the**,**on day**,**the**,**third**,wedding,there was
+
+*and there was a wedding on* **the third day**
 
 Function
 --------
@@ -208,14 +215,14 @@ Describes a noun
 .. include:: en_uhg/content/includes/adjective-attributive.rst
 .. include:: includes/adjective-attributive-greek.rst
 
-.. csv-table::  Matthew 12:35, "The **good man** from the **good treasure**"
+.. csv-table::  Matthew 12:35
   :header-rows: 0
 
   ὁ,**ἀγαθὸς**,**ἄνθρωπος**,ἐκ,τοῦ,**ἀγαθοῦ**,**θησαυροῦ**
   ho,**agathos**,**anthrōpos**,ek,tou,**agathou**,**thēsaurou**
   the,**good**,**man**,out of,the,**good**,**treasure**
   
-
+*The* **good man** *from the* **good treasure**
 
 .. _adjective-predicative:
 .. include:: en_uhg/content/includes/adjective-predicative.rst
