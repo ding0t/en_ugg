@@ -215,6 +215,9 @@ Describes a noun
 .. include:: en_uhg/content/includes/adjective-attributive.rst
 .. include:: includes/adjective-attributive-greek.rst
 
+Example A-9 
+^^^^^
+
 .. csv-table::  Matthew 12:35
   :header-rows: 0
 
@@ -230,13 +233,17 @@ Describes a noun
 
 .. note:: Adjectives that function as predicative adjectives are classified as nouns ("NP") in the UGNT.
 
-.. csv-table:: Matthew 5:3, "**Blessed are** the poor in spirit"
+Example A-10
+^^^^^
+
+.. csv-table:: Matthew 5:3
   :header-rows: 0
   
   **Μακάριοι**,,οἱ,πτωχοὶ,τῷ,πνεύματι
   **makarioi**,,hoi,ptōchoi,tō,pneumati
-  **Blessed**,**are**,the,poor,the,in spirit
+  **Blessed**,(are),the,poor,the,in spirit
 
+**Blessed** *are the poor in spirit*
 
 .. csv-table:: John 3:33, "God is **true**"
   :header-rows: 0
