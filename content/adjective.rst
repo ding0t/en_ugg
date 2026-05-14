@@ -33,7 +33,7 @@ See especially Master Table 1 and Master Table 2 :ref:`Master Tables<paradigms>`
   *  `2-1-2 Contract adjectives <https://ugg.readthedocs.io/en/latest/paradigms.html#contract-adjectives>`_
   *  `2-1-2 Special paradigms <https://ugg.readthedocs.io/en/latest/paradigms.html#special-paradigms>`_
   *  `3-1-3 Adjectives <https://ugg.readthedocs.io/en/latest/paradigms.html#id6>`_
-  *  `2-2-2 άμαρτωλός <https://ugg.readthedocs.io/en/latest/paradigms.html#id7>`_
+  *  `2-2-2 άμαρτωλός exception(or 2-1-2) <https://ugg.readthedocs.io/en/latest/paradigms.html#id7>`_
   *  `3-3-3 Adjectives <https://ugg.readthedocs.io/en/latest/paradigms.html#id8>`_
   *  `Cardinal numerals <https://ugg.readthedocs.io/en/latest/paradigms.html#cardinals-numerals>`_
 
