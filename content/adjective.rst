@@ -130,7 +130,7 @@ Table A-4 is a paradigm for adjectives with stems ending in a "ντ"
 Examples
 ~~~~~~~~
 
-Table A-5 agreement in number and gender
+Example  A-5 agreement in number and gender
 ^^^^^
 
 .. csv-table:: Ephesians 1:3, "who has blessed us with  **every spiritual blessing**"
@@ -145,7 +145,7 @@ They agree with the noun εὐλογιᾳ in gender and number.
 These adjectives are both attributive.
 Therefore, they also agree in case.
 
-Table A-6 agreement in gender
+Example A-6 agreement in gender
 ^^^^^^^
 
 .. csv-table:: John 10:11, "I am the **good shepherd.**"
@@ -172,7 +172,7 @@ Ascriptive adjectives
 
 The noun being described by an ascriptive adjective may or may not be paired with the definite article.
 
-Table A-7 ascriptive adjective
+Example A-7 ascriptive adjective
 ^^^^^^
 
 .. csv-table:: 1 John 2:7, "I am not writing a **new commandment** to you, but an **old commandment...**"
@@ -188,6 +188,9 @@ Restrictive adjectives
 .. include:: includes/adjective-restrictive-summary.rst
 
 The noun being described by a restrictive adjective may or may not be paired with the definite article but is always a definite noun.
+
+Example A-8 restrictive adjective
+^^^^^
 
 .. csv-table:: John 2:1, "and there was a wedding on **the third day**"
   :header-rows: 0
