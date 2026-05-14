@@ -33,7 +33,7 @@ See especially Master Table 1 and Master Table 2 :ref:`Master Tables<paradigms>`
   *  `2-1-2 Contract adjectives <https://ugg.readthedocs.io/en/latest/paradigms.html#contract-adjectives>`_
   *  `2-1-2 Special paradigms <https://ugg.readthedocs.io/en/latest/paradigms.html#special-paradigms>`_
   *  `3-1-3 Adjectives <https://ugg.readthedocs.io/en/latest/paradigms.html#id6>`_
-  *  `2-2-2 άμαρτωλός exception(or 2-1-2) <https://ugg.readthedocs.io/en/latest/paradigms.html#id7>`_
+  *  `2-2-2 άμαρτωλός (or 2-1-2) exception <https://ugg.readthedocs.io/en/latest/paradigms.html#id7>`_
   *  `3-3-3 Adjectives <https://ugg.readthedocs.io/en/latest/paradigms.html#id8>`_
   *  `Cardinal numerals <https://ugg.readthedocs.io/en/latest/paradigms.html#cardinals-numerals>`_
 
@@ -156,9 +156,11 @@ Table A-6 agreement in gender
   I,I am,the,**shepherd**,the,**good**
   
 The adjective always appears in the form that represents the true gender of the noun.
+The pronoun ἐγώ ("I") is in singular form; (but is it masculine, feminine, or neuter?)
 The above example is a statement of Jesus (a man).
-The pronoun ἐγώ ("I") is in masculine singular form.
-Therefore, any adjective describing ἐγώ must also appear in singular form. Because Jesus is a man, it is masculine singular.
+Therefore, any adjective describing ἐγώ (Jesus) must also appear in singular form, and because Jesus is a man,
+it must be masculine singular.
+
 In this example, the adjective ποίμην appears to be feminine because it ends with “ην”.
 However, the adjective ποίμην uses a different set of word endings than listed above. 
 In this example, both ποιμήν and καλός are nominative masculine singular.
@@ -168,6 +170,9 @@ Ascriptive adjectives
 .. include:: includes/adjective-ascriptive-summary.rst
 
 The noun being described by an ascriptive adjective may or may not be paired with the definite article.
+
+Table A-7 ascriptive adjective
+^^^^^^
 
 .. csv-table:: 1 John 2:7, "I am not writing a **new commandment** to you, but an **old commandment...**"
   :header-rows: 0
