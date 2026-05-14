@@ -130,6 +130,9 @@ Table A-4 is a paradigm for adjectives with stems ending in a "ντ"
 Examples
 ~~~~~~~~
 
+Table A-5 agreement in number and gender
+^^^^^
+
 .. csv-table:: Ephesians 1:3, "who has blessed us with  **every spiritual blessing**"
   :header-rows: 0
 
@@ -142,6 +145,9 @@ They agree with the noun εὐλογιᾳ in gender and number.
 These adjectives are both attributive.
 Therefore, they also agree in case.
 
+Table A-6 agreement in gender
+^^^^^^^
+
 .. csv-table:: John 10:11, "I am the **good shepherd.**"
   :header-rows: 0
   
@@ -152,7 +158,7 @@ Therefore, they also agree in case.
 The adjective always appears in the form that represents the true gender of the noun.
 The above example is a statement of Jesus (a man).
 The pronoun ἐγώ ("I") is in masculine singular form.
-Therefore, any adjective describing ἐγώ must also appear in masculine singular form.
+Therefore, any adjective describing ἐγώ must also appear in singular form. Because Jesus is a man, it is masculine singular.
 In this example, the adjective ποίμην appears to be feminine because it ends with “ην”.
 However, the adjective ποίμην uses a different set of word endings than listed above. 
 In this example, both ποιμήν and καλός are nominative masculine singular.
