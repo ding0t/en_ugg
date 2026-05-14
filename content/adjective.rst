@@ -161,6 +161,7 @@ The above example is a statement of Jesus (a man).
 Therefore, any adjective describing ἐγώ (Jesus) must also appear in singular form, and because Jesus is a man,
 it must be masculine singular.
 
+
 In this example, the adjective ποίμην appears to be feminine because it ends with “ην”.
 However, the adjective ποίμην uses a different set of word endings than listed above. 
 In this example, both ποιμήν and καλός are nominative masculine singular.
