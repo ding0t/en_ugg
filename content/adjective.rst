@@ -307,21 +307,11 @@ Example A-13
 When an adjective is used as an adverb, usually the adjective will have a neuter accusative (or sometimes neuter dative) word ending.
 The most common of these adjectives that used adverbs include: 
 
-  βραχύ ("short"),
+.. csv-table::
 
-  ἲδιον ("one's own"),
-
-  μίκρον ("small"),
-
-  ὀλίγον ("little"),
-
-  μόνον ("alone"),
-
-  πολύ ("many"),
-
-  πρῶτον ("first"),
-  
-  ὕστερον "(second").
+  βραχύ ("short"),ἲδιον ("one's own"),μίκρον ("small")
+  ὀλίγον ("little"),μόνον ("alone"),πολύ ("many")
+  πρῶτον ("first"),ὕστερον "(second"),
 
 Example A-14
 
