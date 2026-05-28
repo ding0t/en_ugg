@@ -238,9 +238,15 @@ xx
 
 ``Predicative adjectives`` are adjectives that describe nouns using a :ref:`linking verb<verb-linking-verbs>`. 
 
+yy
+
 .. include:: en_uhg/content/includes/notes/adjective-congruence.rst
 
+zz
+
 .. include:: includes/adjective-congruence.rst
+
+aa
 
 .. note:: Adjectives that function as predicative adjectives are classified as nouns ("NP") in the UGNT.
 
