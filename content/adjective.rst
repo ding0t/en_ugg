@@ -236,7 +236,9 @@ xx
 
 xx
 
-.. include:: includes/notes/adjective-congruence.rst
+``Predicative adjectives`` are adjectives that describe nouns using a :ref:`linking verb<verb-linking-verbs>`. 
+
+.. include:: en_uhg/content/includes/notes/adjective-congruence.rst
 
 .. include:: includes/adjective-congruence.rst
 
