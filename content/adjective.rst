@@ -231,10 +231,6 @@ Example A-9
 .. _adjective-predicative:
 
 ``Predicative adjectives`` are adjectives that describe nouns using a :ref:`linking verb<verb-linking-verbs>`. 
-
-aa
-
-
 .. include:: includes/adjective-congruence.rst
 
 aa
