@@ -214,8 +214,6 @@ Describes a noun
 .. _adjective-attributive:
 .. include:: en_uhg/content/includes/adjective-attributive.rst
 
-yy
-
 .. include:: includes/adjective-attributive-greek.rst
 
 Example A-9 
