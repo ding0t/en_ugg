@@ -355,7 +355,7 @@ Example A-15
 Example A-16
 ^^^^^
 
-In Matthew 23:11, Jesus is speaking to the crowds and to his disciples and so in this context a superlative use would normally be expected.
+In Matthew 23:11, Jesus is speaking to the crowds and to his disciples and so in this context a superlative (μέγιστος) use would normally be expected.
 
 .. csv-table:: Matthew 23:11
 
@@ -367,6 +367,8 @@ In Matthew 23:11, Jesus is speaking to the crowds and to his disciples and so in
 
 
 
+Superlative
+^^^^^
 
 .. _adjective-intensive:
 .. include:: en_uhg/content/includes/adjective-intensive.rst
