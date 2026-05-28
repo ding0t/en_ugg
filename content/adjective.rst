@@ -297,7 +297,7 @@ Example A-13
   
   καθὼς,γέγραπται,ὁ,δὲ,**δίκαιος**,,ἐκ,πίστεως,ζήσεται 
   kathōs,gegraptai,ho,de,**dikaios**,,ek,pisteōs,zēsetai
-  just as,it has been written,the,but,**righteous** [man/person],by,faith,he will live
+  just as,it has been written,the,but,**righteous**,[man/person],by,faith,he will live
 
 *.."just as it is written, “But the*  **righteous one** *will live by faith.”*
 
