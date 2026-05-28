@@ -389,14 +389,22 @@ OR
   
   *-ιστος* (masculine), *-ιστη* (feminine), and *-ιστον* (neuter).
 
+Example A-17
+^^^^^^
 
-.. csv-table:: 1 Corinthians 15:9, *For I am the* **least** *of the apostles.*
+.. csv-table:: 1 Corinthians 15:9
   :header-rows: 0
   
   ἐγὼ,γάρ,εἰμι,ὁ,**ἐλάχιστος**,τῶν,ἀποστόλων
   egō,gar,eimi,ho,**elachistos**,tōn,apostolōn
   I,for,I am,the,**least**,of the,apostles
 
+*For I am the* **least** *of the apostles.*
+
+Example A-18
+^^^^^
+
+In this example John uses the postive but it is in comparison to the hireling.
 
 .. csv-table:: 
 
@@ -407,13 +415,20 @@ OR
   
 *I am the*  **good**  *shepherd*...
 
+Example A-19
+^^^^^
 
-.. csv-table:: Mark 4:1, "and a **large** crowd gathered around him"
+.. csv-table:: Mark 4:1
   :header-rows: 0
 
   καὶ,συνάγεται,πρὸς,αὐτὸν,ὄχλος,**πλεῖστος**
   kai,synagetai,pros,auton,ochlos,**pleistos**
   and,it is gathered,to,him,crowd,**very large**
+
+*"and a* **large** *crowd gathered around him"*
+
+Example A-20
+^^^^^
 
 .. csv-table:: Luke 1:3, "**most excellent** *Theophilus*"
   :header-rows: 0
