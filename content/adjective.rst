@@ -299,21 +299,23 @@ Example A-13
   kathōs,gegraptai,ho,de,**dikaios**,,ek,pisteōs,zēsetai
   just as,it has been written,the,but,**righteous**,[man/person],by,faith,he will live
 
-*.."just as it is written, “But the*  **righteous one** *will live by faith.”*
+*.."just as it is written, “But the*  **righteous** *one will live by faith.”*
 
 .. _adjective-adverbial:
 .. include:: en_uhg/content/includes/adjective-adverbial.rst
 
-When an adjective is used as an adverb, usually the adjective will have the neuter accusative (or sometimes neuter dative) word ending.
-The most common of these adjectives that used adverbs include:  
-βραχύ ("short"), 
-ἲδιον ("one's own"), 
-μίκρον ("small"), 
-ὀλίγον ("little"),
-μόνον ("alone"), 
-πολύ ("many"), 
-πρῶτον ("first"), 
-ὕστερον "(second").
+When an adjective is used as an adverb, usually the adjective will have a neuter accusative (or sometimes neuter dative) word ending.
+The most common of these adjectives that used adverbs include: 
+
+  βραχύ ("short"), 
+  ἲδιον ("one's own"), <br/>
+  μίκρον ("small"), 
+  <br/>
+  ὀλίγον ("little"),
+  μόνον ("alone"), 
+  πολύ ("many"), 
+  πρῶτον ("first"), 
+  ὕστερον "(second").
 
 .. csv-table:: Matthew 6:33, "But seek **first** his kingdom"
   :header-rows: 0
