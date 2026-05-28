@@ -231,6 +231,8 @@ Example A-9
 .. include:: en_uhg/content/includes/adjective-predicative.rst
 .. include:: includes/notes/adjective-congruence.rst
 
+.. include:: includes/adjective-congruence.rst
+
 .. note:: Adjectives that function as predicative adjectives are classified as nouns ("NP") in the UGNT.
 
 Example A-10
@@ -245,20 +247,33 @@ Example A-10
 
 **Blessed** *are the poor in spirit*
 
-.. csv-table:: John 3:33, "God is **true**"
+Note:  In this example,  οἱ πτωχοὶ is the subject of the sentence.   Μακάριοι is the Predicate noun.  The Linking verb εἰμί is missing. 
+
+Example A-11
+^^^^^
+
+.. csv-table:: John 3:33,
   :header-rows: 0
   
   ὁ,θεὸς,**ἀληθής**,ἐστιν
   ho,Theos,**alēthēs**,estin
   the,God,**true**,he is
 
+ *"God is* **true**"
 
-.. csv-table:: James 1:12, "**Blessed** is the man who endures testing."
+Note:  In this example ἀληθής is the predicate noun.
+
+Example A-12
+^^^^^
+
+.. csv-table:: James 1:12, 
   :header-rows: 0
 
   **Μακάριος**,,ἀνὴρ,ὃς,ὑπομένει,πειρασμόν
   **makarios**,,anēr,hos,hypomenei,peirasmon
   **Blessed**,is the,man,who,he endures,a trial
+
+"**Blessed** *is the man who endures testing."*
 
 .. _adjective-nominal:
 .. include:: en_uhg/content/includes/adjective-nominal.rst
