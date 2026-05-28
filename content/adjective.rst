@@ -234,13 +234,7 @@ Example A-9
 
 .. include:: includes/adjective-congruence.rst
 
-aa
-
-yy
-
 .. include:: en_uhg/content/includes/notes/adjective-congruence.rst
-
-zz
 
 .. note:: Adjectives that function as predicative adjectives are classified as nouns ("NP") in the UGNT.
 
@@ -256,7 +250,7 @@ Example A-10
 
 **Blessed** *are the poor in spirit*
 
-Note:  In this example,  οἱ πτωχοὶ is the subject of the sentence.   Μακάριοι is the Predicate noun.  The Linking verb εἰμί is missing. 
+Note:  In this example,  οἱ πτωχοὶ is the subject of the sentence.   Μακάριοι is the predicate noun.  The Linking verb εἰμί is missing. 
 
 Example A-11
 ^^^^^
@@ -296,12 +290,16 @@ In Koiné Greek, nominal adjectives are often paired with the definite article, 
 
 .. note:: Adjectives that function as nominal adjectives are classified as nouns ("NS") in the UGNT.
 
-.. csv-table:: Romans 1:17, "as it has been written, 'But the **righteous** will live by faith.'"
+Example A-13
+^^^^^
+.. csv-table:: Romans 1:17
   :header-rows: 0
   
   καθὼς,γέγραπται,ὁ,δὲ,**δίκαιος**,,ἐκ,πίστεως,ζήσεται 
   kathōs,gegraptai,ho,de,**dikaios**,,ek,pisteōs,zēsetai
-  as,it has been written,the,but,**righteous** [man/person],by,faith,he will live
+  just as,it has been written,the,but,**righteous** [man/person],by,faith,he will live
+
+*.."just as it is written, “But the*  **righteous one** *will live by faith.”*
 
 .. _adjective-adverbial:
 .. include:: en_uhg/content/includes/adjective-adverbial.rst
