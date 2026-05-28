@@ -17,7 +17,7 @@ Any Greek adjective can take the form of all three genders: :ref:`masculine<gend
 Adjectives show these various forms by using the same kinds of word endings as nouns.
 Greek adjectives are listed in a lexicon according to their masculine nominative singular forms.
 
-.. note:: Adjectives change form according to their base forms, NOT the base forms of the nouns they are describing. For example, the feminine dative singular form of the adjective πάς is always πάςῃ. The form will not change when describing any feminine dative noun. This remains true regardless of the kind of feminine dative word ending that appears on the noun.
+.. note:: Adjectives change form according to **their** base forms, NOT the base forms of the nouns they are describing. For example, the feminine dative singular form of the adjective πάς is always πάςῃ. The form will not change when describing any feminine dative noun. This remains true regardless of the kind of feminine dative word ending that appears on the noun.
 
 Form
 ----
