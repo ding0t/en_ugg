@@ -232,7 +232,13 @@ Example A-9
 *The* **good man** *from the* **good treasure**
 
 .. _adjective-predicative:
+
+xx
+
 .. include:: en_uhg/content/includes/adjective-predicative.rst
+
+xx
+
 .. include:: includes/notes/adjective-congruence.rst
 
 .. include:: includes/adjective-congruence.rst
