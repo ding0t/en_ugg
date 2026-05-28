@@ -182,8 +182,8 @@ Example A-7 ascriptive adjective
 .. csv-table:: 1 John 2:7
   :header-rows: 0
 
-  οὐκ,**ἐντολὴν**,**καινὴν**,γράφω,ὑμῖν,ἀλλ’,,**ἐντολὴν**,**παλαιὰν**
-  ouk,**entolēn**,**kainēn**,graphō,hymin,all’,,**entolēn**,**palaian**
+  οὐκ,**ἐντολὴν**,**καινὴν**,γράφω,ὑμῖν,ἀλλ’,**ἐντολὴν**,**παλαιὰν**
+  ouk,**entolēn**,**kainēn**,graphō,hymin,all’,**entolēn**,**palaian**
   not,**commandment**,**new**,I write,to you,but,**commandment**,**old**
   
 *I am not writing a* **new commandment** *to you, but an* **old commandment...**
