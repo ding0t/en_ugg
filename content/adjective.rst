@@ -338,16 +338,22 @@ These comparative adjective word endings differ according to gender:
 
 (Some irregular adjectives take the suffixes -(ι)ων or -ον instead.)
 
+Example A-15
+^^^^^
 
-.. csv-table:: John 13:16, "a servant is not **greater** than his master"
+.. csv-table:: John 13:16
   :header-rows: 0
   
   οὐκ,ἔστιν,δοῦλος,**μείζων**,τοῦ,κυρίου,αὐτοῦ
   ouk,estin,doulos,**meizōn**,tou,kyriou,autou
   not, he is,a slave,**greater**,than,master,his
 
+*"a servant is not** **greater** *than his master"*
+
 .. note:: Some adjectives use the comparative word ending while conveying a superlative meaning. You must always be observant of the context and take it into account when translating an adjective with a comparative word ending.
 
+Example A-16
+^^^^^
 
 In Matthew 23:11, Jesus is speaking to the crowds and to his disciples and so in this context a superlative use would normally be expected.
 
