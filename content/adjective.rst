@@ -307,30 +307,32 @@ Example A-13
 When an adjective is used as an adverb, usually the adjective will have a neuter accusative (or sometimes neuter dative) word ending.
 The most common of these adjectives that used adverbs include: 
 
-  βραχύ ("short"), 
+  βραχύ ("short"),
 
-  ἲδιον ("one's own"), <br/>
+  ἲδιον ("one's own"),
 
-  μίκρον ("small"), 
+  μίκρον ("small"),
 
-  <br/>
   ὀλίγον ("little"),
 
   μόνον ("alone"),
 
   πολύ ("many"),
 
-  πρῶτον ("first")
+  πρῶτον ("first"),
   
   ὕστερον "(second").
 
-.. csv-table:: Matthew 6:33, "But seek **first** his kingdom"
+Example A-14
+
+.. csv-table:: Matthew 6:33
   :header-rows: 0
   
   ζητεῖτε,δὲ,**πρῶτον**,τὴν,βασιλείαν
   zēteite,de,**proton**,tēn,basileian 
   you seek,but,**first**,the,kingdom
 
+*"But seek* **first** *his kingdom"*
 
 Other uses of adjectives
 ~~~~~~~~~~~~~~~~~~~~~~~~
