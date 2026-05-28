@@ -308,13 +308,20 @@ When an adjective is used as an adverb, usually the adjective will have a neuter
 The most common of these adjectives that used adverbs include: 
 
   βραχύ ("short"), 
+
   ἲδιον ("one's own"), <br/>
+
   μίκρον ("small"), 
+
   <br/>
   ὀλίγον ("little"),
-  μόνον ("alone"), 
-  πολύ ("many"), 
-  πρῶτον ("first"), 
+
+  μόνον ("alone"),
+
+  πολύ ("many"),
+
+  πρῶτον ("first")
+  
   ὕστερον "(second").
 
 .. csv-table:: Matthew 6:33, "But seek **first** his kingdom"
