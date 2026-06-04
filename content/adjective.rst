@@ -181,7 +181,7 @@ Describes a noun
 
 .. include:: includes/adjective-attributive-greek.rst
 
-Example A-9 
+Example A-7 
 ^^^^^
 
 .. csv-table::  Matthew 12:35
@@ -203,7 +203,7 @@ Example A-9
 
 .. note:: Adjectives that function as predicative adjectives are classified as nouns ("NP") in the UGNT.
 
-Example A-10
+Example A-8
 ^^^^^
 
 .. csv-table:: Matthew 5:3
@@ -217,7 +217,7 @@ Example A-10
 
 Note:  In this example,  οἱ πτωχοὶ is the subject of the sentence.   Μακάριοι is the predicate noun.  The Linking verb εἰμί is missing. 
 
-Example A-11
+Example A-9
 ^^^^^
 
 .. csv-table:: John 3:33,
@@ -231,7 +231,7 @@ Example A-11
 
 Note:  In this example ἀληθής is the predicate noun.
 
-Example A-12
+Example A-10
 ^^^^^
 
 .. csv-table:: James 1:12, 
@@ -255,7 +255,7 @@ In Koiné Greek, nominal adjectives are often paired with the definite article, 
 
 .. note:: Adjectives that function as nominal adjectives are classified as nouns ("NS") in the UGNT.
 
-Example A-13
+Example A-11
 ^^^^^
 .. csv-table:: Romans 1:17
   :header-rows: 0
@@ -278,7 +278,7 @@ The most common of these adjectives that used adverbs include:
   ὀλίγον ("little"),μόνον ("alone"),πολύ ("many")
   πρῶτον ("first"),ὕστερον "(second"),
 
-Example A-14
+Example A-12
 
 .. csv-table:: Matthew 6:33
   :header-rows: 0
@@ -296,7 +296,7 @@ Ascriptive adjectives
 
 The noun being described by an ascriptive adjective may or may not be paired with the definite article.
 
-Example A-7 ascriptive adjective
+Example A-13 ascriptive adjective
 ^^^^^^
 
 .. csv-table:: 1 John 2:7
@@ -314,7 +314,7 @@ Restrictive adjectives
 
 The noun being described by a restrictive adjective may or may not be paired with the definite article but is always a definite noun.
 
-Example A-8 restrictive adjective
+Example A-14 restrictive adjective
 ^^^^^
 
 .. csv-table:: John 2:1
