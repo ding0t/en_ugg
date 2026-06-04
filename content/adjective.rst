@@ -439,7 +439,7 @@ Example A-20
   **kratiste**,Theophile  
   **most excellent**,Theophilus
 
-Table of common comparative and Superlatives
+Table A-21 Common Comparatives and Superlatives
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
@@ -581,3 +581,6 @@ Table of common comparative and Superlatives
       </tr>
     </tbody></table></br>
     
+Table A-21a Common Comparatives (cont.)
+:::::::::::::::::::::::::::::::::::::::
+
