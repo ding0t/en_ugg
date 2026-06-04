@@ -582,5 +582,136 @@ Table A-21 Common Comparatives and Superlatives
     </tbody></table></br>
     
 Table A-21a Common Comparatives (cont.)
-:::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-ycr8{background-color:#ffffff;text-align:left;vertical-align:top}
+    .tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-i1lm{background-color:#f8ff00;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-7g6k{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-c6of{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-elvq{background-color:#fffc9e;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-i1lm" colspan="4">Table A-21a<br>Common<br>Positive, Comparative &amp;<br>Superlatives (cont.)</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-zlqz"></td>
+        <td class="tg-7btt">Positive</td>
+        <td class="tg-0pky">Comparative</td>
+        <td class="tg-0pky">Superlative</td>
+      </tr>
+      <tr>
+        <td class="tg-7btt"></td>
+        <td class="tg-7g6k"></td>
+        <td class="tg-0pky">-τερος, -α, -ον<br>(ι)ων, -ον</td>
+        <td class="tg-0pky">-τατοσ, -η, ο<br>-ιστος, -α, -ον</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky"></td>
+        <td class="tg-0pky"></td>
+      </tr>
+      <tr>
+        <td class="tg-c6of">weak, powerless</td>
+        <td class="tg-3xi5">ασθενής, ες</td>
+        <td class="tg-c6of">ἀσθενέστερος, -α, -ον</td>
+        <td class="tg-c6of"></td>
+      </tr>
+      <tr>
+        <td class="tg-ycr8">heavy</td>
+        <td class="tg-ycr8">βαρύς, -εῖα, -ύ</td>
+        <td class="tg-ycr8">βαρύτερος, -α, -ον</td>
+        <td class="tg-ycr8">βαρύτατος, -η, -ον</td>
+      </tr>
+      <tr>
+        <td class="tg-c6of">inside, inner</td>
+        <td class="tg-3xi5">ἔσω</td>
+        <td class="tg-c6of">ἐσώτερος, -α, -ον</td>
+        <td class="tg-c6of"></td>
+      </tr>
+      <tr>
+        <td class="tg-3xi5">outside, farther out</td>
+        <td class="tg-3xi5">ἔξω</td>
+        <td class="tg-c6of">ἐξωτερος, -α, -ον</td>
+        <td class="tg-c6of"></td>
+      </tr>
+      <tr>
+        <td class="tg-ycr8"></td>
+        <td class="tg-ycr8"></td>
+        <td class="tg-ycr8"></td>
+        <td class="tg-ycr8"></td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">hostile</td>
+        <td class="tg-hafo">εχθρός, -α, -ον</td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq"></td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">more hostile</td>
+        <td class="tg-hafo"></td>
+        <td class="tg-elvq">ἐχθίων, -ιον</td>
+        <td class="tg-elvq"></td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">most hostile</td>
+        <td class="tg-hafo"></td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq">ἔχθιστος, -η, -ον</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky"></td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky"></td>
+        <td class="tg-0pky"></td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">sweet</td>
+        <td class="tg-elvq">ἡδύς, -εῖα, -ύν</td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq"></td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">sweeter</td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq">ἡδίων, -ιον</td>
+        <td class="tg-elvq"></td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">sweetest</td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq">ἤδιστος, -η, -ον</td>
+      </tr>
+      <tr>
+        <td class="tg-c6of"></td>
+        <td class="tg-c6of"></td>
+        <td class="tg-c6of"></td>
+        <td class="tg-0pky"></td>
+      </tr>
+      <tr>
+        <td class="tg-c6of">lesser, inferior</td>
+        <td class="tg-c6of">ἤσσςν, -ον</td>
+        <td class="tg-c6of"></td>
+        <td class="tg-c6of"></td>
+      </tr>
+    </tbody></table></br>
+
+    
 
