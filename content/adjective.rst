@@ -533,7 +533,7 @@ Table A-21 Common Comparatives and Superlatives
       </tr>
       <tr>
         <td class="tg-0pky">true</td>
-        <td class="tg-c3ow">ἀληθής, -ες</td>
+        <td class="tg-0pky">ἀληθής, -ες</td>
         <td class="tg-0pky">άληθέστερος, -α, -ο</td>
         <td class="tg-0pky">άληθέστατος, -η, -ον</td>
       </tr>
