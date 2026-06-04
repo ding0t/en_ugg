@@ -441,3 +441,143 @@ Example A-20
 
 Table of common comparative and Superlatives
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-z0iz{background-color:#fffc9e;text-align:left;vertical-align:top}
+    .tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-i1lm{background-color:#f8ff00;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-7g6k{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-elvq{background-color:#fffc9e;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-i1lm" colspan="4">Table A-21<br>Common<br>Positive, Comparative &amp;<br>Superlatives</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-zlqz"></td>
+        <td class="tg-7btt">Positive</td>
+        <td class="tg-0pky">Comparative</td>
+        <td class="tg-0pky">Superlative</td>
+      </tr>
+      <tr>
+        <td class="tg-7btt"></td>
+        <td class="tg-7g6k"></td>
+        <td class="tg-0pky">-τερος, -α, -ον<br>(ι)ων, -ον</td>
+        <td class="tg-0pky">-τατοσ, -η, ο<br>-ιστος, -α, -ον</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky"></td>
+        <td class="tg-0pky"></td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">good</td>
+        <td class="tg-hafo">αγθός, -η, -ον</td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq"></td>
+      </tr>
+      <tr>
+        <td class="tg-z0iz">better, braver</td>
+        <td class="tg-z0iz"></td>
+        <td class="tg-z0iz">ἀμείνων, -ον</td>
+        <td class="tg-z0iz"></td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">best, excellent</td>
+        <td class="tg-hafo"></td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq">ἄριστος, -η, -ον</td>
+      </tr>
+      <tr>
+        <td class="tg-hafo">better, more virtuous</td>
+        <td class="tg-hafo"></td>
+        <td class="tg-elvq">βελτίων, -ιον</td>
+        <td class="tg-elvq"></td>
+      </tr>
+      <tr>
+        <td class="tg-z0iz">best, most virtuous</td>
+        <td class="tg-z0iz"></td>
+        <td class="tg-z0iz"></td>
+        <td class="tg-z0iz">βέλτιστος, -η, -ον</td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">better, stronger</td>
+        <td class="tg-hafo"></td>
+        <td class="tg-elvq">κρείττων, -ον</td>
+        <td class="tg-elvq"></td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">best, strongest</td>
+        <td class="tg-hafo"></td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq">κράτιστος, -η, -ον</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky"></td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky"></td>
+        <td class="tg-0pky"></td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">true</td>
+        <td class="tg-c3ow">ἀληθής, -ες</td>
+        <td class="tg-0pky">άληθέστερος, -α, -ο</td>
+        <td class="tg-0pky">άληθέστατος, -η, -ον</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">free from anxiety</td>
+        <td class="tg-0pky">ἄλυπος, -ον</td>
+        <td class="tg-0pky">ἀλυπότερος</td>
+        <td class="tg-0pky"></td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">necessary</td>
+        <td class="tg-0pky">αναγκαῖος, -α, -ον</td>
+        <td class="tg-0pky">ἀναγκαιότερος</td>
+        <td class="tg-0pky"></td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">bearable</td>
+        <td class="tg-0pky">ανεκτός, -ον</td>
+        <td class="tg-0pky">ἀνακτότερος</td>
+        <td class="tg-0pky"></td>
+      </tr>
+      <tr>
+        <td class="tg-0pky"></td>
+        <td class="tg-0pky"></td>
+        <td class="tg-0pky"></td>
+        <td class="tg-0pky"></td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">shameful</td>
+        <td class="tg-elvq">αίσχρός, -α, -ον</td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq"></td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">more shameful</td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq">αἰσχίων, -ιον</td>
+        <td class="tg-elvq"></td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">most shameful</td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq">αἴσχιστος, -η, -ον</td>
+      </tr>
+    </tbody></table></br>
+    
