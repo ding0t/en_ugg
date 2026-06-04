@@ -170,41 +170,6 @@ In this example, the adjective ποίμην appears to be feminine because it en
 However, the adjective ποίμην uses a different set of word endings than listed above. 
 In this example, both ποιμήν and καλός are nominative masculine singular.
 
-Ascriptive adjectives
-~~~~~~~~~~~~~~~~~~~~~
-.. include:: includes/adjective-ascriptive-summary.rst
-
-The noun being described by an ascriptive adjective may or may not be paired with the definite article.
-
-Example A-7 ascriptive adjective
-^^^^^^
-
-.. csv-table:: 1 John 2:7
-  :header-rows: 0
-
-  οὐκ,**ἐντολὴν**,**καινὴν**,γράφω,ὑμῖν,ἀλλ’,**ἐντολὴν**,**παλαιὰν**
-  ouk,**entolēn**,**kainēn**,graphō,hymin,all’,**entolēn**,**palaian**
-  not,**commandment**,**new**,I write,to you,but,**commandment**,**old**
-  
-*I am not writing a* **new commandment** *to you, but an* **old commandment...**
-
-Restrictive adjectives
-~~~~~~~~~~~~~~~~~~~~~~
-.. include:: includes/adjective-restrictive-summary.rst
-
-The noun being described by a restrictive adjective may or may not be paired with the definite article but is always a definite noun.
-
-Example A-8 restrictive adjective
-^^^^^
-
-.. csv-table:: John 2:1
-  :header-rows: 0
-
-  Καὶ,**τῇ**,**ἡμέρᾳ**,**τῇ**,**τρίτῃ**,γάμος,ἐγένετο
-  Kai,**tē**,**hēmera**,**tē**,**trite**,gamos,egeneto
-  And,**the**,**on day**,**the**,**third**,wedding,there was
-
-*and there was a wedding on* **the third day**
 
 Function
 --------
@@ -323,6 +288,43 @@ Example A-14
   you seek,but,**first**,the,kingdom
 
 *"But seek* **first** *his kingdom"*
+
+
+Ascriptive adjectives
+~~~~~~~~~~~~~~~~~~~~~
+.. include:: includes/adjective-ascriptive-summary.rst
+
+The noun being described by an ascriptive adjective may or may not be paired with the definite article.
+
+Example A-7 ascriptive adjective
+^^^^^^
+
+.. csv-table:: 1 John 2:7
+  :header-rows: 0
+
+  οὐκ,**ἐντολὴν**,**καινὴν**,γράφω,ὑμῖν,ἀλλ’,**ἐντολὴν**,**παλαιὰν**
+  ouk,**entolēn**,**kainēn**,graphō,hymin,all’,**entolēn**,**palaian**
+  not,**commandment**,**new**,I write,to you,but,**commandment**,**old**
+  
+*I am not writing a* **new commandment** *to you, but an* **old commandment...**
+
+Restrictive adjectives
+~~~~~~~~~~~~~~~~~~~~~~
+.. include:: includes/adjective-restrictive-summary.rst
+
+The noun being described by a restrictive adjective may or may not be paired with the definite article but is always a definite noun.
+
+Example A-8 restrictive adjective
+^^^^^
+
+.. csv-table:: John 2:1
+  :header-rows: 0
+
+  Καὶ,**τῇ**,**ἡμέρᾳ**,**τῇ**,**τρίτῃ**,γάμος,ἐγένετο
+  Kai,**tē**,**hēmera**,**tē**,**trite**,gamos,egeneto
+  And,**the**,**on day**,**the**,**third**,wedding,there was
+
+*and there was a wedding on* **the third day**
 
 Other uses of adjectives
 ~~~~~~~~~~~~~~~~~~~~~~~~
