@@ -629,7 +629,7 @@ Table A-21a Common Comparatives (cont.)
       </tr>
       <tr>
         <td class="tg-c6of">weak, powerless</td>
-        <td class="tg-3xi5">ασθενής, ες</td>
+        <td class="tg-ycr8">ασθενής, ες</td>
         <td class="tg-c6of">ἀσθενέστερος, -α, -ον</td>
         <td class="tg-c6of"></td>
       </tr>
@@ -641,13 +641,13 @@ Table A-21a Common Comparatives (cont.)
       </tr>
       <tr>
         <td class="tg-c6of">inside, inner</td>
-        <td class="tg-3xi5">ἔσω</td>
+        <td class="tg-ycr8">ἔσω</td>
         <td class="tg-c6of">ἐσώτερος, -α, -ον</td>
         <td class="tg-c6of"></td>
       </tr>
       <tr>
         <td class="tg-3xi5">outside, farther out</td>
-        <td class="tg-3xi5">ἔξω</td>
+        <td class="tg-ycr8">ἔξω</td>
         <td class="tg-c6of">ἐξωτερος, -α, -ον</td>
         <td class="tg-c6of"></td>
       </tr>
