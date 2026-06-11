@@ -714,7 +714,7 @@ Table A-21a Common Comparatives (cont.)
     </tbody></table></br>
 
 Table A-21b  Common Comparatives (cont.)
-""""""""""""""""""""""""""""""""""""""""
+######
 
 .. raw:: html
 
@@ -835,6 +835,125 @@ Table A-21b  Common Comparatives (cont.)
         <td class="tg-c6of">κατώ</td>
         <td class="tg-c6of">κατώτερος, -α, -οω</td>
         <td class="tg-0pky"></td>
+      </tr>
+    </tbody></table></br>
+
+Table A-21c  Common Comparatives (cont.)
+#########################################
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-zv36{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-i1lm{background-color:#f8ff00;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-elvq{background-color:#fffc9e;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-c6of{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-i1lm" colspan="4">Table A-21c<br>Common<br>Positive, Comparative &amp;<br>Superlatives (cont.)</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-zlqz"></td>
+        <td class="tg-7btt">Positive</td>
+        <td class="tg-0pky">Comparative</td>
+        <td class="tg-0pky">Superlative</td>
+      </tr>
+      <tr>
+        <td class="tg-7btt"></td>
+        <td class="tg-zv36"></td>
+        <td class="tg-0pky">-τερος, -α, -ον<br>(ι)ων, -ον</td>
+        <td class="tg-0pky">-τατοσ, -η, ο<br>-ιστος, -α, -ον</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky"></td>
+        <td class="tg-0pky"></td>
+        <td class="tg-0pky"></td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">big/ great</td>
+        <td class="tg-elvq">μέγας, μεγάλη, μέγα</td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq"></td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">bigger/ greater</td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq">μείζων, -ον</td>
+        <td class="tg-elvq"></td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">biggest/ greatest</td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq">μέγιστος, -η, -ον<br>μειζότερος</td>
+      </tr>
+      <tr>
+        <td class="tg-3xi5"></td>
+        <td class="tg-c6of"></td>
+        <td class="tg-c6of"></td>
+        <td class="tg-c6of"></td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">small</td>
+        <td class="tg-elvq">μικρός, -α, -ον</td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq"></td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">smaller</td>
+        <td class="tg-hafo"></td>
+        <td class="tg-elvq">μικρότερος, -α, -ον</td>
+        <td class="tg-elvq"></td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">smallest</td>
+        <td class="tg-hafo"></td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq">μικρότατος, -α, -ον</td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">smaller in quantity<br>or dimensions</td>
+        <td class="tg-hafo"></td>
+        <td class="tg-elvq">ἐλάττων</td>
+        <td class="tg-elvq"></td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">smallest in quantity,<br>dimensions, or least <br>in status</td>
+        <td class="tg-hafo"></td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq">ἐλάχιστος, -η, -ον</td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">least</td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq">ἤκιστα</td>
+      </tr>
+      <tr>
+        <td class="tg-c6of"></td>
+        <td class="tg-c6of"></td>
+        <td class="tg-c6of"></td>
+        <td class="tg-c6of"></td>
+      </tr>
+      <tr>
+        <td class="tg-c6of">foolish/ stupid</td>
+        <td class="tg-c6of">μςρὀς, -α, -οω</td>
+        <td class="tg-c6of">μωρότερος, -α, -ον</td>
+        <td class="tg-c6of">μωρότατος, -η, -ον</td>
       </tr>
     </tbody></table></br>
 
