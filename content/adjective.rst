@@ -326,7 +326,7 @@ Example A-14 restrictive adjective
 
 *and there was a wedding on* **the third day**
 
-Other uses of adjectives
+Positive, Comparison, and Superlative adjectives
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. _adjective-comparative:
