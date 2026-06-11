@@ -714,7 +714,7 @@ Table A-21a Common Comparatives (cont.)
     </tbody></table></br>
 
 Table A-21b  Common Comparatives (cont.)
-######
+^^^^^
 
 .. raw:: html
 
@@ -839,7 +839,7 @@ Table A-21b  Common Comparatives (cont.)
     </tbody></table></br>
 
 Table A-21c  Common Comparatives (cont.)
-#########################################
+^^^^^
 
 .. raw:: html
 
