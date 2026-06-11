@@ -440,7 +440,7 @@ Example A-20
   **most excellent**,Theophilus
 
 Table A-21 Common Comparatives and Superlatives
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~
 
 .. raw:: html
 
@@ -582,7 +582,7 @@ Table A-21 Common Comparatives and Superlatives
     </tbody></table></br>
     
 Table A-21a Common Comparatives (cont.)
-::::::::::::::::::::::::::::::::::::::::
+^^^^^
 
 .. raw:: html
 
@@ -712,6 +712,133 @@ Table A-21a Common Comparatives (cont.)
         <td class="tg-c6of"></td>
       </tr>
     </tbody></table></br>
+
+Table A-21b  Common Comparatives (cont.)
+""""""""""""""""""""""""""""""""""""""""
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-zv36{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-i1lm{background-color:#f8ff00;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-elvq{background-color:#fffc9e;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-c6of{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-i1lm" colspan="4">Table A-21b<br>Common<br>Positive, Comparative &amp;<br>Superlatives (cont.)</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-zlqz"></td>
+        <td class="tg-7btt">Positive</td>
+        <td class="tg-0pky">Comparative</td>
+        <td class="tg-0pky">Superlative</td>
+      </tr>
+      <tr>
+        <td class="tg-7btt"></td>
+        <td class="tg-zv36"></td>
+        <td class="tg-0pky">-τερος, -α, -ον<br>(ι)ων, -ον</td>
+        <td class="tg-0pky">-τατοσ, -η, ο<br>-ιστος, -α, -ον</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky"></td>
+        <td class="tg-0pky"></td>
+        <td class="tg-0pky"></td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">bad/evil</td>
+        <td class="tg-elvq">κακός, -ή, -όν</td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq"></td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">morally worse</td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq">κακίων, -ιον</td>
+        <td class="tg-elvq"></td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">morally worst</td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq">κάκιστος, -η, -ον</td>
+      </tr>
+      <tr>
+        <td class="tg-hafo">worse/ more severe</td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq">χείρων, -ον</td>
+        <td class="tg-elvq"></td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">worst</td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq">χείριστος, -η, -ον</td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">lessor degree/<br>worse/weaker</td>
+        <td class="tg-hafo"></td>
+        <td class="tg-elvq">ἤττων, -ον</td>
+        <td class="tg-elvq"></td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">worst/ least<br>poorest</td>
+        <td class="tg-hafo"></td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq">ἤκιστα</td>
+      </tr>
+      <tr>
+        <td class="tg-c6of"></td>
+        <td class="tg-3xi5"></td>
+        <td class="tg-c6of"></td>
+        <td class="tg-c6of"></td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">beautiful/good</td>
+        <td class="tg-hafo">καλός, -α, -ον</td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq"></td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">more beatiful/ better</td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq">καλλίων, -ιον</td>
+        <td class="tg-elvq"></td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">most beautiful/ best</td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq">κάλλιστος, -η, -ον</td>
+      </tr>
+      <tr>
+        <td class="tg-c6of"></td>
+        <td class="tg-c6of"></td>
+        <td class="tg-c6of"></td>
+        <td class="tg-c6of"></td>
+      </tr>
+      <tr>
+        <td class="tg-c6of">below/ lower</td>
+        <td class="tg-c6of">κατώ</td>
+        <td class="tg-c6of">κατώτερος, -α, -οω</td>
+        <td class="tg-0pky"></td>
+      </tr>
+    </tbody></table></br>
+
+    
 
     
 
