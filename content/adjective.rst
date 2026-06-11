@@ -957,7 +957,151 @@ Table A-21c  Common Comparatives (cont.)
       </tr>
     </tbody></table></br>
 
-    
+Table A-21d  Common Comparatives (cont.)
+^^^^^
 
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-z0iz{background-color:#fffc9e;text-align:left;vertical-align:top}
+    .tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-zv36{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-i1lm{background-color:#f8ff00;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-elvq{background-color:#fffc9e;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-c6of{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    </style>
+    <table class="tg"><thead>
+      <tr>
+        <th class="tg-i1lm" colspan="4">Table A-21d<br>Common<br>Positive, Comparative &amp;<br>Superlatives (cont.)</th>
+      </tr></thead>
+    <tbody>
+      <tr>
+        <td class="tg-zlqz"></td>
+        <td class="tg-7btt">Positive</td>
+        <td class="tg-0pky">Comparative</td>
+        <td class="tg-0pky">Superlative</td>
+      </tr>
+      <tr>
+        <td class="tg-7btt"></td>
+        <td class="tg-zv36"></td>
+        <td class="tg-0pky">-τερος, -α, -ον<br>(ι)ων, -ον</td>
+        <td class="tg-0pky">-τατοσ, -η, ο<br>-ιστος, -α, -ον</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky"></td>
+        <td class="tg-0pky"></td>
+        <td class="tg-0pky"></td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">few<br>relatively small in number</td>
+        <td class="tg-elvq">ὁλίγος, -η, -ον</td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq"></td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">fewest</td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq">ὀλίγιστος, -η, -ον</td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">fewer</td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq">μείων</td>
+        <td class="tg-elvq"></td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">to have of, less of</td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq">ἐλάττων, -ον</td>
+        <td class="tg-elvq"></td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">to have fewer, worse, or<br>weaker on a scale of evaluation</td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq">ἥττων</td>
+        <td class="tg-elvq"></td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">fewest, smallest in quantity<br>or dimensions, or <br>least in status</td>
+        <td class="tg-hafo"></td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq">ἐλάχιστος, -α, -ον</td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">least</td>
+        <td class="tg-hafo"></td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq">ἥκιστα</td>
+      </tr>
+      <tr>
+        <td class="tg-c6of"></td>
+        <td class="tg-3xi5"></td>
+        <td class="tg-c6of"></td>
+        <td class="tg-c6of"></td>
+      </tr>
+      <tr>
+        <td class="tg-c6of">abundant/ more abundant</td>
+        <td class="tg-3xi5">περισσός, -η, -ον</td>
+        <td class="tg-c6of">περισσότερος, -τερα, ον</td>
+        <td class="tg-c6of"></td>
+      </tr>
+      <tr>
+        <td class="tg-c6of">trustworthy/ faithful</td>
+        <td class="tg-c6of">πιστός, -η, -ον</td>
+        <td class="tg-c6of">πιστότερος, -α, -ον</td>
+        <td class="tg-c6of">πιστότατος, -η, -ον</td>
+      </tr>
+      <tr>
+        <td class="tg-c6of"></td>
+        <td class="tg-c6of"></td>
+        <td class="tg-c6of"></td>
+        <td class="tg-c6of"></td>
+      </tr>
+      <tr>
+        <td class="tg-elvq">many</td>
+        <td class="tg-elvq">πολύς, πολλά, πολύ</td>
+        <td class="tg-elvq"></td>
+        <td class="tg-elvq"></td>
+      </tr>
+      <tr>
+        <td class="tg-z0iz">more</td>
+        <td class="tg-z0iz"></td>
+        <td class="tg-z0iz">πλείων, -ιον<br>πλέων, -ον</td>
+        <td class="tg-z0iz"></td>
+      </tr>
+      <tr>
+        <td class="tg-z0iz">most</td>
+        <td class="tg-z0iz"></td>
+        <td class="tg-z0iz"></td>
+        <td class="tg-z0iz">πλεῖστος, -η, -ον</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax"></td>
+        <td class="tg-0lax"></td>
+        <td class="tg-0lax"></td>
+        <td class="tg-0lax"></td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">old/ older, elder</td>
+        <td class="tg-0lax">πρέσβυς</td>
+        <td class="tg-0lax">πρεσβύτερος, -α, -ον</td>
+        <td class="tg-0lax"></td>
+      </tr>
+    </tbody></table></br>
+
+    
     
 
