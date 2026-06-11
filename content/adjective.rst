@@ -1104,7 +1104,7 @@ Table A-21d  Common Comparatives (cont.)
 
 Table A-21e  Common Comparatives (cont.)
 ^^^^^    
-    .. raw:: html
+.. raw:: html
 
     <style type="text/css">
     .tg  {border-collapse:collapse;border-spacing:0;}
