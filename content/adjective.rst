@@ -1172,7 +1172,7 @@ Table A-21e  Common Comparatives (cont.)
         <td class="tg-elvq"></td>
       </tr>
       <tr>
-        <t d class="tg-elvq">easier</td>
+        <td class="tg-elvq">easier</td>
         <td class="tg-elvq"></td>
         <td class="tg-elvq">ῥᾴων, ῥᾴον</td>
         <td class="tg-elvq"></td>
