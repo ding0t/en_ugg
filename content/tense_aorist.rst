@@ -244,8 +244,8 @@ The 1st Aorist Active Indicative for a verb is formed by using:
 
   1)  **Augment**
 
-    *  for vowels that begin with a consonant the augment is ε
-    *  for vowels that begin with a vowel the beginning vowel lengthens  and becomes:
+    *  For vowels that begin with a consonant the augment is ε
+    *  For vowels that begin with a vowel the beginning vowel lengthens  and becomes:
 
       *	 an eta (η)  for verbs beginning with an alpha (α) or an epsilon (ε), or 
       *  an omega (ω) for verbs beginning with an omicron (ο)
@@ -652,7 +652,7 @@ Table V-TA-3a  Formation of Indicative Verbs with a Theme Vowel Based on the Sec
 **Note:**  * The present tense stem for λἀμβανω (λαμβαν-)  has been changed to λαβ- to form the second aorist tense stem. 
 
   *  Because the second aorist active stem ends with a consonant, a connecting vowel is required.
-  *  No tense formative is required, because the change in the stem notifies the reader that this is a second aorist verb.
+  *  No tense formative is required because the stem change signifies a second aorist verb.
   *  The second aorist uses the same connecting vowels as the present active indicative.
 
 
