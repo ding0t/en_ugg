@@ -1282,7 +1282,7 @@ Aorist as an indication of events having occurred in the past
 
   *  Aorist indicative- 50 percent of the Aorist verbs in the New Testament are Aorist Indicative verbs.  
   *  Aorist verbs in the Indicative mood generally represent an event that has occurred in the past with an unspecified aspect.
-    *  For example the event could have occurred over a period of time.  It could have occurred repeatedly, or it could have simply occured in a moment. The Aorist tense does not describe the type or kind of action. 
+    *  For example the event could have occurred over a period of time.  It could have occurred repeatedly, or it could have simply occurred in a moment. The Aorist tense does not describe the type or kind of action. 
     
 
 
