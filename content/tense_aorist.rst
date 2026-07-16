@@ -1325,7 +1325,9 @@ Example:
 
 In this example, *ἀσπασάμενοι* is an aorist middle participle; and ἐμείναμεν is an aorist active indicative.
 
-It should also be remembered that the aspect is undefined. The greeting could have been short in duration or prolonged.   In this case we know the duration of the stay.  It was one day, because we are given this as additional information.  
+Notably, the aspect is undefined. The greeting could have been short or long. The example, however, clearly describes a one-day stay. 
+
+  
 
 
 Aorist tense used for punctiliar action:
