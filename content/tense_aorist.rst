@@ -661,7 +661,7 @@ Table V-TA-3a  Formation of Indicative Verbs with a Theme Vowel Based on the Sec
 Form – Aorist  Middle Indicative verb
 ^^^^^
 
-Table V-TA-4 illustrates the formation of typical Middle Aorist Active verbs with a Theme Vowel
+Table V-TA-4 illustrates the formation of typical Middle Aorist Active Verbs with Theme Vowels
 
 	Built on the verb *λύω* (I loose) and *γίνομαι* (I become, I exist)
 
@@ -796,11 +796,11 @@ Form:  1st Aorist Middle Indicative Verb is formed by:
 
   #.  an **Augment**
 
-  #.  plus the **First Aorist Active tense stem**
+  #.  plus the **First Aorist Active Tense stem**
 
   #.  plus the **Aorist Tense Formative**,
   
-  #.  plus the **appropriate secondary middle/passive personal ending**
+  #.  plus the **appropriate secondary Middle/Passive personal ending**
 
 
 Table V-TA-4b Formation of 2nd  Aorist Middle Indicative Verb
@@ -864,11 +864,9 @@ Table V-TA-4b shows how a Second Aorist Middle Indicative verb is formed.
 
   #.  plus the **Second Aorist Active tense stem**
 
-  #.  plus the **Connecting Vowel**, (a tense formative is not needed because of the change in the stem from the present tense)
+  #.  plus the **Connecting Vowel**, (a Tense formative is not needed because of the change in the stem from the Present tense)
   
-  #.  plus the **appropriate secondary middle/passive personal ending**
-
-
+  #.  plus the **appropriate secondary Middle/Passive personal ending**
 
 
 Form – Aorist Passive Indicative verb 
