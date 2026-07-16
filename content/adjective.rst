@@ -12,7 +12,7 @@ Summary
 Article
 -------
 In Koiné Greek, adjectives generally match the noun they describe in :ref:`gender<gender>` and :ref:`number<number>`.
-Attributive adjectives specifically must also match the nouns they describe in :ref:`case<case>`.
+Attributive adjectives must also match the nouns they describe in :ref:`case<case>`.
 Any Greek adjective can take the form of all three genders: :ref:`masculine<gender_masculine>`, :ref:`feminine<gender_feminine>`, and  :ref:`neuter<gender_neuter>`. 
 Adjectives show these various forms by using the same kinds of word endings as nouns.
 Greek adjectives are listed in a lexicon according to their masculine nominative singular forms.
