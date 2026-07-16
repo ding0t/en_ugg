@@ -168,7 +168,7 @@ it must be masculine singular.
 
 In this example, the adjective ποίμην appears to be feminine because it ends with “ην”.
 However, the adjective ποίμην uses a different set of word endings than listed above. 
-In this example, both ποιμήν and καλός are nominative masculine singular.
+In this example, both ποιμήν and καλός are nominative masculine singulars.
 
 
 Function
