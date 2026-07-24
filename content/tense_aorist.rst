@@ -43,7 +43,7 @@ The :ref:`Tense<tense>` of a verb is used to indicate the speaker’s perspectiv
 
       *	 occurred in a moment (punctiliar action), or
 
-      *  action that occurred over a period of time (continuous), or
+      *  occurred over a period of time (continuous), or
 	  
       *  occurs as a repeated action.
 
