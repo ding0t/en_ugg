@@ -39,13 +39,13 @@ The :ref:`Tense<tense>` of a verb is used to indicate the speaker’s perspectiv
 
   1.  **Aspect** - the kind of action of the verb. The kind of action may be unspecified (also known as simple or simply completed), continuous (also described as imperfective), or completed with an ongoing effect.
 
-    *  Aorist tense- In the aorist tense, aspect is used to express an unspecified kind of action (merely that it has occurred or occurs), without reference to its duration or completeness. It therefore may be used to refer to action that occurred in:
+    *  Aorist tense- In the aorist tense, aspect is used to express an unspecified kind of action (one that merely occurs or has occured), without reference to its duration or completeness. It therefore may be used to refer to action that:
 
-      *	 a moment (punctiliar action), or
+      *	 occurred in a moment (punctiliar action), or
 
       *  action that occurred over a period of time (continuous), or
 	  
-      *  repeated action.
+      *  occurs as a repeated action.
 
   2.  **Time** - the time of action in the Aorist tense
 
@@ -58,7 +58,7 @@ The :ref:`Tense<tense>` of a verb is used to indicate the speaker’s perspectiv
       *  This would also include what is sometimes referred to as an **epistolary aorist** - where the writer describes his letter as already having been completed and delivered,  or
       •  an event that will occur in the future.
 
-  •  the Aorist tense may also be used for a **Gnomic aorist** which is used to present a timeless general fact that occurs regularly and so can be assumed to have occurred.
+  •  the Aorist tense may also be used for a **Gnomic aorist** which is used to present a timeless general fact that occurs regularly (and thus can be assumed to have occurred).
 
 Form:
 ~~~~~
