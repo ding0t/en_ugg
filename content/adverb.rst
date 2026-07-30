@@ -24,7 +24,7 @@ There are several different ways that an adverb can describe a verb.
 .. include:: en_uhg/content/includes/adverb-locative.rst
 
 Example Ad-1 Locative adverbs
-~~~~~
+~~~~~~~
 
 .. csv-table:: Locative Matthew 8:29
 
@@ -35,7 +35,7 @@ Example Ad-1 Locative adverbs
 *Have you come* **here** *to torment us before the set time?*   
 
 Example Ad-2 Locative Matthew 2:15
-~~~~~
+~~~~~~~
 
 .. csv-table:: Locative Matthew 2:15
 
