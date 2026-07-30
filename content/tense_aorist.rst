@@ -41,11 +41,11 @@ The :ref:`Tense<tense>` of a verb is used to indicate the speaker’s perspectiv
 
     *  Aorist tense- In the aorist tense, aspect is used to express an unspecified kind of action (one that merely occurs or has occured), without reference to its duration or completeness. It therefore may be used to refer to action that:
 
-      *	 occurred in a moment (punctiliar action), or
+      *	 Occurred in a moment (punctiliar action), or
 
-      *  occurred over a period of time (continuous), or
+      *  Occurred over a period of time (continuous), or
 	  
-      *  occurs as a repeated action.
+      *  Occurs as a repeated action.
 
   2.  **Time** - the time of action in the Aorist tense
 
@@ -53,12 +53,12 @@ The :ref:`Tense<tense>` of a verb is used to indicate the speaker’s perspectiv
   •  The principle use of the Aorist tense in the **indicative mood** and with **participles** is to refer to unspecified action (aspect) that occurred in the past. 
      However, it can be used to describe an event:
 
-    •  that is occurring in the present, or has just been completed.  
+    •  That is occurring in the present, or has just been completed.  
   
       *  This would also include what is sometimes referred to as an **epistolary aorist** - where the writer describes his letter as already having been completed and delivered,  or
-      •  an event that will occur in the future.
+      •  An event that will occur in the future.
 
-  •  the Aorist tense may also be used for a **Gnomic aorist** which is used to present a timeless general fact that occurs regularly (and thus can be assumed to have occurred).
+  •  The Aorist tense may also be used for a **Gnomic aorist**, which is used to present a timeless general fact that occurs regularly (and thus can be assumed to have occurred).
 
 Form:
 ~~~~~
@@ -1078,7 +1078,7 @@ The First Aorist Passive Indicative verb is formed by:
 
 [Note] The  θ is dropped from the tense formative.
 
-[Note]   The aorist passive uses Secondary **Active** endings instead of the expected middle and passive endings. 
+[Note] The aorist passive uses Secondary **Active** endings instead of the expected middle and passive endings. 
 
 
 
