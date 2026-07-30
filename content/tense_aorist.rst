@@ -37,7 +37,7 @@ Overview
 
 The :ref:`Tense<tense>` of a verb is used to indicate the speaker’s perspective or viewpoint of:
 
-  1.  **Aspect** - the kind of action of the verb. The kind of action may be unspecified (also known as simple or simply completed), continuous (also described as imperfective), or completed with an ongoing effect.
+  1.  **Aspect** - the kind of action of the verb. The kind of action may be unspecified (also known as simple or simply completed), continuous (also described as imperfective), or completed with an ongoing effect.  [See `Examples <https://ugg.readthedocs.io/en/latest/tense_aorist.html#examples>`_]
 
     *  Aorist tense- In the aorist tense, aspect is used to express an unspecified kind of action (one that merely occurs or has occured), without reference to its duration or completeness. It therefore may be used to refer to action that:
 
