@@ -60,8 +60,16 @@ Example AD-3 Locative Mark 15:38
 .. include:: en_uhg/content/includes/adverb-temporal.rst
 
 
-Mark 10:30
-ἐὰν μὴ λάβῃ ἑκατονταπλασίονα νῦν ἐν τῷ καιρῷ τούτῳ
+Example AD-4 Temporal Mark 10:30
+^^^^^
+
+.. csv-table::  Temporal Mark 10:30
+
+  ἐὰν,μὴ,λάβῃ,ἑκατονταπλασίονα,**νῦν**,ἐν,τῷ,καιρῷ,τούτῳ
+  ean,mē,labē,hekatontaplasiona,**nyn**,en,tō,kairō,toutō
+  if,not,he will receive,a hundred times as much,**now**,in,the,time,this
+
+*he will not receive a hundred times as much* **now** *in this time*
 
 Matthew 4:17
 Ἀπὸ τότε ἤρξατο ὁ Ἰησοῦς κηρύσσειν καὶ λέγειν
