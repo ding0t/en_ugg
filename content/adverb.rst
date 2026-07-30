@@ -41,7 +41,7 @@ Example AD-2 Locative Matthew 2:15
 
   καὶ,ἦν,**ἐκεῖ**,ἕως,τῆς,τελευτῆς,Ἡρῴδου
   kai,ēn,**ekei**,heōs,tēs,teleutēs,Hērōdou
-  and,he was,**there**,until,death, of Herod
+  and,he was,**there**,until,the,death,of Herod
 
 *and he was* **there** *until the death of Herod.*
 
