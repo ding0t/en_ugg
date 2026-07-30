@@ -52,7 +52,7 @@ Example AD-3 Locative Mark 15:38
 
   καὶ,τὸ,καταπέτασμα,τοῦ,ναοῦ,ἐσχίσθη,εἰς,δύο,ἀπ’,**ἄνωθεν**,ἕως,**κάτω**
   kai,to,katapetasma,tou,naou,eschisthē,eis,dyo,ap’,**anōthen**,heōs,**katō**
-  and,the. curtain,of the,temple,was torn,into,two,from,**top**,to,**bottom**
+  and,the,curtain,of the,temple,was torn,in,two,from,**top**,to,**bottom**
 
 *And the curtain of the temple was torn in two from* **top** *to* **bottom.**
 
