@@ -23,7 +23,7 @@ There are several different ways that an adverb can describe a verb.
 .. _adverb-locative:
 .. include:: en_uhg/content/includes/adverb-locative.rst
 
-Example Ad-1 Locative adverbs
+Example AD-1 Locative adverbs
 ^^^^^
 
 .. csv-table:: Locative Matthew 8:29
@@ -34,7 +34,7 @@ Example Ad-1 Locative adverbs
 
 *Have you come* **here** *to torment us before the set time?*   
 
-Example Ad-2 Locative Matthew 2:15
+Example AD-2 Locative Matthew 2:15
 ^^^^^
 
 .. csv-table:: Locative Matthew 2:15
@@ -45,11 +45,20 @@ Example Ad-2 Locative Matthew 2:15
 
 *and he was* **there** *until the death of Herod.*
 
-Mark 15:38
-καὶ τὸ καταπέτασμα τοῦ ναοῦ ἐσχίσθη εἰς δύο ἀπ’ ἄνωθεν ἕως κάτω.
+Example AD-3 Locative Mark 15:38
+^^^^^
+
+.. csv-table:: Locative Mark 15:38
+
+  καὶ,τὸ,καταπέτασμα,τοῦ,ναοῦ,ἐσχίσθη,εἰς,δύο,ἀπ’,**ἄνωθεν**,ἕως,**κάτω**
+  kai,to,katapetasma,tou,naou,eschisthē,eis,dyo,ap’,**anōthen**,heōs,**katō**
+  and,the. curtain,of the,temple,was torn,into,two,from,**top**,to,**bottom**
+
+*And the curtain of the temple was torn in two from* **top** *to* **bottom.**
 
 .. _adverb-temporal:
 .. include:: en_uhg/content/includes/adverb-temporal.rst
+
 
 Mark 10:30
 ἐὰν μὴ λάβῃ ἑκατονταπλασίονα νῦν ἐν τῷ καιρῷ τούτῳ
