@@ -23,11 +23,11 @@ There are several different ways that an adverb can describe a verb.
 .. _adverb-locative:
 .. include:: en_uhg/content/includes/adverb-locative.rst
 
-.. csv-table:: Matthew 8:29
+.. csv-table::  Matthew 8:29
 
   ἦλθες,**ὧδε**,πρὸ,καιροῦ,βασανίσαι,ἡμᾶς
-  ēlthes,**hōde**,pro,kairou,basanisai,hēmas?
-  have you come,**here**,before,time,to torment,us?
+  ēlthes,**hōde**,pro,kairou,basanisai,hēmas
+  have you come,**here**,before,time,to torment,us
 
 *Have you come* **here** *to torment us before the set time?*   
 
