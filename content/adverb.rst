@@ -65,10 +65,9 @@ Adverbs describes a verb, adjective, or other adverb
 --------------------------------------------
 There are several different ways that an adverb can describe a verb. 
 
-Adverbs may describes a place or location
+Locative - Adverbs may describes a place or location
 ~~~~~
 
-.. _adverb-locative:
 .. include:: en_uhg/content/includes/adverb-locative.rst
 
 Example AD-1 Locative adverbs
@@ -104,11 +103,12 @@ Example AD-3 Locative
 
 *And the curtain of the temple was torn in two from* **top** *to* **bottom**
 
-.. _adverb-temporal:
+Temporal - Adverbs may describes something about the time
+~~~~~
+
 .. include:: en_uhg/content/includes/adverb-temporal.rst
 
-
-Example AD-4 Temporal Mark 10:30
+Example AD-4 Temporal
 ^^^^^
 
 .. csv-table::  Temporal Mark 10:30
