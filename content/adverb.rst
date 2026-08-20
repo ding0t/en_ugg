@@ -68,6 +68,8 @@ There are several different ways that an adverb can describe a verb.
 Locative - Adverbs may describes a place or location
 ~~~~~
 
+A ``locative adverb`` describes something about the *place* or *location* where the action of the verb occurs.
+
 .. include:: en_uhg/content/includes/adverb-locative.rst
 
 Example AD-1 Locative adverbs
