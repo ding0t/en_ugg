@@ -10,6 +10,7 @@ Summary
 
 .. include:: en_uhg/content/includes/adverb-summary.rst
 .. include:: includes/adverb-summary-greek.rst
+
 Adverbs are used to express relationships of place, time, circumstance, manner, cause, or degree. Generally adverbs answer the question
   *  How?
   *  When?
