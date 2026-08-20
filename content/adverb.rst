@@ -107,12 +107,10 @@ Example AD-3 Locative
 Temporal - Adverbs
 ~~~~~
 
-.. include:: en_uhg/content/includes/adverb-temporal.rst
+A ``temporal adverb`` describes something about the *time* when the action of the verb occurs.
 
 Example AD-4 Temporal
 ^^^^^
-
-A ``temporal adverb`` describes something about the *time* when the action of the verb occurs.
 
 .. csv-table::  Temporal Mark 10:30
 
