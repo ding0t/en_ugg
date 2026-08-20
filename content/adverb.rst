@@ -10,11 +10,11 @@ Summary
 
 .. include:: en_uhg/content/includes/adverb-summary.rst
 .. include:: includes/adverb-summary-greek.rst
-It may describe, modify, or qualify an adjective, verb, or other adverb, or a word group, expressing a relation of place,
-time, circumstance, manner, cause, degree, etc. Generally adverbs answer the question
+Adverbs are used to express relationships of place, time, circumstance, manner, cause, or degree. Generally adverbs answer the question
   *  How?
   *  When?
   *  Where?
+  *  How much?
   *  Why? , or 
   *  To what extent?
 
