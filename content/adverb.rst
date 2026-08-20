@@ -65,6 +65,9 @@ Adverbs describes a verb, adjective, or other adverb
 --------------------------------------------
 There are several different ways that an adverb can describe a verb. 
 
+Adverbs may describes a place or location
+~~~~~
+
 .. _adverb-locative:
 .. include:: en_uhg/content/includes/adverb-locative.rst
 
