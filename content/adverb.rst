@@ -104,13 +104,15 @@ Example AD-3 Locative
 
 *And the curtain of the temple was torn in two from* **top** *to* **bottom**
 
-Temporal - Adverbs may describes something about the time
+Temporal - Adverbs
 ~~~~~
 
 .. include:: en_uhg/content/includes/adverb-temporal.rst
 
 Example AD-4 Temporal
 ^^^^^
+
+A ``temporal adverb`` describes something about the *time* when the action of the verb occurs.
 
 .. csv-table::  Temporal Mark 10:30
 
@@ -120,8 +122,17 @@ Example AD-4 Temporal
 
 *he will not receive a hundred times as much* **now** *in this time*
 
-Matthew 4:17
-Ἀπὸ τότε ἤρξατο ὁ Ἰησοῦς κηρύσσειν καὶ λέγειν
+Example AD-5 Temporal
+^^^^^^
+
+.. csv-table:: Temporal  Matthew 4:17
+
+  Ἀπὸ,**τότε**,ἤρξατο,ὁ,Ἰησοῦς,κηρύσσειν,καὶ,λέγειν
+  apo,**tote**,ērxato,ho,Iēsous,kēryssein,kai,legein
+  from,**then**, he began,the, Jesus,to preach,and,to say
+  
+*from* **that time** *Jesus began to preach and to say*
+
 
 Matthew 17:12
 λέγω δὲ ὑμῖν ὅτι Ἠλίας ἤδη ἦλθεν
