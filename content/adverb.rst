@@ -61,7 +61,7 @@ How ever there are many ways of forming an adverb:
         δίς - twice, τρίς - three times
 
       
-Describes a verb, adjective, or other adverb
+Adverbs describes a verb, adjective, or other adverb
 --------------------------------------------
 There are several different ways that an adverb can describe a verb. 
 
@@ -79,7 +79,7 @@ Example AD-1 Locative adverbs
 
 *Have you come* **here** *to torment us before the set time?*   
 
-Example AD-2 Locative Matthew 2:15
+Example AD-2 Locative
 ^^^^^
 
 .. csv-table:: Locative Matthew 2:15
@@ -88,9 +88,9 @@ Example AD-2 Locative Matthew 2:15
   kai,ēn,**ekei**,heōs,tēs,teleutēs,Hērōdou
   and,he was,**there**,until,the,death,of Herod
 
-*and he was* **there** *until the death of Herod.*
+*and he was* **there** *until the death of Herod*
 
-Example AD-3 Locative Mark 15:38
+Example AD-3 Locative
 ^^^^^
 
 .. csv-table:: Locative Mark 15:38
@@ -99,7 +99,7 @@ Example AD-3 Locative Mark 15:38
   kai,to,katapetasma,tou,naou,eschisthē,eis,dyo,ap’,**anōthen**,heōs,**katō**
   and,the,curtain,of the,temple,was torn,in,two,from,**top**,to,**bottom**
 
-*And the curtain of the temple was torn in two from* **top** *to* **bottom.**
+*And the curtain of the temple was torn in two from* **top** *to* **bottom**
 
 .. _adverb-temporal:
 .. include:: en_uhg/content/includes/adverb-temporal.rst
