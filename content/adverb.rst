@@ -21,9 +21,46 @@ Adverbs are used to express relationships of place, time, circumstance, manner, 
 
 Article
 -------
-In Koiné Greek, adverbs can be formed from any number of different kinds of word endings.
-However, any one particular adverb usually has only one single form that is always used.
+In Koiné Greek, adverbs can be formed from any number of different kinds of words and word endings.
+However, they do not decline like nouns or adjectives. Any one particular adverb usually has only one single form.
 
+The most common way to form an adverb is to take an genitive plural adjective in the positive degree and replace the nu ending "ν" with a sigma "ς."
+  For example:   καλὸς (good or beautiful) -> καλῶν (genitive plural) -> καλῶς (well).
+
+How ever there are many ways of forming an adverb:
+  1)  Adverbs can be formed from the acusative case (e.g.)  
+      πέραν -beyond; δωρέαν - freely: χάριν - for the sake of
+
+  2)  Others from the genitive (e.g.)
+      ὀμοῦ - together;  ὅπου - where (designating a location);  or ποῦ - where? 
+
+  3)  Dative (e.g.)
+      ἐλεῖ - there
+      πρωἰ - early
+      ἕξω  - without
+      ἄμα  - together
+
+  4)  Adverbs can be formed by adding suffixes that give additional meaning
+
+    a) -ι,-σι,-ου  relates to a place such as
+        ὅπου - where
+        
+    b) -θεν relates to a place from  such as
+        ἅνωθεν - from above
+        
+    c)  -δε,-σε  relates to a direction such as
+        ἐκεῖσε - to that place, over there
+        
+    d)  -τε relates to time such as
+         ὅτε -when,    τότε - then
+         
+    e)  -ως  relates to a manner such as
+        ταχέως - quickly
+        
+    f)  -ις, -κις relates to a number such as
+        δίς - twice, τρίς - three times
+
+      
 Describes a verb, adjective, or other adverb
 --------------------------------------------
 There are several different ways that an adverb can describe a verb. 
