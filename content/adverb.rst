@@ -145,10 +145,15 @@ Example AD-6 Temporal Matthew 17:12
 Quantative Adverbs
 ~~~~~
 
-.. include:: en_uhg/content/includes/adverb-quantitative.rst
+A ``quantitative adverb`` describes an *amount* of something in relation to the action of the verb.
 
-Matthew 2:10
-ἰδόντες δὲ τὸν ἀστέρα ἐχάρησαν χαρὰν μεγάλην σφόδρα.
+.. csv-table:: Matthew 2:10
+
+  ἰδόντες,δὲ,τὸν,ἀστέρα,ἐχάρησαν,χαρὰν,μεγάλην,**σφόδρα.**
+  idontes,de,ton,astera,echarēsan,charan,megalēn,**sphodra.**
+  seeing,but,the,star,they rejoiced,joy,great,**exceedingly.**
+
+*And having seen the star, they rejoiced with* **very** *great joy.  *
 
 Mark 6:51
 καὶ λίαν [bt]ἐκ περισσοῦ ἐν ἑαυτοῖς [bu]ἐξίσταντο
