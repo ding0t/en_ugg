@@ -123,7 +123,7 @@ Example AD-4 Temporal
 Example AD-5 Temporal Matthew 4:17
 ^^^^^^
 
-.. csv-table:: Temporal 
+.. csv-table:: Temporal Matthew 4:17
 
   Ἀπὸ,**τότε**,ἤρξατο,ὁ,Ἰησοῦς,κηρύσσειν,καὶ,λέγειν
   apo,**tote**,ērxato,ho,Iēsous,kēryssein,kai,legein
@@ -134,13 +134,17 @@ Example AD-5 Temporal Matthew 4:17
 Example AD-6 Temporal Matthew 17:12
 ^^^^^
 
+.. csv-table:: Temporal  Mathew 17:12
+
   λέγω,δὲ,ὑμῖν,ὅτι,Ἠλείας,**ἤδη**,ἦλθεν
   legō,de,hymin,hoti,Ēleias,**ēdē**,ēlthen
   I say,but,to you,that,Elijah,**already**,he has come
 
 *But I say to you that Elijah* **already** *came*  
 
-.. _adverb-quantitative:
+Quantative Adverbs
+~~~~~
+
 .. include:: en_uhg/content/includes/adverb-quantitative.rst
 
 Matthew 2:10
