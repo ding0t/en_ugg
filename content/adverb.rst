@@ -172,13 +172,18 @@ Example AD-8 Quantative Adverb
 4) Adverb of Manner
 ~~~~~
 
+An ``adverb of manner`` describes something about *how* the action of the verb happens.
 
+Example AD-9 Adverb if Manner 
 
-.. _adverb-manner:
-.. include:: en_uhg/content/includes/adverb-manner.rst
+.. csv-table::  John 20:4
 
-John 20:4
-καὶ ὁ ἄλλος μαθητὴς προέδραμεν τάχιον τοῦ Πέτρου
+   καὶ,ὁ,ἄλλος,μαθητὴς,προέδραμεν,**τάχιον**,τοῦ,Πέτρου
+   kai,ho,allos,mathētēs,proedramen,**tacheion**,tou,Petrou
+   and,the,other,disciple,ran ahead,**faster**,than,Peter
+
+*and the other disciple* **quickly** *ran ahead of Peter*
+   
 
 Matthew 15:7
 ὑποκριταί, καλῶς ἐπροφήτευσεν περὶ ὑμῶν Ἠσαΐας
