@@ -120,10 +120,10 @@ Example AD-4 Temporal
 
 *he will not receive a hundred times as much* **now** *in this time*
 
-Example AD-5 Temporal
+Example AD-5 Temporal Matthew 4:17
 ^^^^^^
 
-.. csv-table:: Temporal  Matthew 4:17
+.. csv-table:: Temporal 
 
   Ἀπὸ,**τότε**,ἤρξατο,ὁ,Ἰησοῦς,κηρύσσειν,καὶ,λέγειν
   apo,**tote**,ērxato,ho,Iēsous,kēryssein,kai,legein
@@ -131,9 +131,14 @@ Example AD-5 Temporal
   
 *from* **that time** *Jesus began to preach and to say*
 
+Example AD-6 Temporal Matthew 17:12
+^^^^^
 
-Matthew 17:12
-λέγω δὲ ὑμῖν ὅτι Ἠλίας ἤδη ἦλθεν
+  λέγω,δὲ,ὑμῖν,ὅτι,Ἠλείας,**ἤδη**,ἦλθεν
+  legō,de,hymin,hoti,Ēleias,**ēdē**,ēlthen
+  I say,but,to you,that,Elijah,**already**,he has come
+
+*But I say to you that Elijah* **already** *came*  
 
 .. _adverb-quantitative:
 .. include:: en_uhg/content/includes/adverb-quantitative.rst
