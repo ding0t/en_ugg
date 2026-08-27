@@ -65,7 +65,7 @@ Adverbs describes a verb, adjective, or other adverb
 --------------------------------------------
 There are several different ways that an adverb can describe a verb. 
 
-Locative - Adverbs may describes a place or location
+1) Locative - Adverbs may describes a place or location
 ~~~~~
 
 A ``locative adverb`` describes something about the *place* or *location* where the action of the verb occurs.
@@ -104,7 +104,7 @@ Example AD-3 Locative
 
 *And the curtain of the temple was torn in two from* **top** *to* **bottom**
 
-Temporal - Adverbs
+2) Temporal - Adverbs
 ~~~~~
 
 A ``temporal adverb`` describes something about the *time* when the action of the verb occurs.
@@ -142,10 +142,13 @@ Example AD-6 Temporal Matthew 17:12
 
 *But I say to you that Elijah* **already** *came*  
 
-Quantative Adverbs
+3) Quantative Adverbs
 ~~~~~
 
 A ``quantitative adverb`` describes an *amount* of something in relation to the action of the verb.
+
+Example AD-7 Quantative Adverb
+^^^^^
 
 .. csv-table:: Matthew 2:10
 
@@ -155,10 +158,21 @@ A ``quantitative adverb`` describes an *amount* of something in relation to the 
 
 *And having seen the star, they rejoiced with* **very** *great joy.  *
 
-Mark 6:51
-καὶ λίαν [bt]ἐκ περισσοῦ ἐν ἑαυτοῖς [bu]ἐξίσταντο
+Example AD-8 Quantative Adverb
+^^^^^
 
-#3
+.. csv-table:: Maττ 7:11
+
+   πόσῳ,**μᾶλλον**,ὁ,Πατὴρ,ὑμῶν,ὁ,ἐν,τοῖς,οὐρανοῖς,δώσει,ἀγαθὰ,τοῖς,αἰτοῦσιν,αὐτόν
+   posō,**mallon**,ho,Patēr,hymōn,ho,en,tois,ouranois,dōsei,agatha,tois,aitousin,auton
+   How much,**more**,the,Father,your,who,in,the,heavens,will give,good things,to those,who ask,him
+
+*how much* **more** *will your Father in the heavens give good things to the ones asking him*
+   
+4) Adverb of Manner
+~~~~~
+
+
 
 .. _adverb-manner:
 .. include:: en_uhg/content/includes/adverb-manner.rst
