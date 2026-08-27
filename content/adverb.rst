@@ -178,9 +178,9 @@ Example AD-9 Adverb if Manner
 
 .. csv-table::  John 20:4
 
-   καὶ,ὁ,ἄλλος,μαθητὴς,προέδραμεν,**τάχιον**,τοῦ,Πέτρου
-   kai,ho,allos,mathētēs,proedramen,**tacheion**,tou,Petrou
-   and,the,other,disciple,ran ahead,**faster**,than,Peter
+  καὶ,ὁ,ἄλλος,μαθητὴς,προέδραμεν,**τάχιον**,τοῦ,Πέτρου
+  kai,ho,allos,mathētēs,proedramen,**tacheion**,tou,Petrou
+  and,the,other,disciple,ran ahead,**faster**,than,Peter
 
 *and the other disciple* **quickly** *ran ahead of Peter*
    
