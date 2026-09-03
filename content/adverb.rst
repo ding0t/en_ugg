@@ -42,16 +42,16 @@ How ever there are many ways of forming an adverb:
 
   4)  Adverbs can be formed by adding suffixes that give additional meaning
 
-    a) -ι,-σι,-ου  relates to a **place** such as:
+    a)  -ι,-σι,-ου  relates to a **place** such as:
         ὅπου - where,   ἐκεῖ -τηερε
         
-    b) -θεν relates to a **place from**  such as:
+    b)  -θεν relates to a **place from**  such as:
         ἅνωθεν - from above
         
     c)  -δε,-σε  relates to a **direction** such as:
         ἐκεῖσε - to that place, over there
         
-    d)  -τε relates to **time**, such as:
+    d)   -τε relates to **time**, such as:
          ὅτε -when,    τότε - then
          
     e)  -ως  relates to a **manner**, such as:
