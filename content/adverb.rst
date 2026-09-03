@@ -196,11 +196,17 @@ Example AD-10  Matthew 15:7
 
 *You hypocrites!* **Well** *did Isaiah prophesy about you*
 
+Example AD-11 Luke 2:13
 
+.. csv-table:: Luke 2:13
 
-Luke 2:13
-καὶ ἐξαίφνης ἐγένετο σὺν τῷ ἀγγέλῳ πλῆθος στρατιᾶς [h]οὐρανίου
+  καὶ,**ἐξαίφνης**,ἐγένετο,σὺν,τῷ,ἀγγέλῳ,πλῆθος,στρατιᾶς,οὐρανίου
+  kai,**exaiphnēs**,egeneto,syn,tō,angelō,plēthos,stratias,ouraniou
+  and,**suddenly**,there was,with,the,angel,multitude,army,of heavenly
 
+*And* **suddenly** *a multitude of the heavenly army was with the angel*
+
+  
 .. _adverb-comparative:
 .. include:: en_uhg/content/includes/adverb-comparative.rst
 
