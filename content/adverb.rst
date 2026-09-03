@@ -71,10 +71,10 @@ There are several different ways that an adverb can describe a verb.
 A ``locative adverb`` describes something about the *place* or *location* where the action of the verb occurs.
 
 
-Example AD-1 Locative adverbs
+Example AD-1 Locative adverb
 ^^^^^
 
-.. csv-table:: Locative Matthew 8:29
+.. csv-table::  Matthew 8:29
 
   ἦλθες,**ὧδε**,πρὸ,καιροῦ,βασανίσαι,ἡμᾶς
   ēlthes,**hōde**,pro,kairou,basanisai,hēmas
@@ -82,10 +82,10 @@ Example AD-1 Locative adverbs
 
 *Have you come* **here** *to torment us before the set time?*   
 
-Example AD-2 Locative
+Example AD-2 Locative adverb
 ^^^^^
 
-.. csv-table:: Locative Matthew 2:15
+.. csv-table:: Matthew 2:15
 
   καὶ,ἦν,**ἐκεῖ**,ἕως,τῆς,τελευτῆς,Ἡρῴδου
   kai,ēn,**ekei**,heōs,tēs,teleutēs,Hērōdou
@@ -93,10 +93,10 @@ Example AD-2 Locative
 
 *and he was* **there** *until the death of Herod*
 
-Example AD-3 Locative
+Example AD-3 Locative adverb
 ^^^^^
 
-.. csv-table:: Locative Mark 15:38
+.. csv-table:: Mark 15:38
 
   καὶ,τὸ,καταπέτασμα,τοῦ,ναοῦ,ἐσχίσθη,εἰς,δύο,ἀπ’,**ἄνωθεν**,ἕως,**κάτω**
   kai,to,katapetasma,tou,naou,eschisthē,eis,dyo,ap’,**anōthen**,heōs,**katō**
@@ -109,10 +109,10 @@ Example AD-3 Locative
 
 A ``temporal adverb`` describes something about the *time* when the action of the verb occurs.
 
-Example AD-4 Temporal
+Example AD-4 Temporal adverb
 ^^^^^
 
-.. csv-table::  Temporal Mark 10:30
+.. csv-table::  Mark 10:30
 
   ἐὰν,μὴ,λάβῃ,ἑκατονταπλασίονα,**νῦν**,ἐν,τῷ,καιρῷ,τούτῳ
   ean,mē,labē,hekatontaplasiona,**nyn**,en,tō,kairō,toutō
@@ -120,10 +120,10 @@ Example AD-4 Temporal
 
 *he will not receive a hundred times as much* **now** *in this time*
 
-Example AD-5 Temporal Matthew 4:17
+Example AD-5 Temporal adverb 
 ^^^^^^
 
-.. csv-table:: Temporal Matthew 4:17
+.. csv-table:: Matthew 4:17
 
   Ἀπὸ,**τότε**,ἤρξατο,ὁ,Ἰησοῦς,κηρύσσειν,καὶ,λέγειν
   apo,**tote**,ērxato,ho,Iēsous,kēryssein,kai,legein
@@ -131,7 +131,7 @@ Example AD-5 Temporal Matthew 4:17
   
 *from* **that time** *Jesus began to preach and to say*
 
-Example AD-6 Temporal Matthew 17:12
+Example AD-6 Temporal adverb
 ^^^^^
 
 .. csv-table:: Temporal  Mathew 17:12
@@ -187,7 +187,7 @@ Example AD-9 Adverb of Manner
 
 *and the other disciple* **quickly** *ran ahead of Peter*
    
-Example AD-10  Matthew 15:7
+Example AD-10  Adverb of Manner
 ^^^^^
 
 .. csv-table:: Matthew 15:7
@@ -198,7 +198,7 @@ Example AD-10  Matthew 15:7
 
 *You hypocrites!* **Well** *did Isaiah prophesy about you*
 
-Example AD-11 Luke 2:13
+Example AD-11 Adverb of Manner
 ^^^^^
 
 .. csv-table:: Luke 2:13
@@ -215,7 +215,7 @@ Example AD-11 Luke 2:13
 A ``sentential adverb`` describes an entire clause or sentence rather than an individual verb.
 Sentential adverbs are closely related to `Conjunctions <https://ugg.readthedocs.io/en/latest/conjunction.html>`_.
 
-Example AD-12  Matthew 7:5
+Example AD-12  Sentential Adverb
 ^^^^^
 
 .. csv-table::  Matthew 7:5
@@ -226,7 +226,7 @@ Example AD-12  Matthew 7:5
 
 *and* **then** *you will see clearly to take out the speck of wood from the eye of your brother*
 
-Example AD-13 Matthew 26:65
+Example AD-13 Sentential adverb
 ^^^^^
 
 .. csv-table:: Matthew 26:65
