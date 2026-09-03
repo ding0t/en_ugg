@@ -210,7 +210,7 @@ Example AD-11 Luke 2:13
 ~~~~~
 
 A ``sentential adverb`` describes an entire clause or sentence rather than an individual verb.
-Sentential adverbs are closely related to :ref:`conjunctions<conjunction>`.
+Sentential adverbs are closely related to `Conjunctions <https://ugg.readthedocs.io/en/latest/conjunction.html>`_.
 
 Matthew 7:5
 καὶ τότε διαβλέψεις ἐκβαλεῖν τὸ κάρφος ἐκ τοῦ ὀφθαλμοῦ τοῦ ἀδελφοῦ σου
