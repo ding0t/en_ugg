@@ -177,6 +177,7 @@ Example AD-8 Quantative Adverb
 An ``adverb of manner`` describes something about *how* the action of the verb happens.
 
 Example AD-9 Adverb of Manner 
+^^^^^
 
 .. csv-table::  John 20:4
 
@@ -187,6 +188,7 @@ Example AD-9 Adverb of Manner
 *and the other disciple* **quickly** *ran ahead of Peter*
    
 Example AD-10  Matthew 15:7
+^^^^^
 
 .. csv-table:: Matthew 15:7
 
@@ -197,6 +199,7 @@ Example AD-10  Matthew 15:7
 *You hypocrites!* **Well** *did Isaiah prophesy about you*
 
 Example AD-11 Luke 2:13
+^^^^^
 
 .. csv-table:: Luke 2:13
 
@@ -212,11 +215,27 @@ Example AD-11 Luke 2:13
 A ``sentential adverb`` describes an entire clause or sentence rather than an individual verb.
 Sentential adverbs are closely related to `Conjunctions <https://ugg.readthedocs.io/en/latest/conjunction.html>`_.
 
-Matthew 7:5
-καὶ τότε διαβλέψεις ἐκβαλεῖν τὸ κάρφος ἐκ τοῦ ὀφθαλμοῦ τοῦ ἀδελφοῦ σου
+Example AD 12  Matthew 7:5
+^^^^^
 
-Matthew 26:65
-ἴδε νῦν ἠκούσατε τὴν [as]βλασφημίαν
+.. csv-table::  Matthew 7:5
+
+  καὶ,**τότε**,διαβλέψεις,ἐκβαλεῖν,τὸ,κάρφος,ἐκ,τοῦ,ὀφθαλμοῦ,τοῦ,ἀδελφοῦ,σου
+  kai,**tote**,diablepseis,ekbalein,to,karphos,ek,tou,ophthalmou,tou,adelphou,sou
+  and,**then**,you will see clearly, to remove,the,small piece of wood,out,of,the,eye,of,brother,your
+
+*and* **then** *you will see clearly to take out the speck of wood from the eye of your brother*
+
+Example AD-13 Matthew 26:65
+^^^^^
+
+.. csv-table:: Matthew 26:65
+
+  ἴδε,**νῦν**,ἠκούσατε,τὴν,βλασφημίαν 
+  ide,**nyn**,ēkousate,tēn,blasphēmian
+  Behold,**now**,you all have heard,the,blasphame
+
+*Behold*, **now** *you have heard the blasphemy.*
 
 #3
 
