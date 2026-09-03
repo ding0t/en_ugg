@@ -215,7 +215,7 @@ Example AD-11 Luke 2:13
 A ``sentential adverb`` describes an entire clause or sentence rather than an individual verb.
 Sentential adverbs are closely related to `Conjunctions <https://ugg.readthedocs.io/en/latest/conjunction.html>`_.
 
-Example AD 12  Matthew 7:5
+Example AD-12  Matthew 7:5
 ^^^^^
 
 .. csv-table::  Matthew 7:5
@@ -237,7 +237,3 @@ Example AD-13 Matthew 26:65
 
 *Behold*, **now** *you have heard the blasphemy.*
 
-#3
-
-Matthew 7:5
-ἔκβαλε πρῶτον [b]ἐκ τοῦ ὀφθαλμοῦ σοῦ τὴν δοκόν
