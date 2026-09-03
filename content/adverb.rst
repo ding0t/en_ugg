@@ -156,7 +156,9 @@ Example AD-7 Quantative Adverb
   idontes,de,ton,astera,echarēsan,charan,megalēn,**sphodra.**
   seeing,but,the,star,they rejoiced,joy,great,**exceedingly.**
 
-*And having seen the star, they rejoiced with* **very** *great joy.  *
+*And having seen the star, they rejoiced with* **very** *great joy.*
+
+[NOTE:]   In this example, "μεγάλην" (great) is an adjective describing  χαρὰν (joy).  σφόδρα (exceedingly) is a quantative adverb modifying μεγάλην.  It describes and exceedingly great joy. 
 
 Example AD-8 Quantative Adverb
 ^^^^^
@@ -174,7 +176,7 @@ Example AD-8 Quantative Adverb
 
 An ``adverb of manner`` describes something about *how* the action of the verb happens.
 
-Example AD-9 Adverb if Manner 
+Example AD-9 Adverb of Manner 
 
 .. csv-table::  John 20:4
 
@@ -184,9 +186,17 @@ Example AD-9 Adverb if Manner
 
 *and the other disciple* **quickly** *ran ahead of Peter*
    
+Example AD-10  Matthew 15:7
 
-Matthew 15:7
-ὑποκριταί, καλῶς ἐπροφήτευσεν περὶ ὑμῶν Ἠσαΐας
+.. csv-table:: Matthew 15:7
+
+  ὑποκριταί,**καλῶς**,ἐπροφήτευσεν,περὶ,ὑμῶν,Ἠσαΐας
+  hypokritai,**kalōs**,eprophēteusen,peri,hymōn,Ēsaias
+  hypocrits,**rightly**, he prophesied,about,you all,Elijah
+
+*You hypocrites!* **Well** *did Isaiah prophesy about you*
+
+
 
 Luke 2:13
 καὶ ἐξαίφνης ἐγένετο σὺν τῷ ἀγγέλῳ πλῆθος στρατιᾶς [h]οὐρανίου
