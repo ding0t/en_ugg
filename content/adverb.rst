@@ -206,36 +206,11 @@ Example AD-11 Luke 2:13
 
 *And* **suddenly** *a multitude of the heavenly army was with the angel*
 
-  
-.. _adverb-comparative:
-.. include:: en_uhg/content/includes/adverb-comparative.rst
+5) Sentential Adverbs
+~~~~~
 
-#1
-
-#2
-
-#3
-
-.. _adverb-superlative:
-.. include:: en_uhg/content/includes/adverb-superlative.rst
-
-#1
-
-#2
-
-#3
-
-.. _adverb-adjectival:
-.. include:: en_uhg/content/includes/adverb-adjectival.rst
-
-#1
-
-#2
-
-#3
-
-.. _adverb-sentential:
-.. include:: en_uhg/content/includes/adverb-sentential.rst
+A ``sentential adverb`` describes an entire clause or sentence rather than an individual verb.
+Sentential adverbs are closely related to :ref:`conjunctions<conjunction>`.
 
 Matthew 7:5
 καὶ τότε διαβλέψεις ἐκβαλεῖν τὸ κάρφος ἐκ τοῦ ὀφθαλμοῦ τοῦ ἀδελφοῦ σου
