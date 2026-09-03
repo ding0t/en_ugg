@@ -61,7 +61,7 @@ How ever there are many ways of forming an adverb:
         δίς - twice, τρίς - three times
 
       
-Adverbs describes a verb, adjective, or other adverb
+Adverbs describe a verb, adjective, or other adverb
 --------------------------------------------
 There are several different ways that an adverb can describe a verb. 
 
@@ -118,7 +118,7 @@ Example AD-4 Temporal adverb
   ean,mē,labē,hekatontaplasiona,**nyn**,en,tō,kairō,toutō
   if,not,he will receive,a hundred times as much,**now**,in,the,time,this
 
-*he will not receive a hundred times as much* **now** *in this time*
+*[who] will not receive a hundred times as much* **now** *in this time*
 
 Example AD-5 Temporal adverb 
 ^^^^^^
@@ -158,7 +158,7 @@ Example AD-7 Quantative Adverb
 
 *And having seen the star, they rejoiced with* **very** *great joy.*
 
-[NOTE:]   In this example, "μεγάλην" (great) is an adjective describing  χαρὰν (joy).  σφόδρα (exceedingly) is a quantative adverb modifying μεγάλην.  It describes and exceedingly great joy. 
+[NOTE:]   In this example, "μεγάλην" (great) is an adjective describing  χαρὰν (joy).  σφόδρα (exceedingly) is a quantative adverb modifying μεγάλην.  It describes an exceedingly great joy. 
 
 Example AD-8 Quantative Adverb
 ^^^^^
