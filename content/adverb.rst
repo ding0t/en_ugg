@@ -24,7 +24,7 @@ Article
 In Koiné Greek, adverbs can be formed from any number of different kinds of words and word endings.
 However, they do not decline like nouns or adjectives. Any one particular adverb usually has only one single form.
 
-The most common way to form an adverb is to take an genitive plural adjective in the positive degree and replace the nu ending "ν" with a sigma "ς."
+  The most common way to form an adverb is to take an genitive plural adjective in the positive degree and replace the nu ending **"ν"** with a sigma **"ς"**.
   For example:   καλὸς (good or beautiful) -> καλῶν (genitive plural) -> καλῶς (well).
 
 How ever there are many ways of forming an adverb:
