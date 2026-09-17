@@ -2,7 +2,7 @@
 
 .. _adverb_correlative:
 
-Adverb correlative
+Correlative Adverb
 ==================
 
 
