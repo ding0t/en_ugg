@@ -20,7 +20,7 @@ Article
   **eite**,grēgorōmen,**eite**,katheudōmen,hama,syn,autō,zēsōmen
   **whether**,we are awake,**or**,we are asleep,together,with,him,we will live
   
-**whether**  *we are awake* **or**  *asleep, we may live together with him."*
+**whether**  *we are awake* **or**  *asleep, we live together with him."*
 
 .. csv-table:: Matthew 9:37
 
