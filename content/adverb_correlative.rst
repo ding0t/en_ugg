@@ -20,7 +20,7 @@ Article
   **eite**,grēgorōmen,**eite**,katheudōmen,hama,syn,autō,zēsōmen
   **whether**,we are awake,**or**,we are asleep,together,with,him,we will live
   
-**whether**  *we are awake* **or**  *asleep, we live together with him."*
+**whether**  *we are awake* **or**  *asleep, we live together with him.*
 
 .. csv-table:: Matthew 9:37
 
@@ -28,7 +28,7 @@ Article
   tote,legei,tois,mathētais,autou,ho,**men**,therismos,,polys,hoi,**de**,ergatai,,oligoi?
   then,he says,to,disciples,his,the,,harvest,(is),much,the,**but**,workers,(are),few
 
-*Then he says to his disciples, “The harvest is plentiful*, **but** *the laborers are few.*
+*Then he says to his disciples, “The harvest is plentiful*, **but** *the laborers are few."*
 
 .. Note::  The adverbial particle **μεν** is not translated.
 
