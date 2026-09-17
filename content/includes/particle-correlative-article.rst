@@ -5,4 +5,4 @@ For example, consider the sentence, "You may choose either this book or that boo
 The words "either" and "or" are correlative particles.
 The word "either" is a correlative adverb.
 The word "or" is a correlative conjunction.
-The two correlative particles work together and as a result join together the two phrases "this book" and "that book."
+The two correlative particles work together and join together the two phrases "this book" and "that book."
