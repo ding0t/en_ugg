@@ -98,4 +98,5 @@ Here is an example.
 **If you are the son of God**, *order that these stones become bread.*
 
 Note:  In this sentence the phrase “if you are the son of god” has been moved to the first position in the sentence.   The movement of the
-phrase to the front of the sentence places a slight emphasis or stress on the whole clause (If you **the son** are") and in particular "the son".
+phrase to the front of the sentence places a slight emphasis or stress on the whole clause (If you **the son** are") and
+in particular "the son" which has been moved to the front of the clause.
