@@ -53,7 +53,7 @@ See `Second Declension <https://ugg.readthedocs.io/en/latest/paradigms.html#n-4-
 Third declension nouns have stems that end in a consonant or the vowels (ι, υ, ευ).  They are made up of all three genders. 
 See `Third Declension <https://ugg.readthedocs.io/en/latest/paradigms.html#third-declension>`_ .
 
-Adjectives and pronouns agree in case and number with the noun they are modifying (or to which they are referring). Sometimes, 
+Adjectives and pronouns agree in case and number with the nouns they are modifying (or to which they are referring). Sometimes, 
 the changes may be more significant.  [for example the first person singular pronoun  **ἐγώ** in the nominative case changes to **μου** 
 when it is in the genitive case]   See `Adjective_paradigm <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_  or  
 `Pronoun_paradigm <https://ugg.readthedocs.io/en/latest/paradigms.html#pronouns>`_ .
