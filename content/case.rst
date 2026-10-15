@@ -17,7 +17,7 @@ the addition of a suffix to the root word will change it’s function within the
 Koiné Greek uses various kinds of word endings. 
 
   These word endings (or suffixes) are referred to as “case endings” and
-  instead of being called “suffix endings” they are called “case endings.”  
+  instead of being called “suffix endings” they are called “**case endings**.”  
   
   As a result, there is much flexibility with regard to word order in a sentence.
   It does not matter if the subject of the sentence comes first, of if the verb comes first,
