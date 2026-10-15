@@ -82,9 +82,11 @@ when it is in the genitive case]   See `Adjective_paradigm <https://ugg.readthed
 Order of Words
 ~~~~~~~~~~~~~~
 
-Because the Greek language has a case system, the sentence word orders can be changed to place an emphasize particular words
+Because the Greek language has a case system, the sentence word order can be changed to place an emphasize particular words
 or clauses.   The normal word order is **conjunction – verb – subject – object**.   When this order is changed a slight
 emphasis is likely being made on the words that are moved forward.  
+
+Here is an example.
 
 .. csv-table::  Example: Satan tempting Jesus
 
