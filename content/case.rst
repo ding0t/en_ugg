@@ -36,7 +36,7 @@ There are five different case endings in Koiné Greek: nominative, genitive, dat
 Generally, the :ref:`Nominative<case_nominative>` case indicates the subject of a sentence and other words that describe the subject, such as a predicate nominative or predicate adjective.
 It is also used for adjectives and participles modifying the subject of the sentence.
 
-Generally, the `Genitive <https://ugg.readthedocs.io/en/latest/case_genitive.html>` case indicates possession.
+Generally, the `Genitive <https://ugg.readthedocs.io/en/latest/case_genitive.html>`_ case indicates possession.
   However, the genitive can also be used to indicate many other kinds of relationships such as:
           a marital relationship,
           or a relationship to a certain place or time, or
