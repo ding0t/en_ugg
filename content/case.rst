@@ -42,8 +42,8 @@ Generally, the `Genitive <https://ugg.readthedocs.io/en/latest/case_genitive.htm
   However, the genitive can also be used to indicate many other kinds of relationships such as:
     
     *  a marital relationship,
-    *  or a relationship to a certain place or time, or
-    *  of separation between two entities in a sentence, etc.
+    *  a relationship to a certain place or time, or
+    *  separation between two entities, etc.
 
 Some prepositions take their complement in the genitive case.
 
