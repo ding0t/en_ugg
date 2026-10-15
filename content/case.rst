@@ -16,14 +16,14 @@ Koine Greek is an inflected language.  In practical terms this means that in Gre
 the addition of a suffix to the root word will change it’s function within the sentence.
 Koiné Greek uses various kinds of word endings. 
 
-  These word endings (or suffixes) are referred to as “the case ending or case endings” and
+  These word endings (or suffixes) are referred to as “case endings” and
   instead of being called “suffix endings” they are called “case endings.”  
   
   As a result, there is much flexibility with regard to word order in a sentence.
   It does not matter if the subject of the sentence comes first, of if the verb comes first,
   or if the object of the sentence comes first because the case of the word will determine
   its function within the sentence.  Yet there are some general patterns that are generally true.
-  Those patterns will be introduced below in the section “Order of Words.”
+  Those patterns will be introduced below in the section :ref:`Order of Words <order-of-words>`.”
 
 
 The term "case" in Koiné refers to one of these varieties of word endings.
