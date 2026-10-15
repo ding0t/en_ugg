@@ -26,7 +26,7 @@ Koiné Greek uses various kinds of word endings.
   Those patterns will be introduced below in the section `Order of Words <https://ugg.readthedocs.io/en/latest/case.html#id2>`_.
 
 
-The term "case" in Koiné Greek refers to the function indicated by the case ending.
+The term "**Case**" in Koiné Greek refers to the function indicated by the case ending.
 
 Nouns, adjectives, pronouns, participles, and definite articles all require case endings.
 Verbs and adverbs do not require a case ending.
