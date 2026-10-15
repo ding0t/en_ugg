@@ -23,7 +23,7 @@ Koiné Greek uses various kinds of word endings.
   It does not matter if the subject of the sentence comes first, of if the verb comes first,
   or if the object of the sentence comes first because the case of the word will determine
   its function within the sentence.  Yet there are some general patterns that are generally true.
-  Those patterns will be introduced below in the section `Order of Words <https://ugg.readthedocs.io/en/latest/case.html#order-of-words>`_.
+  Those patterns will be introduced below in the section `Order of Words <https://ugg.readthedocs.io/en/latest/case.html#id2>`_.
 
 
 The term "case" in Koiné Greek refers to the function indicated by the case ending.
