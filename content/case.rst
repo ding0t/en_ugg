@@ -11,7 +11,21 @@ In Koiné Greek, the ``case`` ending of a word indicates how that term functions
 
 Article
 -------
+
+Koine Greek is an inflected language.  In practical terms this means that in Greek,
+the addition of a suffix to the root word will change it’s function within the sentence.
 Koiné Greek uses various kinds of word endings. 
+
+  These word endings (or suffixes) are referred to as “the case ending or case endings” and
+  instead of being called “suffix endings” they are called “case endings.”  
+  
+  As a result, there is much flexibility with regard to word order in a sentence.
+  It does not matter if the subject of the sentence comes first, of if the verb comes first,
+  or if the object of the sentence comes first because the case of the word will determine
+  its function within the sentence.  Yet there are some general patterns that are generally true.
+  Those patterns will be introduced below in the section “Order of Words.”
+
+
 The term "case" in Koiné refers to one of these varieties of word endings.
 Case endings in Koiné Greek indicate the function of a word in a sentence.
 Nouns, adjectives, pronouns, participles, and definite articles all require case endings.
@@ -23,7 +37,10 @@ Generally, the :ref:`Nominative<case_nominative>` case indicates the subject of 
 It is also used for adjectives and participles modifying the subject of the sentence.
 
 Generally, the :ref:`Genitive<case_genitive>` case indicates possession.
-However, the genitive can also be used to indicate many other kinds of relationships between two entities in a sentence. separation or relation.  In limited situations, it can also
+  However, the genitive can also be used to indicate many other kinds of relationships such as:
+          a marital relationship,
+          or a relationship to a certain place or time, or
+          of separation between two entities in a sentence, etc.
 Some prepositions take their complement in the genitive case.
 
 Generally, the :ref:`Dative<case_dative>` case indicates the indirect object of a verb.
@@ -31,7 +48,7 @@ However, the dative case is also commonly used to express location, means, or ag
 Some prepositions take their object in the dative case.
 
 Generally, the :ref:`Accusative<case_accusative>` case indicates the Direct Object of a verb.  
-However, the accusative case is also commonly used to express the object of an infinitive.
+However, the accusative case is also commonly used to express the object of an `Infinitive <https://ugg.readthedocs.io/en/latest/mood_infinitive.html>`_ 
 Some prepositions take their object in the accusative case.
 
 The :ref:`Vocative<case_vocative>` case indicates the addressee of a speech, that is, the person being spoken to.
