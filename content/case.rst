@@ -14,7 +14,7 @@ Article
 Koiné Greek uses various kinds of word endings. 
 The term "case" in Koiné refers to one of these varieties of word endings.
 Case endings in Koiné Greek indicate the function of a word in a sentence.
-Nouns, adjectives, pronouns, participles, and definite articles all require a case ending.
+Nouns, adjectives, pronouns, participles, and definite articles all require case endings.
 Verbs and adverbs do not require a case ending.
 
 There are five different case endings in Koiné Greek: nominative, genitive, dative, accusative, and vocative.
