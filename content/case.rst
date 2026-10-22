@@ -99,4 +99,4 @@ Here is an example.
 
 Note:  In this sentence the phrase “if you are the son of god” has been moved to the first position in the sentence.   The movement of the
 phrase to the front of the sentence places a slight emphasis or stress on the whole clause (If you **the son** are") and
-in particular an emphasis is being placed on **son** which has been moved to the front of the clause.
+in particular an emphasis is being placed on **"the son"** which has been moved to the front of the clause.
