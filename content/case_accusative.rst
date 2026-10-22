@@ -168,7 +168,7 @@ in his (or her) translation in order to make a smoother translation.
 
 *he will teach* **you everything**  
 
-[This could be translated with the implied preposition; “ He will teach **to you** everything.”  
+[This could be translated with the implied preposition; “He will teach **to you** everything.”  
 
 
 Another example of a double accusative is the accusative that is used with an oath.
