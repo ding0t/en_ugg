@@ -194,11 +194,11 @@ Certain prepositions take their object in the accusative case, such as **είς*
 by a word in a particular case. 
 
 Often the meaning of the preposition is specific first to the preposition itself
-and then to the case of the noun it is used with. Therefore, the basic meaning of 
-the case cannot be trusted to arrive at a proper understanding of the meaning of the preposistion and a 
-lexicon must be consulted.  In some cases the meaning of the preposition will conform 
+and then to the case of the noun it is used with. Therefore, to grasp the meaning of
+the proposition one can not rely on the normal  meaning associated with a particular case and 
+a lexicon must be consulted.  In some cases the meaning of the preposition will conform 
 to the basic meaning of the case such as ἀπό with the Genitive case (from, out from) 
-but in other cases such as when ὑπό is used with the accusative case it has the basic 
+but in other situations such as when ὑπό is used with the accusative case it has the basic 
 meaning of “below” or “under” and when used with the genitive case AND AN ACTIVE VERB
 ὑπό has the basic meaning of “with” or “by” .  
 
