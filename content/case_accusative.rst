@@ -204,7 +204,7 @@ meaning of “below” or “under” and when used with the genitive case AND A
 
 Therefore, a lexicon must be consulted to arrive at the meaning of the preposition.  [See - :ref:`Preposition<preposition>` _.]
 
-Subject of Infinitives
+"Object-Subject" of Infinitives
 ######################
 
 Properly speaking infinitives do not have a subject, but rather an object.  However the object of the infintive 
