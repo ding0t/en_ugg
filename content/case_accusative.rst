@@ -207,20 +207,21 @@ Therefore, a lexicon must be consulted to arrive at the meaning of the prepositi
 Subject of Infinitives
 ######################
 
-The subject of an infinitive may also be the subject of the sentence. If this is the case, the subject of the sentence
-(and of the infinitive) will be in the nominative case. If the subject of the infinitive is not the subject of the sentence,
-it will almost always be in the accusative case.   Therefore, the accusative case is considered to be the case for the subject
-of an infinitive.
+Properly speaking infinitives do not have a subject, but rather an object.  However the object of the infintive 
+is often thought of as the "subject" of the infinitive. The object of an infinitive may also be the subject of the sentence. 
+If this is the case, the subject of the sentence (which is also the object of the infinitive) will be in the nominative case.
+If the "Object-subject" of the infinitive is not the subject of the sentence, it will almost always be in the accusative case.
+Therefore, the accusative case is considered to be the case for the Object of an infinitive.
 
-An Infinitive can have both a subject and an object.  If this is the case both the subject and the object of the infinitive
-will be in the accusative case.  In this instance usually word order and context will clarify which word is the subject and
-which is the object of the infinitive.  
+An Infinitive can have both an "Object-subject" and a Direct object.  If this is the case both the "Object-subject" and the direct object of the infinitive
+will be in the accusative case.  In this instance usually word order and context will clarify which word is the "Object-subject" and
+which word is the direct object of the infinitive.  
 
 If there are two words in the accusative case, and context by itself does make clear 
-(1) which word is the subject of the infinitive and (2) which word is the object of the infinitive, 
+(1) which word is the "object-subject" of the infinitive and (2) which word is the direct object of the infinitive, 
 then the reader may use the following rule as a helpful guideline.  
 
-  If one of the two words is a pronoun, proper name, or has the definite article, then it will probably be the subject.
+  If one of the two words is a 1) pronoun, 2) proper noun (or name), or 3) has the definite article, then it will probably be the "object-subject" of the infinitive.
 
 This same basic principle may also be used to help identify the subject from the predicate nominative.  [see `Nominative-Predicate <https://ugg.readthedocs.io/en/latest/case_nominative.html#nominative-predicate>`_ ].  
 
