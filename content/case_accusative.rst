@@ -189,7 +189,7 @@ Note:  In this example, **σε** and **με** are Accusative Direct Objects.
 Object of Certain Prepositions
 ##############################
 
-Certain prepositions take their object in the accusative case such as **είς**, **δία**, **πρός**, and **ὑπό**.
+Certain prepositions take their object in the accusative case, such as **είς**, **δία**, **πρός**, and **ὑπό**.
 **Caution:** Use the lexicon to determine the meaning of a preposition when it is followed 
 by a word in a particular case. 
 
