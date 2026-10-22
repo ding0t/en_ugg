@@ -145,8 +145,8 @@ Double Accusative
 
 Some verbs may require two or more objects to complete their meaning. 
 These verbs will require two or more objects, a person (or persons)
-and/or a thing (or things)in the accusative case to complete their thought.  In this case, the translator may wish to use an implied preposition
-in their translation in order to make a smoother translation.
+and/or a thing (or things) in the accusative case to complete their thought.  In this case, the translator may wish to use an implied preposition
+in his (or her) translation in order to make a smoother translation.
 
 
 .. csv-table::  Matthew 1:21
