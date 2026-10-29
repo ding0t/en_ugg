@@ -129,8 +129,9 @@ The direct object refers to the person(s) or thing(s) upon which the verb is act
   I am sending,the,**messenger**,my
   *I am sending my* **messenger**
 
-.. csv-table::  John 1:29
+.. csv-table::
 
+  John 1:29
   ἴδε,ὁ,Ἀμνὸς,τοῦ,Θεοῦ,ὁ,αἴρων,τὴν,**ἁμαρτίαν**,τοῦ,κόσμου
   ide,ho,Amnos,tou,Theou,ho,airōn,tēn,**hamartian**,tou,kosmou
   Behold,the,Lamb,of,God,who,is taking away,the,**sin**,of the,world
