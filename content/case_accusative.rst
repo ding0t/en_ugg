@@ -120,22 +120,24 @@ The direct object refers to the person(s) or thing(s) upon which the verb is act
   οὕτως,γὰρ,ἠγάπησεν,ὁ,Θεὸς,τὸν,**κόσμον**
   houtōs,gar,ēgapēsen,ho,Theos,ton,**kosmon**
   thus/so,for,he loved,the,God,the,**world**
-  *For God so loved the* **world**
+ 
+*For God so loved the* **world**
 
 .. csv-table:: Matthew 11:10
 
   ἀποστέλλω,τὸν,**ἄγγελόν**,μου
   apostellō,ton,**angelon**,mou
   I am sending,the,**messenger**,my
-  *I am sending my* **messenger**
+  
+*I am sending my* **messenger**
 
-.. csv-table::
+.. csv-table:: John 1:29
 
-  John 1:29
   ἴδε,ὁ,Ἀμνὸς,τοῦ,Θεοῦ,ὁ,αἴρων,τὴν,**ἁμαρτίαν**,τοῦ,κόσμου
   ide,ho,Amnos,tou,Theou,ho,airōn,tēn,**hamartian**,tou,kosmou
   Behold,the,Lamb,of,God,who,is taking away,the,**sin**,of the,world
-  *Look, there is the Lamb of God, who takes away the* **sin** *of the world!*
+  
+*Look, there is the Lamb of God, who takes away the* **sin** *of the world!*
 
 Note:  In this example, *ἁμαρτίαν * is the dirct object of the participle *αἴρων*. 
 
