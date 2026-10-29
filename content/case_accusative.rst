@@ -224,7 +224,7 @@ If there are two words in the accusative case, and context by itself does make c
 (1) which word is the "object-subject" of the infinitive and (2) which word is the direct object of the infinitive, 
 then the reader may use the following rule as a helpful guideline.  
 
-  If one of the two words is a 1) pronoun, or 2) a proper noun (or name), or 3) has the definite article, then it will probably be the "object-subject" of the infinitive.
+  If one of the two words is a 1) pronoun, or 2) a proper noun (suc as a name), or 3) has the definite article, then it will probably be the "object-subject" of the infinitive.
 
 This same basic principle may also be used to help identify the subject from the predicate nominative.  [see `Nominative-Predicate <https://ugg.readthedocs.io/en/latest/case_nominative.html#nominative-predicate>`_ ].  
 
