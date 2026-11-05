@@ -44,3 +44,4 @@ Preposition Chart
 ________________
 
 ../images/Preposition diagram.png
+../images/Preposittion diagram.jpg
