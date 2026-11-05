@@ -45,4 +45,4 @@ ________________
 
 ../images/Preposition diagram.png
 
-../images/Preposittion diagram.jpg
+../images/PrepositionChart.jpg
