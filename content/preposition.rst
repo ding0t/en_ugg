@@ -46,6 +46,6 @@ ________________
 .. image:: /images/Preposition diagram.png
 
 .. image:: images/PrepositionChart.jpg
-
+  :alt: Preposition Chart
   :width: 400px
   :align: center
