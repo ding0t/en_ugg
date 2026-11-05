@@ -43,7 +43,7 @@ Types
 Preposition Chart
 ________________
 
-../images/Preposition diagram.png
+.. image:: /images/Preposition diagram.png
 
 .. image:: images/PrepositionChart.jpg
 
