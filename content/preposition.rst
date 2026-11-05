@@ -39,3 +39,8 @@ Types
 .. include:: en_uhg/content/includes/preposition-causal.rst
 
 .. include:: en_uhg/content/includes/preposition-explanatory.rst
+
+Preposition Chart
+________________
+
+.. image:: Preposition diagram.png
