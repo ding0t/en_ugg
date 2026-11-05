@@ -43,4 +43,4 @@ Types
 Preposition Chart
 ________________
 
-.. image:: Preposition diagram.png
+../images/Preposition diagram.png
