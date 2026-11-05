@@ -45,4 +45,7 @@ ________________
 
 ../images/Preposition diagram.png
 
-../images/PrepositionChart.jpg
+.. image:: images/PrepositionChart.jpg
+
+  :width: 400px
+  :align: center
