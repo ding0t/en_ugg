@@ -44,6 +44,9 @@ Preposition Chart
 ________________
 
 .. image:: /images/Preposition diagram.png
+  :alt: Preposition Chart
+  :width: 400px
+  :align: center
 
 .. image:: images/PrepositionChart.jpg
   :alt: Preposition Chart
